@@ -1,0 +1,696 @@
+[
+    {
+        "text": "April 14, 2021    Cangke Island: True Love Does Exist", 
+        "line": 0, 
+        "range": [
+            1, 
+            53
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    18, 
+                    31
+                ], 
+                "name": "Cangke Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Indonesia, such a huge country with amazing marine diversity. Thousands of archipelagos with treasures inside. Forget about jewels, diamonds, or gold.", 
+        "line": 2, 
+        "range": [
+            55, 
+            204
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    55, 
+                    64
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    78, 
+                    85
+                ], 
+                "name": "country"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    130, 
+                    142
+                ], 
+                "name": "archipelagos"
+            }
+        ]
+    }, 
+    {
+        "text": "The real treasures lay under the sea, full with corals and animals that should be protected for the next generation, for the future.", 
+        "line": 3, 
+        "range": [
+            205, 
+            336
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 4, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Still coming from Spermonde archipelago in west coast of Makassar, in a small island named Cangke Island, here I experienced a very special moment during traveling. What a life.", 
+        "line": 5, 
+        "range": [
+            338, 
+            514
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    358, 
+                    379
+                ], 
+                "name": "Spermonde archipelago"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    383, 
+                    393
+                ], 
+                "name": "west coast"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    397, 
+                    405
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    418, 
+                    424
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    431, 
+                    444
+                ], 
+                "name": "Cangke Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 6, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The Story of Cangke Island", 
+        "line": 7, 
+        "range": [
+            516, 
+            541
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 8, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Forty years ago, Cangke probably was only a small abandoned island. Until a man called Daeng Abu, isolated himself in this island.", 
+        "line": 9, 
+        "range": [
+            543, 
+            672
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    564, 
+                    570
+                ], 
+                "name": "Cangke"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    607, 
+                    613
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 10, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "He suffers leprosy, a contagious disease. He was not accepted in the environment. Miracle does exist, so does true love although it\u2019s hard to believe.", 
+        "line": 11, 
+        "range": [
+            674, 
+            825
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 12, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Maidah, Daeng Abu\u2019s wife always accompany Daeng Abu faithfully no matter what condition his husband faced, Maidah always take care his husband.", 
+        "line": 13, 
+        "range": [
+            827, 
+            971
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 14, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "They still live together until now. Such a miracle how a leper can survive until now in a small island with nothing on it.", 
+        "line": 15, 
+        "range": [
+            973, 
+            1094
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 16, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Daeng Abu built everything from nothing. He planted all the trees, he built the peer, built small huts.", 
+        "line": 17, 
+        "range": [
+            1096, 
+            1198
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1180, 
+                    1184
+                ], 
+                "name": "peer"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 18, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I can\u2019t imagine how they got fresh water and how they eat. Daeng Abu and his wife become inspiration.", 
+        "line": 19, 
+        "range": [
+            1200, 
+            1302
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 20, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "More people coming to meet this humble couple. This noble guy was awarded for protecting environment.", 
+        "line": 21, 
+        "range": [
+            1304, 
+            1404
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 22, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The Corals", 
+        "line": 23, 
+        "range": [
+            1406, 
+            1415
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 24, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cangke Island is a typical small island with white sand beach. I\u2019m a huge fan of underwater, I love snorkeling and free diving.", 
+        "line": 25, 
+        "range": [
+            1417, 
+            1545
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1423, 
+                    1436
+                ], 
+                "name": "Cangke Island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1456, 
+                    1462
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1479, 
+                    1484
+                ], 
+                "name": "beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 26, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The reason I really wanted to go to Cangke was because my free diver fellas told me that Cangke Island is the best so far in Spermonde Archipelago.", 
+        "line": 27, 
+        "range": [
+            1547, 
+            1693
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1588, 
+                    1594
+                ], 
+                "name": "Cangke"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1641, 
+                    1654
+                ], 
+                "name": "Cangke Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 28, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "As soon as I got to the island, I took my goggle and fin, ready to explore. My friends weren\u2019t lie. Best part is on the left side of the peer up to the east.", 
+        "line": 29, 
+        "range": [
+            1695, 
+            1853
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1725, 
+                    1731
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1838, 
+                    1842
+                ], 
+                "name": "peer"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 30, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "On the right side of the peer, huge table corals are everywhere. Not just one, there are plenty of them! Visibility is okay, not too bad.", 
+        "line": 31, 
+        "range": [
+            1855, 
+            1991
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1885, 
+                    1889
+                ], 
+                "name": "peer"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 32, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mostly hard corals but there are soft corals in some part. Current is normal, not very strong although in some point you can feel the cold current meets the warm current.", 
+        "line": 33, 
+        "range": [
+            1993, 
+            2162
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 34, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Range from the water surface to the corals during the high tide is about 2 meters but when it\u2019s low tide, the range is only few inches from the surface. Beware not to harm the corals and sea urchins.", 
+        "line": 35, 
+        "range": [
+            2164, 
+            2364
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 36, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I personally had great experience in Cangke Island. Apart from the amazing snorkeling experience, I saw the most beautiful rainbow ever in my life.", 
+        "line": 37, 
+        "range": [
+            2366, 
+            2512
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2409, 
+                    2422
+                ], 
+                "name": "Cangke Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 38, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was so huge, full rainbow like an arc. It couldn\u2019t fit into my camera display because it\u2019s too huge.", 
+        "line": 39, 
+        "range": [
+            2514, 
+            2620
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 40, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The sunset was truly amazing, not perfect, covered by cloud but the sea was so calm until the reflection made beautiful color, golden color.", 
+        "line": 41, 
+        "range": [
+            2622, 
+            2761
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 42, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The moment when we spent our night on the edge of the peer with full moon and stars above. The moon shone very bright. The wind breeze, calm sea, musics, singing together, flawless. I really enjoyed my life at that time.", 
+        "line": 43, 
+        "range": [
+            2763, 
+            2982
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2822, 
+                    2826
+                ], 
+                "name": "peer"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 44, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Getting to Cangke Island", 
+        "line": 45, 
+        "range": [
+            2984, 
+            3007
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "As what we did normally to the other islands in Spermonde Archipelago, we rent boat starting from Paotere Harbor. Around 2.5 hours to reach Cangke Island.", 
+        "line": 47, 
+        "range": [
+            3009, 
+            3162
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3053, 
+                    3060
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3064, 
+                    3085
+                ], 
+                "name": "Spermonde Archipelago"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3095, 
+                    3099
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3114, 
+                    3128
+                ], 
+                "name": "Paotere Harbor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Boat price is Rp 1,000,000 for round trip, including one night stay in the island. The boat can fit to 30 person. You have to bring your own food to the island. There are huts on the island where you can use for sleep.", 
+        "line": 49, 
+        "range": [
+            3164, 
+            3381
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3172, 
+                    3176
+                ], 
+                "name": "Boat"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3247, 
+                    3253
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3259, 
+                    3263
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3325, 
+                    3331
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3343, 
+                    3347
+                ], 
+                "name": "huts"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3355, 
+                    3361
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I know it\u2019s difficult to collect many people to share the cost. Couchsurfing can be helpful or contact Cakra (085342226061) normally he goes to island every weekend and also he can bargain the boat cheaper.", 
+        "line": 51, 
+        "range": [
+            3383, 
+            3590
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3536, 
+                    3542
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3585, 
+                    3589
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I paid Rp 70,000 for one night camp with 20 people in total =)", 
+        "line": 53, 
+        "range": [
+            3592, 
+            3653
+        ], 
+        "entities": []
+    }
+]

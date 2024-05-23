@@ -1,0 +1,1556 @@
+[
+    {
+        "text": "August 14, 2023    Mount Argopuro: Longest Mountain Track In Java", 
+        "line": 0, 
+        "range": [
+            1, 
+            65
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    19, 
+                    33
+                ], 
+                "name": "Mount Argopuro"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    43, 
+                    57
+                ], 
+                "name": "Mountain Track"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    61, 
+                    65
+                ], 
+                "name": "Java"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How is it like to hike the longest mountain track in Java \u2013 Mount Argopuro? Check out my experience here!", 
+        "line": 2, 
+        "range": [
+            67, 
+            173
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    102, 
+                    116
+                ], 
+                "name": "mountain track"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    120, 
+                    124
+                ], 
+                "name": "Java"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    127, 
+                    141
+                ], 
+                "name": "Mount Argopuro"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mount Argapura often called as Argopuro is a no longer active volcano in East Java, precisely administrated in Probolinggo Regency.", 
+        "line": 4, 
+        "range": [
+            175, 
+            305
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    205, 
+                    213
+                ], 
+                "name": "Argopuro"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    236, 
+                    243
+                ], 
+                "name": "volcano"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    247, 
+                    256
+                ], 
+                "name": "East Java"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    285, 
+                    304
+                ], 
+                "name": "Probolinggo Regency"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This volcano is less popular compared to its neighborhood volcanoes, Mount Semeru and Raung, but it can\u2019t be underestimated.", 
+        "line": 6, 
+        "range": [
+            307, 
+            432
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    312, 
+                    319
+                ], 
+                "name": "volcano"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    365, 
+                    374
+                ], 
+                "name": "volcanoes"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    376, 
+                    388
+                ], 
+                "name": "Mount Semeru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    393, 
+                    398
+                ], 
+                "name": "Raung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Besides,  Mount Argopuro holds the predicate as the mountain with longest track in Java, almost 40kms in total. The profound beauty lies within the enticing view of the landlocked savannas, tucked away in the valley of Mount Argopuro.", 
+        "line": 8, 
+        "range": [
+            434, 
+            667
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    443, 
+                    457
+                ], 
+                "name": "Mount Argopuro"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    485, 
+                    493
+                ], 
+                "name": "mountain"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    500, 
+                    512
+                ], 
+                "name": "ongest track"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    516, 
+                    520
+                ], 
+                "name": "Java"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    602, 
+                    621
+                ], 
+                "name": "landlocked savannas"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    642, 
+                    648
+                ], 
+                "name": "valley"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    652, 
+                    666
+                ], 
+                "name": "Mount Argopuro"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yellowish color of tall blady grass, then switch to the dense flowery bushes, that\u2019s the typical track that hikers will find. There are three eulogised peaks with the highest one vaults 3,088 meters above sea level.", 
+        "line": 10, 
+        "range": [
+            669, 
+            885
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    766, 
+                    771
+                ], 
+                "name": "track"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    821, 
+                    826
+                ], 
+                "name": "peaks"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A group of mine, encompassing of five people in total did 4 days hike in total. We started via Bremi and ended up in Baderan.", 
+        "line": 12, 
+        "range": [
+            887, 
+            1011
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    981, 
+                    986
+                ], 
+                "name": "Bremi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1003, 
+                    1010
+                ], 
+                "name": "Baderan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How to get to Mount Argopuro", 
+        "line": 14, 
+        "range": [
+            1013, 
+            1040
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1027, 
+                    1041
+                ], 
+                "name": "Mount Argopuro"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The closest big city from Mt. Argopuro is Probolinggo. It is accessible 24 hours by bus from Surabaya. From Probolinggo, you can choose whether you want to start from Bremi or Baderan.", 
+        "line": 16, 
+        "range": [
+            1042, 
+            1225
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1059, 
+                    1063
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1069, 
+                    1081
+                ], 
+                "name": "Mt. Argopuro"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1085, 
+                    1096
+                ], 
+                "name": "Probolinggo"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1127, 
+                    1130
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1136, 
+                    1144
+                ], 
+                "name": "Surabaya"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1151, 
+                    1162
+                ], 
+                "name": "Probolinggo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1210, 
+                    1215
+                ], 
+                "name": "Bremi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1219, 
+                    1226
+                ], 
+                "name": "Baderan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Easiest way, you can rent private car/van from Surabaya but if you wish to do it with public transportation:", 
+        "line": 18, 
+        "range": [
+            1227, 
+            1334
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1263, 
+                    1266
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1267, 
+                    1270
+                ], 
+                "name": "van"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1276, 
+                    1284
+                ], 
+                "name": "Surabaya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Probolinggo-Bremi (Terminal AKAS Lama): From 6 a.m.- 5.30 p.m., (2 hours, Rp 17.000)", 
+        "line": 20, 
+        "range": [
+            1336, 
+            1419
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1339, 
+                    1350
+                ], 
+                "name": "Probolinggo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1351, 
+                    1356
+                ], 
+                "name": "Bremi"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1358, 
+                    1376
+                ], 
+                "name": "Terminal AKAS Lama"
+            }
+        ]
+    }, 
+    {
+        "text": "Probolinggo-Besuki (by bus to Situbondo, 1 hour)-Baderan (angkot, 45 minutes): From 6 a.m. till late. It won\u2019t cost you more than Rp 50.000", 
+        "line": 21, 
+        "range": [
+            1420, 
+            1560
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1424, 
+                    1435
+                ], 
+                "name": "Probolinggo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1436, 
+                    1442
+                ], 
+                "name": "Besuki"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1447, 
+                    1450
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1454, 
+                    1463
+                ], 
+                "name": "Situbondo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1473, 
+                    1480
+                ], 
+                "name": "Baderan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1482, 
+                    1488
+                ], 
+                "name": "angkot"
+            }
+        ]
+    }, 
+    {
+        "text": "Entrance Fee to Mount Argopuro: Rp 20,000/day in weekdays, Rp 30,000/day in weekends (Indonesian), Rp 250,000/day in weekdays, Rp 375,000/day in weekends (Foreigners)", 
+        "line": 22, 
+        "range": [
+            1561, 
+            1726
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1580, 
+                    1594
+                ], 
+                "name": "Mount Argopuro"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Via Bremi or Baderan?", 
+        "line": 24, 
+        "range": [
+            1728, 
+            1748
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1736, 
+                    1741
+                ], 
+                "name": "Bremi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Based from my past experience, I would definitely stick to Bremi, and finish it in Baderan.", 
+        "line": 26, 
+        "range": [
+            1750, 
+            1840
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1814, 
+                    1819
+                ], 
+                "name": "Bremi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Even though it\u2019s steeper, but the ascending takes you only in the first day.", 
+        "line": 28, 
+        "range": [
+            1842, 
+            1919
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rest of the days, it\u2019s just downhill, even though the last part, which is the beginning of Baderan was crazy like hell.", 
+        "line": 30, 
+        "range": [
+            1921, 
+            2041
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2017, 
+                    2024
+                ], 
+                "name": "Baderan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "However if I\u2019m reversing the condition, ascending from Baderan will be more racking cause it is a super long way, like it\u2019s never going to end.", 
+        "line": 32, 
+        "range": [
+            2043, 
+            2189
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2102, 
+                    2109
+                ], 
+                "name": "Baderan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itinerary Hiking Mount Argopuro", 
+        "line": 34, 
+        "range": [
+            2191, 
+            2221
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Overall we spent 4 days for the hike. Here\u2019s our itinerary hiking Mount Argouporo starting from Bremi and finishing in Baderan:", 
+        "line": 36, 
+        "range": [
+            2223, 
+            2351
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2291, 
+                    2306
+                ], 
+                "name": "Mount Argouporo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2321, 
+                    2326
+                ], 
+                "name": "Bremi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2344, 
+                    2351
+                ], 
+                "name": "Baderan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1 (12 p.m. \u2013 3.30 p.m. / 3.5 hours) : Bremi \u2013 Taman Hidup Lake", 
+        "line": 38, 
+        "range": [
+            2353, 
+            2422
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2396, 
+                    2401
+                ], 
+                "name": "Bremi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2404, 
+                    2420
+                ], 
+                "name": "Taman Hidup Lake"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After passing through the villagers\u2019 farms, we broke into the rain forest, with a not so steep ascending track.", 
+        "line": 40, 
+        "range": [
+            2424, 
+            2536
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2459, 
+                    2464
+                ], 
+                "name": "farms"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2484, 
+                    2495
+                ], 
+                "name": "rain forest"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2527, 
+                    2532
+                ], 
+                "name": "track"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There were two track options, a faster cutting path but steep, or an endless boring not so steep turning path like a snake movement until Taman Hidup.", 
+        "line": 42, 
+        "range": [
+            2538, 
+            2687
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2550, 
+                    2555
+                ], 
+                "name": "track"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2640, 
+                    2644
+                ], 
+                "name": "path"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2673, 
+                    2684
+                ], 
+                "name": "Taman Hidup"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gladly, we arrived in the lake just before the sun came down, so we could still capture an intriguing reflection of the lake.", 
+        "line": 44, 
+        "range": [
+            2689, 
+            2813
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2713, 
+                    2717
+                ], 
+                "name": "lake"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2807, 
+                    2811
+                ], 
+                "name": "lake"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2 (9.30 a.m. \u2013 5.30 p.m. / 8 hours) : Taman Hidup Lake \u2013 Junction", 
+        "line": 46, 
+        "range": [
+            2815, 
+            2887
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2856, 
+                    2872
+                ], 
+                "name": "Taman Hidup Lake"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2875, 
+                    2883
+                ], 
+                "name": "Junction"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There\u2019s no water source ahead until the next day, so we loaded up water from the lake, and continued our journey to the junction.", 
+        "line": 48, 
+        "range": [
+            2889, 
+            3019
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2896, 
+                    2908
+                ], 
+                "name": "water source"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2966, 
+                    2970
+                ], 
+                "name": "lake"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3005, 
+                    3013
+                ], 
+                "name": "junction"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The track turns fiendishly at the last 3 hours before the junction. Steep ascending with heavy bags on the back, that\u2019s a hard work.", 
+        "line": 50, 
+        "range": [
+            3021, 
+            3154
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3074, 
+                    3082
+                ], 
+                "name": "junction"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3 (6.40 a.m. \u2013 5.15 p.m. / 10 hours) : Summit attack \u2013 Cikasur", 
+        "line": 52, 
+        "range": [
+            3156, 
+            3225
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3193, 
+                    3199
+                ], 
+                "name": "Summit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3209, 
+                    3216
+                ], 
+                "name": "Cikasur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We spent almost three hours for taking pictures in three peaks, close to each other.", 
+        "line": 54, 
+        "range": [
+            3227, 
+            3310
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3275, 
+                    3280
+                ], 
+                "name": "peaks"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "First was Arca/Hyang Peak, only 15 minutes from the junction. Next Argopuro peak, and last Rengganis Peak.", 
+        "line": 56, 
+        "range": [
+            3312, 
+            3417
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3314, 
+                    3318
+                ], 
+                "name": "Arca"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3319, 
+                    3329
+                ], 
+                "name": "Hyang Peak"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3356, 
+                    3364
+                ], 
+                "name": "junction"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3371, 
+                    3384
+                ], 
+                "name": "Argopuro peak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3395, 
+                    3409
+                ], 
+                "name": "Rengganis Peak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "To be honest the peaks here were not as outstanding as the peaks from other mountains, but I would highlight Rengganis Peak, not actually the peak but the track before the peak was a vestige land of sulfur, full of white rocks.", 
+        "line": 58, 
+        "range": [
+            3419, 
+            3645
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3429, 
+                    3434
+                ], 
+                "name": "peaks"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3471, 
+                    3476
+                ], 
+                "name": "peaks"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3488, 
+                    3497
+                ], 
+                "name": "mountains"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3521, 
+                    3535
+                ], 
+                "name": "Rengganis Peak"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3554, 
+                    3558
+                ], 
+                "name": "peak"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3567, 
+                    3572
+                ], 
+                "name": "track"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3584, 
+                    3588
+                ], 
+                "name": "peak"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3603, 
+                    3607
+                ], 
+                "name": "land"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From the junction it takes around 1 hour to the next water source, Rawa Embik. We rushed to our next camp ground Cikasur. Along the way, the blady grasses were everywhere!", 
+        "line": 60, 
+        "range": [
+            3647, 
+            3817
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3650, 
+                    3658
+                ], 
+                "name": "junction"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3694, 
+                    3707
+                ], 
+                "name": "water source,"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3708, 
+                    3718
+                ], 
+                "name": "Rawa Embik"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3742, 
+                    3761
+                ], 
+                "name": "camp ground Cikasur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 4 (9 a.m. \u2013 7 p.m. / 10 hours) : Cikasur \u2013 Baderan", 
+        "line": 62, 
+        "range": [
+            3819, 
+            3876
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3851, 
+                    3858
+                ], 
+                "name": "Cikasur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3861, 
+                    3868
+                ], 
+                "name": "Baderan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Initially our plan was camped at Pos Mata Air I then continued the rest 4 hours to Baderan on the next day, but we decided to pull it off until the last.", 
+        "line": 64, 
+        "range": [
+            3878, 
+            4030
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3903, 
+                    3917
+                ], 
+                "name": "Pos Mata Air I"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3953, 
+                    3960
+                ], 
+                "name": "Baderan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The track was fine, straight and slope through uncountable savannas.", 
+        "line": 66, 
+        "range": [
+            4032, 
+            4099
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4084, 
+                    4092
+                ], 
+                "name": "savannas"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was just fine until Pos Mata Air 2, where next torturing part happened, a small path with a size of one foot concave in between, worsen by the dust from the soil.", 
+        "line": 68, 
+        "range": [
+            4101, 
+            4265
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4118, 
+                    4132
+                ], 
+                "name": "Pos Mata Air 2"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4178, 
+                    4182
+                ], 
+                "name": "path"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My feet sore really bad from the last 2.5 hours pebbled path, finally we made it to the end, safely.", 
+        "line": 70, 
+        "range": [
+            4267, 
+            4366
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4318, 
+                    4322
+                ], 
+                "name": "path"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "That was our short rough experience of our journey.", 
+        "line": 72, 
+        "range": [
+            4368, 
+            4418
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are plenty water sources in Mt. Argopuro, However, prepare more water between Rawa Embik-Taman Hidup because no water in between and it can take another one night to stay.", 
+        "line": 74, 
+        "range": [
+            4420, 
+            4596
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4434, 
+                    4447
+                ], 
+                "name": "water sources"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4451, 
+                    4463
+                ], 
+                "name": "Mt. Argopuro"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4501, 
+                    4511
+                ], 
+                "name": "Rawa Embik"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4512, 
+                    4523
+                ], 
+                "name": "Taman Hidup"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "To sum it up, this journey was different from my usual hike, and this mountain for sure has a very special landscape, the savannas.", 
+        "line": 76, 
+        "range": [
+            4598, 
+            4728
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4666, 
+                    4674
+                ], 
+                "name": "mountain"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4718, 
+                    4726
+                ], 
+                "name": "savannas"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I felt completely tiny, in the middle of such a huge savannas.", 
+        "line": 78, 
+        "range": [
+            4730, 
+            4791
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4782, 
+                    4790
+                ], 
+                "name": "savannas"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Probably they were about seven savannas that we met, along the way.", 
+        "line": 80, 
+        "range": [
+            4793, 
+            4859
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4824, 
+                    4832
+                ], 
+                "name": "savannas"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cikasur was one of the best camp ground that I\u2019ve been to, I won\u2019t forget, the moment I woke up and the sun was just about to rise up, and the light just created a magic golden color in the savanna.", 
+        "line": 82, 
+        "range": [
+            4861, 
+            5062
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4862, 
+                    4869
+                ], 
+                "name": "Cikasur"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4890, 
+                    4901
+                ], 
+                "name": "camp ground"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5052, 
+                    5059
+                ], 
+                "name": "savanna"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Thanks as well to Vivi, Anton, Irvan, and Andreas, you guys made this trip fantastic!", 
+        "line": 84, 
+        "range": [
+            5064, 
+            5148
+        ], 
+        "entities": []
+    }
+]

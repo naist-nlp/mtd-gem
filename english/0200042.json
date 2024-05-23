@@ -1,0 +1,482 @@
+[
+    {
+        "text": "July 5, 2012    Mount Ciremai: Lost For First The Time", 
+        "line": 0, 
+        "range": [
+            1, 
+            54
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    16, 
+                    29
+                ], 
+                "name": "Mount Ciremai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ciremai (3.078 m), tallest mountain in West Java. Many people said that Ciremai is one of the hardest mountain in Indonesia. I don\u2019t know why but i enjoyed hiking this mountain hehe. Maybe because there is no water spring so we need to bring more water. Actually I enjoyed the track so much, I prefer climbing in the roots rather than walk ascending.", 
+        "line": 2, 
+        "range": [
+            56, 
+            407
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    56, 
+                    63
+                ], 
+                "name": "Ciremai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    83, 
+                    91
+                ], 
+                "name": "mountain"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    95, 
+                    104
+                ], 
+                "name": "West Java"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    128, 
+                    135
+                ], 
+                "name": "Ciremai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    158, 
+                    166
+                ], 
+                "name": "mountain"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    170, 
+                    179
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    224, 
+                    232
+                ], 
+                "name": "mountain"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    265, 
+                    277
+                ], 
+                "name": "water spring"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    333, 
+                    338
+                ], 
+                "name": "track"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "So we started from Cikarang, using car with my friends. But these fellas are to slow, relax (ko acong and friends). They departed from Jakarta, appointment on Friday 8 June 9 p.m., but they fetch us at 12 a.m. Bang Coco, Bang Amin and I waited for 3 hours. That night, it was raining. I felt sad because I dont wanna hike on rainy days, but thanks God, Ciremai was so bright and sunny ! Our journey was not as clear as we thought. Traffic Jam..First because of roadwork, second, truck accident. We arrived basecamp at 10 a.m. Another team had waited in basecamp. 12 p.m. we started to hike. Ko Acong and friends had their luch first so we hiked without them. There were 11 people overall without Ko Acong\u2019s team.", 
+        "line": 4, 
+        "range": [
+            409, 
+            1122
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    427, 
+                    435
+                ], 
+                "name": "Cikarang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    443, 
+                    446
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    543, 
+                    550
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    761, 
+                    768
+                ], 
+                "name": "Ciremai"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    914, 
+                    922
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    961, 
+                    969
+                ], 
+                "name": "basecamp"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We hiked through Linggasana route.There are some posts, Kikuwu, Kondang Amis, Kuburan Kuda, Pangalap, Tanjakan Bingbin, Tanjakan Saruni, Bapa Tere, Batu Lingga, Sanggabuana 1, Sangga buana2, then the peak. I\u2019ve lost my notes about the timeline we had, but around 5 p.m. we had our camp at Pangalap. So the track from the first time is ascending, not really difficult. We passed small path with dense plant or crop. We started to climb in Kondang Amis. We had rest..", 
+        "line": 6, 
+        "range": [
+            1124, 
+            1590
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1139, 
+                    1155
+                ], 
+                "name": "Linggasana route"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1171, 
+                    1176
+                ], 
+                "name": "posts"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1178, 
+                    1184
+                ], 
+                "name": "Kikuwu"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1186, 
+                    1198
+                ], 
+                "name": "Kondang Amis"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1200, 
+                    1212
+                ], 
+                "name": "Kuburan Kuda"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1214, 
+                    1222
+                ], 
+                "name": "Pangalap"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1224, 
+                    1240
+                ], 
+                "name": "Tanjakan Bingbin"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1242, 
+                    1257
+                ], 
+                "name": "Tanjakan Saruni"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1259, 
+                    1268
+                ], 
+                "name": "Bapa Tere"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1270, 
+                    1281
+                ], 
+                "name": "Batu Lingga"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1283, 
+                    1296
+                ], 
+                "name": "Sanggabuana 1"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1298, 
+                    1311
+                ], 
+                "name": "Sangga buana2"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1322, 
+                    1326
+                ], 
+                "name": "peak"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1411, 
+                    1419
+                ], 
+                "name": "Pangalap"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1428, 
+                    1433
+                ], 
+                "name": "track"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1500, 
+                    1510
+                ], 
+                "name": "small path"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1560, 
+                    1572
+                ], 
+                "name": "Kondang Amis"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wake uppp !!!!! 1 a.m., left all of our utilities, then continue our walk. Brought some food and water..We started climbing..It\u2019s quite tiring, but I love it ! Hehe\u2026All the climbs, Bingbin, Saruni, Bapa Tere. I was thinking, ok I can, and I like climbing, but how will I go down later? And yahh..I had hard time to go down. Climbing, I\u2019m the first in the front, but went down, I was the last. I had problems with this kind of track to go down. 5 a.m. The sun was showing up, but we hadnt reach summit yet. We hadnt reach Pengasinan too, but luckily we got great spot to watch sunrise", 
+        "line": 8, 
+        "range": [
+            1592, 
+            2180
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1770, 
+                    1777
+                ], 
+                "name": "Bingbin"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1779, 
+                    1785
+                ], 
+                "name": "Saruni"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1787, 
+                    1796
+                ], 
+                "name": "Bapa Tere"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2015, 
+                    2020
+                ], 
+                "name": "track"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2083, 
+                    2089
+                ], 
+                "name": "summit"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2110, 
+                    2120
+                ], 
+                "name": "Pengasinan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2151, 
+                    2155
+                ], 
+                "name": "spot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Narcissistic is important ! Bang Coco\u2019s quote 90% taking picture, 10% enjoy climbing hahhaa\u2026We went down, and went back to basecamp. It was dark, around 7 p.m. and yes ! we almost lost for 2 times, and finally real lost on the third time hahaa\u2026So we took wrong path, ended up in another village. Luckily Bang Coco\u2019s phone was on, got signal, then he tried to contact basecamp, and finally they came to fetch us. And also thanks to Ko Acong for worrying me until he didnt go back to Jakarta with his friends. ", 
+        "line": 10, 
+        "range": [
+            2182, 
+            2697
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2297, 
+                    2305
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2435, 
+                    2439
+                ], 
+                "name": "path"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2461, 
+                    2468
+                ], 
+                "name": "village"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2541, 
+                    2549
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2656, 
+                    2663
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Thanks God for creating this amazing nature ! Thanks we had a safe journey..=)", 
+        "line": 12, 
+        "range": [
+            2699, 
+            2776
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hiked on 9-10 June 2012", 
+        "line": 14, 
+        "range": [
+            2778, 
+            2800
+        ], 
+        "entities": []
+    }
+]

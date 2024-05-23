@@ -1,0 +1,2086 @@
+[
+    {
+        "text": "May 6, 2020    Belitung Island: An Enchanted Calm Island", 
+        "line": 0, 
+        "range": [
+            1, 
+            56
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    15, 
+                    30
+                ], 
+                "name": "Belitung Island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    50, 
+                    56
+                ], 
+                "name": "Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Have you ever heard about Belitung Island? Belitung Island is one of many beautiful islands in Indonesia. Belitung Island is very popular since an Indonesian movie, \u201cLaskar Pelangi\u201d, took set on a white sandy beach with stones in this island. Since then, there were increasing number of tourists to the island. Here are some things to do in Belitung Island.", 
+        "line": 2, 
+        "range": [
+            58, 
+            418
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    84, 
+                    99
+                ], 
+                "name": "Belitung Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    101, 
+                    116
+                ], 
+                "name": "Belitung Island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    142, 
+                    149
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    153, 
+                    162
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    164, 
+                    179
+                ], 
+                "name": "Belitung Island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    267, 
+                    272
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    293, 
+                    299
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    361, 
+                    367
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    399, 
+                    414
+                ], 
+                "name": "Belitung Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Getting to Belitung Island", 
+        "line": 4, 
+        "range": [
+            420, 
+            445
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    428, 
+                    443
+                ], 
+                "name": "Belitung Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Belitung Island can be reached by air from Jakarta to Tanjung Pandan using airlines such as Lion Air. The flight is very short, only for an hour. Back then, I had cheap flights from Jakarta to Tanjung Pandan with Batavia Air, only IDR 250,000 for return flights. Normal price will take around IDR 700,000-800,000 for return flights.", 
+        "line": 6, 
+        "range": [
+            447, 
+            778
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    488, 
+                    495
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    499, 
+                    513
+                ], 
+                "name": "Tanjung Pandan"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    537, 
+                    545
+                ], 
+                "name": "Lion Air"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    551, 
+                    557
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    614, 
+                    621
+                ], 
+                "name": "flights"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    627, 
+                    634
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    638, 
+                    652
+                ], 
+                "name": "Tanjung Pandan"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    658, 
+                    669
+                ], 
+                "name": "Batavia Air"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    699, 
+                    706
+                ], 
+                "name": "flights"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    769, 
+                    776
+                ], 
+                "name": "flights"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nowadays, Batavia Air does not operate anymore. My experience didn\u2019t go smooth from the beginning. Even when I wanted to go back to Jakarta, my flight was cancelled.", 
+        "line": 8, 
+        "range": [
+            780, 
+            946
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    789, 
+                    800
+                ], 
+                "name": "Batavia Air"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    911, 
+                    918
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    923, 
+                    929
+                ], 
+                "name": "flight"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I came late to the airport. The schedule was at 9.45 a.m. and I reached Soekarno Hatta International Airport just in time, 9.45 a.m. The plane should have left.", 
+        "line": 10, 
+        "range": [
+            948, 
+            1107
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    965, 
+                    972
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1018, 
+                    1054
+                ], 
+                "name": "Soekarno Hatta International Airport"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1083, 
+                    1088
+                ], 
+                "name": "plane"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Luckily, I still could check-in because the flight was delayed. It takes 45 minutes from Jakarta to Tanjung Pandan. I arrived at H.A.S. Hanandjoeddin Airport. My host Dida from Couchsurfing fetch me from the airport to her home.", 
+        "line": 12, 
+        "range": [
+            1109, 
+            1336
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1152, 
+                    1158
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1197, 
+                    1204
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1208, 
+                    1222
+                ], 
+                "name": "Tanjung Pandan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1237, 
+                    1265
+                ], 
+                "name": "H.A.S. Hanandjoeddin Airport"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1316, 
+                    1323
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1331, 
+                    1335
+                ], 
+                "name": "home"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "First thing we did was having lunch. She took me to one of the popular food in the downtown called Mie Belitung in Atep Restaurant. Definitely, eating Mie Belitung is the first thing to do in Belitung Island for me. The texture of the noodle, and the sweetness mixed savoury taste of the sauce. It\u2019s yummy!", 
+        "line": 14, 
+        "range": [
+            1338, 
+            1645
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1421, 
+                    1429
+                ], 
+                "name": "downtown"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1453, 
+                    1468
+                ], 
+                "name": "Atep Restaurant"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1530, 
+                    1545
+                ], 
+                "name": "Belitung Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After having our lunch, Dida had to leave me because of her work. I rented a motorbike with Dida\u2019s help. The public transportation in Tanjung Pandan is unreliable, so it\u2019s better to rent a car or motorbike. Dida gave me map and explained me about Belitung Island for awhile before leaving me. Here my journey began, alone.", 
+        "line": 16, 
+        "range": [
+            1647, 
+            1972
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1723, 
+                    1732
+                ], 
+                "name": "motorbike"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1755, 
+                    1776
+                ], 
+                "name": "public transportation"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1780, 
+                    1794
+                ], 
+                "name": "Tanjung Pandan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1835, 
+                    1838
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1842, 
+                    1851
+                ], 
+                "name": "motorbike"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1893, 
+                    1908
+                ], 
+                "name": "Belitung Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Things to do in Belitung Island", 
+        "line": 18, 
+        "range": [
+            1974, 
+            2004
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1986, 
+                    2001
+                ], 
+                "name": "Belitung Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Kaolin Lake", 
+        "line": 20, 
+        "range": [
+            2006, 
+            2019
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2006, 
+                    2017
+                ], 
+                "name": "Kaolin Lake"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My first stop was Kaolin Lake. Actually, Kaolin Lake is a mining area for a mineral called Kaolin which is used as  the material for tint, cosmetic, and ceramics.", 
+        "line": 22, 
+        "range": [
+            2021, 
+            2182
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2037, 
+                    2048
+                ], 
+                "name": "Kaolin Lake"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2060, 
+                    2071
+                ], 
+                "name": "Kaolin Lake"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2077, 
+                    2088
+                ], 
+                "name": "mining area"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was astonished by this place. It is an ordinary mining, but it looks like snow around this place because Kaolin has white color. It\u2019s not a real lake. People dig this place and left hole, filled by rain and turned to something like lake. It has beautiful blueish sometimes greenish color.", 
+        "line": 24, 
+        "range": [
+            2184, 
+            2475
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2208, 
+                    2213
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2233, 
+                    2239
+                ], 
+                "name": "mining"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2276, 
+                    2281
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2330, 
+                    2334
+                ], 
+                "name": "lake"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2352, 
+                    2357
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2367, 
+                    2371
+                ], 
+                "name": "hole"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2417, 
+                    2421
+                ], 
+                "name": "lake"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Tanjung Tinggi Beach", 
+        "line": 26, 
+        "range": [
+            2477, 
+            2499
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2478, 
+                    2498
+                ], 
+                "name": "Tanjung Tinggi Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Next, Tanjung Tinggi Beach where the movie, \u201cLaskar Pelangi\u201d took set. It\u2019s pretty far from Tanjung Pandan, about 30 km. I drove pretty fast with my motorbike to reach this place.", 
+        "line": 28, 
+        "range": [
+            2501, 
+            2685
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2506, 
+                    2526
+                ], 
+                "name": "Tanjung Tinggi Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2592, 
+                    2606
+                ], 
+                "name": "Tanjung Pandan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2649, 
+                    2658
+                ], 
+                "name": "motorbike"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2673, 
+                    2678
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The good thing visiting places in weekdays is that not so many people around. Tanjung Tinggi has white sand beach and big granite stones structured magnificently.", 
+        "line": 30, 
+        "range": [
+            2687, 
+            2848
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2705, 
+                    2711
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2759, 
+                    2773
+                ], 
+                "name": "Tanjung Tinggi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2789, 
+                    2794
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2803, 
+                    2817
+                ], 
+                "name": "granite stones"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I tried to climb those big stones. Be careful, It\u2019s high. In some point you can walk into another side of beach within the stones and you find yourself in your own private beach, surrounded by granite stones. Amazing.", 
+        "line": 32, 
+        "range": [
+            2850, 
+            3068
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2872, 
+                    2878
+                ], 
+                "name": "stones"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2951, 
+                    2956
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2968, 
+                    2974
+                ], 
+                "name": "stones"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3017, 
+                    3022
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3038, 
+                    3052
+                ], 
+                "name": "granite stones"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Bukit Perahu", 
+        "line": 34, 
+        "range": [
+            3070, 
+            3084
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My plan for second day was visiting Manggar, eastern part of Belitung Island to see the replica school from the \u201cLaskar Pelangi\u201d movie, Dewi Kwan im Temple, and some beaches. Manggar is around one and a half hour by motorbike.", 
+        "line": 36, 
+        "range": [
+            3086, 
+            3315
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3117, 
+                    3124
+                ], 
+                "name": "Manggar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3142, 
+                    3157
+                ], 
+                "name": "Belitung Island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3169, 
+                    3183
+                ], 
+                "name": "replica school"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3217, 
+                    3236
+                ], 
+                "name": "Dewi Kwan im Temple"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3247, 
+                    3254
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3256, 
+                    3263
+                ], 
+                "name": "Manggar"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3297, 
+                    3306
+                ], 
+                "name": "motorbike"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Too bad it\u2019s raining from morning. I canceled this plan and waited the rain stop. It stopped around 3 p.m, I decided, not to waste my motorbike rent, I went to Bukit Perahu and Tanjung Binga. It\u2019s still the same direction to Tanjung Tinggi.", 
+        "line": 38, 
+        "range": [
+            3317, 
+            3560
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3443, 
+                    3452
+                ], 
+                "name": "motorbike"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3469, 
+                    3481
+                ], 
+                "name": "Bukit Perahu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3486, 
+                    3499
+                ], 
+                "name": "Tanjung Binga"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3534, 
+                    3548
+                ], 
+                "name": "Tanjung Tinggi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bukit Perahu is a resort and restaurant. It\u2019s located in a beautiful place and they have a beautiful calm beach. But I think it\u2019s not managed well so this place seems not appealing. I\u2019m sure if they clean up a lil bit and promote this place well, It will become a great place to stay.", 
+        "line": 40, 
+        "range": [
+            3562, 
+            3851
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3569, 
+                    3575
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3580, 
+                    3590
+                ], 
+                "name": "restaurant"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3620, 
+                    3625
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3657, 
+                    3662
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3706, 
+                    3711
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3786, 
+                    3791
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3821, 
+                    3834
+                ], 
+                "name": "place to stay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Tanjung Binga", 
+        "line": 42, 
+        "range": [
+            3853, 
+            3868
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3855, 
+                    3868
+                ], 
+                "name": "Tanjung Binga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tanjung Binga is the fishery village. An interesting object for photography. I went there and saw men were building the wooden deck and hut maybe for the fish, while the women were preparing food, a kind of black rice soup and shared it to the men. Very nice.", 
+        "line": 44, 
+        "range": [
+            3870, 
+            4128
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3876, 
+                    3891
+                ], 
+                "name": "fishery village"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3975, 
+                    3986
+                ], 
+                "name": "wooden deck"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3991, 
+                    3994
+                ], 
+                "name": "hut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I went back to Tanjung Pendem, a beach near the downtown. There are plenty of hotels around here. I tried pampi noodles, they said it\u2019s the same as kwetiau but for me it looks different. I\u2019m having my favourite all time food as well, Pempek Palembang.", 
+        "line": 46, 
+        "range": [
+            4130, 
+            4384
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4131, 
+                    4145
+                ], 
+                "name": "Tanjung Pendem"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4149, 
+                    4154
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4164, 
+                    4172
+                ], 
+                "name": "downtown"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4194, 
+                    4200
+                ], 
+                "name": "hotels"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4357, 
+                    4366
+                ], 
+                "name": "Palembang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Tanjung Kelayang", 
+        "line": 48, 
+        "range": [
+            4386, 
+            4404
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I did not do anything on the third day, just staying in Dida\u2019s house. I was hoping for sunny weather in the fourth day because it\u2019s time for me to do hopping island, my main destination in Belitung Island.", 
+        "line": 50, 
+        "range": [
+            4406, 
+            4614
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4453, 
+                    4458
+                ], 
+                "name": "house"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4548, 
+                    4554
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4579, 
+                    4594
+                ], 
+                "name": "Belitung Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dida took me to Tanjung Kelayang, not far from Tanjung Tinggi. This is where the boats depart to do island hopping tour around Belitung. The price to rent a small boat for island hopping is IDR 400,000 and the big boat costs IDR 700,000. Price to rent  snorkeling stuffs, IDR 70,000 for complete gear (goggles, fin, and life vest). I joined a group of people. There were 4 of us.", 
+        "line": 52, 
+        "range": [
+            4616, 
+            4994
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4644, 
+                    4658
+                ], 
+                "name": "Tanjung Tinggi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4678, 
+                    4683
+                ], 
+                "name": "boats"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4697, 
+                    4703
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4724, 
+                    4732
+                ], 
+                "name": "Belitung"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4754, 
+                    4764
+                ], 
+                "name": "small boat"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4769, 
+                    4775
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4807, 
+                    4815
+                ], 
+                "name": "big boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "6. Lengkuas Island", 
+        "line": 54, 
+        "range": [
+            4996, 
+            5013
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "First destination is Lengkuas Island. About 30 minutes from Tanjung Kelayang. It was soooo beautiful with the light house in the middle of island. We climbed the stairs to the top of the lighthouse. There were 18 floors for about 300 stairs. It was made by Dutch when they occupied Indonesia long time ago.", 
+        "line": 56, 
+        "range": [
+            5015, 
+            5320
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5019, 
+                    5034
+                ], 
+                "name": "Lengkuas Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5058, 
+                    5074
+                ], 
+                "name": "Tanjung Kelayang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5108, 
+                    5119
+                ], 
+                "name": "light house"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5137, 
+                    5143
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5185, 
+                    5195
+                ], 
+                "name": "lighthouse"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5280, 
+                    5289
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The view from up there was soooo wonderful. The frazzle was paid off. Below there, the magical color of the sea with the corals inside, a group of white color granite stones. One word. AMAZING. Snorkeling around Lengkuas Island is a must. Corals are still beautiful.", 
+        "line": 58, 
+        "range": [
+            5322, 
+            5587
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5465, 
+                    5479
+                ], 
+                "name": "granite stones"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5518, 
+                    5533
+                ], 
+                "name": "Lengkuas Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "7. Kepayang Island", 
+        "line": 60, 
+        "range": [
+            5589, 
+            5606
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5599, 
+                    5606
+                ], 
+                "name": "pitstop"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Next pitstop, Kepayang Island. Before, they called it Pig Island, but they changed it. There\u2019s nice resort in this place named Kepayang Eco Lodge. Quite affordable. I recommend you to stay in this island rather than staying in hotels at the city.", 
+        "line": 62, 
+        "range": [
+            5608, 
+            5855
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5608, 
+                    5623
+                ], 
+                "name": "Kepayang Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5648, 
+                    5658
+                ], 
+                "name": "Pig Island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5694, 
+                    5700
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5709, 
+                    5714
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5721, 
+                    5739
+                ], 
+                "name": "Kepayang Eco Lodge"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5791, 
+                    5797
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5821, 
+                    5827
+                ], 
+                "name": "hotels"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5835, 
+                    5839
+                ], 
+                "name": "city"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you do diving, this place provides diving package for you. The beach is nice. I will come to stay in this place again next time. They give half price for the boat to the guests who stay in this cottage. They will also pick you up from Tanjung Kelayang. (Update 2020: The resort in Kepayang Island is no longer operated) ", 
+        "line": 64, 
+        "range": [
+            5857, 
+            6179
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5865, 
+                    5870
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5908, 
+                    5913
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5951, 
+                    5956
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6003, 
+                    6007
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6039, 
+                    6046
+                ], 
+                "name": "cottage"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6080, 
+                    6096
+                ], 
+                "name": "Tanjung Kelayang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6116, 
+                    6122
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6126, 
+                    6141
+                ], 
+                "name": "Kepayang Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "8. Pulau Pasir", 
+        "line": 66, 
+        "range": [
+            6181, 
+            6194
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6188, 
+                    6194
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Last island, Pulau Pasir or if translated to English literally means Sand Island. It is just a small sandbar in the middle of the sea. This small island can only be accessed when the tide is low. The sand is so soft and it\u2019s just nice to sit in the middle of nowhere.", 
+        "line": 68, 
+        "range": [
+            6196, 
+            6464
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6196, 
+                    6207
+                ], 
+                "name": "Pulau Pasir"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6284, 
+                    6291
+                ], 
+                "name": "sandbar"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6329, 
+                    6335
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "So, I had problem for my return flight to Jakarta. The airline company suffered bankruptcy. All the operations were stopped since 31 December. Means I couldn\u2019t go back to Jakarta again with Batavia.", 
+        "line": 70, 
+        "range": [
+            6466, 
+            6665
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6484, 
+                    6490
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6494, 
+                    6501
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6623, 
+                    6630
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    6642, 
+                    6649
+                ], 
+                "name": "Batavia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was planning to go back by Pelni Boat (12 hours, only IDR 160,000 to Jakarta). But my parents told me to take plane, so my mom bought me Sriwijaya Air for IDR 410,000, haha. Planning to do low budget traveling but failed. huh.", 
+        "line": 72, 
+        "range": [
+            6667, 
+            6894
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    6681, 
+                    6691
+                ], 
+                "name": "Pelni Boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6723, 
+                    6730
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6764, 
+                    6769
+                ], 
+                "name": "plane"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    6791, 
+                    6804
+                ], 
+                "name": "Sriwijaya Air"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Total expenses in Belitung Island:", 
+        "line": 74, 
+        "range": [
+            6896, 
+            6929
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6900, 
+                    6915
+                ], 
+                "name": "Belitung Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rent Motorbike: IDR 60,000 for 24 hours", 
+        "line": 76, 
+        "range": [
+            6931, 
+            6969
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Gasoline: IDR 22,000", 
+        "line": 77, 
+        "range": [
+            6970, 
+            6989
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Entrance fee Bukit Perahu: IDR 2,000", 
+        "line": 78, 
+        "range": [
+            6990, 
+            7025
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6992, 
+                    7004
+                ], 
+                "name": "Bukit Perahu"
+            }
+        ]
+    }, 
+    {
+        "text": "Entrance fee for Tanjung Pendem: IDR 2,000", 
+        "line": 79, 
+        "range": [
+            7026, 
+            7067
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7033, 
+                    7047
+                ], 
+                "name": "Tanjung Pendem"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7064, 
+                    7068
+                ], 
+                "name": "Boat"
+            }
+        ]
+    }, 
+    {
+        "text": "Rent Boat, divided by 4: IDR 100,000 (more people, cheaper)", 
+        "line": 80, 
+        "range": [
+            7068, 
+            7126
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Go up to the light house in Lengkuas: IDR 5,000", 
+        "line": 81, 
+        "range": [
+            7127, 
+            7173
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7132, 
+                    7143
+                ], 
+                "name": "light house"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7147, 
+                    7155
+                ], 
+                "name": "Lengkuas"
+            }
+        ]
+    }, 
+    {
+        "text": "Food for 5 days: IDR 100,000", 
+        "line": 82, 
+        "range": [
+            7174, 
+            7201
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "airport tax in Belitung: IDR 11,000", 
+        "line": 83, 
+        "range": [
+            7202, 
+            7236
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7211, 
+                    7219
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Total expenses IDR 266,000 for four days not including flight. Yes, I traveled pretty cheap.", 
+        "line": 85, 
+        "range": [
+            7238, 
+            7329
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7288, 
+                    7294
+                ], 
+                "name": "flight"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Travel tips", 
+        "line": 87, 
+        "range": [
+            7331, 
+            7341
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 88, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Renting car or motorbike is the best solution remembering there\u2019s no public transportation in Belitung Island. Unless you have someone fetching you. Not so expensive IDR 450,000 \u2013 600,000 for renting a car with the driver for 24 hours, gasoline excluded.", 
+        "line": 89, 
+        "range": [
+            7343, 
+            7600
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7348, 
+                    7351
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7355, 
+                    7364
+                ], 
+                "name": "motorbike"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7409, 
+                    7430
+                ], 
+                "name": "public transportation"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7434, 
+                    7449
+                ], 
+                "name": "Belitung Island"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7542, 
+                    7545
+                ], 
+                "name": "car"
+            }
+        ]
+    }, 
+    {
+        "text": "You can book island hopping tour online on this website.", 
+        "line": 90, 
+        "range": [
+            7601, 
+            7656
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7608, 
+                    7614
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "There\u2019s traditional house in the city and also museum.", 
+        "line": 91, 
+        "range": [
+            7657, 
+            7712
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7660, 
+                    7677
+                ], 
+                "name": "traditional house"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7685, 
+                    7689
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7699, 
+                    7705
+                ], 
+                "name": "museum"
+            }
+        ]
+    }, 
+    {
+        "text": "There\u2019s new tourist attraction called Batu Mentas where you can do jungle trekking, tarsius (mini bat) watching, outbond, tubing.", 
+        "line": 92, 
+        "range": [
+            7713, 
+            7843
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7719, 
+                    7737
+                ], 
+                "name": "tourist attraction"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7745, 
+                    7756
+                ], 
+                "name": "Batu Mentas"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Enjoy Belitung Island  and thanks Mbak Dida for hosting me =)", 
+        "line": 94, 
+        "range": [
+            7845, 
+            7905
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 29 January \u2013 2 February 2013", 
+        "line": 96, 
+        "range": [
+            7907, 
+            7948
+        ], 
+        "entities": []
+    }
+]

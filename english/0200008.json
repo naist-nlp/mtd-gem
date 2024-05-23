@@ -1,0 +1,560 @@
+[
+    {
+        "text": "February 20, 2020    Strolling Around Grand Palace, Bangkok", 
+        "line": 0, 
+        "range": [
+            1, 
+            59
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    38, 
+                    50
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    52, 
+                    59
+                ], 
+                "name": "Bangkok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "One thing that comes to traveler\u2019s and tourist\u2019s bucket list to tick in Bangkok with no doubt is Grand Palace. Yes, it is a mainstream site to visit, which is why in my previous Thailand trip in 2013, I had no interest to see Grand Palace because it\u2019s expensive and touristy, I was a poor backpacker back then.", 
+        "line": 2, 
+        "range": [
+            61, 
+            376
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    133, 
+                    140
+                ], 
+                "name": "Bangkok"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    158, 
+                    170
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    196, 
+                    200
+                ], 
+                "name": "site"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    239, 
+                    247
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    287, 
+                    299
+                ], 
+                "name": "Grand Palace"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "As the time goes by, I realized that a place became mainstream and touristy because that place had something special. I realized, during my trip to Bali and Bromo. For years I underestimated them, like it\u2019s too crowded, everybody goes to Bali, too mainstream. But the moment I joined these crowd and stepped my feet to this mainstream places, I was totally blown away, that\u2019s when my eyes were opened, and so far I never regret visiting touristy places.", 
+        "line": 4, 
+        "range": [
+            378, 
+            834
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    412, 
+                    417
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    462, 
+                    467
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    521, 
+                    525
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    530, 
+                    535
+                ], 
+                "name": "Bromo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    611, 
+                    615
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    708, 
+                    714
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    819, 
+                    825
+                ], 
+                "name": "places"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nestled in the heart of Bangkok City, Grand Palace has become a sacred place, home for the king and his entire administrative seat of government for 150 years. With an extensive area of 218,400 meter square, it housed the center of the kingdom and government. The complex is surrounded by white walls, now it\u2019s time for me to discover what\u2019s behind that wall. Grand Palace is one of the things to do in Bangkok that you shouldn\u2019t skip.", 
+        "line": 6, 
+        "range": [
+            836, 
+            1276
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    852, 
+                    864
+                ], 
+                "name": "Bangkok City"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    866, 
+                    878
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    892, 
+                    904
+                ], 
+                "name": "sacred place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    906, 
+                    910
+                ], 
+                "name": "home"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1006, 
+                    1010
+                ], 
+                "name": "area"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1092, 
+                    1099
+                ], 
+                "name": "complex"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1188, 
+                    1200
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1231, 
+                    1238
+                ], 
+                "name": "Bangkok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The first area I encountered after the main entrance was a hallway with mural painting on the walls. These beautiful paintings tell stories about Ramayana, the battle of good and evil. I was thinking if the history in this world is actually related to each other. Even though the Ramayana story is known as a part of Indian culture, but why in Thailand, also in Indonesia share the same thing, somehow they were connected, weren\u2019t they?", 
+        "line": 8, 
+        "range": [
+            1278, 
+            1715
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1304, 
+                    1317
+                ], 
+                "name": "main entrance"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1324, 
+                    1331
+                ], 
+                "name": "hallway"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1609, 
+                    1617
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1627, 
+                    1636
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This is a real palace, that was my first impression. It\u2019s very opposite to what\u2019s reflected from outside. Inside this white wall, it\u2019s just full of gold bling and glam. The walls, the statues, the stupas, all of them were beautifully designed and polished with gold colors and more attractive colors. I couldn\u2019t stop taking pictures of my surroundings.", 
+        "line": 10, 
+        "range": [
+            1717, 
+            2076
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1718, 
+                    1724
+                ], 
+                "name": "palace"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1887, 
+                    1894
+                ], 
+                "name": "statues"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1900, 
+                    1906
+                ], 
+                "name": "stupas"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Another corner of the complex, sits one of the most sacred temple in Thailand, Wat Phra Kaew, or Temple of Emerald Buddha. A small Buddha statue is believed to be more than 2000 years old. The statue was actually made from green jade although back then it\u2019s believed as emerald. Taking photos are prohibited inside the temple.", 
+        "line": 12, 
+        "range": [
+            2078, 
+            2405
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2079, 
+                    2086
+                ], 
+                "name": "complex"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2116, 
+                    2122
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2126, 
+                    2134
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2136, 
+                    2149
+                ], 
+                "name": "Wat Phra Kaew"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2154, 
+                    2178
+                ], 
+                "name": "Temple of Emerald Buddha"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2188, 
+                    2201
+                ], 
+                "name": "Buddha statue"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2250, 
+                    2256
+                ], 
+                "name": "statue"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2376, 
+                    2382
+                ], 
+                "name": "temple"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The middle and outer court looks more modern with cobble stones flooring. The buildings are blended with European style, still with the Thai architecture for the rooftop. There were guards standing  or walking pass by with gun on their hands.", 
+        "line": 14, 
+        "range": [
+            2407, 
+            2648
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2463, 
+                    2472
+                ], 
+                "name": "buildings"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Here comes to the end of my sightseeing. It took me more than 2 hours to walk around the complex, I also took loads of pictures, very nice. So, do you enjoy visiting mainstream/touristy places? Or try to avoid them? Let me know on the comment box below \ud83d\ude42", 
+        "line": 16, 
+        "range": [
+            2650, 
+            2906
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2718, 
+                    2725
+                ], 
+                "name": "complex"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2815, 
+                    2821
+                ], 
+                "name": "places"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips:", 
+        "line": 18, 
+        "range": [
+            2908, 
+            2912
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "\u2013 15 minutes walk from Khao San Road, nearest pier is Tha Thien Pier .", 
+        "line": 19, 
+        "range": [
+            2913, 
+            2984
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    2914, 
+                    2927
+                ], 
+                "name": "Khao San Road"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2937, 
+                    2941
+                ], 
+                "name": "pier"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2945, 
+                    2959
+                ], 
+                "name": "Tha Thien Pier"
+            }
+        ]
+    }, 
+    {
+        "text": "\u2013 Open everyday 8.30 a.m.-3.30 p.m.", 
+        "line": 20, 
+        "range": [
+            2985, 
+            3021
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "\u2013 Entrance fee: 500 baht", 
+        "line": 21, 
+        "range": [
+            3022, 
+            3047
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "\u2013 Dress code is very strict. No short, sleeveless, leggings. There\u2019s a free cloth rent with 200 baht deposit.", 
+        "line": 22, 
+        "range": [
+            3048, 
+            3160
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "\u2013 Free English guided tour at 10 a.m., 10.30 a.m., 1 p.m., 2 p.m.", 
+        "line": 23, 
+        "range": [
+            3161, 
+            3227
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 24, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 14-18 October 2015", 
+        "line": 25, 
+        "range": [
+            3229, 
+            3258
+        ], 
+        "entities": []
+    }
+]

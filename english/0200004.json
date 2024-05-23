@@ -1,0 +1,307 @@
+[
+    {
+        "text": "November 4, 2014    It\u2019s Crazy, It\u2019s Crazy House!", 
+        "line": 0, 
+        "range": [
+            1, 
+            53
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    37, 
+                    48
+                ], 
+                "name": "Crazy House"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "When I was in Dalat, Vietnam, the first thing I wanted to see is a house which always shows up in articles about 10 most-unique houses or 10 crazy houses. Yes, it\u2019s Crazy House. Crazy House is actually a guesthouse, pretty unique idea for a place to stay. This bizarre house in the midst of a peaceful city is interesting to be visited.", 
+        "line": 2, 
+        "range": [
+            55, 
+            392
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    65, 
+                    70
+                ], 
+                "name": "Dalat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    72, 
+                    79
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    118, 
+                    123
+                ], 
+                "name": "house"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    179, 
+                    185
+                ], 
+                "name": "houses"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    198, 
+                    204
+                ], 
+                "name": "houses"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    216, 
+                    227
+                ], 
+                "name": "Crazy House"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    229, 
+                    240
+                ], 
+                "name": "Crazy House"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    255, 
+                    265
+                ], 
+                "name": "guesthouse"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    292, 
+                    305
+                ], 
+                "name": "place to stay"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    320, 
+                    325
+                ], 
+                "name": "house"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    353, 
+                    357
+                ], 
+                "name": "city"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Crazy House or Hang Nga Guest House was built and opened to public in 1990. Rather than using a professional team to build this house, Nga, the architect and the one who started this project hired local craftsmen. It has 10 rooms with different themes and look. Price ranging from USD 60-100. No wonders there are more visitors than the actual guests who stay in the house.", 
+        "line": 4, 
+        "range": [
+            394, 
+            766
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    404, 
+                    424
+                ], 
+                "name": "Hang Nga Guest House"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    517, 
+                    522
+                ], 
+                "name": "house"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    613, 
+                    618
+                ], 
+                "name": "rooms"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    756, 
+                    761
+                ], 
+                "name": "house"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I found difficulty to find this place at first time. I drove my motorbike along the street and followed my map, however it\u2019s not that easy to find. I focused to find the strange look of the house, then i found it in a small alley, blocked by other buildings. Entrance fee was VND 75,000. There were some guys wearing themed costumes, looks like a guardian of a castle or something. The design was really impressive. Like a haunted house, I found bizarre things like spider web, creepy statues, and what impressed me the most is the shape of the building, unusual, and out of the box.", 
+        "line": 6, 
+        "range": [
+            768, 
+            1352
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    796, 
+                    801
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    848, 
+                    854
+                ], 
+                "name": "street"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    954, 
+                    959
+                ], 
+                "name": "house"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    988, 
+                    993
+                ], 
+                "name": "alley"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1012, 
+                    1021
+                ], 
+                "name": "buildings"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1125, 
+                    1131
+                ], 
+                "name": "castle"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1187, 
+                    1200
+                ], 
+                "name": "haunted house"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1309, 
+                    1317
+                ], 
+                "name": "building"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pump your adrenaline by climbing the steep narrow stairs to the top. Walk pass inside the tunnel and you can follow the stairs from one building to another building. It\u2019s a bit scary however when your reach the top you\u2019ll see a good view of the city. Careful not to fall, and keep going even your leg might be shaking =))", 
+        "line": 8, 
+        "range": [
+            1354, 
+            1678
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1485, 
+                    1493
+                ], 
+                "name": "building"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1505, 
+                    1513
+                ], 
+                "name": "building"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1594, 
+                    1598
+                ], 
+                "name": "city"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in  16-19 May 2014", 
+        "line": 10, 
+        "range": [
+            1680, 
+            1706
+        ], 
+        "entities": []
+    }
+]

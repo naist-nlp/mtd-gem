@@ -1,0 +1,1098 @@
+[
+    {
+        "text": "May 4, 2020    Short Break To Cameron Highland", 
+        "line": 0, 
+        "range": [
+            1, 
+            46
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    30, 
+                    46
+                ], 
+                "name": "Cameron Highland"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cameron Highland in Malaysia is a popular getaway for locals or tourists. Not too far from Kuala Lumpur, a short visit, one day or two days are doable to visit the beautiful highland. Fresh air, tea plantation, those are some reasons why it\u2019s loveable by whoever that comes.", 
+        "line": 2, 
+        "range": [
+            48, 
+            323
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    48, 
+                    64
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    68, 
+                    76
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    90, 
+                    97
+                ], 
+                "name": "getaway"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    139, 
+                    151
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    222, 
+                    230
+                ], 
+                "name": "highland"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    243, 
+                    257
+                ], 
+                "name": "tea plantation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Let me tell a quick short story before getting to the point about Cameron Highland. In order to fund my next travel, which I\u2019ve planned for the whole year, I decided to find a job for few months in Kuala Lumpur while waiting for my next flights, all from Kuala Lumpur.", 
+        "line": 4, 
+        "range": [
+            325, 
+            594
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    390, 
+                    406
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    522, 
+                    534
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    561, 
+                    568
+                ], 
+                "name": "flights"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    579, 
+                    591
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lucky me, I got a job in one of the best hostel in town, free accommodation and good salary. I don\u2019t care about money as long as I\u2019m earning and have something to do, in fact in the end I partied too much and never save, haha.", 
+        "line": 6, 
+        "range": [
+            596, 
+            825
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    635, 
+                    641
+                ], 
+                "name": "hostel"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    645, 
+                    649
+                ], 
+                "name": "town"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    656, 
+                    669
+                ], 
+                "name": "accommodation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Work was good and fun, but as someone who can\u2019t do the same routine, it sucks even just for one or two months, so during my off day, I have a chance to go to Cameron Highland in Malaysia.", 
+        "line": 8, 
+        "range": [
+            827, 
+            1015
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    980, 
+                    996
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1000, 
+                    1008
+                ], 
+                "name": "Malaysia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Getting to Cameron Highland from Kuala Lumpur", 
+        "line": 10, 
+        "range": [
+            1017, 
+            1061
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1022, 
+                    1038
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1044, 
+                    1056
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1058, 
+                    1061
+                ], 
+                "name": "Bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bus from Puduraya Station shall take you directly to Tana Rata, Cameron Highland. Schedule can be check in journeymalaysia.com for all the bound in Malaysia. Price for one way is RM 35. There are tour operators in Cameron Highland, day tour starts from RM 50. You can also rent a taxi from RM 25/hour, minimum 3 hours. Enjoy!", 
+        "line": 12, 
+        "range": [
+            1063, 
+            1387
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1067, 
+                    1083
+                ], 
+                "name": "Puduraya Station"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1111, 
+                    1120
+                ], 
+                "name": "Tana Rata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1122, 
+                    1138
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1206, 
+                    1214
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1272, 
+                    1288
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1338, 
+                    1342
+                ], 
+                "name": "taxi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Short escape to Cameron Highland", 
+        "line": 14, 
+        "range": [
+            1389, 
+            1420
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1401, 
+                    1417
+                ], 
+                "name": "Cameron Highland"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was just a short break, eventually it\u2019s the best time for me to escape from my daily routine. I need to see green things, I need to breath with fresh air, I need to chill in a cool place, that\u2019s why Cameron Highland was just perfect.", 
+        "line": 16, 
+        "range": [
+            1422, 
+            1661
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1603, 
+                    1608
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1621, 
+                    1637
+                ], 
+                "name": "Cameron Highland"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are lots of activities can be done in Cameron Highlands especially jungle trekking. I love trekking alot but this time, I just want to relax so I chose to visit only tea plantation.", 
+        "line": 18, 
+        "range": [
+            1663, 
+            1849
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1701, 
+                    1718
+                ], 
+                "name": "Cameron Highlands"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1730, 
+                    1736
+                ], 
+                "name": "jungle"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1829, 
+                    1843
+                ], 
+                "name": "tea plantation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I took the bus from Puduraya Bus Station, rushing there after I finished my shift at 4 p.m. The bus took four hours to Cameron Highlands.", 
+        "line": 20, 
+        "range": [
+            1851, 
+            1987
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1857, 
+                    1860
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1866, 
+                    1886
+                ], 
+                "name": "Puduraya Bus Station"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1942, 
+                    1945
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1965, 
+                    1982
+                ], 
+                "name": "Cameron Highlands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I arrived around 8 p.m in Tana Rata and checked in to Father\u2019s Guesthouse. A nice quite luxurious guesthouse range from only RM 25 for dorm until RM 120 for private room.", 
+        "line": 22, 
+        "range": [
+            1989, 
+            2160
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2011, 
+                    2020
+                ], 
+                "name": "Tana Rata"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2039, 
+                    2058
+                ], 
+                "name": "Father\u2019s Guesthouse"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2083, 
+                    2093
+                ], 
+                "name": "guesthouse"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2120, 
+                    2124
+                ], 
+                "name": "dorm"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2142, 
+                    2154
+                ], 
+                "name": "private room"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I woke up on the next day after my long sleep. Perfect weather to take a walk. The sun shone, the temperature was cool enough, the fresh air that I\u2019ve been waiting for.", 
+        "line": 24, 
+        "range": [
+            2162, 
+            2331
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I went to a bus station to catch a bus to BOH Tea Plantation, the biggest tea plantation there. The bus dropped me in the junction then I walked about four kms, inside. After an hour walk, I enjoyed the view, accompanied by nice cheese cake and their home-made tea.", 
+        "line": 26, 
+        "range": [
+            2333, 
+            2597
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2339, 
+                    2350
+                ], 
+                "name": "bus station"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2362, 
+                    2365
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2369, 
+                    2387
+                ], 
+                "name": "BOH Tea Plantation"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2401, 
+                    2415
+                ], 
+                "name": "tea plantation"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2427, 
+                    2430
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2449, 
+                    2457
+                ], 
+                "name": "junction"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Situated in 1500 meters above sea level, Cameron Highland is ideal for farming. One of the biggest and oldest plantation in Malaysia was discovered by a British Businessman named J.A Russel.", 
+        "line": 28, 
+        "range": [
+            2599, 
+            2788
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2635, 
+                    2651
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2704, 
+                    2714
+                ], 
+                "name": "plantation"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2718, 
+                    2726
+                ], 
+                "name": "Malaysia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The company has two sites of plantation, Sungei Palas and Fairlie. They also set the packaging factory near the plantation to ensure the freshness and quality of the tea.", 
+        "line": 30, 
+        "range": [
+            2790, 
+            2959
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2815, 
+                    2825
+                ], 
+                "name": "plantation"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2827, 
+                    2839
+                ], 
+                "name": "Sungei Palas"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2844, 
+                    2851
+                ], 
+                "name": "Fairlie"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2871, 
+                    2888
+                ], 
+                "name": "packaging factory"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2898, 
+                    2908
+                ], 
+                "name": "plantation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I managed to do my first hitchhiking in Cameron Highland in Malaysia. I did six cars in a day, what an achievement! I got my first ride after twenty minutes waiting on the road side. I was nervous and also a bit shy to do that.", 
+        "line": 32, 
+        "range": [
+            2961, 
+            3187
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2998, 
+                    3014
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3018, 
+                    3026
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3038, 
+                    3042
+                ], 
+                "name": "cars"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3130, 
+                    3139
+                ], 
+                "name": "road side"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was an Indian-Malay man who offered me a ride. The next lift was just five minutes, a nice Chinese Lady having a massage business there. Guess what, I got addicted and did it until six times. It was just a short and easy ride, I think I\u2019m ready for longer ride after this.", 
+        "line": 34, 
+        "range": [
+            3189, 
+            3465
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3303, 
+                    3319
+                ], 
+                "name": "massage business"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Other activities you can do in Cameron Highland in Malaysia", 
+        "line": 36, 
+        "range": [
+            3467, 
+            3525
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3495, 
+                    3511
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3515, 
+                    3523
+                ], 
+                "name": "Malaysia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Go hiking in Mossy Forest", 
+        "line": 38, 
+        "range": [
+            3527, 
+            3551
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3538, 
+                    3550
+                ], 
+                "name": "Mossy Forest"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "As I mentioned earlier there are many jungle trekking activities that you can do around Cameron Highland in Malaysia. One of them is Mossy Forest. It is said that Mossy Forest is one of the oldest jungle in Malaysia. If you\u2019re lucky you might be able to see some interesting floras or plants while hiking in this forest.", 
+        "line": 40, 
+        "range": [
+            3553, 
+            3874
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3590, 
+                    3596
+                ], 
+                "name": "jungle"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3640, 
+                    3656
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3660, 
+                    3668
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3685, 
+                    3697
+                ], 
+                "name": "Mossy Forest"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3715, 
+                    3727
+                ], 
+                "name": "Mossy Forest"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3749, 
+                    3755
+                ], 
+                "name": "jungle"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3759, 
+                    3767
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3865, 
+                    3871
+                ], 
+                "name": "forest"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Climb in Mount Brinchang", 
+        "line": 42, 
+        "range": [
+            3876, 
+            3899
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3883, 
+                    3898
+                ], 
+                "name": "Mount Brinchang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019d like to climb Mount Brinchang, make your way to Brinchang Town. It takes around 3-4 hour one way although you can also take taxi to reach the top of Mount Brinchang. The elevation is 2,032 meters above sea level. It\u2019s better to hire a guide to do it.", 
+        "line": 44, 
+        "range": [
+            3901, 
+            4163
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3923, 
+                    3938
+                ], 
+                "name": "Mount Brinchang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3957, 
+                    3971
+                ], 
+                "name": "Brinchang Town"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4033, 
+                    4037
+                ], 
+                "name": "taxi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4058, 
+                    4073
+                ], 
+                "name": "Mount Brinchang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Trek around the tea plantation", 
+        "line": 46, 
+        "range": [
+            4165, 
+            4194
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4177, 
+                    4191
+                ], 
+                "name": "tea plantation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are several trails that allows you to do a bit of walk around the tea plantation, usually marked as trail with certain numbers. Some of the trails may even lead to a nice spot to relax at the waterfalls. You can ask the front desk of your hostel/hotel for the trail information around the tea plantation.", 
+        "line": 48, 
+        "range": [
+            4196, 
+            4505
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4211, 
+                    4217
+                ], 
+                "name": "trails"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4265, 
+                    4279
+                ], 
+                "name": "tea plantation"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4299, 
+                    4304
+                ], 
+                "name": "trail"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4339, 
+                    4345
+                ], 
+                "name": "trails"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4370, 
+                    4374
+                ], 
+                "name": "spot"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4391, 
+                    4401
+                ], 
+                "name": "waterfalls"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4438, 
+                    4444
+                ], 
+                "name": "hostel"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4445, 
+                    4450
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4459, 
+                    4464
+                ], 
+                "name": "trail"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4488, 
+                    4502
+                ], 
+                "name": "tea plantation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 15-17 July 2014", 
+        "line": 50, 
+        "range": [
+            4507, 
+            4533
+        ], 
+        "entities": []
+    }
+]

@@ -1,0 +1,1731 @@
+[
+    {
+        "text": "June 21, 2020    18 Free Things To Do In Melbourne", 
+        "line": 0, 
+        "range": [
+            1, 
+            50
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    41, 
+                    50
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Victorian style architecture, artsy lanes, coffee shops. Perhaps, that\u2019s how I imagined what Melbourne would be like. As the second biggest city in Australia tailing after Sydney, Melbourne has a different image; fun, a more laid-back city, and the hipster neighborhoods.", 
+        "line": 2, 
+        "range": [
+            52, 
+            324
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    88, 
+                    93
+                ], 
+                "name": "lanes"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    95, 
+                    107
+                ], 
+                "name": "coffee shops"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    145, 
+                    154
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    192, 
+                    196
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    200, 
+                    209
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    224, 
+                    230
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    232, 
+                    241
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    287, 
+                    291
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    309, 
+                    322
+                ], 
+                "name": "neighborhoods"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I had the chance to do road trip around Australia and managed to stop in Melbourne. And after visiting Melbourne myself, I actually fell in love with the city. I love the trees along the street, I love the suburbs area, I have no complaint except for the weather that keeps changing every few minutes. Now, if you\u2019re a first timer in this city, here are 18 free things to do in Melbourne without burning a hole in your pocket:", 
+        "line": 4, 
+        "range": [
+            326, 
+            753
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    365, 
+                    374
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    398, 
+                    407
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    428, 
+                    437
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    479, 
+                    483
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    512, 
+                    518
+                ], 
+                "name": "street"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    531, 
+                    538
+                ], 
+                "name": "suburbs"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    664, 
+                    668
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    703, 
+                    712
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Flinders Street Railway Station", 
+        "line": 6, 
+        "range": [
+            755, 
+            788
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    756, 
+                    787
+                ], 
+                "name": "Flinders Street Railway Station"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Step into the most iconic building in Melbourne, Flinders Street Railway Station-the oldest station in Australia. The Flinders Street Station is in downtown Melbourne, at the corner of Flinders and Swanston Street. Here you can see how busy it is \u2013 serves nearly 100,000 travelers a day.", 
+        "line": 8, 
+        "range": [
+            790, 
+            1078
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    815, 
+                    823
+                ], 
+                "name": "building"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    827, 
+                    836
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    838, 
+                    869
+                ], 
+                "name": "Flinders Street Railway Station"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    881, 
+                    888
+                ], 
+                "name": "station"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    892, 
+                    901
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    907, 
+                    930
+                ], 
+                "name": "Flinders Street Station"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    937, 
+                    955
+                ], 
+                "name": "downtown Melbourne"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    964, 
+                    970
+                ], 
+                "name": "corner"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    974, 
+                    982
+                ], 
+                "name": "Flinders"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    987, 
+                    1002
+                ], 
+                "name": "Swanston Street"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. St. Paul Cathedral", 
+        "line": 10, 
+        "range": [
+            1080, 
+            1100
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1081, 
+                    1099
+                ], 
+                "name": "St. Paul Cathedral"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Just across Flinders Street Station, a grand-structured Anglican Cathedral with rich decorations and historic artworks soars in the middle of busy intersection. St. Paul Cathedral is a famous landmark in the city center. Enter inside and marvel the patterned floor and wall tiles but keep your voice low and respect the worshipers while admiring the cathedral.", 
+        "line": 12, 
+        "range": [
+            1102, 
+            1461
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1113, 
+                    1136
+                ], 
+                "name": "Flinders Street Station"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1157, 
+                    1175
+                ], 
+                "name": "Anglican Cathedral"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1248, 
+                    1260
+                ], 
+                "name": "intersection"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1262, 
+                    1280
+                ], 
+                "name": "St. Paul Cathedral"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1293, 
+                    1301
+                ], 
+                "name": "landmark"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1309, 
+                    1320
+                ], 
+                "name": "city center"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1451, 
+                    1460
+                ], 
+                "name": "cathedral"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Federation Square", 
+        "line": 14, 
+        "range": [
+            1463, 
+            1482
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1466, 
+                    1483
+                ], 
+                "name": "Federation Square"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Situated just right in the heart of Melbourne, Federation Square is a place which brings mix attraction along with restaurants and bars. It\u2019s where Melburnians often catch up and hang around, a place where events are held such as festivals, markets, or sport events.", 
+        "line": 16, 
+        "range": [
+            1484, 
+            1751
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1521, 
+                    1530
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1532, 
+                    1549
+                ], 
+                "name": "Federation Square"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1555, 
+                    1560
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1578, 
+                    1588
+                ], 
+                "name": "attraction"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1600, 
+                    1611
+                ], 
+                "name": "restaurants"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1616, 
+                    1620
+                ], 
+                "name": "bars"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1679, 
+                    1684
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Hosier Lane", 
+        "line": 18, 
+        "range": [
+            1753, 
+            1766
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1756, 
+                    1767
+                ], 
+                "name": "Hosier Lane"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The coolest lane in Melbourne, perfect for instagram-addict. The graffiti-covered walls on every corner of the lane are worth every single shot. Wander along the lanes and enjoy the colorful murals.", 
+        "line": 20, 
+        "range": [
+            1768, 
+            1965
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1781, 
+                    1785
+                ], 
+                "name": "lane"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1789, 
+                    1798
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1866, 
+                    1872
+                ], 
+                "name": "corner"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1880, 
+                    1884
+                ], 
+                "name": "lane"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1931, 
+                    1936
+                ], 
+                "name": "lanes"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. State Library of Victoria", 
+        "line": 22, 
+        "range": [
+            1967, 
+            1994
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Doesn\u2019t matter if you\u2019re not a student, you can still visit the State Library of Victoria to read some books. But what makes this library different is that the design of the interior. With its majestic dome ceiling and the desk positioned like an octagonal shape, surely is the highlight of this library. Make sure you check out this free things to do in Melbourne.", 
+        "line": 24, 
+        "range": [
+            1996, 
+            2364
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2063, 
+                    2088
+                ], 
+                "name": "State Library of Victoria"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2129, 
+                    2136
+                ], 
+                "name": "library"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2295, 
+                    2302
+                ], 
+                "name": "library"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2354, 
+                    2363
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "6. Queen Victoria Market", 
+        "line": 26, 
+        "range": [
+            2366, 
+            2389
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2369, 
+                    2390
+                ], 
+                "name": "Queen Victoria Market"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Discover an authentic local experience by wandering one of the most happening market in Melbourne, Queen Victoria Market. Keen for a bit of shopping, maybe for souvenirs or clothes for yourself, then don\u2019t get tired walking around this huge market. Sample the fresh products or delis in the market and experience the night market during summer.", 
+        "line": 28, 
+        "range": [
+            2391, 
+            2736
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2470, 
+                    2476
+                ], 
+                "name": "market"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2480, 
+                    2489
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2491, 
+                    2512
+                ], 
+                "name": "Queen Victoria Market"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2633, 
+                    2639
+                ], 
+                "name": "market"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2683, 
+                    2689
+                ], 
+                "name": "market"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2709, 
+                    2721
+                ], 
+                "name": "night market"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "7. China Town", 
+        "line": 30, 
+        "range": [
+            2738, 
+            2750
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2741, 
+                    2751
+                ], 
+                "name": "China Town"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Missing a bit of Asian delicacy? head to China Town. Korean food, Chinese food, Vietnamese food, you name it, easily spotted. Melbourne\u2019s China Town began in the 1850s when the first Chinese immigrants arrived for the gold rush. Like the rest of China Town around the world, you\u2019ll find red lanterns hanging, and that typical red gate with Chinese character welcome you.", 
+        "line": 32, 
+        "range": [
+            2752, 
+            3125
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2794, 
+                    2804
+                ], 
+                "name": "China Town"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2879, 
+                    2901
+                ], 
+                "name": "Melbourne\u2019s China Town"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2999, 
+                    3009
+                ], 
+                "name": "China Town"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3021, 
+                    3026
+                ], 
+                "name": "world"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3079, 
+                    3087
+                ], 
+                "name": "red gate"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "8. Melbourne Central Shopping Center", 
+        "line": 34, 
+        "range": [
+            3127, 
+            3162
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3128, 
+                    3161
+                ], 
+                "name": "Melbourne Central Shopping Center"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Melbourne Central is a large complex of shopping center, office, and transportation hub in the city. Currently it has more than 200 stores that can satisfy your shopping needs. The prime characteristic of the building is the glass cone \u2013 20 storeys high, weighs 490 tones and also the Coop\u2019s Shot Tower in the middle.", 
+        "line": 36, 
+        "range": [
+            3164, 
+            3484
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3192, 
+                    3199
+                ], 
+                "name": "complex"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3203, 
+                    3218
+                ], 
+                "name": "shopping center"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3220, 
+                    3226
+                ], 
+                "name": "office"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3232, 
+                    3250
+                ], 
+                "name": "transportation hub"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3258, 
+                    3262
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3295, 
+                    3301
+                ], 
+                "name": "stores"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3372, 
+                    3380
+                ], 
+                "name": "building"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3448, 
+                    3465
+                ], 
+                "name": "Coop\u2019s Shot Tower"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "9. Docklands", 
+        "line": 38, 
+        "range": [
+            3486, 
+            3497
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A harbor front area sprawling with high end restaurants maybe for a romantic dinner. You can also stroll around the Harbour Town Shopping Centre to get the latest items from notable designers. Kids will love doing the observation wheel with stunning 360 degrees view of Melbourne City. Docklands is somehow reminds me of Darling Harbor, unmissable things to do or visit in Sydney.", 
+        "line": 40, 
+        "range": [
+            3499, 
+            3878
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3531, 
+                    3551
+                ], 
+                "name": "high end restaurants"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3612, 
+                    3640
+                ], 
+                "name": "Harbour Town Shopping Centre"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3714, 
+                    3731
+                ], 
+                "name": "observation wheel"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3766, 
+                    3780
+                ], 
+                "name": "Melbourne City"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3782, 
+                    3791
+                ], 
+                "name": "Docklands"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3817, 
+                    3831
+                ], 
+                "name": "Darling Harbor"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3869, 
+                    3875
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "10. St. Patrick Cathedral", 
+        "line": 42, 
+        "range": [
+            3880, 
+            3904
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3882, 
+                    3903
+                ], 
+                "name": "St. Patrick Cathedral"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Another outstanding cathedral in Melbourne, St. Patrick Cathedral is the largest church building in Australia. One of the finest cathedral which is belonging to the Roman Catholic Archdiocese of Melbourne. Inside are several tones of bells, an organ with 4500 pipes, and exquisite chapel.", 
+        "line": 44, 
+        "range": [
+            3906, 
+            4193
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3925, 
+                    3934
+                ], 
+                "name": "cathedral"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3938, 
+                    3947
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3949, 
+                    3970
+                ], 
+                "name": "St. Patrick Cathedral"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3986, 
+                    4001
+                ], 
+                "name": "church building"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4005, 
+                    4014
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4034, 
+                    4043
+                ], 
+                "name": "cathedral"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4100, 
+                    4109
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4186, 
+                    4192
+                ], 
+                "name": "chapel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "11. Carlton Garden", 
+        "line": 46, 
+        "range": [
+            4195, 
+            4212
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4199, 
+                    4213
+                ], 
+                "name": "Carlton Garden"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A great place to kill some time under the shades of the trees in Carlton Garden. It is a popular picnic area for locals and museum visitors. The site contains the Royal Exhibition Building, Melbourne Museum and Imax Cinema.", 
+        "line": 48, 
+        "range": [
+            4214, 
+            4436
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4280, 
+                    4294
+                ], 
+                "name": "Carlton Garden"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4312, 
+                    4323
+                ], 
+                "name": "picnic area"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4339, 
+                    4345
+                ], 
+                "name": "museum"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4360, 
+                    4364
+                ], 
+                "name": "site"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4378, 
+                    4403
+                ], 
+                "name": "Royal Exhibition Building"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4405, 
+                    4421
+                ], 
+                "name": "Melbourne Museum"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4426, 
+                    4437
+                ], 
+                "name": "Imax Cinema"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "12. Parliement House", 
+        "line": 50, 
+        "range": [
+            4438, 
+            4457
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Another free things to do in Melbourne is visiting Parliement House. Located at Spring Street in East Melbourne, Parliement House has been the seat of the Parliement of Victoria since 1855. Parliement House is open for public and there\u2019s a free guided tour conducted from 9.30 a.m. to 4 p.m. on weekdays and when the Parliement is not sitting.", 
+        "line": 52, 
+        "range": [
+            4459, 
+            4803
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4491, 
+                    4500
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4513, 
+                    4529
+                ], 
+                "name": "Parliement House"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    4542, 
+                    4555
+                ], 
+                "name": "Spring Street"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4559, 
+                    4573
+                ], 
+                "name": "East Melbourne"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4575, 
+                    4591
+                ], 
+                "name": "Parliement House"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4652, 
+                    4668
+                ], 
+                "name": "Parliement House"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "13. National Gallery of Victoria", 
+        "line": 54, 
+        "range": [
+            4805, 
+            4836
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "For history-seekers and art-lovers head to National Gallery of Victoria to examine many collections from old ages to contemporary art, or varied collections of international artifacts. Check the calendar or the notice for special exhibition.", 
+        "line": 56, 
+        "range": [
+            4838, 
+            5078
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4884, 
+                    4912
+                ], 
+                "name": "National Gallery of Victoria"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "14. Shrine of Remembrance", 
+        "line": 58, 
+        "range": [
+            5080, 
+            5104
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The shrine is a memorial for Australian soldiers who served in World War One. There are several chambers filled with information and videos. During the day you\u2019re allowed to climb up to the top. Around 4-5 p.m. there\u2019s a flag down ceremony on the court.", 
+        "line": 60, 
+        "range": [
+            5106, 
+            5362
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5115, 
+                    5121
+                ], 
+                "name": "shrine"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5127, 
+                    5135
+                ], 
+                "name": "memorial"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5207, 
+                    5215
+                ], 
+                "name": "chambers"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5301, 
+                    5304
+                ], 
+                "name": "top"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5358, 
+                    5363
+                ], 
+                "name": "court"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "15. St. Kilda", 
+        "line": 62, 
+        "range": [
+            5364, 
+            5376
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A nice place for afternoon stroll along the beach side with cafes and restaurants lining up. Dozens of boats park on the shore, also you can also spot penguins if you\u2019re lucky. You can get here easily by tram from the CBD.", 
+        "line": 64, 
+        "range": [
+            5378, 
+            5601
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5388, 
+                    5393
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5425, 
+                    5435
+                ], 
+                "name": "beach side"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5441, 
+                    5446
+                ], 
+                "name": "cafes"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5451, 
+                    5462
+                ], 
+                "name": "restaurants"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5585, 
+                    5589
+                ], 
+                "name": "tram"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5599, 
+                    5602
+                ], 
+                "name": "CBD"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "16. Royal Botanic Garden", 
+        "line": 66, 
+        "range": [
+            5603, 
+            5626
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Interested in plants and flowers? Make your way to Botanical Garden, home to different species of plants including algae and fungi. Mini ecosystems such as a cacti and a herb garden are set in the large area of this garden. The lush garden will make you feel fresh just by breathing the air.", 
+        "line": 68, 
+        "range": [
+            5628, 
+            5918
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5682, 
+                    5698
+                ], 
+                "name": "Botanical Garden"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5700, 
+                    5704
+                ], 
+                "name": "home"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5763, 
+                    5778
+                ], 
+                "name": "Mini ecosystems"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5801, 
+                    5812
+                ], 
+                "name": "herb garden"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5834, 
+                    5838
+                ], 
+                "name": "area"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5847, 
+                    5853
+                ], 
+                "name": "garden"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5864, 
+                    5870
+                ], 
+                "name": "garden"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "17. Yarra River", 
+        "line": 70, 
+        "range": [
+            5920, 
+            5934
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yarra River offers picnic and barbecue facilities also trails for cyclist, walkers, and joggers. To the Aborigines, Yarra River was a life source that had been etched into the landscape by the ancestral creator spirit.", 
+        "line": 72, 
+        "range": [
+            5936, 
+            6153
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    5941, 
+                    5952
+                ], 
+                "name": "Yarra River"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5960, 
+                    5990
+                ], 
+                "name": "picnic and barbecue facilities"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5996, 
+                    6002
+                ], 
+                "name": "trails"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    6057, 
+                    6068
+                ], 
+                "name": "Yarra River"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "18. Brighton Beach", 
+        "line": 74, 
+        "range": [
+            6155, 
+            6172
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A bit far from the city, 11 km from the CBD lays a favorite spot for tourist, Brighton Beach. With its quirky wooden huts standing side by side, it makes them interesting to visit, and sure taking pictures is a must here.", 
+        "line": 76, 
+        "range": [
+            6174, 
+            6394
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6200, 
+                    6204
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6221, 
+                    6224
+                ], 
+                "name": "CBD"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6241, 
+                    6245
+                ], 
+                "name": "spot"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6259, 
+                    6273
+                ], 
+                "name": "Brighton Beach"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6291, 
+                    6302
+                ], 
+                "name": "wooden huts"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "So, those are the lists of 18 free things to do in Melbourne. Don\u2019t forget to check out what to do in Tasmania as I was there before visiting Melbourne. Make sure you check them out. Any other recommendations? Leave it on comment box below!", 
+        "line": 78, 
+        "range": [
+            6396, 
+            6637
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6455, 
+                    6464
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6506, 
+                    6514
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6546, 
+                    6555
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }
+]

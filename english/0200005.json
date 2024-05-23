@@ -1,0 +1,1789 @@
+[
+    {
+        "text": "June 14, 2020    Mount Kerinci, Climbing The Roof Of Sumatera", 
+        "line": 0, 
+        "range": [
+            1, 
+            61
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    17, 
+                    30
+                ], 
+                "name": "Mount Kerinci"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    41, 
+                    61
+                ], 
+                "name": "The Roof Of Sumatera"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mount Kerinci, often mentioned as the roof of Sumatera is the highest volcano in Indonesia. It has the elevation of 3,805 meters above sea level and the trail is pretty challenging. Check out my experience climbing Mount Kerinci in Sumatera.", 
+        "line": 2, 
+        "range": [
+            63, 
+            303
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    63, 
+                    76
+                ], 
+                "name": "Mount Kerinci"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    97, 
+                    117
+                ], 
+                "name": "the roof of Sumatera"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    121, 
+                    153
+                ], 
+                "name": "the highest volcano in Indonesia"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    216, 
+                    221
+                ], 
+                "name": "trail"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    278, 
+                    291
+                ], 
+                "name": "Mount Kerinci"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    295, 
+                    303
+                ], 
+                "name": "Sumatera"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It all actually began when I saw an article from a magazine about West Sumatera. I didn\u2019t know there are so many interesting places in West Sumatera. I had visit Padang and Bukit Tinggi before with my family but I didn\u2019t enjoy it.", 
+        "line": 4, 
+        "range": [
+            305, 
+            538
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    372, 
+                    385
+                ], 
+                "name": "West Sumatera"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    431, 
+                    437
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    441, 
+                    454
+                ], 
+                "name": "West Sumatera"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    468, 
+                    474
+                ], 
+                "name": "Padang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    479, 
+                    491
+                ], 
+                "name": "Bukit Tinggi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The idea to climb Mount Kerinci was just suddenly came through my mind. Before, I planned to travel across Padang, Medan, then Aceh but I was late to buy cheap tickets. Again I was confused with another option, Mentawai, but finally I chose Mount Kerinci. Still got lots work to do. I need to find companions. Traveling alone is ok for me but hiking alone, I am not that brave.", 
+        "line": 6, 
+        "range": [
+            540, 
+            916
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    556, 
+                    569
+                ], 
+                "name": "Mount Kerinci"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    645, 
+                    651
+                ], 
+                "name": "Padang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    653, 
+                    658
+                ], 
+                "name": "Medan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    665, 
+                    669
+                ], 
+                "name": "Aceh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    749, 
+                    757
+                ], 
+                "name": "Mentawai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    779, 
+                    792
+                ], 
+                "name": "Mount Kerinci"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I searched for some information in Padang Backpacker Community in facebook. There I knew Bang Jamie from Sungai Penuh. I also borrowed some hiking stuffs from some members. The day had come.", 
+        "line": 8, 
+        "range": [
+            918, 
+            1107
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1022, 
+                    1034
+                ], 
+                "name": "Sungai Penuh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How to get to Mount Kerinci", 
+        "line": 10, 
+        "range": [
+            1109, 
+            1135
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1123, 
+                    1136
+                ], 
+                "name": "Mount Kerinci"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "To reach the basecamp to start the climb, one must first travel to Sungai Penuh. There are two ways to get to Sungai Penuh, from Jambi or Padang. I chose to go through Padang.", 
+        "line": 12, 
+        "range": [
+            1137, 
+            1311
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1151, 
+                    1159
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1205, 
+                    1217
+                ], 
+                "name": "Sungai Penuh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1248, 
+                    1260
+                ], 
+                "name": "Sungai Penuh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1267, 
+                    1272
+                ], 
+                "name": "Jambi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1276, 
+                    1282
+                ], 
+                "name": "Padang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1306, 
+                    1312
+                ], 
+                "name": "Padang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My flight was at 5.30 a.m so I slept at airport, landed at Minangkabau airport and fetched by Bang Kohar (a friend from facebook). We directly went to a travel agent in Ulak Karang to buy the bus ticket to Sungai Penuh then depart at 10 a.m.", 
+        "line": 14, 
+        "range": [
+            1313, 
+            1553
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1318, 
+                    1324
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1355, 
+                    1362
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1374, 
+                    1393
+                ], 
+                "name": "Minangkabau airport"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1484, 
+                    1495
+                ], 
+                "name": "Ulak Karang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1507, 
+                    1510
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1521, 
+                    1533
+                ], 
+                "name": "Sungai Penuh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "FYI, in one day there are 2 departures. 9 a.m. And 7 p.m. The cost is around Rp 100,000, normal time will take 7 hours. The scenery along my way to Sungai Penuh was unforgettable. All the green hills, especially around Mount Kerinci. Huge tea garden refreshed my eyes and my mind.", 
+        "line": 16, 
+        "range": [
+            1555, 
+            1834
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1699, 
+                    1702
+                ], 
+                "name": "way"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1706, 
+                    1718
+                ], 
+                "name": "Sungai Penuh"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1752, 
+                    1757
+                ], 
+                "name": "hills"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1777, 
+                    1790
+                ], 
+                "name": "Mount Kerinci"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1797, 
+                    1807
+                ], 
+                "name": "tea garden"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How beautiful it was. I met Bang Jamie. He ran a merchandise store named KerinciMerch. If you\u2019re looking for souvenirs, come to this place. Bang Jamie introduced me to Mbak Sandra and I slept in her home.", 
+        "line": 18, 
+        "range": [
+            1836, 
+            2041
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1889, 
+                    1906
+                ], 
+                "name": "merchandise store"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1913, 
+                    1925
+                ], 
+                "name": "KerinciMerch"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1973, 
+                    1978
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My itinerary climbing Mount Kerinci", 
+        "line": 20, 
+        "range": [
+            2043, 
+            2077
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It took me four days in total to climb Mount Kerinci, then spent couple of days to camp near the Gunung Tujuh Lake. There\u2019re four of us climbing the mountain.", 
+        "line": 22, 
+        "range": [
+            2079, 
+            2238
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2122, 
+                    2135
+                ], 
+                "name": "Mount Kerinci"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2180, 
+                    2197
+                ], 
+                "name": "Gunung Tujuh Lake"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: Starting the hike until Post 2", 
+        "line": 24, 
+        "range": [
+            2240, 
+            2276
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I felt guilty when Bang Jamie said he would come with me to Mount Kerinci. He\u2019s supposed to hike at the end of year. He told me before his friend will accompany me. Unfortunately all of his friends were busy. We prepared food, everything. There were 4 of us, me, Bang Jamie, Bento, Ucok taking oto (that\u2019s what they called, same term as angkot, IDR 10,000 each person). About an hour to the gate.", 
+        "line": 26, 
+        "range": [
+            2278, 
+            2677
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2342, 
+                    2355
+                ], 
+                "name": "Mount Kerinci"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2576, 
+                    2579
+                ], 
+                "name": "oto"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2619, 
+                    2625
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2673, 
+                    2677
+                ], 
+                "name": "gate"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Here comes the horrific part. I read a lot in people\u2019s blog about Mount Kerinci. Suggestion to pass third post before dark has always been mentioned by them. The reason is sumatera tigers are still running wild in the jungle. The tigers start hunting at night. I don\u2019t know why these guys had an idea to hike at night.", 
+        "line": 28, 
+        "range": [
+            2679, 
+            3000
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2746, 
+                    2759
+                ], 
+                "name": "Mount Kerinci"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2780, 
+                    2790
+                ], 
+                "name": "third post"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2898, 
+                    2904
+                ], 
+                "name": "jungle"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The plan was building camp in post 2. As far as i know, it\u2019s safer to camp in shelter 1 back to the reason related to tigers. Moreover shelter 1 is already 2000 meters above sea level so no tigers. Bang Jamie told me there are river so it\u2019ll be easier to refill water. Checking stuffs was completed so was praying. We were ready to hike in the middle of the dark. All crazy imaginations came to my mind. How if  a tiger showed up and ate us all. Only name left. Not cool die because eaten by tiger.", 
+        "line": 30, 
+        "range": [
+            3002, 
+            3503
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3030, 
+                    3036
+                ], 
+                "name": "post 2"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3078, 
+                    3087
+                ], 
+                "name": "shelter 1"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3135, 
+                    3144
+                ], 
+                "name": "shelter 1"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3227, 
+                    3232
+                ], 
+                "name": "river"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I looked around, thinking if climbing tree is possible. I never climb tree so I was worried. I prayed hoping everything\u2019s ok..Few minutes walked and I heard a sound. A sound like tiger\u2019s breath or growl. Obviously I was scared to death. I called Bang Jamie who was in front of me and asked what sound was that. He just said \u201cPretend not hearing anything.\u00a8 I shut my mouth but my heart and mind.", 
+        "line": 32, 
+        "range": [
+            3505, 
+            3905
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I spelled all my prayer in buddhist way.. 15 minutes to post one felt like hours. Again Bang Jamie reminded me, \u201cno matter what you hear and see, keep silent.\u201d Again I heard tiger\u2019s breath at post 1. I kept silent and also kept praying. Three of us still enjoying their time smoking regardless how scared I was. 15 minutes again to post 2. It was 8 p.m. Little bit relieved because we\u2019re going to camp.", 
+        "line": 34, 
+        "range": [
+            3907, 
+            4316
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3952, 
+                    3960
+                ], 
+                "name": "post one"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4088, 
+                    4094
+                ], 
+                "name": "post 1"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4228, 
+                    4234
+                ], 
+                "name": "post 2"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We cooked dinner before sleep and having chit chat for a while. Bang Jam still didnt wanna tell me anything. He just said if tigers had their own path, they wouldnt come closer to human. What sound I heard then? I didnt wanna think more, lets sleep.", 
+        "line": 36, 
+        "range": [
+            4318, 
+            4566
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4558, 
+                    4564
+                ], 
+                "name": "Post 2"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: Post 2 \u2013 Shelter 3", 
+        "line": 38, 
+        "range": [
+            4568, 
+            4594
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Planned to start hiking at 8 a.m but never exactly did as what we planned.", 
+        "line": 40, 
+        "range": [
+            4596, 
+            4669
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "10.30-10.55 : post 2-post 3", 
+        "line": 42, 
+        "range": [
+            4671, 
+            4697
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4675, 
+                    4681
+                ], 
+                "name": "post 3"
+            }
+        ]
+    }, 
+    {
+        "text": "11.15-12.17 : post 3-shelter 1", 
+        "line": 43, 
+        "range": [
+            4698, 
+            4727
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4703, 
+                    4712
+                ], 
+                "name": "shelter 1"
+            }
+        ]
+    }, 
+    {
+        "text": "12.17-13.15 : lunch", 
+        "line": 44, 
+        "range": [
+            4728, 
+            4746
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "13.15-16.30 : shelter 1-shelter 2", 
+        "line": 45, 
+        "range": [
+            4747, 
+            4779
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4747, 
+                    4756
+                ], 
+                "name": "shelter 1"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4757, 
+                    4766
+                ], 
+                "name": "shelter 2"
+            }
+        ]
+    }, 
+    {
+        "text": "17.00-18.30 : shelter 2-shelter 3", 
+        "line": 46, 
+        "range": [
+            4780, 
+            4812
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4781, 
+                    4790
+                ], 
+                "name": "shelter 2"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4791, 
+                    4800
+                ], 
+                "name": "shelter 3"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The challenging part started from shelter 1. We need to climb because it\u2019s high and steep. Roots were used as grip. From shelter 2 to shelter 3 was crazy. The height that we need to climb is as tall as our chin. It\u2019s cloudy, sometimes raining but not very big. I really enjoyed hiking with these guys", 
+        "line": 48, 
+        "range": [
+            4814, 
+            5117
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4836, 
+                    4845
+                ], 
+                "name": "shelter 1"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4923, 
+                    4932
+                ], 
+                "name": "shelter 2"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4936, 
+                    4945
+                ], 
+                "name": "shelter 3"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "They made jokes and it\u2019s totally fun. We laughed so loud on the way. The wind blew very fast when we reached shelter 3. There\u2019s only 1 tent standing beside our tent. Time to rest.", 
+        "line": 50, 
+        "range": [
+            5119, 
+            5301
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5213, 
+                    5222
+                ], 
+                "name": "shelter 3"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5292, 
+                    5301
+                ], 
+                "name": "Shelter 3"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3: Shelter 3 \u2013 Summit of Mount Kerinci", 
+        "line": 52, 
+        "range": [
+            5303, 
+            5346
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5304, 
+                    5327
+                ], 
+                "name": "Summit of Mount Kerinci"
+            }
+        ]
+    }, 
+    {
+        "text": "It\u2019s raining and big wind when we slept but luckily it stopped early morning. Planned to do summit attack at 4 a.m. but in fact we started at 6.15. The sun had rise. Very nice view of the Sungai Penuh and also South China Sea.", 
+        "line": 53, 
+        "range": [
+            5347, 
+            5574
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5420, 
+                    5426
+                ], 
+                "name": "summit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5516, 
+                    5528
+                ], 
+                "name": "Sungai Penuh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5538, 
+                    5553
+                ], 
+                "name": "South China Sea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 54, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I felt worry because of the fog on the summit. I just hoped for good weather up there and also the sulfur condition was not bad. Overall the path is full of rocks and sand but not as sandy like Mount Semeru on Mount Rinjani. 7.45 a.m. reached Tugu Yuda and met other hikers just went down from the summit. They said it was grey up there, covered by fog.", 
+        "line": 55, 
+        "range": [
+            5576, 
+            5928
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5595, 
+                    5601
+                ], 
+                "name": "summit"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5697, 
+                    5701
+                ], 
+                "name": "path"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5750, 
+                    5762
+                ], 
+                "name": "Mount Semeru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5766, 
+                    5779
+                ], 
+                "name": "Mount Rinjani"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5799, 
+                    5808
+                ], 
+                "name": "Tugu Yuda"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5854, 
+                    5860
+                ], 
+                "name": "summit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 56, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was thinking, whatever condition up there, at least I could step on the highest land in Sumatera, I would be very happy although the view was not nice. But again, God blessed me! 8.30 we reached, it was clear up there.", 
+        "line": 57, 
+        "range": [
+            5930, 
+            6149
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5985, 
+                    5997
+                ], 
+                "name": "highest land"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6001, 
+                    6009
+                ], 
+                "name": "Sumatera"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 58, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "And luckily the wind blew to the other side so those thick sulfur moved to the other side, not to the land we step on. Bang Jamie said if the wind changed its direction toward us, within 5 minutes we would fell and poisoned at glance.", 
+        "line": 59, 
+        "range": [
+            6151, 
+            6384
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6235, 
+                    6239
+                ], 
+                "name": "land"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 60, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was extraordinary happy and grateful that I could reach the top of the highest volcano in Indonesia, safely. Took photos, we even did Gangnam Style up there. Thank you God it was soo beautiful. We could see Danau Gunung Tujuh from up there. Very exciting!", 
+        "line": 61, 
+        "range": [
+            6386, 
+            6642
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6427, 
+                    6470
+                ], 
+                "name": "the top of the highest volcano in Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6578, 
+                    6596
+                ], 
+                "name": "Danau Gunung Tujuh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 62, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2 p.m. we went down from shelter 3. Unfortunately Bang Ucok\u2019s injury got worse. He had difficulty to walk. We had to walk very slow. 9 a.m., we decided to camp again one night at third post. Bang Jamie and I went to find water but he wasn\u2019t sure where the source was. We went deep to the jungle. Weathered wood hinder the path, the leaves and branches dissuaded the path.", 
+        "line": 63, 
+        "range": [
+            6644, 
+            7018
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6653, 
+                    6662
+                ], 
+                "name": "shelter 3"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6807, 
+                    6817
+                ], 
+                "name": "third post"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6884, 
+                    6890
+                ], 
+                "name": "source"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6916, 
+                    6922
+                ], 
+                "name": "jungle"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6950, 
+                    6954
+                ], 
+                "name": "path"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6994, 
+                    6998
+                ], 
+                "name": "path"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 64, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Again, this feeling of double worry and weary came across through my mind. Once, Bang Jamie asked me to stay somewhere and he left me to find the path. It was dark, I contemplated tigers, ghost, everything. Bad thinking but that things came to my mind, alone, in a dark jungle. Horrify! But finally we found the water source, a small river. What if the tigers were drinking water at that river? \ud83d\ude09", 
+        "line": 65, 
+        "range": [
+            7020, 
+            7418
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    7147, 
+                    7151
+                ], 
+                "name": "path"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7271, 
+                    7277
+                ], 
+                "name": "jungle"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7313, 
+                    7325
+                ], 
+                "name": "water source"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    7335, 
+                    7340
+                ], 
+                "name": "river"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    7389, 
+                    7394
+                ], 
+                "name": "river"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 66, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 4: Heading down \u2013 Lake Gunung Tujuh", 
+        "line": 67, 
+        "range": [
+            7420, 
+            7460
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7421, 
+                    7438
+                ], 
+                "name": "Lake Gunung Tujuh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 68, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Packing again and going down to the gate. We joined a farmer\u2019s vegetable car to go to main road. Our journey continued to Lake Gunung Tujuh. Lake Gunung Tujuh is located not far from Mount Kerinci. About 30 minutes ride to the location from Tugu Macan, Mount Kerinci.", 
+        "line": 69, 
+        "range": [
+            7462, 
+            7730
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7476, 
+                    7480
+                ], 
+                "name": "gate"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7513, 
+                    7516
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    7531, 
+                    7535
+                ], 
+                "name": "road"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7562, 
+                    7579
+                ], 
+                "name": "Lake Gunung Tujuh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7581, 
+                    7598
+                ], 
+                "name": "Lake Gunung Tujuh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7623, 
+                    7636
+                ], 
+                "name": "Mount Kerinci"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7681, 
+                    7691
+                ], 
+                "name": "Tugu Macan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7693, 
+                    7706
+                ], 
+                "name": "Mount Kerinci"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7709, 
+                    7726
+                ], 
+                "name": "Lake Gunung Tujuh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 70, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lake Gunung Tujuh is known as the highest volcanic crater lake in South East Asia. This location has seven mountains surrounded the lake which was used to be a volcanic crater. Here are the names of the mountains Gunung Hulu Tebo, Gunung Hulu Sangir, Gunung Mandura Besi, Gunung Selasih, Gunung Jar Panggang, Gunung Tujuh.", 
+        "line": 71, 
+        "range": [
+            7732, 
+            8053
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7739, 
+                    7790
+                ], 
+                "name": "the highest volcanic crater lake in South East Asia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7797, 
+                    7805
+                ], 
+                "name": "location"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7816, 
+                    7825
+                ], 
+                "name": "mountains"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7841, 
+                    7845
+                ], 
+                "name": "lake"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7869, 
+                    7884
+                ], 
+                "name": "volcanic crater"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7912, 
+                    7921
+                ], 
+                "name": "mountains"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7922, 
+                    7938
+                ], 
+                "name": "Gunung Hulu Tebo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7940, 
+                    7958
+                ], 
+                "name": "Gunung Hulu Sangir"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7960, 
+                    7979
+                ], 
+                "name": "Gunung Mandura Besi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7981, 
+                    7995
+                ], 
+                "name": "Gunung Selasih"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7997, 
+                    8016
+                ], 
+                "name": "Gunung Jar Panggang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8018, 
+                    8030
+                ], 
+                "name": "Gunung Tujuh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 72, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After going down from Mount Kerinci, I only have a little time to take a rest. Our stomach at that time had been craving for food. Without wasting anytime, we had our simple but meaningful lunch (for our stomach). Bakso or meatball was the closest food nearby. No wonder my friend had two rounds meal because of hunger.", 
+        "line": 73, 
+        "range": [
+            8055, 
+            8373
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8055, 
+                    8068
+                ], 
+                "name": "Mount Kerinci"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 74, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After lunch, we stopped oto to Danau Gunung Tujuh Resort. Only me and Bang Jamie continued while the other two went back to Sungai Penuh. It was raining, not for a long time. We still have to get ojek to go inside to the resort. When you heard resort, forget about luxurious resort.", 
+        "line": 75, 
+        "range": [
+            8375, 
+            8656
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8378, 
+                    8381
+                ], 
+                "name": "oto"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8385, 
+                    8410
+                ], 
+                "name": "Danau Gunung Tujuh Resort"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8478, 
+                    8490
+                ], 
+                "name": "Sungai Penuh"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8550, 
+                    8554
+                ], 
+                "name": "ojek"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8575, 
+                    8581
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8598, 
+                    8604
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8619, 
+                    8635
+                ], 
+                "name": "luxurious resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 76, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yes before it\u2019s a resort, but has been abandoned. It became a place for basecamp only, where people register to hike Lake Gunung Tujuh. 4 friends were waiting for us, Mbak Yandhi, Yura, Sari, and Aan from Padang. They are friends of Bang Jamie (he\u2019s popular :p).", 
+        "line": 77, 
+        "range": [
+            8658, 
+            8923
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8700, 
+                    8705
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8710, 
+                    8718
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8755, 
+                    8772
+                ], 
+                "name": "Lake Gunung Tujuh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8843, 
+                    8849
+                ], 
+                "name": "Padang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 78, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Still with our tired body, we walked and hiked. Pretty draining our stamina. Plus the big refrigerator (backpack) on my back. Aa..my tight was soo stiff. Started at 4 p.m. and ended up at 7 p.m. It\u2019s normal. 3 hours. The other girls are strong. We built our camp, and had rest. I had a massage session with Bang Jamie. Single touch could make us scream loudly. It really hurts.", 
+        "line": 79, 
+        "range": [
+            8925, 
+            9303
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 80, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 5: Back to Sungai Penuh", 
+        "line": 81, 
+        "range": [
+            9305, 
+            9331
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 82, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "On the next day, when sun had shown its light, not so bright because it\u2019s cloudy. We enjoyed the lake, even swam in that cold water. Being a part of nature was just an incredible feeling you cannot find in the town, especially Jakarta. That\u2019s it. Time to go back to Sungai Penuh.", 
+        "line": 83, 
+        "range": [
+            9333, 
+            9615
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9407, 
+                    9411
+                ], 
+                "name": "lake"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9520, 
+                    9524
+                ], 
+                "name": "town"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9537, 
+                    9544
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9576, 
+                    9588
+                ], 
+                "name": "Sungai Penuh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "So, that\u2019s my overall experience climbing Mount Kerinci. It\u2019s fun yet challenging, also I had this mysterious moment during the climb. Who knows the truth, anyway. Let me know if you need more information about climbing Mount Kerinci.", 
+        "line": 85, 
+        "range": [
+            9617, 
+            9854
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9633, 
+                    9646
+                ], 
+                "name": "Mount Kerinci"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9811, 
+                    9824
+                ], 
+                "name": "Mount Kerinci"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hiked in 21-23 Dec 2012 ", 
+        "line": 87, 
+        "range": [
+            9856, 
+            9879
+        ], 
+        "entities": []
+    }
+]

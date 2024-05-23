@@ -1,0 +1,843 @@
+[
+    {
+        "text": "August 23, 2023    Villa Ipanema: A Zen-Like Hideaway Near Canggu, Bali", 
+        "line": 0, 
+        "range": [
+            1, 
+            71
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    19, 
+                    32
+                ], 
+                "name": "Villa Ipanema"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    45, 
+                    53
+                ], 
+                "name": "Hideaway"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    59, 
+                    65
+                ], 
+                "name": "Canggu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    67, 
+                    71
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Holiday season is coming soon, it\u2019s time to make some plans! Bali would be the perfect choice. Whether you want to call it a \u201cfamily-bonding\u201d or a \u201cstress-release-vacation\u201d with friends or colleagues, no second thought, book your ticket asap.", 
+        "line": 2, 
+        "range": [
+            73, 
+            324
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    134, 
+                    138
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Soaking up the summer sun under the powder-blue sky, watching the dawn split the heaven while drinking \u201cBintang\u201d (the local beer), just thinking about it makes your heart flutter, right?", 
+        "line": 4, 
+        "range": [
+            326, 
+            515
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We can think only a few places better \u2013 from which to enjoy it all \u2013 than Villa Ipanema, a 5-bedroom private villa in Batu Belig, near Canggu and Seminyak.", 
+        "line": 6, 
+        "range": [
+            517, 
+            675
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    529, 
+                    535
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    579, 
+                    592
+                ], 
+                "name": "Villa Ipanema"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    614, 
+                    619
+                ], 
+                "name": "villa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    623, 
+                    633
+                ], 
+                "name": "Batu Belig"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    640, 
+                    646
+                ], 
+                "name": "Canggu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    651, 
+                    659
+                ], 
+                "name": "Seminyak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A Huge Private Villa between Canggu and Seminyak", 
+        "line": 8, 
+        "range": [
+            677, 
+            724
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    677, 
+                    682
+                ], 
+                "name": "Villa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    691, 
+                    697
+                ], 
+                "name": "Canggu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    702, 
+                    710
+                ], 
+                "name": "Seminyak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It can be daunting sometimes to find a place that accommodates a big group of people.", 
+        "line": 10, 
+        "range": [
+            726, 
+            810
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    751, 
+                    756
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Built on a hidden street in Batu Belig, connecting two famous tourist area; Canggu and Seminyak, Villa Ipanema is the zen-like hideaway for you to have a private and quality time with your companions, yet not too far from the main attractions.", 
+        "line": 12, 
+        "range": [
+            812, 
+            1054
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    817, 
+                    823
+                ], 
+                "name": "street"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    827, 
+                    837
+                ], 
+                "name": "Batu Belig"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    875, 
+                    881
+                ], 
+                "name": "Canggu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    886, 
+                    894
+                ], 
+                "name": "Seminyak"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    896, 
+                    909
+                ], 
+                "name": "Villa Ipanema"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    926, 
+                    934
+                ], 
+                "name": "hideaway"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1025, 
+                    1041
+                ], 
+                "name": "main attractions"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This 5-bedroom private villa is beautifully designed with an earthy tone.", 
+        "line": 14, 
+        "range": [
+            1056, 
+            1128
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1067, 
+                    1072
+                ], 
+                "name": "villa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The perfect balance of greenery breaks the monochromatic color scheme of the villa.", 
+        "line": 16, 
+        "range": [
+            1130, 
+            1212
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1196, 
+                    1201
+                ], 
+                "name": "villa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The ground floor indulges with a 17 meters-length private pool, several daybeds, and a bale to relax.", 
+        "line": 18, 
+        "range": [
+            1214, 
+            1314
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1262, 
+                    1266
+                ], 
+                "name": "pool"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1291, 
+                    1295
+                ], 
+                "name": "bale"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "An open-plan living area is spacious enough for everyone to mingle, allowing adequate sunshine and fresh breeze to flow.", 
+        "line": 20, 
+        "range": [
+            1316, 
+            1435
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The interiors are carefully assembled to balance the immaculate look, from handmade wooden baskets, patterned cushions, to gongs decorated on the wall.", 
+        "line": 22, 
+        "range": [
+            1437, 
+            1587
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Behind is the kitchen and dining area. The kitchen is fully-equipped with fridge, oven, stove, kettle, and other cooking utensils, perfect for preparing a heart-warming dinner or maybe a feast.", 
+        "line": 24, 
+        "range": [
+            1589, 
+            1781
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A wooden dining table with seagrass chair circling around it can fit a group of people sitting and chatting while enjoying a mouthwatering breakfast, prepared by the staff.", 
+        "line": 26, 
+        "range": [
+            1783, 
+            1954
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The orchids are lovely, another piece of art which adorns the whole look. You can easily spend the whole day hanging around this area.", 
+        "line": 28, 
+        "range": [
+            1956, 
+            2089
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2080, 
+                    2084
+                ], 
+                "name": "area"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Villa Ipanema has 4 king-sized bedrooms and 1 queen-sized bedroom. Three rooms are located on the ground floor and the other two on the second floor.", 
+        "line": 30, 
+        "range": [
+            2091, 
+            2239
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The rooms have similar style which embody the contemporary style furnished with exotic touches of local arts and crafts.", 
+        "line": 32, 
+        "range": [
+            2241, 
+            2360
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The sleek ash-colored tiles harmonize with the uneven shape of wooden blocks on the wall above the bed.", 
+        "line": 34, 
+        "range": [
+            2362, 
+            2464
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The cozy couches at the corner are as inviting as the plush pillows on the bed, a true solitude.", 
+        "line": 36, 
+        "range": [
+            2466, 
+            2561
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The bathroom is exclusively enhanced by tropical plants, a sanctuary just for yourself after a long tiring day.", 
+        "line": 38, 
+        "range": [
+            2563, 
+            2673
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Spoil yourself in the bathtub filled with hot water or just a quick shower to refresh yourself from Bali heat.", 
+        "line": 40, 
+        "range": [
+            2675, 
+            2784
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2776, 
+                    2780
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The amenities and linens are provided in this generous size bathroom.", 
+        "line": 42, 
+        "range": [
+            2786, 
+            2854
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Discover a secret seating area on the second floor, a peaceful spot for daydreaming.", 
+        "line": 44, 
+        "range": [
+            2856, 
+            2939
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Other Things to Do around Villa Ipanema", 
+        "line": 46, 
+        "range": [
+            2941, 
+            2979
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Batu Belig Beach: A beautiful beach for sunset, head to 707 bar for cheap drinks and good music.", 
+        "line": 48, 
+        "range": [
+            2981, 
+            3076
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2986, 
+                    3002
+                ], 
+                "name": "Batu Belig Beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3016, 
+                    3021
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3042, 
+                    3049
+                ], 
+                "name": "707 bar"
+            }
+        ]
+    }, 
+    {
+        "text": "La Laguna Bar: A gypsy inspired beach club between Batu Belig and Berawa", 
+        "line": 49, 
+        "range": [
+            3077, 
+            3148
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3083, 
+                    3096
+                ], 
+                "name": "La Laguna Bar"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3115, 
+                    3125
+                ], 
+                "name": "beach club"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3134, 
+                    3144
+                ], 
+                "name": "Batu Belig"
+            }
+        ]
+    }, 
+    {
+        "text": "Canggu Club: Recreational Center with water parks and sport area.", 
+        "line": 50, 
+        "range": [
+            3149, 
+            3213
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3149, 
+                    3155
+                ], 
+                "name": "Berawa"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3156, 
+                    3167
+                ], 
+                "name": "Canggu Club"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3169, 
+                    3188
+                ], 
+                "name": "Recreational Center"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3194, 
+                    3205
+                ], 
+                "name": "water parks"
+            }
+        ]
+    }, 
+    {
+        "text": "Jalan Petitenget: The extension of bustling Seminyak with boutiques, bars, restaurants lining up.", 
+        "line": 51, 
+        "range": [
+            3214, 
+            3310
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    3222, 
+                    3238
+                ], 
+                "name": "Jalan Petitenget"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3266, 
+                    3274
+                ], 
+                "name": "Seminyak"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3280, 
+                    3289
+                ], 
+                "name": "boutiques"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3291, 
+                    3295
+                ], 
+                "name": "bars"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3297, 
+                    3308
+                ], 
+                "name": "restaurants"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Villa Ipanema Batubelig", 
+        "line": 53, 
+        "range": [
+            3312, 
+            3334
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Rate: USD 520++/night", 
+        "line": 54, 
+        "range": [
+            3335, 
+            3355
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalan Kayu Putih, Tibubeneng, Kuta Utara", 
+        "line": 55, 
+        "range": [
+            3356, 
+            3395
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    3367, 
+                    3383
+                ], 
+                "name": "Jalan Kayu Putih"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3385, 
+                    3395
+                ], 
+                "name": "Tibubeneng"
+            }
+        ]
+    }, 
+    {
+        "text": "Bali, 8035", 
+        "line": 56, 
+        "range": [
+            3396, 
+            3405
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Phone: +62 361 370 1000", 
+        "line": 57, 
+        "range": [
+            3406, 
+            3428
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3408, 
+                    3412
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "Website: www.ipanemavilla.com", 
+        "line": 58, 
+        "range": [
+            3429, 
+            3457
+        ], 
+        "entities": []
+    }
+]

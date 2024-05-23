@@ -1,0 +1,1659 @@
+[
+    {
+        "text": "July 5, 2020    Komodo Islands Indonesia: Travel Guide And Experience", 
+        "line": 0, 
+        "range": [
+            1, 
+            69
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    16, 
+                    40
+                ], 
+                "name": "Komodo Islands Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Komodo Islands, located just next to the island of Bali and Lombok is one of the best experience you\u2019ll get while traveling to Indonesia. It\u2019s the only place on earth where you can see the magnificent Komodo Dragons in their real habitat.", 
+        "line": 2, 
+        "range": [
+            71, 
+            312
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    71, 
+                    85
+                ], 
+                "name": "Komodo Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    112, 
+                    126
+                ], 
+                "name": "island of Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    131, 
+                    137
+                ], 
+                "name": "Lombok"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    198, 
+                    207
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    223, 
+                    228
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    232, 
+                    237
+                ], 
+                "name": "earth"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    301, 
+                    308
+                ], 
+                "name": "habitat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Not only blessed with the wildlife, the islands around offer an array of exotic beaches, also a great place for diving or snorkelling. I was lucky to win a free trip organise by the Ministry of Tourism Indonesia.", 
+        "line": 4, 
+        "range": [
+            314, 
+            525
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    351, 
+                    358
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    391, 
+                    398
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    413, 
+                    444
+                ], 
+                "name": "place for diving or snorkelling"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I will share not only my experience traveling to Komodo Islands, Indonesia, I\u2019ll also share some tips and travel guide, hopefully it can help you to plan the trip.", 
+        "line": 6, 
+        "range": [
+            527, 
+            691
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    574, 
+                    588
+                ], 
+                "name": "Komodo Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    590, 
+                    599
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Brief overview of Komodo Islands, Indonesia", 
+        "line": 8, 
+        "range": [
+            693, 
+            735
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    708, 
+                    722
+                ], 
+                "name": "Komodo Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    724, 
+                    733
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Komodo Islands or also known as Komodo National Park  was a former candidate for seven wonders. It is only the place where Komodo Dragons can be found in the wild.", 
+        "line": 10, 
+        "range": [
+            737, 
+            899
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    767, 
+                    787
+                ], 
+                "name": "Komodo National Park"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    846, 
+                    851
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    889, 
+                    897
+                ], 
+                "name": "the wild"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are three main islands: Rinca Island (Loh Buaya), Komodo Island (Loh Liang), and Padar Island.", 
+        "line": 12, 
+        "range": [
+            901, 
+            1000
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    916, 
+                    928
+                ], 
+                "name": "main islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    930, 
+                    942
+                ], 
+                "name": "Rinca Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    944, 
+                    953
+                ], 
+                "name": "Loh Buaya"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    956, 
+                    969
+                ], 
+                "name": "Komodo Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    971, 
+                    980
+                ], 
+                "name": "Loh Liang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    987, 
+                    999
+                ], 
+                "name": "Padar Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Komodo Dragon is a rare species and almost extinct. Therefore, it is acknowledged as a World Heritage site and Biosphere Reserve. More than 2000 Komodo Dragons live in these islands.", 
+        "line": 14, 
+        "range": [
+            1002, 
+            1183
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1089, 
+                    1108
+                ], 
+                "name": "World Heritage site"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1113, 
+                    1130
+                ], 
+                "name": "Biosphere Reserve"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1176, 
+                    1183
+                ], 
+                "name": "islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A Komodo Dragon moves pretty quick 20-30 km/hour. It looks slow and quiet but it can attack the prey anytime. It has a good ability in smelling food and blood. For girls, if you\u2019re having period, tell the guide. Komodo Dragons are independent. They live alone and hunting prey alone.", 
+        "line": 16, 
+        "range": [
+            1185, 
+            1469
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This humongous creature will dig many holes when it comes to laying the eggs. Only one hole keeps the egg, while the others are just a manipulation to avoid predator.", 
+        "line": 18, 
+        "range": [
+            1471, 
+            1636
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "When the eggs hatched, the baby will climb the trees to protect themselves. The percentage of hatching is 95 percent, but the percentage for the baby to survive is only 15-20 percent.", 
+        "line": 20, 
+        "range": [
+            1638, 
+            1820
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How to get to Komodo Islands", 
+        "line": 22, 
+        "range": [
+            1822, 
+            1849
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The gate to reach this wonderful national park is from Labuan Bajo, Nusa Tenggara Timur. Direct flights from Jakarta are available, but I suggest to fly to Bali first then continue flying to Labuan Bajo because it will be cheaper (in case you wanna press your budget).", 
+        "line": 24, 
+        "range": [
+            1851, 
+            2118
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1858, 
+                    1862
+                ], 
+                "name": "gate"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1887, 
+                    1900
+                ], 
+                "name": "national park"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1909, 
+                    1920
+                ], 
+                "name": "Labuan Bajo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1922, 
+                    1941
+                ], 
+                "name": "Nusa Tenggara Timur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1963, 
+                    1970
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2010, 
+                    2014
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2045, 
+                    2056
+                ], 
+                "name": "Labuan Bajo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The most convenient way to check out Komodo Islands is by joining Live on Board Tours, where you\u2019ll sleep on a boat for a couple of days hopping from one island to another. Some tours start from Lombok, some from Labuan Bajo", 
+        "line": 26, 
+        "range": [
+            2120, 
+            2345
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2161, 
+                    2175
+                ], 
+                "name": "Komodo Islands"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2235, 
+                    2239
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2278, 
+                    2284
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2319, 
+                    2325
+                ], 
+                "name": "Lombok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "So, with this Live on Board, there are boats where you can sleep on deck and boats where you can sleep in a cabin. Definitely there will be price differences. The price normally includes transfer to the harbour, living on board, meals during the trip, tour guide, and snorkelling set. However, the price is not including the entrance ticket to the national park.", 
+        "line": 28, 
+        "range": [
+            2347, 
+            2708
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2389, 
+                    2394
+                ], 
+                "name": "boats"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2427, 
+                    2432
+                ], 
+                "name": "boats"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2553, 
+                    2560
+                ], 
+                "name": "harbour"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The entrance fee to Komodo National Park is Rp 460,000/$32 (weekdays) and Rp 535,000/$37 (weekends) for foreigners, Rp 265,000/$18 (weekdays) for local. The price for 3D2n Live on Board from Labuan Bajo starts from $155.", 
+        "line": 30, 
+        "range": [
+            2710, 
+            2929
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2734, 
+                    2754
+                ], 
+                "name": "Komodo National Park"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2905, 
+                    2916
+                ], 
+                "name": "Labuan Bajo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you wanna rent a phinisi boat, you can check out Segara Liveaboard. This boat has 4 cabin and it can fit up to 11 people. It suits better if you have more people or family members that will join.", 
+        "line": 32, 
+        "range": [
+            2931, 
+            3128
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2956, 
+                    2968
+                ], 
+                "name": "phinisi boat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3012, 
+                    3016
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Where to stay in Labuan Bajo", 
+        "line": 34, 
+        "range": [
+            3130, 
+            3157
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Budget: La Boheme Bajo ($14)", 
+        "line": 36, 
+        "range": [
+            3159, 
+            3186
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Middle: Seaesta Komodo Hostel & Hotel ($52)", 
+        "line": 37, 
+        "range": [
+            3187, 
+            3229
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Fancy: Plataran Komodo Beach Resort ($296)", 
+        "line": 38, 
+        "range": [
+            3230, 
+            3271
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My experience and itinerary", 
+        "line": 40, 
+        "range": [
+            3273, 
+            3299
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There were 15 winners of this quiz plus 5 more international winners. I just knew that indonesia.travel also held the quiz in Turkey and The Philippines! Seriously, they really did big promotion to Indonesia Tourism! Glad for that.  I was so surprised with the facilities given to the winners, the hospitality, everything made me speechless.", 
+        "line": 42, 
+        "range": [
+            3301, 
+            3641
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3438, 
+                    3444
+                ], 
+                "name": "Turkey"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3449, 
+                    3464
+                ], 
+                "name": "The Philippines"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: Touchdown Bali", 
+        "line": 44, 
+        "range": [
+            3643, 
+            3663
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "First Hotel was Mercure Hotel in Bali. I thought there will be two persons in a room but you know what, each room for each person. I was more surprised when the coordinator said I could order anything for the lunch in the hotel restaurant. Wow then I thought, this could be only happened once in my life! I am a traveler but the way I travel is more to backpacking style. I will never choose a hotel and eat in a restaurant to press my budget. This is a real holiday!", 
+        "line": 46, 
+        "range": [
+            3665, 
+            4131
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3672, 
+                    3676
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3684, 
+                    3689
+                ], 
+                "name": "Hotel"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3694, 
+                    3707
+                ], 
+                "name": "Mercure Hotel"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3711, 
+                    3715
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3900, 
+                    3916
+                ], 
+                "name": "hotel restaurant"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4072, 
+                    4077
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4091, 
+                    4101
+                ], 
+                "name": "restaurant"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: Labuan Bajo \u2013 Rinca Island \u2013 Kanawa Island", 
+        "line": 48, 
+        "range": [
+            4133, 
+            4185
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4154, 
+                    4165
+                ], 
+                "name": "Labuan Bajo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4168, 
+                    4180
+                ], 
+                "name": "Rinca Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Second day, Fly to Labuan Bajo with Trans Nusa. First time using such a small plane. As a mountain lover, I love when we\u2019re passing Mount Rinjani and Mount Tambora. I kept looking out the window. Man, I wish I could climb Mount Rinjani again.", 
+        "line": 50, 
+        "range": [
+            4187, 
+            4430
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4217, 
+                    4228
+                ], 
+                "name": "Labuan Bajo"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4234, 
+                    4244
+                ], 
+                "name": "Trans Nusa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4270, 
+                    4281
+                ], 
+                "name": "small plane"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4330, 
+                    4343
+                ], 
+                "name": "Mount Rinjani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4348, 
+                    4361
+                ], 
+                "name": "Mount Tambora"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "One word describing Labuan Bajo. HOT !! It was totally hot !! But no problem, I was in process of darkening or tanning my skin hehe. Without wasting any time, I stood in front of the welcoming board and took photo.", 
+        "line": 52, 
+        "range": [
+            4432, 
+            4645
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4462, 
+                    4473
+                ], 
+                "name": "Labuan Bajo"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4625, 
+                    4640
+                ], 
+                "name": "welcoming board"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We were greeted by ladies and gentlemen wearing traditional cloth. They gave us something like shawl, originally from the region I think.  By the time I was there, the new airport was still under construction.", 
+        "line": 54, 
+        "range": [
+            4647, 
+            4855
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4780, 
+                    4786
+                ], 
+                "name": "region"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4830, 
+                    4837
+                ], 
+                "name": "airport"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Next, we went to the harbor by bus and directly using speed boat to first island, Rinca Island. Around 45 minutes we reached Rinca Island and did trekking for 2 hours. We were lucky to see three Komodo Dragons were eating a pig.", 
+        "line": 56, 
+        "range": [
+            4857, 
+            5084
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4890, 
+                    4896
+                ], 
+                "name": "harbor"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4900, 
+                    4903
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4923, 
+                    4933
+                ], 
+                "name": "speed boat"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4943, 
+                    4949
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4951, 
+                    4963
+                ], 
+                "name": "Rinca Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4994, 
+                    5006
+                ], 
+                "name": "Rinca Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After having some fun looking and learning about Komodo Dragons, we went to Kanawa Island. White sands, cottage, exotic hills which I believe only can be seen in this part of Indonesia, wonderful ! Snorkeling time !! My adventurous side suddenly popped out. I separated myself from the group (sorry) seeking for better spot for snorkeling. I found it, indeed !", 
+        "line": 58, 
+        "range": [
+            5086, 
+            5445
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5175, 
+                    5188
+                ], 
+                "name": "Kanawa Island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5203, 
+                    5210
+                ], 
+                "name": "cottage"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5219, 
+                    5224
+                ], 
+                "name": "hills"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5274, 
+                    5283
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5418, 
+                    5437
+                ], 
+                "name": "spot for snorkeling"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3: Komodo Island \u2013 Pink Beach", 
+        "line": 60, 
+        "range": [
+            5447, 
+            5481
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5468, 
+                    5481
+                ], 
+                "name": "Komodo Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I woke up on 5 a.m. in the morning. I was lack of sleep and it made me tired but I was still very excited to do the activities. After having a light breakfast in the hotel, we departed to the harbor again which is not very far from our hotel. Again, taking speedboat but we had different destination today,  Komodo Islands Indonesia and Pink Beach.", 
+        "line": 62, 
+        "range": [
+            5483, 
+            5830
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5484, 
+                    5494
+                ], 
+                "name": "Pink Beach"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5662, 
+                    5667
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5688, 
+                    5694
+                ], 
+                "name": "harbor"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5732, 
+                    5737
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5753, 
+                    5762
+                ], 
+                "name": "speedboat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5804, 
+                    5828
+                ], 
+                "name": "Komodo Islands Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It took about 1 hour to reach Loh Liang or Komodo Island. First arrival, as usual I would get out from the boat and took pictures before it\u2019s getting crowded. As a World Heritage Site, they had build a beautiful welcome board made by stone designed with Komodo statue on it.", 
+        "line": 64, 
+        "range": [
+            5832, 
+            6107
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5833, 
+                    5843
+                ], 
+                "name": "Pink Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5876, 
+                    5885
+                ], 
+                "name": "Loh Liang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5889, 
+                    5902
+                ], 
+                "name": "Komodo Island"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5953, 
+                    5957
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6010, 
+                    6029
+                ], 
+                "name": "World Heritage Site"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6058, 
+                    6071
+                ], 
+                "name": "welcome board"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are no housings in Komodo Island and also Rinca Island. Only some small cottage as the place for guides to stay. The shifting system for the guides is 10 days working and 10 days work.", 
+        "line": 66, 
+        "range": [
+            6109, 
+            6298
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6135, 
+                    6143
+                ], 
+                "name": "housings"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6147, 
+                    6160
+                ], 
+                "name": "Komodo Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6170, 
+                    6182
+                ], 
+                "name": "Rinca Island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6200, 
+                    6207
+                ], 
+                "name": "cottage"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6215, 
+                    6220
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A guide told me that he preferred to stay in the island rather than going back to Labuan Bajo because the living cost there is expensive. Maybe he\u2019s still single so not a big deal for him but what about the married one and having family? Haha..And also he told me the numbers of domestic visitors are increasing. The ratio is 50:50.", 
+        "line": 68, 
+        "range": [
+            6300, 
+            6633
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6363, 
+                    6369
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6396, 
+                    6407
+                ], 
+                "name": "Labuan Bajo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Not only international tourists come to Komodo Island. I was so glad knowing that Indonesian choose its own country for vacation. Too many potentials of our own country to be explored. Again, thanks to ministry of tourism who had worked hard to in promoting Indonesia tourism. Glad to hear that. Next, after hearing the explanation from the guide, we began our trekking to see Komodo Dragon. Yay!", 
+        "line": 70, 
+        "range": [
+            6635, 
+            7030
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6688, 
+                    6701
+                ], 
+                "name": "Komodo Island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6756, 
+                    6763
+                ], 
+                "name": "country"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6809, 
+                    6816
+                ], 
+                "name": "country"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We reached a spot where water are available. Actually this water spring was made, not naturally created by nature. The reason is to attract animals such as deer, pig, buffalo.", 
+        "line": 72, 
+        "range": [
+            7032, 
+            7206
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7059, 
+                    7063
+                ], 
+                "name": "spot"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7105, 
+                    7117
+                ], 
+                "name": "water spring"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "When they gather in this place, Komodo Dragon will also come to this place to look for the prey. I was shocked when there were 5 Komodo Dragons gather in this place at once. The size are bigger than the one in Rinca Island.", 
+        "line": 74, 
+        "range": [
+            7208, 
+            7430
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7248, 
+                    7253
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7292, 
+                    7297
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7382, 
+                    7387
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was kindda scared because there were so many of them, afraid they would attack at once. The Komodo Dragons were having rest. They usually do that in afternoon. We did trekking about 1.5 hours.", 
+        "line": 76, 
+        "range": [
+            7432, 
+            7625
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7433, 
+                    7445
+                ], 
+                "name": "Rinca Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Next destination Pink Beach. Still located in Komodo Dragon, only different side of island. The sand is real pink ! Not all of them actually. The gradation made from the wave created pink colour.", 
+        "line": 78, 
+        "range": [
+            7627, 
+            7821
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7661, 
+                    7671
+                ], 
+                "name": "Pink Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7690, 
+                    7703
+                ], 
+                "name": "Komodo Dragon"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7728, 
+                    7734
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are still no exact theory on why the sand is pink. Some said it\u2019s leftovers from broken corals. After having lunch and waiting for my stomach digested the food a little bit, snorkeling time ! The corals are way much better than Kanawa Island. I was so amazed !", 
+        "line": 80, 
+        "range": [
+            7823, 
+            8090
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8075, 
+                    8088
+                ], 
+                "name": "Kanawa Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Finally, we went back to our hotel. I was so sleepy , tired, no energy left. I cleaned myself and waited for the sunset on my hotel balcony. I actually changed my room. First room I got, facing the jungle not sea. I went to the receptionist and asked them to change my room. I was so excited with this room.", 
+        "line": 82, 
+        "range": [
+            8092, 
+            8398
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8138, 
+                    8143
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8307, 
+                    8313
+                ], 
+                "name": "jungle"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8318, 
+                    8321
+                ], 
+                "name": "sea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "During the night we had a great time. Having dinner together at the pool side, singing together, dancing, celebrating our last moment before separate.", 
+        "line": 84, 
+        "range": [
+            8400, 
+            8549
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8486, 
+                    8490
+                ], 
+                "name": "pool"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s fun to hear turkish song, philippines song, and mongolian song. We got money in cash, having this trip has been a bless for me, even no cash money I would be very grateful already. I didn\u2019t know how much they spent for us but I think it\u2019s a lot.", 
+        "line": 86, 
+        "range": [
+            8551, 
+            8806
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I would like to say thank you for Indonesia.Travel, for everything. Big thanks to God to appreciate my hardwork. I was soo lucky. Thanks to Bang Ravindra (bule) as our organizer.", 
+        "line": 88, 
+        "range": [
+            8808, 
+            8985
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Thanks to Bu Ratna and Pak Budi from Ministry of Tourism. Great job ! Don\u2019t ever stop promoting our lovely country, especially Komodo Islands Indonesia ! Thanks to Bang Sandhi for sharing such a lot information.", 
+        "line": 90, 
+        "range": [
+            8987, 
+            9199
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9109, 
+                    9116
+                ], 
+                "name": "country"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9129, 
+                    9153
+                ], 
+                "name": "Komodo Islands Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Thanks to all the winners, you had worked so hard and you guys successfully won this trip. Thanks for the media. Thanks for all my friends who had helped me to gain more points. I love Indonesia !!!", 
+        "line": 92, 
+        "range": [
+            9201, 
+            9398
+        ], 
+        "entities": []
+    }
+]

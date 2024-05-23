@@ -1,0 +1,1656 @@
+[
+    {
+        "text": "April 8, 2012    Penang, Thousands Cultures In A Small Island", 
+        "line": 0, 
+        "range": [
+            1, 
+            61
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    17, 
+                    23
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    55, 
+                    61
+                ], 
+                "name": "Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hello\u2026It\u2019s holiday time and I had a vacation. my destination was penang, I accidentally opened someone\u2019s blog and found out that Penang is interesting, and on the next day, my friend asked me to take her on a vacation, and when I checked airasia, I found promotion, destination Penang, 4 days 3 nights only IDR 1,400,000 including the hotel and flight ticket..woww !! what a coincidence. Actually I wanted to press the budget by not taking the hotel, but my friend didnt want to stay in cheap hostel, ya soo we chose hotel. I got 3 friends in total, Vivi, Sherly, and Wana Departed on 28 March 2012, and came back 31 March 2012 !", 
+        "line": 2, 
+        "range": [
+            63, 
+            697
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    128, 
+                    134
+                ], 
+                "name": "penang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    192, 
+                    198
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    301, 
+                    308
+                ], 
+                "name": "airasia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    341, 
+                    347
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    398, 
+                    403
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    408, 
+                    414
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    507, 
+                    512
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    556, 
+                    562
+                ], 
+                "name": "hostel"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    580, 
+                    585
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Actually my title is a bit hyperbole, actually there\u2019re no thousands cultures in Penang, but it has many different cultures we can experience. India, China, Malaysia, Thailand, and Europe..Perfect place to take pics haha..one of my objectives beside holiday is taking many pictures haha..", 
+        "line": 4, 
+        "range": [
+            699, 
+            988
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    775, 
+                    781
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    837, 
+                    842
+                ], 
+                "name": "India"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    844, 
+                    849
+                ], 
+                "name": "China"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    851, 
+                    859
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    861, 
+                    869
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    875, 
+                    881
+                ], 
+                "name": "Europe"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1", 
+        "line": 6, 
+        "range": [
+            990, 
+            994
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The flight was on 5.30 a.m in the morning, I stayed a night in the international airport Soekarno Hatta with my friends. One important lesson is dont bring liquid in bottle more than 100 ml. My new body lotion was taken, so did my friend\u2019s new tooth paste hahaa\u2026It took around 2 hours to reah Penang.. Ok it\u2019s a small airport in Penang, and ohya..Penang is popular for it\u2019s hospital and medication, so we found many sick people in the airport, it\u2019s just weird because no teens would go to penang for vacation, at that time only us..haha..but we glad when we reached the town, many young backpackers were visiting Penang, maybe only for transit to go to Thailand, who knows hehe.. Another lesson is, sim card price in Penang is sooo expensive..RM 20 and the balance is just RM 5, what a waste..I shouldnt buy it..Then it\u2019s easy to get transportation, we could take rapid shuttle bus across the island. From airport take bus no 401E to Komtar. about 20 mins. our hotel was around that area. We saw a tall building continental, yes that\u2019s our hotel, we wanted to take taxi but it\u2019s quite expensive, so we decided to walk with our baggage. But it wasn\u2019t our hotel..that one is Hotel Grand Continental, and our hotel should be Hotel Continental..then we asked people around there..walk and walk on that hot sunny day, we took free on hop bus and walked to the hotel..finally !", 
+        "line": 8, 
+        "range": [
+            996, 
+            2384
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1058, 
+                    1094
+                ], 
+                "name": "international airport Soekarno Hatta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1284, 
+                    1290
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1309, 
+                    1316
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1320, 
+                    1326
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1338, 
+                    1344
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1365, 
+                    1373
+                ], 
+                "name": "hospital"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1426, 
+                    1433
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1480, 
+                    1486
+                ], 
+                "name": "penang"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1561, 
+                    1565
+                ], 
+                "name": "town"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1604, 
+                    1610
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1644, 
+                    1652
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1708, 
+                    1714
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1825, 
+                    1839
+                ], 
+                "name": "transportation"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1855, 
+                    1872
+                ], 
+                "name": "rapid shuttle bus"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1884, 
+                    1890
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1897, 
+                    1904
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1910, 
+                    1921
+                ], 
+                "name": "bus no 401E"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1925, 
+                    1931
+                ], 
+                "name": "Komtar"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1952, 
+                    1957
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1974, 
+                    1978
+                ], 
+                "name": "area"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1994, 
+                    2002
+                ], 
+                "name": "building"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2031, 
+                    2036
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2056, 
+                    2060
+                ], 
+                "name": "taxi"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2145, 
+                    2150
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2164, 
+                    2187
+                ], 
+                "name": "Hotel Grand Continental"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2197, 
+                    2202
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2213, 
+                    2230
+                ], 
+                "name": "Hotel Continental"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2312, 
+                    2327
+                ], 
+                "name": "free on hop bus"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2346, 
+                    2351
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "For your information, there\u2019s free shuttle bus around georgetown, just look at the free on hop sign. and dont forget to take the map, it\u2019s very helping and you can see the bus route and number..and also Georgetown is one of the world heritage", 
+        "line": 10, 
+        "range": [
+            2386, 
+            2631
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2394, 
+                    2410
+                ], 
+                "name": "free shuttle bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2418, 
+                    2428
+                ], 
+                "name": "georgetown"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2536, 
+                    2545
+                ], 
+                "name": "bus route"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2567, 
+                    2577
+                ], 
+                "name": "Georgetown"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2588, 
+                    2606
+                ], 
+                "name": "the world heritage"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2626, 
+                    2631
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After reached the hotel, we took a rest because i didnt sleep last night in the airport, on the evening, we took a walk around LittLE India and realized that Georgetown was so small. We could find many temples in Georgetown and we could found them all by foot !", 
+        "line": 12, 
+        "range": [
+            2633, 
+            2893
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2688, 
+                    2695
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2735, 
+                    2747
+                ], 
+                "name": "LittLE India"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2766, 
+                    2776
+                ], 
+                "name": "Georgetown"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2810, 
+                    2817
+                ], 
+                "name": "temples"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2821, 
+                    2831
+                ], 
+                "name": "Georgetown"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are lot\u2019s of food there, we tried Indian food and chinese food\u2026Ghee tosai, Canai, and the wan tan mee here is a bit different from Indonesia, it\u2019s black..and the Lo mie is also different..they combined some noodles inside..ahh so full..Then we took pics in Komtar..It was the tallest building in Georgetown", 
+        "line": 14, 
+        "range": [
+            2895, 
+            3212
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3008, 
+                    3017
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3134, 
+                    3140
+                ], 
+                "name": "Komtar"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3161, 
+                    3169
+                ], 
+                "name": "building"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3173, 
+                    3183
+                ], 
+                "name": "Georgetown"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2", 
+        "line": 16, 
+        "range": [
+            3214, 
+            3218
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wake up in the morning feeling like P.Diddy ! Lol..so we woke up in the morning, our agenda today is visit all the places around Georgetown, by foot of course hehehe..First place was Cheong Fatt Tze Mansion..it\u2019s only behind our hotel.. we didnt take a look inside because it has visiting schedule, 11 p.m and 1 p.m if i\u2019m not mistaken..the price was RM 10..You could stay here if you want..hehhe..So CHeong Fatt Tze was an influencer and great person at that time..you could check the history on google hehe", 
+        "line": 18, 
+        "range": [
+            3220, 
+            3731
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3307, 
+                    3313
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3321, 
+                    3331
+                ], 
+                "name": "Georgetown"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3375, 
+                    3398
+                ], 
+                "name": "Cheong Fatt Tze Mansion"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3421, 
+                    3426
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3702, 
+                    3717
+                ], 
+                "name": "Fort Cornwallis"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Fort Cornwallis, to enter it we must pay RM 2..again, check google if you want to know more about this fort =)", 
+        "line": 20, 
+        "range": [
+            3733, 
+            3842
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3805, 
+                    3809
+                ], 
+                "name": "fort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "On the afternoon we went to Queens Bay Mall, big mall, and we could see the bay from here and also butterworth bridge..we didnt go to butterworth, maybe if you had enough time, you could pass this bridge hehe..", 
+        "line": 22, 
+        "range": [
+            3844, 
+            4053
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3863, 
+                    3867
+                ], 
+                "name": "mall"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3890, 
+                    3893
+                ], 
+                "name": "bay"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3913, 
+                    3931
+                ], 
+                "name": "butterworth bridge"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3948, 
+                    3959
+                ], 
+                "name": "butterworth"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4011, 
+                    4017
+                ], 
+                "name": "bridge"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3..", 
+        "line": 24, 
+        "range": [
+            4055, 
+            4061
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Today destination is Botanical Garden, Batu Feringghi, and Kek Lok Si Temple..", 
+        "line": 26, 
+        "range": [
+            4063, 
+            4140
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4074, 
+                    4088
+                ], 
+                "name": "Batu Feringghi"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4094, 
+                    4111
+                ], 
+                "name": "Kek Lok Si Temple"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4127, 
+                    4133
+                ], 
+                "name": "Penang"
+            }
+        ]
+    }, 
+    {
+        "text": "To go around Penang, you should take the bus from Komtar, you could either walk or take free hop bus to Komtar. Botanical garden can be reached by bus number 10 in line 1, but after waiting around 1 hour, the bus was not coming, so we decided to go Batu Feringghi by bus number 101. It took about 30 mins to reach batu feringghi from Komtar, and we kindda disappointed with the beach. We came to morning so no people, the beach guard said that it\u2019s crowded in the night..in this each you could play jetski, banana boat, and parachute, the weay to feringghi was very complicated, many turning and we could get carsick. we only spent few minutes there than took bus again to Stesen Tanjung Bungah, to reached Kek Lok Si\u2026and we made a big mistake !", 
+        "line": 27, 
+        "range": [
+            4141, 
+            4889
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4155, 
+                    4158
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4164, 
+                    4170
+                ], 
+                "name": "Komtar"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4202, 
+                    4214
+                ], 
+                "name": "free hop bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4218, 
+                    4224
+                ], 
+                "name": "Komtar"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4226, 
+                    4242
+                ], 
+                "name": "Botanical garden"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4261, 
+                    4274
+                ], 
+                "name": "bus number 10"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    4278, 
+                    4284
+                ], 
+                "name": "line 1"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4323, 
+                    4326
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4363, 
+                    4377
+                ], 
+                "name": "Batu Feringghi"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4381, 
+                    4395
+                ], 
+                "name": "bus number 101"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4428, 
+                    4442
+                ], 
+                "name": "batu feringghi"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4448, 
+                    4454
+                ], 
+                "name": "Komtar"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4492, 
+                    4497
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4536, 
+                    4541
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4593, 
+                    4597
+                ], 
+                "name": "each"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4653, 
+                    4657
+                ], 
+                "name": "weay"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4661, 
+                    4670
+                ], 
+                "name": "feringghi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4774, 
+                    4777
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4787, 
+                    4808
+                ], 
+                "name": "Stesen Tanjung Bungah"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4821, 
+                    4831
+                ], 
+                "name": "Kek Lok Si"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 28, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "When we saw the map, Kek Lok Si can be reached with bus 501, so we went to Stasiun Tanjung Bungah, but we made mistake, it\u2019s not 501 bus to Kek Lok Si but 502. After taking bus 101 to stasiun tanjung bungah, we waited about an hour until the bus showed up..and you know what? the way to balik pulau was like hell! Rapid bus was so fast, and the track was turning around the hills, and we were like inside a roller coaster\u2026oh my god..i just could close my eyes, and hold on tight on the chair..", 
+        "line": 29, 
+        "range": [
+            4891, 
+            5387
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4913, 
+                    4920
+                ], 
+                "name": "bus 501"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4936, 
+                    4958
+                ], 
+                "name": "Stasiun Tanjung Bungah"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4990, 
+                    4997
+                ], 
+                "name": "501 bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5001, 
+                    5011
+                ], 
+                "name": "Kek Lok Si"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    5016, 
+                    5019
+                ], 
+                "name": "502"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    5034, 
+                    5041
+                ], 
+                "name": "bus 101"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5045, 
+                    5067
+                ], 
+                "name": "stasiun tanjung bungah"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5103, 
+                    5106
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5148, 
+                    5159
+                ], 
+                "name": "balik pulau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5175, 
+                    5184
+                ], 
+                "name": "Rapid bus"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5206, 
+                    5211
+                ], 
+                "name": "track"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5235, 
+                    5240
+                ], 
+                "name": "hills"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 30, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "About 15 minutes I think but yah it feels like an hour. Then we took 502 bus, to Kek Lok Si Temple in Air Itam Area, and all the hardship was paid off..Kek Lok Si was soo amazing !", 
+        "line": 31, 
+        "range": [
+            5389, 
+            5568
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    5425, 
+                    5432
+                ], 
+                "name": "502 bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5437, 
+                    5454
+                ], 
+                "name": "Kek Lok Si Temple"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5458, 
+                    5471
+                ], 
+                "name": "Air Itam Area"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5508, 
+                    5518
+                ], 
+                "name": "Kek Lok Si"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5556, 
+                    5562
+                ], 
+                "name": "stairs"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 32, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We must climb the stairs to the temple, but it\u2019s not really felt like climbing stairs because we would pass the place such as market that sell souvenirs..So here are the pictures", 
+        "line": 33, 
+        "range": [
+            5570, 
+            5749
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5570, 
+                    5576
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5617, 
+                    5623
+                ], 
+                "name": "stairs"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5650, 
+                    5655
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5664, 
+                    5670
+                ], 
+                "name": "market"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 34, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "to reached the upper part of the temple, we used something like elevator, and paid RM 4..", 
+        "line": 35, 
+        "range": [
+            5751, 
+            5839
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5751, 
+                    5757
+                ], 
+                "name": "temple"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 36, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After finished admiring the temple, we went back to hotel by using bus 101 to Komtar..", 
+        "line": 37, 
+        "range": [
+            5841, 
+            5926
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5861, 
+                    5866
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    5876, 
+                    5883
+                ], 
+                "name": "bus 101"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5887, 
+                    5893
+                ], 
+                "name": "Komtar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 38, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 4", 
+        "line": 39, 
+        "range": [
+            5928, 
+            5932
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 40, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Two of my friends, Sherly and Vivi went to airport first because they had earlier fligt, so Wana and I visited Pinang Peranakan Mansion..and it just wow! Peranakan is a title of descendant between Chinese and Melayu, and they were a rich family at that time..Inside this house, many heritages such as furniture exported from europe, jewelry, thousands years old wood, etc..to enter this mansion we paid RM 10 per person..you can reach here by using free on hop bus and walk a lil bit", 
+        "line": 41, 
+        "range": [
+            5934, 
+            6416
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5947, 
+                    5954
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5986, 
+                    5991
+                ], 
+                "name": "fligt"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6015, 
+                    6039
+                ], 
+                "name": "Pinang Peranakan Mansion"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6175, 
+                    6180
+                ], 
+                "name": "house"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6229, 
+                    6235
+                ], 
+                "name": "europe"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6291, 
+                    6298
+                ], 
+                "name": "mansion"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6353, 
+                    6368
+                ], 
+                "name": "free on hop bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 42, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Then we closed our trip by visiting thailand temple and played archer", 
+        "line": 43, 
+        "range": [
+            6418, 
+            6486
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6425, 
+                    6440
+                ], 
+                "name": "thailand temple"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 44, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Notes :", 
+        "line": 45, 
+        "range": [
+            6488, 
+            6494
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "-The price of rapid bus is 1.4, 2 , 2.7\u2026the furthest place cost RM 2.7 and it only takes around 30 minutes to the furthest area.", 
+        "line": 46, 
+        "range": [
+            6495, 
+            6624
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6591, 
+                    6595
+                ], 
+                "name": "area"
+            }
+        ]
+    }, 
+    {
+        "text": "-The map is available in the airport, it will show the popular destination, bus route. Take one cause it\u2019s really helpfull", 
+        "line": 47, 
+        "range": [
+            6625, 
+            6748
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6626, 
+                    6633
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6660, 
+                    6671
+                ], 
+                "name": "destination"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6673, 
+                    6682
+                ], 
+                "name": "bus route"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6721, 
+                    6736
+                ], 
+                "name": "Free on hop bus"
+            }
+        ]
+    }, 
+    {
+        "text": "-Free on hop bus is available until 5 p.m. to the heritage core zone destination, after 5. p.m it will only surrounding komtar. Other bus is available until 11 p.m.", 
+        "line": 48, 
+        "range": [
+            6749, 
+            6912
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6770, 
+                    6800
+                ], 
+                "name": "heritage core zone destination"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6840, 
+                    6846
+                ], 
+                "name": "komtar"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6854, 
+                    6857
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "-If you want to go to Kek Lok Si you can start from Komtar, don\u2019t try my route unless you want to feel roller coaster inside rapid.", 
+        "line": 49, 
+        "range": [
+            6913, 
+            7045
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6937, 
+                    6943
+                ], 
+                "name": "Komtar"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6958, 
+                    6963
+                ], 
+                "name": "route"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7010, 
+                    7015
+                ], 
+                "name": "rapid"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7034, 
+                    7040
+                ], 
+                "name": "places"
+            }
+        ]
+    }, 
+    {
+        "text": "-There are other places such as Penang Hill, but the locals do not really recommend it because the train is expensive and we only see Penang\u2019s view.", 
+        "line": 50, 
+        "range": [
+            7046, 
+            7195
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7049, 
+                    7060
+                ], 
+                "name": "Penang Hill"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7116, 
+                    7121
+                ], 
+                "name": "train"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7151, 
+                    7159
+                ], 
+                "name": "Penang\u2019s"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7174, 
+                    7188
+                ], 
+                "name": "Tanjung Bungah"
+            }
+        ]
+    }, 
+    {
+        "text": "-Around Tanjung Bungah there will be butterfly garden, national park.", 
+        "line": 51, 
+        "range": [
+            7196, 
+            7264
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7203, 
+                    7219
+                ], 
+                "name": "butterfly garden"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7221, 
+                    7234
+                ], 
+                "name": "national park"
+            }
+        ]
+    }, 
+    {
+        "text": "-There are many varieties of food such as indian food, and chinese food, you will see it around the road at night especially Lebuh Chulia road, the range is about rm 2-4..", 
+        "line": 52, 
+        "range": [
+            7265, 
+            7435
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    7336, 
+                    7340
+                ], 
+                "name": "road"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    7361, 
+                    7378
+                ], 
+                "name": "Lebuh Chulia road"
+            }
+        ]
+    }, 
+    {
+        "text": "-You can find so many night clubs and bars =)", 
+        "line": 53, 
+        "range": [
+            7436, 
+            7480
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7446, 
+                    7450
+                ], 
+                "name": "bars"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 54, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Thanks =)", 
+        "line": 55, 
+        "range": [
+            7482, 
+            7490
+        ], 
+        "entities": []
+    }
+]

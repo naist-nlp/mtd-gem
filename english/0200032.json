@@ -1,0 +1,1199 @@
+[
+    {
+        "text": "May 10, 2020    Karimunjawa: Paradise Close To Us!", 
+        "line": 0, 
+        "range": [
+            1, 
+            50
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    16, 
+                    27
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karimunjawa islands in Indonesia are located in Central Java consisting of 27 small islands offering a fun beach-hopping experience for tourists. There are few ways to get there, but basically you can start from Semarang or Jepara. Many tour operators provide \u201copen trip\u201d to Karimunjawa Islands.", 
+        "line": 2, 
+        "range": [
+            52, 
+            350
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    52, 
+                    71
+                ], 
+                "name": "Karimunjawa islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    75, 
+                    84
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    100, 
+                    112
+                ], 
+                "name": "Central Java"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    136, 
+                    143
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    159, 
+                    164
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    264, 
+                    272
+                ], 
+                "name": "Semarang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    276, 
+                    282
+                ], 
+                "name": "Jepara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    327, 
+                    346
+                ], 
+                "name": "Karimunjawa Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How to get to Karimunjawa Islands", 
+        "line": 4, 
+        "range": [
+            352, 
+            384
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    363, 
+                    382
+                ], 
+                "name": "Karimunjawa Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The fastest way to reach Karimunjawa Islands is through Semarang. Get a flight first to Semarang, then head to the port of Tanjung Mas. From the port, you have two options to get to Karimunjawa by boat:", 
+        "line": 6, 
+        "range": [
+            386, 
+            587
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    409, 
+                    428
+                ], 
+                "name": "Karimunjawa Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    440, 
+                    448
+                ], 
+                "name": "Semarang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    456, 
+                    462
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    472, 
+                    480
+                ], 
+                "name": "Semarang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    499, 
+                    518
+                ], 
+                "name": "port of Tanjung Mas"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    529, 
+                    533
+                ], 
+                "name": "port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    566, 
+                    577
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    581, 
+                    585
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "KMC Bahari:  Departing every Friday 8 a.m. from Semarang to Karimunjawa and returning every Sunday 12 p.m. to Semarang. It takes 3 hours and the price starts from IDR 325,000.", 
+        "line": 8, 
+        "range": [
+            589, 
+            763
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    636, 
+                    644
+                ], 
+                "name": "Semarang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    648, 
+                    659
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    698, 
+                    706
+                ], 
+                "name": "Semarang"
+            }
+        ]
+    }, 
+    {
+        "text": "KMC Kartini: Departing every Friday 8 a.m from Semarang to Karimunjawa and returning every Sunday 11 a.m. to Semarang. It takes 4 hours, and the price starts from IDR 350,000.", 
+        "line": 9, 
+        "range": [
+            764, 
+            938
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    764, 
+                    775
+                ], 
+                "name": "KMC Kartini"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    811, 
+                    819
+                ], 
+                "name": "Semarang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    823, 
+                    834
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    873, 
+                    881
+                ], 
+                "name": "Semarang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 10, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "You can also choose to take the boat from Jepara, which is another city around an hour from Semarang. There are more boats leaving to Karimunjawa Islands from Jepara.", 
+        "line": 11, 
+        "range": [
+            940, 
+            1105
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    973, 
+                    977
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    983, 
+                    989
+                ], 
+                "name": "Jepara"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1008, 
+                    1012
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1033, 
+                    1041
+                ], 
+                "name": "Semarang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1058, 
+                    1063
+                ], 
+                "name": "boats"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1075, 
+                    1094
+                ], 
+                "name": "Karimunjawa Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1100, 
+                    1106
+                ], 
+                "name": "Jepara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 12, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019re traveling from Jakarta, you might consider to take bus straight to Jepara for the cheaper option then go to the port named Kartini. The two options from Jepara are:", 
+        "line": 13, 
+        "range": [
+            1107, 
+            1282
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1134, 
+                    1141
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1170, 
+                    1173
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1186, 
+                    1192
+                ], 
+                "name": "Jepara"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1231, 
+                    1235
+                ], 
+                "name": "port"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1242, 
+                    1249
+                ], 
+                "name": "Kartini"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1272, 
+                    1278
+                ], 
+                "name": "Jepara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 14, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Express Bahari: Departing every Monday, Tuesday, Friday, Saturday to Karimunjawa Islands at 9 a.m. Schedule returning from Karimunjawa Islands to Jepara is Monday, Wednesday, Saturday, and Sunday around 11 a.m. It takes about 3 hours and the price starts from IDR 225,000.", 
+        "line": 15, 
+        "range": [
+            1284, 
+            1555
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1285, 
+                    1299
+                ], 
+                "name": "Express Bahari"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1354, 
+                    1373
+                ], 
+                "name": "Karimunjawa Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1408, 
+                    1427
+                ], 
+                "name": "Karimunjawa Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1431, 
+                    1437
+                ], 
+                "name": "Jepara"
+            }
+        ]
+    }, 
+    {
+        "text": "Feri Siginjai: Departing every Monday, Wednesday, Friday, and Saturday 7 a.m. Then returning to Jepara every Tuesday, Thursday, Friday, Sunday around morning time. The journey takes around 5 hours and the price starts from IDR 125,000", 
+        "line": 16, 
+        "range": [
+            1556, 
+            1789
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1558, 
+                    1571
+                ], 
+                "name": "Feri Siginjai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1654, 
+                    1660
+                ], 
+                "name": "Jepara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you don\u2019t wanna be too hectic, consider joining tour group known. They will handle everything from transport, food, and hoping island. It\u2019s the easiest option, not too expensive, and if you\u2019re traveling by yourself this is the most affordable option to visit Karimunjawa Islands.", 
+        "line": 18, 
+        "range": [
+            1791, 
+            2078
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1896, 
+                    1905
+                ], 
+                "name": "transport"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1924, 
+                    1930
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2056, 
+                    2075
+                ], 
+                "name": "Karimunjawa Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I joined the group tour from WisataKita. You can check their website and contact them directly to book tours. They also provide other island tours including trip to Belitung Island.", 
+        "line": 20, 
+        "range": [
+            2080, 
+            2260
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2212, 
+                    2218
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2243, 
+                    2258
+                ], 
+                "name": "Belitung Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Island hopping and snorkeling in Karimunjawa Islands", 
+        "line": 22, 
+        "range": [
+            2262, 
+            2313
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2294, 
+                    2313
+                ], 
+                "name": "Karimunjawa Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "I\u2019ve been wanting to visit Karimunjawa Islands for a long time, almost 2 years I think. Me and my friends signed up for a four days trip to Karimunjawa Islands.", 
+        "line": 23, 
+        "range": [
+            2314, 
+            2475
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2341, 
+                    2360
+                ], 
+                "name": "Karimunjawa Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2454, 
+                    2473
+                ], 
+                "name": "Karimunjawa Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 24, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Our journey began from Jakarta by bus to Jepara. The bus departed at 8 p.m. and we\u2019re expecting to arrive in Jepara the next day 5 a.m. in the moring. Too bad, due to the traffic we arrived late to Kartini Port. As the result, we missed the ship. I heard people said that the ship normally departs at 9 a.m. but when it\u2019s full, it will depart earlier.", 
+        "line": 25, 
+        "range": [
+            2477, 
+            2831
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2499, 
+                    2506
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2510, 
+                    2513
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2517, 
+                    2523
+                ], 
+                "name": "Jepara"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2529, 
+                    2532
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2585, 
+                    2591
+                ], 
+                "name": "Jepara"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2674, 
+                    2686
+                ], 
+                "name": "Kartini Port"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2717, 
+                    2721
+                ], 
+                "name": "ship"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2752, 
+                    2756
+                ], 
+                "name": "ship"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 26, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "So, we stayed n a homestay and went to Pulau Panjang which is just 15 minutes from the port. It was okay, we had fun but we missed the first day in Karimunjawa and missed 2 islands which should be visited in Day 1. The tour that we signed up too was really nice. Even though we missed the meeting time with other participants, they still did some arrangements for us so we could join in the next day.", 
+        "line": 27, 
+        "range": [
+            2833, 
+            3232
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2847, 
+                    2855
+                ], 
+                "name": "homestay"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2868, 
+                    2881
+                ], 
+                "name": "Pulau Panjang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2916, 
+                    2920
+                ], 
+                "name": "port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2977, 
+                    2988
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3002, 
+                    3009
+                ], 
+                "name": "islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 28, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The next day, we woke up really early because we\u2019re afraid that the boat would leave us. They departed according to the schedule, 9 a.m. It took us 6 hours to reach Karimunjawa. Guess what, I got seasick! The waves were pretty rough at that time. Fortunately I could sleep for 4 hours on the ship.", 
+        "line": 29, 
+        "range": [
+            3234, 
+            3532
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3299, 
+                    3303
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3396, 
+                    3407
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3523, 
+                    3527
+                ], 
+                "name": "ship"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 30, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After we arrived in Karimunjawa, we were taken to our homestay. Not long after, we went to shark captivity and we swam with the sharks. Actually, I was very nervous whether the shark would bite us or not.", 
+        "line": 31, 
+        "range": [
+            3534, 
+            3737
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3550, 
+                    3561
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3584, 
+                    3592
+                ], 
+                "name": "homestay"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3621, 
+                    3636
+                ], 
+                "name": "shark captivity"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 32, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s time for island hopping! Once I got to the islands around Karimunjawa, literally anything could be found here, white sand beaches, even better than some beaches in Bali, corals, colourful fishes, don\u2019t miss the cheap seafood! So here are some of our stops:", 
+        "line": 33, 
+        "range": [
+            3739, 
+            4003
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3750, 
+                    3756
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3784, 
+                    3791
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3799, 
+                    3810
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3863, 
+                    3870
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3894, 
+                    3901
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3905, 
+                    3909
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 34, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Menjangan Kecil", 
+        "line": 35, 
+        "range": [
+            4005, 
+            4019
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 36, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It is undeniable that Karimunjawa is a paradise! Menjangan Kecil is a wonderful place to hit. Take your goggle and experience the unforgettable underwater. Grab some bread and spread it in the water, colourful fishes will come after you ! That\u2019s what I did. Clear visibility, the corals were just so amazing!", 
+        "line": 37, 
+        "range": [
+            4021, 
+            4330
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4038, 
+                    4049
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4065, 
+                    4080
+                ], 
+                "name": "Menjangan Kecil"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4096, 
+                    4101
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 38, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ujung Gelam", 
+        "line": 39, 
+        "range": [
+            4332, 
+            4342
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 40, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tropical paradise! Dare to climb the tallest coconut tree? I didn\u2019t know that climbing coconut tree was not easy. At least I climbed for few meters, sat on the trunk and enjoy the absolute amazing view of the sea. The gradation is just to good to be seen. Light green to dark green, to turquoise, to light blue, to dark blue, perfect combination!", 
+        "line": 41, 
+        "range": [
+            4344, 
+            4691
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 42, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gosong Spot", 
+        "line": 43, 
+        "range": [
+            4693, 
+            4703
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 44, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Another beautiful snorkeling spot. I found some unique corals here, corals that looks like brain, corals that looks like huge rounded stone, and many else. The corals here are as good as the underwater in Derawan Islands, Borneo.", 
+        "line": 45, 
+        "range": [
+            4705, 
+            4933
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4718, 
+                    4733
+                ], 
+                "name": "snorkeling spot"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4905, 
+                    4920
+                ], 
+                "name": "Derawan Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4922, 
+                    4928
+                ], 
+                "name": "Borneo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cemara Besar", 
+        "line": 47, 
+        "range": [
+            4935, 
+            4946
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A small empty island with white sandbar in the middle of the sea. It was our last stop. Look around and everything is blue. Relax, enjoy the wave, the wind, and the sound. I love Karimunjawa.", 
+        "line": 49, 
+        "range": [
+            4948, 
+            5138
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4959, 
+                    4965
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4977, 
+                    4984
+                ], 
+                "name": "sandbar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5124, 
+                    5135
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Other tips to visit Karimunjawa Islands", 
+        "line": 51, 
+        "range": [
+            5140, 
+            5178
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5158, 
+                    5177
+                ], 
+                "name": "Karimunjawa Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Boat rental for island hopping starts from IDR 400,000-500,000/day", 
+        "line": 53, 
+        "range": [
+            5180, 
+            5245
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5195, 
+                    5201
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "Snorkeling rental 25,000/item/day", 
+        "line": 54, 
+        "range": [
+            5246, 
+            5278
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Plenty homestay starts from 70,000-150,000/room/night. You can check here for the list of accommodations in Karimunjawa.", 
+        "line": 55, 
+        "range": [
+            5279, 
+            5398
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5287, 
+                    5295
+                ], 
+                "name": "homestay"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5370, 
+                    5384
+                ], 
+                "name": "accommodations"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5388, 
+                    5399
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 56, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 23-26 July 2011", 
+        "line": 57, 
+        "range": [
+            5400, 
+            5426
+        ], 
+        "entities": []
+    }
+]

@@ -1,0 +1,1017 @@
+[
+    {
+        "text": "February 27, 2020    Trekking In Sapa: 2 Days 1 Night Experience", 
+        "line": 0, 
+        "range": [
+            1, 
+            64
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    33, 
+                    37
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Among all the places in Vietnam that I traveled to,  a serene yet captivating mountain town up northwest of Vietnam named Sapa is the only place that, at least I fell in love with. Situated in Lao Cai Province, 380 km northwest of Hanoi, Sapa is famous with its rugged scenery, rice terraces, and the people. Trekking in Sapa Vietnam is one of the way to see the beautiful rice terraces and meet the minority ethnics.", 
+        "line": 2, 
+        "range": [
+            66, 
+            482
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    80, 
+                    86
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    90, 
+                    97
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    144, 
+                    157
+                ], 
+                "name": "mountain town"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    174, 
+                    181
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    188, 
+                    192
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    259, 
+                    275
+                ], 
+                "name": "Lao Cai Province"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    297, 
+                    302
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    304, 
+                    308
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    344, 
+                    357
+                ], 
+                "name": "rice terraces"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    387, 
+                    391
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    392, 
+                    399
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    439, 
+                    452
+                ], 
+                "name": "rice terraces"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How to Get to Sapa by Public Transportation", 
+        "line": 4, 
+        "range": [
+            484, 
+            526
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    499, 
+                    503
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Most probably you will start from Hanoi. There are two ways that you can choose to get to Sapa, by train or by bus . There are pros and cons for sure in each of the way. I took direct sleeper bus from Hanoi to Sapa. Not the most comfy ride but it\u2019s cheap and arrived straight in Sapa to start the trekking.", 
+        "line": 6, 
+        "range": [
+            528, 
+            835
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    564, 
+                    569
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    620, 
+                    624
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    629, 
+                    634
+                ], 
+                "name": "train"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    641, 
+                    644
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    714, 
+                    725
+                ], 
+                "name": "sleeper bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    731, 
+                    736
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    740, 
+                    744
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    809, 
+                    813
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bus from Hanoi to Sapa. Approximately 6 hours ride and it costs around VND 260,000 \u2013 450,000 depending on the services and the comfort of the bus. The time table may varies from 6.30 a.m., 12 p.m., and 10 p.m. (Make sure again by asking hostel/hotel reception).", 
+        "line": 8, 
+        "range": [
+            837, 
+            1099
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    838, 
+                    841
+                ], 
+                "name": "Bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    847, 
+                    852
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    856, 
+                    860
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    980, 
+                    983
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Train from Hanoi to Lao Cai, continued by bus or private car to Sapa. The train journey takes around 8 hours. There are two train operators: Vietnam Railways and the luxury tourist train. Vietnam Railways has different seatings from normal seat to sleeper berth. Price varies from VND 155,000 \u2013 400,000. There are two departures, around 8 p.m. and 10 p.m. After arriving in Lao Cai, you can take bus to Sapa which takes around one hour and costs around VND 100,000.", 
+        "line": 10, 
+        "range": [
+            1101, 
+            1567
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1101, 
+                    1106
+                ], 
+                "name": "Train"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1112, 
+                    1117
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1121, 
+                    1128
+                ], 
+                "name": "Lao Cai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1143, 
+                    1146
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1150, 
+                    1161
+                ], 
+                "name": "private car"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1165, 
+                    1169
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1175, 
+                    1180
+                ], 
+                "name": "train"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1225, 
+                    1230
+                ], 
+                "name": "train"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1242, 
+                    1258
+                ], 
+                "name": "Vietnam Railways"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1267, 
+                    1287
+                ], 
+                "name": "luxury tourist train"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1289, 
+                    1305
+                ], 
+                "name": "Vietnam Railways"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1475, 
+                    1482
+                ], 
+                "name": "Lao Cai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1497, 
+                    1500
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1504, 
+                    1508
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Best Time to Trek in Sapa", 
+        "line": 12, 
+        "range": [
+            1569, 
+            1593
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1589, 
+                    1593
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was there in May and the view of the rice terraces were full of paddies. March to May is the time where they start planting and do the farming activities. So I recommended you to come around this time. September to November is the peak travel time or high season so expect crowd. During winter which lasts from December to January, it will be really cold in Sapa.", 
+        "line": 14, 
+        "range": [
+            1595, 
+            1959
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1634, 
+                    1647
+                ], 
+                "name": "rice terraces"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1955, 
+                    1959
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Trekking in Sapa with Guided Tours", 
+        "line": 16, 
+        "range": [
+            1961, 
+            1994
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1974, 
+                    1978
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are many tour operators providing a basic two days one night trekking tour until weeks. You can choose different kind of experiences trekking to some villages, home of minority ethnics in Sapa.", 
+        "line": 18, 
+        "range": [
+            1996, 
+            2194
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2154, 
+                    2162
+                ], 
+                "name": "villages"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2164, 
+                    2168
+                ], 
+                "name": "home"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I booked two days one night trekking tour from Hanoi. The price for two days one night trekking was about USD 50. The price included basic sharing room in local homestay, food, and english speaking guide.", 
+        "line": 20, 
+        "range": [
+            2196, 
+            2399
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2246, 
+                    2251
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2360, 
+                    2368
+                ], 
+                "name": "homestay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After spending one night from Hanoi on a sleeper bus, finally I arrived in this beautiful small town, Sapa. It was early morning and the temperature was chill enough.", 
+        "line": 22, 
+        "range": [
+            2401, 
+            2566
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2435, 
+                    2440
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2446, 
+                    2457
+                ], 
+                "name": "sleeper bus"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2501, 
+                    2505
+                ], 
+                "name": "town"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2507, 
+                    2511
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Meanwhile waiting for the tour to start, I cleaned myself and had a breakfast in a small hotel where I was directed to. An hour later, our guide showed up, a young girl dressed in a black cloth. She\u2019s a Hmong. With her decent English skill, she greeted us and explained about Sapa and the tribe living there.", 
+        "line": 24, 
+        "range": [
+            2568, 
+            2877
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2662, 
+                    2667
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2849, 
+                    2853
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was in a group of five people. We followed our guide along the main road. Then some Hmong ladies with a basket on their back followed us. They were going back to the village as well, that\u2019s what I thought until later I found out they were trying to sell souvenirs.", 
+        "line": 26, 
+        "range": [
+            2879, 
+            3146
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2953, 
+                    2957
+                ], 
+                "name": "road"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3051, 
+                    3058
+                ], 
+                "name": "village"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "They tried to mingle with the tourists, being very nice, seriously I didn\u2019t feel anything suspicious. I thought they were excited, meet up with strangers, cause they live in this nowhere heaven, and curious about the different world out there.", 
+        "line": 28, 
+        "range": [
+            3148, 
+            3392
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "In the end, they try to sell something, which I could understand, they had to make money. I bought three bracelets for one dollar, I knew it wasn\u2019t much, but when ten sellers approached me and pushed me to buy. In this point I felt miserably uncomfortable.", 
+        "line": 30, 
+        "range": [
+            3394, 
+            3651
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Despite those matter, I couldn\u2019t deny how superb the view of the rice terraces and mountainous part was. It looks similar with Batad in Philippines. While the rice terraces in Batad looks secluded, the rice terraces in Sapa and the mountainous scenery looks more extensive. In addition, Sapa has the cultural feel on it.", 
+        "line": 32, 
+        "range": [
+            3653, 
+            3974
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3719, 
+                    3732
+                ], 
+                "name": "rice terraces"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3737, 
+                    3753
+                ], 
+                "name": "mountainous part"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3781, 
+                    3786
+                ], 
+                "name": "Batad"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3790, 
+                    3801
+                ], 
+                "name": "Philippines"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3813, 
+                    3826
+                ], 
+                "name": "rice terraces"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3830, 
+                    3835
+                ], 
+                "name": "Batad"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3857, 
+                    3869
+                ], 
+                "name": "ice terraces"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3873, 
+                    3877
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3941, 
+                    3945
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Minority Ethic Groups in Sapa", 
+        "line": 34, 
+        "range": [
+            3976, 
+            4004
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4001, 
+                    4005
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are mainly 5 ethnic groups in Sapa: Hmong, Dao, Tay, Giay, and a small number of Xa Pho. Majority are Hmong. Hmong Tribe was originally came from yellow river region in China.", 
+        "line": 36, 
+        "range": [
+            4006, 
+            4186
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4043, 
+                    4047
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4159, 
+                    4178
+                ], 
+                "name": "yellow river region"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4182, 
+                    4187
+                ], 
+                "name": "China"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There was a massive migration by Hmong People in 18th century due to armed conflict. The Hmong spread across mountainous regions in China, Vietnam, Laos, and Thailand. The Hmong in Sapa itself is divided in several subgroups such as Black Hmong and Red Hmong.", 
+        "line": 38, 
+        "range": [
+            4188, 
+            4446
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4299, 
+                    4318
+                ], 
+                "name": "mountainous regions"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4322, 
+                    4327
+                ], 
+                "name": "China"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4329, 
+                    4336
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4338, 
+                    4342
+                ], 
+                "name": "Laos"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4348, 
+                    4356
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4371, 
+                    4375
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The people of Sapa rely on agriculture. They have been very poor even by Vietnam\u2019s rural standard. Thanks to some NGOs who improve social development by giving opportunities such as volunteer program, and programs to increase awareness from tourism sector.", 
+        "line": 40, 
+        "range": [
+            4448, 
+            4705
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4465, 
+                    4469
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "To be honest, I regret myself taking a tour due to limited time. I would rather rent a motorbike and ride to the villages cause when I did the trekking tour, mostly I walked on the main road which was accessible by motorbike. But, it was good experience for me, spending a night in local house, and cooked by local Hmong. I\u2019ll surely want to go back to Sapa.", 
+        "line": 42, 
+        "range": [
+            4707, 
+            5066
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4796, 
+                    4805
+                ], 
+                "name": "motorbike"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4822, 
+                    4830
+                ], 
+                "name": "villages"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4895, 
+                    4899
+                ], 
+                "name": "road"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4924, 
+                    4933
+                ], 
+                "name": "motorbike"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4997, 
+                    5002
+                ], 
+                "name": "house"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5062, 
+                    5066
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in May 2014", 
+        "line": 44, 
+        "range": [
+            5068, 
+            5087
+        ], 
+        "entities": []
+    }
+]

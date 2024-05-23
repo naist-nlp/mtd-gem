@@ -1,0 +1,1904 @@
+[
+    {
+        "text": "May 19, 2023    Uluru Travel Guide: Discovering The Aboriginal Culture", 
+        "line": 0, 
+        "range": [
+            1, 
+            70
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    16, 
+                    21
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019re planning to visit Uluru, we\u2019ve got you covered with all the essential information on how to make the most of your trip. Discover the best ways to visit Uluru, explore its stunning landscapes, and immerse yourself in the rich cultural heritage.", 
+        "line": 2, 
+        "range": [
+            72, 
+            328
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    100, 
+                    105
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    234, 
+                    239
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Whenever I had conversations with travelers in Australia, none of them would NOT mention about Red Center, about the experience driving in the outback.", 
+        "line": 4, 
+        "range": [
+            330, 
+            480
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    374, 
+                    383
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    422, 
+                    432
+                ], 
+                "name": "Red Center"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    470, 
+                    477
+                ], 
+                "name": "outback"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Classic story, huh? What\u2019s so cool about it?", 
+        "line": 6, 
+        "range": [
+            482, 
+            527
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Well, it\u2019s true that the iconic face in the outback which is Uluru has been used in magazine, advertisement, calendar all over the world. People would immediately recognize this red giant stone.", 
+        "line": 8, 
+        "range": [
+            529, 
+            724
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    570, 
+                    577
+                ], 
+                "name": "outback"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    587, 
+                    592
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    657, 
+                    662
+                ], 
+                "name": "world"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    704, 
+                    719
+                ], 
+                "name": "red giant stone"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Again, what\u2019s so cool about it?", 
+        "line": 10, 
+        "range": [
+            726, 
+            758
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "In my case, I\u2019m not quite sure if it\u2019s a fate or just my alter ego that finally takes me to Uluru.", 
+        "line": 12, 
+        "range": [
+            760, 
+            861
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    847, 
+                    852
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After all the dramas happened switching my way from Western Australia to Northern Territory (read here) I was stranded in the outback.", 
+        "line": 14, 
+        "range": [
+            863, 
+            996
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    907, 
+                    924
+                ], 
+                "name": "Western Australia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    928, 
+                    946
+                ], 
+                "name": "Northern Territory"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    981, 
+                    988
+                ], 
+                "name": "outback"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I tried to be positive, even though I\u2019m not a big fan of group tours, I had no other choice instead enjoying the whole trip, and the heat!", 
+        "line": 16, 
+        "range": [
+            998, 
+            1137
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "When is the best time to visit Uluru?", 
+        "line": 18, 
+        "range": [
+            1139, 
+            1175
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1162, 
+                    1167
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "When it comes to planning your trip to Uluru, timing is everything.", 
+        "line": 20, 
+        "range": [
+            1177, 
+            1243
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1209, 
+                    1214
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It is highly recommend visiting between May and September for a couple of good reasons.", 
+        "line": 22, 
+        "range": [
+            1245, 
+            1331
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "During the summer months, the heat can be scorching hot, and in winter, it can get downright freezing at night.", 
+        "line": 24, 
+        "range": [
+            1333, 
+            1443
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From May to September, the weather is much more pleasant, with cooler temperatures during the day, making it a lot easier to explore and enjoy your adventure.", 
+        "line": 26, 
+        "range": [
+            1445, 
+            1602
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Plus, there\u2019s an added bonus: the colors of Uluru really come to life during this time, showcasing its natural beauty in all its vibrant glory.", 
+        "line": 28, 
+        "range": [
+            1604, 
+            1748
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1645, 
+                    1650
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How to get to Uluru?", 
+        "line": 30, 
+        "range": [
+            1750, 
+            1769
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1760, 
+                    1765
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "To get to Uluru from Alice Springs, you have a few options:", 
+        "line": 32, 
+        "range": [
+            1771, 
+            1829
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1778, 
+                    1783
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1789, 
+                    1802
+                ], 
+                "name": "Alice Springs"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "By Road", 
+        "line": 34, 
+        "range": [
+            1831, 
+            1837
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The most common way to travel from Alice Springs to Uluru is by road.", 
+        "line": 36, 
+        "range": [
+            1839, 
+            1907
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1873, 
+                    1886
+                ], 
+                "name": "Alice Springs"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1890, 
+                    1895
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The distance between the two is approximately 280 miles (450 km), and the journey takes about 4-5 hours, depending on your driving speed and any stops you make along the way.", 
+        "line": 38, 
+        "range": [
+            1909, 
+            2082
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "You can rent a car in Alice Springs and take the Stuart Highway (A87) south until you reach the Lasseter Highway (A4), which will lead you directly to Uluru.", 
+        "line": 40, 
+        "range": [
+            2084, 
+            2240
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2100, 
+                    2103
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2107, 
+                    2120
+                ], 
+                "name": "Alice Springs"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    2134, 
+                    2154
+                ], 
+                "name": "Stuart Highway (A87)"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    2181, 
+                    2202
+                ], 
+                "name": "Lasseter Highway (A4)"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2236, 
+                    2241
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The roads are well-maintained, and you won\u2019t need a 4-wheel drive for this route.", 
+        "line": 42, 
+        "range": [
+            2242, 
+            2324
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2248, 
+                    2253
+                ], 
+                "name": "roads"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2319, 
+                    2324
+                ], 
+                "name": "route"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "By Guided Tour", 
+        "line": 44, 
+        "range": [
+            2326, 
+            2339
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you prefer a hassle-free experience and want to learn more about the region from a knowledgeable guide, joining a guided tour from Alice Springs to Uluru is a great option.", 
+        "line": 46, 
+        "range": [
+            2341, 
+            2515
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2415, 
+                    2421
+                ], 
+                "name": "region"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2477, 
+                    2490
+                ], 
+                "name": "Alice Springs"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2494, 
+                    2499
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Many tour operators offer day trips or multi-day tours that include transportation, guided commentary, and various activities and stops along the way.", 
+        "line": 48, 
+        "range": [
+            2517, 
+            2666
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "By Bus", 
+        "line": 50, 
+        "range": [
+            2668, 
+            2673
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019re in Alice Springs, you can hop on a bus to Uluru.", 
+        "line": 52, 
+        "range": [
+            2675, 
+            2734
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2675, 
+                    2678
+                ], 
+                "name": "Bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2693, 
+                    2706
+                ], 
+                "name": "Alice Springs"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2725, 
+                    2728
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Several bus companies operate this route, making it a convenient option for travelers already in the area.", 
+        "line": 54, 
+        "range": [
+            2736, 
+            2841
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2748, 
+                    2751
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2775, 
+                    2780
+                ], 
+                "name": "route"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The journey takes approximately 5-6 hours, and the buses usually offer comfortable seating and air conditioning.", 
+        "line": 56, 
+        "range": [
+            2843, 
+            2954
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2899, 
+                    2904
+                ], 
+                "name": "buses"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This option allows you to relax and enjoy the scenery while leaving the driving to someone else.", 
+        "line": 58, 
+        "range": [
+            2956, 
+            3051
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "By Air", 
+        "line": 60, 
+        "range": [
+            3053, 
+            3058
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019re short on time or prefer the convenience of air travel, you can take a domestic flight to Ayers Rock Airport (also known as Connellan Airport).", 
+        "line": 62, 
+        "range": [
+            3060, 
+            3213
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3148, 
+                    3163
+                ], 
+                "name": "domestic flight"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3167, 
+                    3184
+                ], 
+                "name": "Ayers Rock Airpor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Direct flights to Ayers Rock Airport operate from major cities like Brisbane, Melbourne, Sydney, Adelaide, Darwin, and Cairns.", 
+        "line": 64, 
+        "range": [
+            3215, 
+            3340
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3222, 
+                    3236
+                ], 
+                "name": "Direct flights"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3240, 
+                    3258
+                ], 
+                "name": "Ayers Rock Airport"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3278, 
+                    3284
+                ], 
+                "name": "cities"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3290, 
+                    3298
+                ], 
+                "name": "Brisbane"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3300, 
+                    3309
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3311, 
+                    3317
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3319, 
+                    3327
+                ], 
+                "name": "Adelaide"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3329, 
+                    3335
+                ], 
+                "name": "Darwin"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "However, if you\u2019re flying from other cities such as Perth, Canberra, Newcastle, or Hobart, you\u2019ll need to make a connecting flight, usually via Alice Springs or another hub.", 
+        "line": 66, 
+        "range": [
+            3342, 
+            3518
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3387, 
+                    3393
+                ], 
+                "name": "cities"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3402, 
+                    3407
+                ], 
+                "name": "Perth"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3409, 
+                    3417
+                ], 
+                "name": "Canberra"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3419, 
+                    3428
+                ], 
+                "name": "Newcastle"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3433, 
+                    3439
+                ], 
+                "name": "Hobart"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3463, 
+                    3480
+                ], 
+                "name": "connecting flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3494, 
+                    3507
+                ], 
+                "name": "Alice Springs"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From the airport, you can arrange transportation to your accommodation near Uluru.", 
+        "line": 68, 
+        "range": [
+            3520, 
+            3601
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3534, 
+                    3541
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3582, 
+                    3595
+                ], 
+                "name": "accommodation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The Story behind Uluru", 
+        "line": 70, 
+        "range": [
+            3603, 
+            3624
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The first thing we did once we arrived in Uluru was visiting the cultural center to gain deeper understanding about Anangu (Aboriginal people of western desert) culture and land, local environment, and the history of the park.", 
+        "line": 72, 
+        "range": [
+            3626, 
+            3851
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3626, 
+                    3631
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3675, 
+                    3680
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3698, 
+                    3713
+                ], 
+                "name": "cultural center"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3806, 
+                    3810
+                ], 
+                "name": "land"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3818, 
+                    3829
+                ], 
+                "name": "environment"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was very informative but still it\u2019s hard for me to understand just by reading until my guide told me the stories behind it.", 
+        "line": 74, 
+        "range": [
+            3853, 
+            3980
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3854, 
+                    3858
+                ], 
+                "name": "park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The first Tjukurpa (traditional law and creation story) he told was about Kuniya, the woman python and Liru, the poisonous snake.", 
+        "line": 76, 
+        "range": [
+            3982, 
+            4110
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The Kuniya woman came from far to hatch her children in Uluru by carrying the eggs on her neck.", 
+        "line": 78, 
+        "range": [
+            4112, 
+            4206
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4176, 
+                    4181
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "One day she heard about the death of her nephew caused by Liru. She was so angry and raced along the curves of the rock to Mutitjulu Waterhole, confronted Liru.", 
+        "line": 80, 
+        "range": [
+            4208, 
+            4367
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4318, 
+                    4336
+                ], 
+                "name": "curves of the rock"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4340, 
+                    4359
+                ], 
+                "name": "Mutitjulu Waterhole"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "They fought, Kuniya took up her wana, or digging stick and struck the head of Liru until he died.", 
+        "line": 82, 
+        "range": [
+            4369, 
+            4465
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tjukurpa stories often have moral lesson behind it, used in everyday life.", 
+        "line": 84, 
+        "range": [
+            4467, 
+            4540
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The stories are passed to younger generation to shape their character.", 
+        "line": 86, 
+        "range": [
+            4542, 
+            4611
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "They are the core of the ceremonial life, ritualistic songs, and art. In these ways, the Aborigines can preserve their culture and keep them tied to their root.", 
+        "line": 88, 
+        "range": [
+            4613, 
+            4772
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "One of the interesting thing for me is, in Aboriginal tradition, men and women are equal.", 
+        "line": 90, 
+        "range": [
+            4774, 
+            4862
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "They have their own responsibility and they are not allowed to interfere each other \u2013 men has their own business, so do women.", 
+        "line": 92, 
+        "range": [
+            4864, 
+            4991
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some spots that I visited in Uluru", 
+        "line": 94, 
+        "range": [
+            4993, 
+            5026
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5012, 
+                    5017
+                ], 
+                "name": "spots"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I joined a group of tour to visit Uluru. Here\u2019s the spot that we\u2019re going to:", 
+        "line": 96, 
+        "range": [
+            5028, 
+            5108
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5036, 
+                    5041
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5077, 
+                    5082
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5095, 
+                    5099
+                ], 
+                "name": "spot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Uluru (Ayers Rock)", 
+        "line": 98, 
+        "range": [
+            5110, 
+            5130
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5125, 
+                    5130
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After I heard the story, my opinion towards Uluru changed. Certainly it\u2019s not just a big rock, there\u2019s something beyond this natural wonder that holds an important role in Aboriginal\u2019s life.", 
+        "line": 100, 
+        "range": [
+            5132, 
+            5327
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5132, 
+                    5142
+                ], 
+                "name": "Ayers Rock"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5189, 
+                    5194
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5234, 
+                    5238
+                ], 
+                "name": "rock"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The closer I looked at it, I found every side of Uluru is profoundly exceptional. Each curve, line, and mark are just appealing to watch.", 
+        "line": 102, 
+        "range": [
+            5329, 
+            5465
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5386, 
+                    5391
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The best moment was during sunrise and sunset. The sky was blue and clear, no single cloud can be seen.", 
+        "line": 104, 
+        "range": [
+            5467, 
+            5569
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The sun went down creating different layer of color and it\u2019s when Uluru turned golden before the light\u2019s faded out.", 
+        "line": 106, 
+        "range": [
+            5571, 
+            5689
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5647, 
+                    5652
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I finally found out the cool thing about Uluru.", 
+        "line": 108, 
+        "range": [
+            5691, 
+            5737
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Do not climb Uluru", 
+        "line": 110, 
+        "range": [
+            5739, 
+            5756
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5739, 
+                    5744
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Our guide strongly discouraged us to climb Uluru.", 
+        "line": 112, 
+        "range": [
+            5758, 
+            5806
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5760, 
+                    5765
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The climb is not prohibited but as a guest on Anangu land, it is wiser to respect their culture.", 
+        "line": 114, 
+        "range": [
+            5808, 
+            5903
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5810, 
+                    5815
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5864, 
+                    5875
+                ], 
+                "name": "Anangu land"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "You can tell that the climb is really dangerous, many serious accidents happened while trying to attempt the hike and have resulted serious injury, permanent disability, even death.", 
+        "line": 116, 
+        "range": [
+            5905, 
+            6085
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It is a great sadness for Anangu when a person hurts in their land.", 
+        "line": 118, 
+        "range": [
+            6087, 
+            6153
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Kata Tjuta (The Olgas)", 
+        "line": 120, 
+        "range": [
+            6155, 
+            6179
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kata Tjuta which means many head is located 46 km from Uluru.", 
+        "line": 122, 
+        "range": [
+            6181, 
+            6241
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6183, 
+                    6192
+                ], 
+                "name": "The Olgas"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6195, 
+                    6205
+                ], 
+                "name": "Kata Tjuta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From a distance, it has distinguished look with the unique rock formation, which reminds me of Mars, especially when sunrise, the rocks are all in red.", 
+        "line": 124, 
+        "range": [
+            6243, 
+            6393
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6250, 
+                    6255
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6317, 
+                    6331
+                ], 
+                "name": "rock formation"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6353, 
+                    6357
+                ], 
+                "name": "Mars"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6388, 
+                    6393
+                ], 
+                "name": "rocks"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The walk that I did was a 7.4 km circuit to Valley of the Wind.", 
+        "line": 126, 
+        "range": [
+            6395, 
+            6457
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6444, 
+                    6451
+                ], 
+                "name": "circuit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some walks were steep with some loose rocks.", 
+        "line": 128, 
+        "range": [
+            6459, 
+            6502
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Red Center was not as dry and desert as I thought, there were lots of flowers toning up the whole sight.", 
+        "line": 130, 
+        "range": [
+            6504, 
+            6607
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6522, 
+                    6532
+                ], 
+                "name": "Red Center"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 131, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The moment I got to the point of Valley of Wind, I had this strange feeling of serenity while sitting and looking in between the valley.", 
+        "line": 132, 
+        "range": [
+            6609, 
+            6744
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6661, 
+                    6675
+                ], 
+                "name": "Valley of Wind"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 133, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Honestly, it\u2019s not the best view, but the breeze, the quietness, it gave me comfort and warm feeling.", 
+        "line": 134, 
+        "range": [
+            6746, 
+            6848
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6757, 
+                    6763
+                ], 
+                "name": "valley"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 135, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Wattarka National Park (Kings Canyon)", 
+        "line": 136, 
+        "range": [
+            6850, 
+            6889
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 137, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "On the third day, we raced to Kings Canyon in the morning so that we could finish earlier before the temperature went high.", 
+        "line": 138, 
+        "range": [
+            6891, 
+            7013
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6896, 
+                    6908
+                ], 
+                "name": "Kings Canyon"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6941, 
+                    6953
+                ], 
+                "name": "Kings Canyon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 139, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If the temperature is predicted to be 36 degrees Celcius or above, visitors have to start the rim walk before 9 a.m. and the gate will be closed after.", 
+        "line": 140, 
+        "range": [
+            7015, 
+            7165
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7161, 
+                    7165
+                ], 
+                "name": "gate"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 141, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "No Tjukurpa story was told in Kings Canyon, instead out guide shared more about geology facts.", 
+        "line": 142, 
+        "range": [
+            7167, 
+            7260
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7219, 
+                    7231
+                ], 
+                "name": "Kings Canyon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 143, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The surrounding was more about valleys and canyons until we reached a small oasis, Garden of Eden.", 
+        "line": 144, 
+        "range": [
+            7262, 
+            7359
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7316, 
+                    7323
+                ], 
+                "name": "valleys"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7328, 
+                    7335
+                ], 
+                "name": "canyons"
+            }
+        ]
+    }
+]

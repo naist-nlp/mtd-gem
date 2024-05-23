@@ -1,0 +1,1666 @@
+[
+    {
+        "text": "October 3, 2023    Wat Pho: Temple Of Reclining Buddha", 
+        "line": 0, 
+        "range": [
+            1, 
+            54
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    19, 
+                    26
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    28, 
+                    54
+                ], 
+                "name": "Temple Of Reclining Buddha"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Discover the rich history of Bangkok\u2019s Wat Pho temple, how to plan a visit, and how much the entrance ticket costs!", 
+        "line": 2, 
+        "range": [
+            56, 
+            172
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    85, 
+                    94
+                ], 
+                "name": "Bangkok\u2019s"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    95, 
+                    109
+                ], 
+                "name": "Wat Pho temple"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Thailand is a country with the biggest Buddhist population on earth.", 
+        "line": 4, 
+        "range": [
+            174, 
+            241
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    187, 
+                    194
+                ], 
+                "name": "country"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    235, 
+                    240
+                ], 
+                "name": "earth"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Can you guess how many temples there are in this country? More than 40,000 temples!", 
+        "line": 6, 
+        "range": [
+            243, 
+            325
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    266, 
+                    273
+                ], 
+                "name": "temples"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    292, 
+                    299
+                ], 
+                "name": "country"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    318, 
+                    325
+                ], 
+                "name": "temples"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "No wonder, whether you walk in a big city or even in the suburb area, you will see temple and another temple just within one or two blocks away.", 
+        "line": 8, 
+        "range": [
+            327, 
+            470
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    365, 
+                    369
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    385, 
+                    396
+                ], 
+                "name": "suburb area"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    411, 
+                    417
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    430, 
+                    436
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    460, 
+                    466
+                ], 
+                "name": "blocks"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Thai temples, or what they call as wats are typically comprising a multi-building complex with enticing architecture.", 
+        "line": 10, 
+        "range": [
+            472, 
+            588
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    474, 
+                    486
+                ], 
+                "name": "Thai temples"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    509, 
+                    513
+                ], 
+                "name": "wats"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    541, 
+                    563
+                ], 
+                "name": "multi-building complex"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "One of the largest and oldest wats in Bangkok is Wat Pho, also known as the Temple of Reclining Buddha.", 
+        "line": 12, 
+        "range": [
+            590, 
+            692
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    623, 
+                    627
+                ], 
+                "name": "wats"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    631, 
+                    638
+                ], 
+                "name": "Bangkok"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    642, 
+                    649
+                ], 
+                "name": "Wat Pho"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "History of Wat Pho", 
+        "line": 14, 
+        "range": [
+            694, 
+            711
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wat Pho has a long and rich history, dating back to the 16th century.", 
+        "line": 16, 
+        "range": [
+            713, 
+            781
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    718, 
+                    725
+                ], 
+                "name": "Wat Pho"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was during the reign of King Rama I in 1788 that this temple came into existence, a time when the Thai kingdom was centered in Ayutthaya.", 
+        "line": 18, 
+        "range": [
+            783, 
+            922
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    846, 
+                    852
+                ], 
+                "name": "temple"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Remarkably, Wat Pho predates the very foundation of the city of Bangkok itself!", 
+        "line": 20, 
+        "range": [
+            924, 
+            1002
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    943, 
+                    950
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    987, 
+                    1002
+                ], 
+                "name": "city of Bangkok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The primary objective behind its establishment was the preservation and advancement of Buddhist cultural and religious heritage, fostering knowledge and tradition within the faith.", 
+        "line": 22, 
+        "range": [
+            1004, 
+            1183
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This temple is very special because it is listed as the highest grade of the first class Royal temples and also home to more than 1,000 Buddha images.", 
+        "line": 24, 
+        "range": [
+            1185, 
+            1334
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1199, 
+                    1205
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1283, 
+                    1296
+                ], 
+                "name": "Royal temples"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1306, 
+                    1310
+                ], 
+                "name": "home"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The architectural beauty of Wat Pho", 
+        "line": 26, 
+        "range": [
+            1336, 
+            1370
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The temple complex is divided into several sites such as the sacred main hall for rituals, an area with a group of stupas or chedis, and the most intriguing site is the chapel of reclining Buddha.", 
+        "line": 28, 
+        "range": [
+            1372, 
+            1567
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1374, 
+                    1381
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1387, 
+                    1401
+                ], 
+                "name": "temple complex"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1426, 
+                    1431
+                ], 
+                "name": "sites"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1444, 
+                    1460
+                ], 
+                "name": "sacred main hall"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1477, 
+                    1481
+                ], 
+                "name": "area"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1498, 
+                    1504
+                ], 
+                "name": "stupas"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1508, 
+                    1514
+                ], 
+                "name": "chedis"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1540, 
+                    1544
+                ], 
+                "name": "site"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A reclining Buddha statue represents the historical Buddha during his last illness and about to enter Nirvana. The size of this golden statue is 15 meters high and 46 meters long.", 
+        "line": 30, 
+        "range": [
+            1569, 
+            1747
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1583, 
+                    1606
+                ], 
+                "name": "reclining Buddha statue"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1709, 
+                    1722
+                ], 
+                "name": "golden statue"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are also 108 bronze bowls along the corridor where visitors can drop coins into the bowls and pray for good fortune.", 
+        "line": 32, 
+        "range": [
+            1749, 
+            1870
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1804, 
+                    1812
+                ], 
+                "name": "corridor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Adorning the exterior of the main edifice, you\u2019ll encounter a striking sight \u2013 71 petite stupas or chedis, each housing the revered remains of the royal family.", 
+        "line": 34, 
+        "range": [
+            1872, 
+            2035
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1920, 
+                    1927
+                ], 
+                "name": "edifice"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1975, 
+                    1981
+                ], 
+                "name": "stupas"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1985, 
+                    1991
+                ], 
+                "name": "chedis"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Each chedis has a beautiful artistic motif on it.", 
+        "line": 36, 
+        "range": [
+            2037, 
+            2085
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2053, 
+                    2059
+                ], 
+                "name": "chedis"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The surrounding is green and lush with small gardens and the ponds.", 
+        "line": 38, 
+        "range": [
+            2087, 
+            2153
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2144, 
+                    2151
+                ], 
+                "name": "gardens"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This verdant landscape adds a delightful touch of tranquility, rendering the area a pleasant and inviting destination for visitors.", 
+        "line": 40, 
+        "range": [
+            2155, 
+            2285
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2160, 
+                    2165
+                ], 
+                "name": "ponds"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2245, 
+                    2249
+                ], 
+                "name": "area"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Preservation of traditional art", 
+        "line": 42, 
+        "range": [
+            2287, 
+            2317
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beyond its role as a sacred place of devotion, Wat Pho holds the distinction of being one of Thailand\u2019s most ancient hubs of Buddhist education.", 
+        "line": 44, 
+        "range": [
+            2319, 
+            2464
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2355, 
+                    2367
+                ], 
+                "name": "sacred place"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2381, 
+                    2388
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2443, 
+                    2455
+                ], 
+                "name": "ancient hubs"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Historically, this temple served as a hallowed ground for the training of traditional Thai medicine, with a particular emphasis on the art of Thai massage, known as Nuad Thai treatment.", 
+        "line": 46, 
+        "range": [
+            2466, 
+            2650
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2499, 
+                    2505
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2519, 
+                    2533
+                ], 
+                "name": "allowed ground"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Furthermore, Wat Pho has gained renown as a repository of traditional Thai arts, encompassing masterful carvings, intricate calligraphy, and captivating paintings. Within its walls lies a precious trove of artistry, meticulously preserved throughout the passing centuries.", 
+        "line": 48, 
+        "range": [
+            2652, 
+            2923
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2680, 
+                    2687
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2711, 
+                    2721
+                ], 
+                "name": "repository"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How to get to Wat Pho?", 
+        "line": 50, 
+        "range": [
+            2925, 
+            2946
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wat Pho stands as one of Bangkok\u2019s premier tourist attractions, drawing a considerable number of visitors.", 
+        "line": 52, 
+        "range": [
+            2948, 
+            3055
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2955, 
+                    2962
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2965, 
+                    2972
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3008, 
+                    3027
+                ], 
+                "name": "tourist attractions"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Situated in the Phra Nakhon district, this temple enjoys excellent accessibility via various public transportation options like taxis, tuk-tuks, or the BTS train system.", 
+        "line": 54, 
+        "range": [
+            3057, 
+            3225
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3089, 
+                    3109
+                ], 
+                "name": "Phra Nakhon district"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3116, 
+                    3122
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3166, 
+                    3187
+                ], 
+                "name": "public transportation"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3201, 
+                    3206
+                ], 
+                "name": "taxis"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3208, 
+                    3216
+                ], 
+                "name": "tuk-tuks"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Moreover, its strategic location places it in proximity to other notable tourist landmarks, including the Grand Palace, Temple of the Emerald Buddha, and the City Pillar Shrine.", 
+        "line": 56, 
+        "range": [
+            3227, 
+            3403
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3317, 
+                    3334
+                ], 
+                "name": "tourist landmarks"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3350, 
+                    3362
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3364, 
+                    3392
+                ], 
+                "name": "Temple of the Emerald Buddha"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Here are several convenient methods to reach Wat Pho:", 
+        "line": 58, 
+        "range": [
+            3405, 
+            3457
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Taxi: Ensure that the taxi you choose employs a meter. The travel duration typically spans 30 to 45 minutes, subject to traffic conditions and your departure point.", 
+        "line": 60, 
+        "range": [
+            3459, 
+            3622
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3468, 
+                    3475
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3478, 
+                    3482
+                ], 
+                "name": "Taxi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3500, 
+                    3504
+                ], 
+                "name": "taxi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tuk-tuk: Opting for a ride on these distinctive three-wheeled vehicles can offer a unique and enjoyable experience. However, it\u2019s advisable to negotiate the fare beforehand.", 
+        "line": 62, 
+        "range": [
+            3624, 
+            3798
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3626, 
+                    3641
+                ], 
+                "name": "departure point"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3644, 
+                    3651
+                ], 
+                "name": "Tuk-tuk"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3692, 
+                    3714
+                ], 
+                "name": "three-wheeled vehicles"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Train: The nearest MRT station to Wat Pho is the \u201cSanam Chai Station,\u201d while the closest BTS station is the \u201cSaphan Taksin Station.\u201d", 
+        "line": 64, 
+        "range": [
+            3800, 
+            3939
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3819, 
+                    3824
+                ], 
+                "name": "Train"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3838, 
+                    3849
+                ], 
+                "name": "MRT station"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3853, 
+                    3860
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3869, 
+                    3887
+                ], 
+                "name": "Sanam Chai Station"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3908, 
+                    3919
+                ], 
+                "name": "BTS station"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "River Boat: You can embark on the Chao Phraya River Express, disembark at Tha Tien Pier, and take a leisurely stroll to reach the temple.", 
+        "line": 66, 
+        "range": [
+            3941, 
+            4077
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3953, 
+                    3963
+                ], 
+                "name": "River Boat"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    3987, 
+                    4012
+                ], 
+                "name": "Chao Phraya River Express"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4027, 
+                    4040
+                ], 
+                "name": "Tha Tien Pier"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Walking: If you\u2019re lodging around the Khao San Road vicinity or near the Grand Palace, consider a pleasant 10-minute walk to Wat Pho, enhancing your exploration of the area.", 
+        "line": 68, 
+        "range": [
+            4079, 
+            4253
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4083, 
+                    4089
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    4130, 
+                    4143
+                ], 
+                "name": "Khao San Road"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4165, 
+                    4177
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4217, 
+                    4224
+                ], 
+                "name": "Wat Pho"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How much is the entrance fee for Wat Pho?", 
+        "line": 70, 
+        "range": [
+            4255, 
+            4295
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4260, 
+                    4264
+                ], 
+                "name": "area"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The entrance fee to visit Wat Pho is 200 baht, equivalent to USD 5.39.", 
+        "line": 72, 
+        "range": [
+            4297, 
+            4366
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4300, 
+                    4307
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4336, 
+                    4343
+                ], 
+                "name": "Wat Pho"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "When planning your visit, remember to wear modest attire in accordance with temple etiquette.", 
+        "line": 74, 
+        "range": [
+            4368, 
+            4460
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "For those seeking a bit of relaxation and rejuvenation, you can indulge in a Thai Massage session here for 480 baht, lasting one hour.", 
+        "line": 76, 
+        "range": [
+            4462, 
+            4595
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "To delve deeper into the temple\u2019s history, consider signing up for a walking tour through Klook.", 
+        "line": 78, 
+        "range": [
+            4597, 
+            4694
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4638, 
+                    4646
+                ], 
+                "name": "temple\u2019s"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Is there a dress code for Wat Pho?", 
+        "line": 80, 
+        "range": [
+            4696, 
+            4729
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yes, there is a dress code for Wat Pho, as is common in many temples in Thailand.", 
+        "line": 82, 
+        "range": [
+            4731, 
+            4811
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4737, 
+                    4744
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4778, 
+                    4785
+                ], 
+                "name": "Wat Pho"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s important to dress respectfully to show reverence for the religious and cultural significance of the site.", 
+        "line": 84, 
+        "range": [
+            4813, 
+            4925
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4819, 
+                    4827
+                ], 
+                "name": "Thailand"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Here are some guidelines for the dress code at Wat Pho:", 
+        "line": 86, 
+        "range": [
+            4927, 
+            4981
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4936, 
+                    4940
+                ], 
+                "name": "site"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Modest clothing: Wear clothing that covers your shoulders, arms, and knees. Sleeveless tops, shorts, and short skirts are not appropriate. Loose-fitting, long pants or a long skirt and a conservative top are a good choice.", 
+        "line": 88, 
+        "range": [
+            4983, 
+            5204
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4990, 
+                    4997
+                ], 
+                "name": "Wat Pho"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Remove shoes: Before entering the temple buildings, you are required to remove your shoes. You\u2019ll usually find designated areas or racks for this purpose.", 
+        "line": 90, 
+        "range": [
+            5206, 
+            5361
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5258, 
+                    5274
+                ], 
+                "name": "temple buildings"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5346, 
+                    5351
+                ], 
+                "name": "areas"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hats and sunglasses: It\u2019s customary to remove hats and sunglasses when entering the temple buildings as a sign of respect.", 
+        "line": 92, 
+        "range": [
+            5363, 
+            5486
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5464, 
+                    5480
+                ], 
+                "name": "temple buildings"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Avoid revealing attire: Avoid clothing that is overly revealing or see-through. Clothing with offensive graphics or messages should also be avoided.", 
+        "line": 94, 
+        "range": [
+            5488, 
+            5635
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "By following these dress code guidelines, you\u2019ll show respect for the religious and cultural traditions of Wat Pho and have a more enjoyable and meaningful visit to this historic temple.", 
+        "line": 96, 
+        "range": [
+            5637, 
+            5824
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5761, 
+                    5768
+                ], 
+                "name": "Wat Pho"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you arrive and find that your attire doesn\u2019t meet the dress code, there are often sarongs or cover-ups available for rent or loan at the entrance to the temple.", 
+        "line": 98, 
+        "range": [
+            5826, 
+            5990
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5982, 
+                    5990
+                ], 
+                "name": "entrance"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "In conclusion, these are some quick insights into Wat Pho, encompassing ticket pricing, transportation tips, and exciting tours to enhance your visit.", 
+        "line": 100, 
+        "range": [
+            5992, 
+            6141
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5998, 
+                    6004
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6057, 
+                    6064
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6095, 
+                    6109
+                ], 
+                "name": "transportation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Be sure to include this temple in your Bangkok travel itinerary, and don\u2019t miss exploring other captivating tourist destinations in the city.", 
+        "line": 102, 
+        "range": [
+            6143, 
+            6285
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6183, 
+                    6189
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6198, 
+                    6205
+                ], 
+                "name": "Bangkok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Should you find the time, embarking on a journey to the temples in Chiang Mai and Chiang Rai can also be a rewarding addition to your Thai adventure.", 
+        "line": 104, 
+        "range": [
+            6287, 
+            6435
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6295, 
+                    6299
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6358, 
+                    6365
+                ], 
+                "name": "temples"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6369, 
+                    6379
+                ], 
+                "name": "Chiang Mai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6384, 
+                    6394
+                ], 
+                "name": "Chiang Rai"
+            }
+        ]
+    }
+]

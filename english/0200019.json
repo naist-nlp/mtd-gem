@@ -1,0 +1,1687 @@
+[
+    {
+        "text": "April 13, 2020    Derawan Islands: Dreams Come True", 
+        "line": 0, 
+        "range": [
+            1, 
+            51
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    18, 
+                    33
+                ], 
+                "name": "Derawan Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Derawan Islands, one of my dream destination in Indonesia. It has second best dive site in Indonesia after Raja Ampat. I was lucky I got promotion flight from Jakarta-Balikpapan (Citilink) for only IDR 158,000 return flight 20 August-26 August. I bought this ticket on March, and still wondering what is the best way to reach Derawan.", 
+        "line": 2, 
+        "range": [
+            53, 
+            386
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    53, 
+                    68
+                ], 
+                "name": "Derawan Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    101, 
+                    110
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    131, 
+                    140
+                ], 
+                "name": "dive site"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    144, 
+                    153
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    160, 
+                    170
+                ], 
+                "name": "Raja Ampat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    200, 
+                    206
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    212, 
+                    219
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    220, 
+                    230
+                ], 
+                "name": "Balikpapan"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    232, 
+                    240
+                ], 
+                "name": "Citilink"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    270, 
+                    276
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    379, 
+                    386
+                ], 
+                "name": "Derawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Getting to Derawan Islands", 
+        "line": 4, 
+        "range": [
+            388, 
+            413
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "As we know, there are two ways, first from Tarakan 3 hours by boat to reach Derawan and second one from Berau, 2 hours by car and 15-30 minutes by boat. I searched the ticket price Balikpapan-Tarakan and Balikpapan-Berau. The flight to Berau is more expensive than Tarakan.", 
+        "line": 6, 
+        "range": [
+            415, 
+            687
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    460, 
+                    467
+                ], 
+                "name": "Tarakan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    479, 
+                    483
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    493, 
+                    500
+                ], 
+                "name": "Derawan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    521, 
+                    526
+                ], 
+                "name": "Berau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    539, 
+                    542
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    564, 
+                    568
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    598, 
+                    608
+                ], 
+                "name": "Balikpapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    609, 
+                    616
+                ], 
+                "name": "Tarakan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    621, 
+                    631
+                ], 
+                "name": "Balikpapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    632, 
+                    637
+                ], 
+                "name": "Berau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    643, 
+                    649
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    653, 
+                    658
+                ], 
+                "name": "Berau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My concern at that time was, if I went alone, it\u2019s better to go through Berau, because there\u2019s public transportation to Derawan. But if I went from Tarakan, means it\u2019s better for me to join trip package.", 
+        "line": 8, 
+        "range": [
+            689, 
+            897
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    764, 
+                    769
+                ], 
+                "name": "Berau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    787, 
+                    808
+                ], 
+                "name": "public transportation"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    812, 
+                    819
+                ], 
+                "name": "Derawan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    840, 
+                    847
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lots of offering comes to you if you start from Tarakan. I saw my schedule, matched all the time. In April, I got my tickets Balikpapan-Tarakan on 20 August 18.30 p.m. with fares price IDR 360,000 with Lion Air. And the return flight, on 24 August IDR 426,000 by Batavia.", 
+        "line": 10, 
+        "range": [
+            899, 
+            1169
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    945, 
+                    952
+                ], 
+                "name": "Tarakan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1022, 
+                    1032
+                ], 
+                "name": "Balikpapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1033, 
+                    1040
+                ], 
+                "name": "Tarakan"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1099, 
+                    1107
+                ], 
+                "name": "Lion Air"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1124, 
+                    1130
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1160, 
+                    1167
+                ], 
+                "name": "Batavia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This was the cheapest flight I could find. It was Hari Raya at that time, so the price was increasing. Even my JKT-BPP flight was way more cheaper.", 
+        "line": 12, 
+        "range": [
+            1171, 
+            1317
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1192, 
+                    1198
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1281, 
+                    1284
+                ], 
+                "name": "JKT"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1285, 
+                    1288
+                ], 
+                "name": "BPP"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1289, 
+                    1295
+                ], 
+                "name": "flight"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was worried for my first day flight, I got two flights from Jakarta-Balikpapan and Balikpapan-Tarakan in the same day. In the schedule, Citilink was supposed to arrive at Tarakan on 17.05 p.m. What if Citilink delayed and I missed my flight to Tarakan?", 
+        "line": 14, 
+        "range": [
+            1319, 
+            1572
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1350, 
+                    1356
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1368, 
+                    1375
+                ], 
+                "name": "flights"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1381, 
+                    1388
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1389, 
+                    1399
+                ], 
+                "name": "Balikpapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1404, 
+                    1414
+                ], 
+                "name": "Balikpapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1415, 
+                    1422
+                ], 
+                "name": "Tarakan"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1457, 
+                    1465
+                ], 
+                "name": "Citilink"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1492, 
+                    1499
+                ], 
+                "name": "Tarakan"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1522, 
+                    1530
+                ], 
+                "name": "Citilink"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1555, 
+                    1561
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1565, 
+                    1572
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Well, I hoped it wouldn\u2019t happen to me. Worst case was I wouldn\u2019t go to Tarakan, I lost my money 786k, and I would travel around borneo for a week.", 
+        "line": 16, 
+        "range": [
+            1574, 
+            1724
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1647, 
+                    1654
+                ], 
+                "name": "Tarakan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1704, 
+                    1710
+                ], 
+                "name": "borneo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I started to look for trip agency who offers trip to Derawan. Found one, GPS adventure, but the trip was from 20-22 August. Then thanks God someone called Anita pm me in couchsurfing, \u201d I sell trip to Derawan. If you can find 12 people, you can join the trip for free.\u201d So, I posted to all forum such as couchsurfing and backpackerindonesia, then finally I got 12 people !", 
+        "line": 18, 
+        "range": [
+            1726, 
+            2101
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1777, 
+                    1784
+                ], 
+                "name": "Derawan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1925, 
+                    1932
+                ], 
+                "name": "Derawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itinerary with Tour to Derawan Islands", 
+        "line": 20, 
+        "range": [
+            2103, 
+            2140
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2121, 
+                    2136
+                ], 
+                "name": "Derawan Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: From Jakarta to Tarakan", 
+        "line": 22, 
+        "range": [
+            2142, 
+            2171
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2150, 
+                    2157
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2161, 
+                    2168
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was kindda worrry because Anita told me there\u2019s an accident happened. Before, we\u2019re discussing about which boat will we used because we didn\u2019t expect that there were more people who wanna join us.,the small one or big one.", 
+        "line": 24, 
+        "range": [
+            2173, 
+            2402
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2279, 
+                    2283
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Big boat can hold until 15 people, but then the participants was 17. Anita said we\u2019re going to use big boat, and cancelled some of the participants, afraid the tide\u2019s high and the boat\u2019s overload.", 
+        "line": 26, 
+        "range": [
+            2404, 
+            2605
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2495, 
+                    2503
+                ], 
+                "name": "big boat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2576, 
+                    2582
+                ], 
+                "name": "boat\u2019s"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "But then she told me, one day before I went to bpp, there was an accident, and she\u2019s at funeral. Of course I was scared. Means someone\u2019s dead and I knew Anita had another trip before my trip, I was thinking some possibilities that might happened.", 
+        "line": 28, 
+        "range": [
+            2607, 
+            2856
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2641, 
+                    2644
+                ], 
+                "name": "bpp"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The tide\u2019s high and the boat sunk and this person cant swim so he died? All thoughts come to my head. Let\u2019s hear later from Anita.", 
+        "line": 30, 
+        "range": [
+            2858, 
+            2991
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2866, 
+                    2870
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Started from Bandung by Primajasa to Soekarno Hatta International Airport. Arrived there at 10.30. I thought I still needed to wait for a long time, because my flight was 2 p.m.", 
+        "line": 32, 
+        "range": [
+            2993, 
+            3169
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2998, 
+                    3007
+                ], 
+                "name": "Primajasa"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3011, 
+                    3047
+                ], 
+                "name": "Soekarno Hatta International Airport"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3134, 
+                    3140
+                ], 
+                "name": "flight"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I had my lunch first. After I got my lunch, I looked at the schedule board, trying to find my flight at 2 p.m. Strange, there\u2019s no citilink flight to Balikpapan at 2 p.m. Instead 2 p.m. there\u2019s flight at 11 a.m. I looked at my watch it\u2019s 11 a.m. now. Oh Shit !", 
+        "line": 34, 
+        "range": [
+            3171, 
+            3436
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3247, 
+                    3253
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    3284, 
+                    3299
+                ], 
+                "name": "citilink flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3303, 
+                    3313
+                ], 
+                "name": "Balikpapan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3347, 
+                    3353
+                ], 
+                "name": "flight"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I rushed into the Citilink counter and I found out my schedule was changed to 5 p.m. I started to panic, how could I chased that 18.30 p.m. flight when the flight from jkt-bpp takes around 2 hours.", 
+        "line": 36, 
+        "range": [
+            3438, 
+            3634
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3555, 
+                    3561
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3571, 
+                    3577
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3583, 
+                    3586
+                ], 
+                "name": "jkt"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3587, 
+                    3590
+                ], 
+                "name": "bpp"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I explained to them. But then the officer talked each other, and then went to check in counter with me. Thanks God the 11 a.m. plane was delayed until 12 p.m. I had my manual check in, and big thanks to God, I could have my flight, even earlier.", 
+        "line": 38, 
+        "range": [
+            3636, 
+            3880
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3692, 
+                    3708
+                ], 
+                "name": "check in counter"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3741, 
+                    3746
+                ], 
+                "name": "plane"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3838, 
+                    3844
+                ], 
+                "name": "flight"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Welcome to Sepinggan Airport. It was 3 p.m. central zone time. I still had plenty of time before my next flight. First thing I did was going to citilink counter to check if there\u2019s any change on my return flight schedule. And yes, it\u2019s changed to 8.30 p.m. Well. it\u2019s good, means I could spent much more time in Borneo.", 
+        "line": 40, 
+        "range": [
+            3882, 
+            4206
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3966, 
+                    3972
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4005, 
+                    4021
+                ], 
+                "name": "citilink counter"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4066, 
+                    4072
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4173, 
+                    4179
+                ], 
+                "name": "Borneo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I waited for my next flight, thanks to Bang Kevin who was in bpp at that time and he came to airport and accompanied me while waiting. Next I got my flight with Lion, it took around 1 hour from bpp-tarakan.", 
+        "line": 42, 
+        "range": [
+            4208, 
+            4413
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4243, 
+                    4246
+                ], 
+                "name": "bpp"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4275, 
+                    4282
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4331, 
+                    4337
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4343, 
+                    4347
+                ], 
+                "name": "Lion"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4376, 
+                    4379
+                ], 
+                "name": "bpp"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4380, 
+                    4387
+                ], 
+                "name": "tarakan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4406, 
+                    4413
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After I reached Tarakan, I stayed in Anita\u2019s house. Anita told me about the accident. It\u2019s not the boat sunk or turned upside down, but this guy was swimming near the dock, and then he\u2019s drowned.", 
+        "line": 44, 
+        "range": [
+            4415, 
+            4615
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4435, 
+                    4440
+                ], 
+                "name": "house"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4489, 
+                    4493
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4557, 
+                    4561
+                ], 
+                "name": "dock"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The guy is a strong guy, but the day before, he had blood donors and maybe he felt he\u2019s in good condition, but actually he\u2019s not. Anita was not going to accompany us because she\u2019s still trauma. Her brother in law will replaced her.", 
+        "line": 46, 
+        "range": [
+            4617, 
+            4853
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4832, 
+                    4839
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: From Tarakan to Derawan Islands", 
+        "line": 48, 
+        "range": [
+            4855, 
+            4892
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "All the participants had gathered at sdf harbor. It took 3 hours to Derawan. It was low tide and the boat\u2019s trapped onto the sand sometimes. We\u2019re chit chatting on the boat, laughing together. It was fun.", 
+        "line": 50, 
+        "range": [
+            4894, 
+            5101
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4897, 
+                    4907
+                ], 
+                "name": "sdf harbor"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4928, 
+                    4935
+                ], 
+                "name": "Derawan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4961, 
+                    4967
+                ], 
+                "name": "boat\u2019s"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5028, 
+                    5032
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Most of them is still young, so it\u2019s fun talking with them. 4 p.m. we arrived in Derawan at 4 p.m. The water is soo clear until you can see what\u2019s under beneath, like the one that I\u2019ve seen during traveling to Ora Beach. First arrived, weather was a bit cloudy, but we were greeted by a very big turtle swimming under us..wow !", 
+        "line": 52, 
+        "range": [
+            5103, 
+            5435
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5147, 
+                    5154
+                ], 
+                "name": "Derawan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5276, 
+                    5285
+                ], 
+                "name": "Ora Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5422, 
+                    5436
+                ], 
+                "name": "Derawan Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We had a walk and explored Derawan Island. The beach is not really beautiful I think, some of the coral were dead. We had our dinner, then we went to release baby turtle. We were lucky to see turtle lay eggs.Too bad there\u2019s lil bit problem, we should slept in homestay in the first night because the cottage was full.", 
+        "line": 54, 
+        "range": [
+            5437, 
+            5755
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5442, 
+                    5447
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5655, 
+                    5663
+                ], 
+                "name": "homestay"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5695, 
+                    5702
+                ], 
+                "name": "cottage"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5730, 
+                    5737
+                ], 
+                "name": "Maratua"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5739, 
+                    5746
+                ], 
+                "name": "Kakaban"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3: Visiting Maratua, Kakaban, and Sangalaki", 
+        "line": 56, 
+        "range": [
+            5757, 
+            5803
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I woke up in early morning to see sunrise. Only Jeffry and Kak Faza woke up. Others, slept very well. 6 a.m. sunrise showed up. Beautiful.", 
+        "line": 58, 
+        "range": [
+            5805, 
+            5942
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5932, 
+                    5939
+                ], 
+                "name": "islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We were ready to explore the islands ! First one, Maratua Island..Best island ever! It took an hour from Derawan to Maratua. What makes Maratua beautiful is the crystal water, white sand, and beautiful cottage above the water. It\u2019s way better even then the best beaches in Bali. No need to go to Maldives. Indonesia has it!", 
+        "line": 60, 
+        "range": [
+            5944, 
+            6268
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5953, 
+                    5967
+                ], 
+                "name": "Maratua Island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5974, 
+                    5980
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6008, 
+                    6015
+                ], 
+                "name": "Derawan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6019, 
+                    6026
+                ], 
+                "name": "Maratua"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6039, 
+                    6046
+                ], 
+                "name": "Maratua"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6105, 
+                    6112
+                ], 
+                "name": "cottage"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6165, 
+                    6172
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6176, 
+                    6180
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6199, 
+                    6207
+                ], 
+                "name": "Maldives"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6209, 
+                    6218
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6256, 
+                    6262
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There is one more beautiful island near Maratua called Nabucco. It\u2019s owned by foreigner. We didnt go there because it\u2019s not included in the package. From what I heard, to stay in the cottage, we need to spend 800k for Maratua and 1.2million for Nabucco, per person. Wow expensive.", 
+        "line": 62, 
+        "range": [
+            6270, 
+            6553
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6283, 
+                    6290
+                ], 
+                "name": "Nabucco"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6411, 
+                    6418
+                ], 
+                "name": "cottage"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6446, 
+                    6453
+                ], 
+                "name": "Maratua"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6473, 
+                    6480
+                ], 
+                "name": "Nabucco"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6523, 
+                    6530
+                ], 
+                "name": "Maratua"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Not far from Maratua, about 15 minutes, we went to Kakaban. Tide was little bit high and scary. Kakaban is an ancient lake. What makes it special is the stingless jellyfish ! The jellyfish is no longer sting because the lake which used to be salty turned to freshwater. So the jellyfish lost their sting power. The jellyfishes were all cute !", 
+        "line": 64, 
+        "range": [
+            6555, 
+            6896
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6561, 
+                    6568
+                ], 
+                "name": "Kakaban"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6606, 
+                    6613
+                ], 
+                "name": "Kakaban"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6620, 
+                    6632
+                ], 
+                "name": "ancient lake"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6730, 
+                    6734
+                ], 
+                "name": "lake"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6864, 
+                    6881
+                ], 
+                "name": "Sangalaki Island."
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Last one, Sangalaki Island. I really hoped to see Manta Ray. But too bad, didnt find one. It seems that we took wrong spot. We didnt go to the island either because the guide said we\u2019re too late, afraid of the high tide. But I thought we still got enough time.", 
+        "line": 66, 
+        "range": [
+            6898, 
+            7159
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6972, 
+                    6976
+                ], 
+                "name": "spot"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6997, 
+                    7003
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pretty annoying. We saw the coral, I\u2019ve seen better one in Karimunjawa Islands. Wrong spot I think. I envy my friend who joined this trip with me but extended and joined another trip after me saw Mantas, and other better spot for snorkeling.", 
+        "line": 68, 
+        "range": [
+            7161, 
+            7403
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7175, 
+                    7194
+                ], 
+                "name": "Karimunjawa Islands"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7337, 
+                    7341
+                ], 
+                "name": "spot"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7391, 
+                    7398
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 4: End of the trip, Back to Tarakan", 
+        "line": 70, 
+        "range": [
+            7405, 
+            7443
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7419, 
+                    7426
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Time to go back to Tarakan. So sad leaving this paradise. I got new friends and had fun. Gossiping about other annoying participant. Oops, no mention.", 
+        "line": 72, 
+        "range": [
+            7445, 
+            7594
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7578, 
+                    7593
+                ], 
+                "name": "Derawan Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Next time I\u2019ll go back to Derawan Islands again, after I got my diving license of course. My journey in Borneo has not ended yet.", 
+        "line": 74, 
+        "range": [
+            7596, 
+            7726
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7656, 
+                    7662
+                ], 
+                "name": "Borneo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Thanks all: Kak Faza, Iki, Maradona, Vivi, Meloni, Olivia, Harvi, Jeffry, Flo, Adi, Tyo, Ko Edi", 
+        "line": 76, 
+        "range": [
+            7728, 
+            7822
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 20-26 August 2012", 
+        "line": 78, 
+        "range": [
+            7824, 
+            7852
+        ], 
+        "entities": []
+    }
+]

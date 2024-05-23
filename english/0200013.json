@@ -1,0 +1,2654 @@
+[
+    {
+        "text": "September 6, 2023    Hiking Mount Rinjani Indonesia: A Travel Journal", 
+        "line": 0, 
+        "range": [
+            1, 
+            69
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    28, 
+                    41
+                ], 
+                "name": "Mount Rinjani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    42, 
+                    51
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hiking Mount Rinjani is definitely one of my best hikes here in Indonesia. It\u2019s challenging yet rewarding, especially with the beautiful view of Lake Segara Anak.", 
+        "line": 2, 
+        "range": [
+            71, 
+            234
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    78, 
+                    91
+                ], 
+                "name": "Mount Rinjani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    135, 
+                    144
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    216, 
+                    232
+                ], 
+                "name": "Lake Segara Anak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mount Rinjani is located in Lombok, Indonesia, stands high with the elevation of 3,726 meters above sea level, making it the third highest mountain in Indonesia after Mount Jayawijaya and Mount Kerinci.", 
+        "line": 4, 
+        "range": [
+            236, 
+            437
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    263, 
+                    269
+                ], 
+                "name": "Lombok"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    271, 
+                    280
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    374, 
+                    382
+                ], 
+                "name": "mountain"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    386, 
+                    395
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    402, 
+                    418
+                ], 
+                "name": "Mount Jayawijaya"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    423, 
+                    436
+                ], 
+                "name": "Mount Kerinci"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hiking Mount Rinjani is pretty popular since it\u2019s not so far from Bali.", 
+        "line": 6, 
+        "range": [
+            439, 
+            511
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    446, 
+                    459
+                ], 
+                "name": "Mount Rinjani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    505, 
+                    509
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are quite a number of tour providers that offer multiple day hikes to Mount Rinjani.", 
+        "line": 8, 
+        "range": [
+            513, 
+            602
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    588, 
+                    601
+                ], 
+                "name": "Mount Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "When is the best time to visit Mount Rinjani?", 
+        "line": 10, 
+        "range": [
+            604, 
+            648
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    635, 
+                    648
+                ], 
+                "name": "Mount Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The best time to hike Mount Rinjani is between May \u2013 July when the weather is pleasant.", 
+        "line": 12, 
+        "range": [
+            650, 
+            738
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    673, 
+                    686
+                ], 
+                "name": "Mount Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Keep in mind that this volcano is not only popular for foreign hikers but also locals, so expect it to be crowded especially during high season (mid august during independence day or new year\u2019s eve).", 
+        "line": 14, 
+        "range": [
+            740, 
+            940
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    763, 
+                    770
+                ], 
+                "name": "volcano"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019d be more quiet during Ramadan month as the majority of the locals are Muslim and celebrate it.", 
+        "line": 16, 
+        "range": [
+            942, 
+            1041
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There might be occasional closure due to the volcano activity so always check the latest update.", 
+        "line": 18, 
+        "range": [
+            1043, 
+            1138
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1086, 
+                    1093
+                ], 
+                "name": "volcano"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "While occasional light showers are normal, the temperatures during this time are generally pleasant.", 
+        "line": 20, 
+        "range": [
+            1140, 
+            1239
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "However, as you ascend to higher altitudes, it can get quite chilly, with the lowest temperatures reaching around 5 degrees Celsius.", 
+        "line": 22, 
+        "range": [
+            1241, 
+            1372
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How to get to Mount Rinjani?", 
+        "line": 24, 
+        "range": [
+            1374, 
+            1401
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1389, 
+                    1402
+                ], 
+                "name": "Mount Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The best way and the fastest way would be flying straight to Lombok International Airport.", 
+        "line": 26, 
+        "range": [
+            1403, 
+            1492
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Flights are pretty cheap, especially if you\u2019re flying from Bali \u2013 it should cost you less than USD 100 for a one- way ticket.", 
+        "line": 28, 
+        "range": [
+            1494, 
+            1622
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1497, 
+                    1504
+                ], 
+                "name": "Flights"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1556, 
+                    1560
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Most of the tours will start from Senaru Village which is around 3.5 hours from the airport.", 
+        "line": 30, 
+        "range": [
+            1624, 
+            1715
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1658, 
+                    1672
+                ], 
+                "name": "Senaru Village"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1708, 
+                    1715
+                ], 
+                "name": "airport"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "You can arrange airport transfer to the basecamp with your tour company, or else you can hire a taxi from the airport which will cost you around Rp 500,000 \u2013 700,000 to Senaru / Sembalun.", 
+        "line": 32, 
+        "range": [
+            1717, 
+            1905
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1734, 
+                    1741
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1758, 
+                    1766
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1814, 
+                    1818
+                ], 
+                "name": "taxi"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1828, 
+                    1835
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1887, 
+                    1893
+                ], 
+                "name": "Senaru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1896, 
+                    1904
+                ], 
+                "name": "Sembalun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Otherwise if you\u2019d like to take public transportation, you can take a bus from the airport called Damri to Mandalika Station then continue by a small van to Sembalun, the starting point of the hike.", 
+        "line": 34, 
+        "range": [
+            1907, 
+            2106
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1939, 
+                    1960
+                ], 
+                "name": "public transportation"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1977, 
+                    1980
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1990, 
+                    1997
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2005, 
+                    2010
+                ], 
+                "name": "Damri"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2014, 
+                    2031
+                ], 
+                "name": "Mandalika Station"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2057, 
+                    2060
+                ], 
+                "name": "van"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2064, 
+                    2072
+                ], 
+                "name": "Sembalun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some accommodations to check if you\u2019re staying in:", 
+        "line": 36, 
+        "range": [
+            2108, 
+            2159
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sembalun", 
+        "line": 38, 
+        "range": [
+            2161, 
+            2168
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "- Sembalun Kita Cottage", 
+        "line": 39, 
+        "range": [
+            2169, 
+            2191
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2170, 
+                    2191
+                ], 
+                "name": "Sembalun Kita Cottage"
+            }
+        ]
+    }, 
+    {
+        "text": "- Raditya Guesthouse", 
+        "line": 40, 
+        "range": [
+            2192, 
+            2211
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2194, 
+                    2212
+                ], 
+                "name": "Raditya Guesthouse"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Senaru", 
+        "line": 42, 
+        "range": [
+            2213, 
+            2218
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "- Rinjani Lighthouse", 
+        "line": 43, 
+        "range": [
+            2219, 
+            2238
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "- Pondok Guru Bakti Cottage", 
+        "line": 44, 
+        "range": [
+            2239, 
+            2265
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "- Rinjani Lodge", 
+        "line": 45, 
+        "range": [
+            2266, 
+            2280
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How long does it take to climb Mount Rinjani?", 
+        "line": 47, 
+        "range": [
+            2282, 
+            2326
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are two most common routes to start hiking Mount Rinjani, Sembalun and Senaru.", 
+        "line": 49, 
+        "range": [
+            2328, 
+            2411
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2360, 
+                    2366
+                ], 
+                "name": "routes"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2383, 
+                    2396
+                ], 
+                "name": "Mount Rinjani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2398, 
+                    2406
+                ], 
+                "name": "Sembalun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019re pretty flexible and not worrying about the time, I\u2019d suggest you start from Sembalun and finish at Senaru.", 
+        "line": 51, 
+        "range": [
+            2413, 
+            2532
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2506, 
+                    2514
+                ], 
+                "name": "Sembalun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ideally, it\u2019ll take 4 days to complete the trek from Sembalun to Senaru, although most tour operators squeeze it in 3 days \u2013 it would be pretty challenging in my opinion, and believe me you wouldn\u2019t want to miss the experience of camping by Lake Segara Anak cause the morning view is spectacular!", 
+        "line": 53, 
+        "range": [
+            2534, 
+            2835
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2591, 
+                    2599
+                ], 
+                "name": "Sembalun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2603, 
+                    2609
+                ], 
+                "name": "Senaru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2779, 
+                    2795
+                ], 
+                "name": "Lake Segara Anak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 54, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The Sembalun route kicks off on a positive note with a gradual ascent, surrounded by vast savanna hills. In contrast, the Senaru trail takes you through a forested path.", 
+        "line": 55, 
+        "range": [
+            2837, 
+            3005
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    2840, 
+                    2854
+                ], 
+                "name": "Sembalun route"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2926, 
+                    2939
+                ], 
+                "name": "savanna hills"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    2958, 
+                    2970
+                ], 
+                "name": "Senaru trail"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2991, 
+                    3004
+                ], 
+                "name": "forested path"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 56, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The reason why I prefer going up from Sembalun is you\u2019ll do the hard work first going to the summit then you can relax down at Lake Segara Anak.", 
+        "line": 57, 
+        "range": [
+            3007, 
+            3152
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3045, 
+                    3053
+                ], 
+                "name": "Sembalun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3100, 
+                    3106
+                ], 
+                "name": "summit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3134, 
+                    3150
+                ], 
+                "name": "Lake Segara Anak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 58, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "On the other hand, if you start from Senaru. You\u2019ll go to the lake first, then hike up to the summit. I think it\u2019ll be more tiring and you\u2019ll have to spend time and energy.", 
+        "line": 59, 
+        "range": [
+            3154, 
+            3331
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3190, 
+                    3196
+                ], 
+                "name": "Senaru"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3215, 
+                    3219
+                ], 
+                "name": "lake"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3247, 
+                    3253
+                ], 
+                "name": "summit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 60, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Can you do it in one day? Yes, you definitely can but you will only get to the crater rim, not to the summit.", 
+        "line": 61, 
+        "range": [
+            3333, 
+            3441
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3406, 
+                    3416
+                ], 
+                "name": "crater rim"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3429, 
+                    3435
+                ], 
+                "name": "summit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 62, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Do I need a guide to climb Mount Rinjani?", 
+        "line": 63, 
+        "range": [
+            3443, 
+            3483
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3465, 
+                    3478
+                ], 
+                "name": "Mount Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 64, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lately, the Indonesian authorities have implemented regulations that mandate trekkers to be accompanied by a licensed guide and sometimes also require the use of porters for environmental and safety reasons.", 
+        "line": 65, 
+        "range": [
+            3485, 
+            3691
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 66, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This is to ensure the safety of trekkers, protect the fragile ecosystem of the national park, and support the local economy by providing employment opportunities to the guides and porters.", 
+        "line": 67, 
+        "range": [
+            3693, 
+            3880
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3769, 
+                    3782
+                ], 
+                "name": "national park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 68, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019re not taking a tour, the cost of guide would be as follow:", 
+        "line": 69, 
+        "range": [
+            3882, 
+            3949
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Guide: Rp 350,000 / day", 
+        "line": 70, 
+        "range": [
+            3950, 
+            3972
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Porter: Rp 300,000 / day", 
+        "line": 71, 
+        "range": [
+            3973, 
+            3996
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 72, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Trekking tours in Mount Rinjani", 
+        "line": 73, 
+        "range": [
+            3998, 
+            4028
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4015, 
+                    4028
+                ], 
+                "name": "Mount Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 74, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you engage with tour operators, you basically just need to pack your personal stuff as most of the camping gear would be provided by them.", 
+        "line": 75, 
+        "range": [
+            4030, 
+            4170
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 76, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "You need to check whether the price that you pay includes the trekking permit because some operators do not include it in the price.", 
+        "line": 77, 
+        "range": [
+            4172, 
+            4303
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 78, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The permit to enter Rinjani National Park is Rp 150,000 / day.", 
+        "line": 79, 
+        "range": [
+            4305, 
+            4366
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4327, 
+                    4348
+                ], 
+                "name": "Rinjani National Park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 80, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This is what the tours will offer you:", 
+        "line": 81, 
+        "range": [
+            4368, 
+            4405
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 82, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mount Rinjani Trekking Tour 1D Package", 
+        "line": 83, 
+        "range": [
+            4407, 
+            4444
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4411, 
+                    4424
+                ], 
+                "name": "Mount Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "Price: USD 75 / person", 
+        "line": 84, 
+        "range": [
+            4445, 
+            4466
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Route: Senaru \u2013 Senaru Crater Rim \u2013 Senaru", 
+        "line": 85, 
+        "range": [
+            4467, 
+            4512
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4480, 
+                    4486
+                ], 
+                "name": "Senaru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4489, 
+                    4506
+                ], 
+                "name": "Senaru Crater Rim"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mount Rinjani Trekking Tour 2D1N Package", 
+        "line": 87, 
+        "range": [
+            4514, 
+            4553
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4517, 
+                    4530
+                ], 
+                "name": "Mount Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "Price USD 150 / person", 
+        "line": 88, 
+        "range": [
+            4554, 
+            4575
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Route: Sembalun \u2013 Summit \u2013 Sembalun", 
+        "line": 89, 
+        "range": [
+            4576, 
+            4614
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4588, 
+                    4596
+                ], 
+                "name": "Sembalun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4599, 
+                    4605
+                ], 
+                "name": "Summit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 90, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mount Rinjani Trekking Tour 3D2N Package", 
+        "line": 91, 
+        "range": [
+            4616, 
+            4655
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4618, 
+                    4631
+                ], 
+                "name": "Mount Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "Price: USD 200 \u2013 300/person", 
+        "line": 92, 
+        "range": [
+            4656, 
+            4684
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Route: Sembalun \u2013 Summit \u2013 Senaru or vice versa", 
+        "line": 93, 
+        "range": [
+            4685, 
+            4735
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4694, 
+                    4702
+                ], 
+                "name": "Sembalun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4705, 
+                    4711
+                ], 
+                "name": "Summit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4714, 
+                    4720
+                ], 
+                "name": "Senaru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 94, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mount Rinjani Trekking Tour 4D3N Package", 
+        "line": 95, 
+        "range": [
+            4737, 
+            4776
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Price: USD 300 \u2013 400 / person", 
+        "line": 96, 
+        "range": [
+            4777, 
+            4807
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Route: Sembalun \u2013 Summit \u2013 Lake Segara Anak \u2013 Senaru or vice versa", 
+        "line": 97, 
+        "range": [
+            4808, 
+            4879
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4814, 
+                    4822
+                ], 
+                "name": "Sembalun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4825, 
+                    4831
+                ], 
+                "name": "Summit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4834, 
+                    4850
+                ], 
+                "name": "Lake Segara Anak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4853, 
+                    4859
+                ], 
+                "name": "Senaru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 98, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Again, the price depends on if you wanna do it privately (normally minimum 2 pax) or joining a group tour.", 
+        "line": 99, 
+        "range": [
+            4881, 
+            4986
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 100, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "These are the services you can expect if you join a trekking tour:", 
+        "line": 101, 
+        "range": [
+            4988, 
+            5053
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Round-trip transfers to and from your hotel in Senaru Village", 
+        "line": 102, 
+        "range": [
+            5054, 
+            5114
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5088, 
+                    5093
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5097, 
+                    5111
+                ], 
+                "name": "Senaru Village"
+            }
+        ]
+    }, 
+    {
+        "text": "Meals and beverages during the trekking day", 
+        "line": 103, 
+        "range": [
+            5115, 
+            5157
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Trekking equipment: tent, sleeping bag, bed mats", 
+        "line": 104, 
+        "range": [
+            5158, 
+            5205
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Professional English-speaking guide", 
+        "line": 105, 
+        "range": [
+            5206, 
+            5240
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Porter", 
+        "line": 106, 
+        "range": [
+            5241, 
+            5246
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Insurance provided by the operator", 
+        "line": 107, 
+        "range": [
+            5247, 
+            5280
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 108, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itinerary hiking Mount Rinjani", 
+        "line": 109, 
+        "range": [
+            5282, 
+            5311
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 110, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "In total it took me 4 days hike in the mountain, here\u2019s my itinerary:", 
+        "line": 111, 
+        "range": [
+            5313, 
+            5383
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5355, 
+                    5363
+                ], 
+                "name": "mountain"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 112, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: Starting the hike from Sembalun", 
+        "line": 113, 
+        "range": [
+            5385, 
+            5422
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 114, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Upon our arrival in Sembalun, we embarked on our Mount Rinjani hike.", 
+        "line": 115, 
+        "range": [
+            5424, 
+            5491
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5447, 
+                    5455
+                ], 
+                "name": "Sembalun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5476, 
+                    5489
+                ], 
+                "name": "Mount Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 116, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "You\u2019ll eventually reach the registration post in Sembalun, where you\u2019ll need to process your climbing permit.", 
+        "line": 117, 
+        "range": [
+            5493, 
+            5605
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5525, 
+                    5542
+                ], 
+                "name": "registration post"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5546, 
+                    5554
+                ], 
+                "name": "Sembalun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 118, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Each day only 160 hikers are allowed to climb.", 
+        "line": 119, 
+        "range": [
+            5607, 
+            5652
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 120, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The trek featured gentle slopes rather than steep inclines, characterized by expansive grassy hills.", 
+        "line": 121, 
+        "range": [
+            5654, 
+            5753
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 122, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Along the way, we found an abundance of water sources in Rinjani, with water available at every checkpoint.", 
+        "line": 123, 
+        "range": [
+            5755, 
+            5861
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5798, 
+                    5811
+                ], 
+                "name": "water sources"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5815, 
+                    5822
+                ], 
+                "name": "Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 124, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "However, the cleanest water source we encountered was at the third checkpoint.", 
+        "line": 125, 
+        "range": [
+            5863, 
+            5940
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5889, 
+                    5901
+                ], 
+                "name": "water source"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 126, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: Post 3 \u2013 Plawangan Sembalun", 
+        "line": 127, 
+        "range": [
+            5942, 
+            5977
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5954, 
+                    5960
+                ], 
+                "name": "Post 3"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 128, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We began our hike at 9 am, crossing a challenging section known as Bukit Penyesalan or the \u201cHills of Regret.\u201d", 
+        "line": 129, 
+        "range": [
+            5979, 
+            6091
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6050, 
+                    6066
+                ], 
+                "name": "Bukit Penyesalan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6075, 
+                    6090
+                ], 
+                "name": "Hills of Regret"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 130, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The terrain became increasingly steep, earning its name as those who traverse it often express a sense of regret.", 
+        "line": 131, 
+        "range": [
+            6093, 
+            6205
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 132, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "By 1 pm, we reached Plawangan Sembalun, the gateway to the summit and a popular camping spot for trekkers before the final push to the summit.", 
+        "line": 133, 
+        "range": [
+            6207, 
+            6348
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6229, 
+                    6247
+                ], 
+                "name": "Plawangan Sembalun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6253, 
+                    6260
+                ], 
+                "name": "gateway"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6268, 
+                    6274
+                ], 
+                "name": "summit"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6289, 
+                    6301
+                ], 
+                "name": "camping spot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 134, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Here, we found a natural water spring, and the view of the lake from this last checkpoint was simply stunning.", 
+        "line": 135, 
+        "range": [
+            6350, 
+            6459
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6378, 
+                    6390
+                ], 
+                "name": "water spring"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6412, 
+                    6416
+                ], 
+                "name": "lake"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6432, 
+                    6442
+                ], 
+                "name": "checkpoint"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 136, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3: Summit attack \u2013 camping at Lake Segara Anak", 
+        "line": 137, 
+        "range": [
+            6461, 
+            6512
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6472, 
+                    6478
+                ], 
+                "name": "Summit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 138, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Heading for the summit was quite an adventure. Fortunately, we had a full moon to light our way.", 
+        "line": 139, 
+        "range": [
+            6514, 
+            6609
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6533, 
+                    6539
+                ], 
+                "name": "summit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 140, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The moonlight danced on the lake\u2019s surface, creating a stunning, radiant spectacle. It was truly breathtaking!", 
+        "line": 141, 
+        "range": [
+            6611, 
+            6722
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6643, 
+                    6649
+                ], 
+                "name": "lake\u2019s"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 142, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sadly, my camera couldn\u2019t do justice to the moment.", 
+        "line": 143, 
+        "range": [
+            6724, 
+            6776
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 144, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We commenced our summit ascent at 2 am.", 
+        "line": 145, 
+        "range": [
+            6778, 
+            6816
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6797, 
+                    6803
+                ], 
+                "name": "summit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 146, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The hike was quite exhausting due to loose rocks and sand underfoot.", 
+        "line": 147, 
+        "range": [
+            6818, 
+            6885
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 148, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It felt like taking one step up and sliding down slightly.", 
+        "line": 149, 
+        "range": [
+            6887, 
+            6944
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 150, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Still, it wasn\u2019t as challenging as Mount Semeru.", 
+        "line": 151, 
+        "range": [
+            6946, 
+            6995
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 152, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The most demanding part was the section known as \u201cLetter S,\u201d just before reaching the summit.", 
+        "line": 153, 
+        "range": [
+            6997, 
+            7093
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7051, 
+                    7059
+                ], 
+                "name": "Letter S"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7087, 
+                    7093
+                ], 
+                "name": "summit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 154, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The conditions were cold and windy, and it became even more challenging to take each step.", 
+        "line": 155, 
+        "range": [
+            7095, 
+            7184
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 156, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We finally made it to the summit, and the timing couldn\u2019t have been better as the sun was just emerging. It was a moment of gratitude to have reached the peak.", 
+        "line": 157, 
+        "range": [
+            7186, 
+            7346
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7214, 
+                    7220
+                ], 
+                "name": "summit"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7342, 
+                    7346
+                ], 
+                "name": "peak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 158, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "During our ascent, we mainly encountered foreigners; there were fewer Indonesian hikers, possibly due to the fasting month.", 
+        "line": 159, 
+        "range": [
+            7348, 
+            7470
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 160, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We savored our time at the summit, capturing numerous photographs. The high altitude made it quite chilly up there.", 
+        "line": 161, 
+        "range": [
+            7472, 
+            7586
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7501, 
+                    7507
+                ], 
+                "name": "summit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 162, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "While we had a view of the lake and the crater, I must admit it wasn\u2019t the most spectacular sunrise I\u2019ve ever witnessed.", 
+        "line": 163, 
+        "range": [
+            7588, 
+            7711
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7618, 
+                    7622
+                ], 
+                "name": "lake"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7631, 
+                    7637
+                ], 
+                "name": "crater"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 164, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The presence of surrounding cliffs somewhat obstructed the sunlight, casting shadows over the lake.", 
+        "line": 165, 
+        "range": [
+            7713, 
+            7811
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7741, 
+                    7747
+                ], 
+                "name": "cliffs"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7807, 
+                    7811
+                ], 
+                "name": "lake"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 166, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We descended directly to the lake at 1 p.m.", 
+        "line": 167, 
+        "range": [
+            7813, 
+            7855
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7843, 
+                    7847
+                ], 
+                "name": "lake"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 168, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "By 4 p.m., we arrived at Lake Segara Anak and took a well-deserved break.", 
+        "line": 169, 
+        "range": [
+            7857, 
+            7929
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7884, 
+                    7900
+                ], 
+                "name": "Lake Segara Anak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 170, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This serene spot offered access to both a freshwater spring and a soothing hot spring. I indulged in a rejuvenating soak, and it felt like heaven!", 
+        "line": 171, 
+        "range": [
+            7931, 
+            8076
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7946, 
+                    7950
+                ], 
+                "name": "spot"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7976, 
+                    7993
+                ], 
+                "name": "freshwater spring"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8009, 
+                    8019
+                ], 
+                "name": "hot spring"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 172, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Afterward, we enjoyed a meal of freshly caught fish from the lake, engaged in pleasant conversation, and took some time to rest.", 
+        "line": 173, 
+        "range": [
+            8078, 
+            8205
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8143, 
+                    8147
+                ], 
+                "name": "lake"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 174, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 4: Lake Segara Anak \u2013 Senaru", 
+        "line": 175, 
+        "range": [
+            8207, 
+            8240
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8219, 
+                    8235
+                ], 
+                "name": "Lake Segara Anak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 176, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The morning was absolutely enchanting, and words can hardly do it justice. Take a glance at the photos, and you\u2019ll understand.", 
+        "line": 177, 
+        "range": [
+            8242, 
+            8369
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 178, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This place in Rinjani is an absolute must-visit\u2014it\u2019s a realm of pure beauty!", 
+        "line": 179, 
+        "range": [
+            8371, 
+            8450
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8379, 
+                    8384
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8388, 
+                    8395
+                ], 
+                "name": "Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 180, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Regrettably, time was not on our side, so at 10 a.m., we began our descent.", 
+        "line": 181, 
+        "range": [
+            8452, 
+            8526
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 182, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Or so we thought. In reality, we had to ascend once more to reach Plawangan Senaru.", 
+        "line": 183, 
+        "range": [
+            8528, 
+            8610
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8595, 
+                    8611
+                ], 
+                "name": "Plawangan Senaru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 184, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This unexpected climb was exhausting and put a damper on my spirits. We were supposed to be going down, but instead, we had to climb up again.", 
+        "line": 185, 
+        "range": [
+            8612, 
+            8753
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 186, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After an arduous hour and a half of climbing, we finally arrived at Plawangan Senaru.", 
+        "line": 187, 
+        "range": [
+            8755, 
+            8839
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 188, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From there, we descended, passing through the sandy terrain and into the forest.", 
+        "line": 189, 
+        "range": [
+            8841, 
+            8920
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8891, 
+                    8904
+                ], 
+                "name": "sandy terrain"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 190, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "By 5:30 p.m., we reached the base camp, Jebah Gawa. Only a few elderly folks, a granny and grandpa, were present at the small traditional store (warung).", 
+        "line": 191, 
+        "range": [
+            8922, 
+            9074
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8956, 
+                    8965
+                ], 
+                "name": "base camp"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8967, 
+                    8977
+                ], 
+                "name": "Jebah Gawa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9065, 
+                    9070
+                ], 
+                "name": "store"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 192, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We decided to spend the night here as there were no more public transportation options available. The only challenge I faced was with my camera.", 
+        "line": 193, 
+        "range": [
+            9076, 
+            9219
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9139, 
+                    9160
+                ], 
+                "name": "public transportation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 194, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I had to ensure it had enough battery and memory, so I could only capture a limited number of photos.", 
+        "line": 195, 
+        "range": [
+            9221, 
+            9321
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 196, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Originally, we had plans to visit the waterfalls at the foot of Mount Rinjani\u2014Tiu Kelep and Sendang Gile Waterfall.", 
+        "line": 197, 
+        "range": [
+            9323, 
+            9439
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9369, 
+                    9379
+                ], 
+                "name": "waterfalls"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9387, 
+                    9408
+                ], 
+                "name": "foot of Mount Rinjani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9409, 
+                    9418
+                ], 
+                "name": "Tiu Kelep"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 198, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Unfortunately, time constraints prevented us from doing so.", 
+        "line": 199, 
+        "range": [
+            9441, 
+            9499
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 200, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We returned to Mataram using public transportation and joined the hiking community for another round of breaking the fast.", 
+        "line": 201, 
+        "range": [
+            9501, 
+            9622
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9524, 
+                    9531
+                ], 
+                "name": "Mataram"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9538, 
+                    9559
+                ], 
+                "name": "public transportation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 202, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We engaged in lively conversations, sipped on brem (a traditional drink made from fermented rice or sago), which warms the body and can be quite intoxicating if consumed excessively.", 
+        "line": 203, 
+        "range": [
+            9624, 
+            9805
+        ], 
+        "entities": []
+    }
+]

@@ -1,0 +1,917 @@
+[
+    {
+        "text": "October 16, 2020    Exploring North Of Bali: Gitgit, Aling Aling, And Sekumpul Falls", 
+        "line": 0, 
+        "range": [
+            1, 
+            84
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    39, 
+                    43
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    45, 
+                    51
+                ], 
+                "name": "Gitgit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    53, 
+                    64
+                ], 
+                "name": "Aling Aling"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    70, 
+                    84
+                ], 
+                "name": "Sekumpul Falls"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The reason why I keep coming back to Bali is that I haven\u2019t explored enough yet, simple as that. There are still some areas that I haven\u2019t been to, beaches in Bali that I haven\u2019t seen, or some charming villages where I want to be. Besides, I also love the vibes, how easy it is to get to the nearest beach just to feel the ocean breeze.", 
+        "line": 2, 
+        "range": [
+            86, 
+            427
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    123, 
+                    127
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    204, 
+                    209
+                ], 
+                "name": "areas"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    234, 
+                    241
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    245, 
+                    249
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    288, 
+                    296
+                ], 
+                "name": "villages"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    386, 
+                    391
+                ], 
+                "name": "beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I will share story about my exploration to some of the waterfalls in Bali, precisly in the north; Gitgit waterfall, Aling-aling waterfall, and Sekumpul Falls. And believe me, this is just a tiny part of it cause there are more phenomenal waterfalls in Bali.", 
+        "line": 4, 
+        "range": [
+            429, 
+            685
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    479, 
+                    489
+                ], 
+                "name": "waterfalls"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    493, 
+                    497
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    522, 
+                    538
+                ], 
+                "name": "Gitgit waterfall"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    540, 
+                    561
+                ], 
+                "name": "Aling-aling waterfall"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    567, 
+                    581
+                ], 
+                "name": "Sekumpul Falls"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    662, 
+                    672
+                ], 
+                "name": "waterfalls"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    676, 
+                    680
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gitgit Waterfall", 
+        "line": 6, 
+        "range": [
+            687, 
+            702
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kicking off from Seminyak, we started very early and drove towards Singaraja which is about 2 hours drive. The weather was pleasant, the sun was not too high yet and I enjoyed myself examining local activities and the surrounding.", 
+        "line": 8, 
+        "range": [
+            704, 
+            933
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    718, 
+                    726
+                ], 
+                "name": "Seminyak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    768, 
+                    777
+                ], 
+                "name": "Singaraja"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The closer we got to Singaraja, the scenery started to change and the air was getting cooler. We drove pass through winding road and tall trees were seen on both sides till we found a turning point signing that Gitgit Falls wouldn\u2019t be far.", 
+        "line": 10, 
+        "range": [
+            935, 
+            1176
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    954, 
+                    963
+                ], 
+                "name": "Singaraja"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1057, 
+                    1061
+                ], 
+                "name": "road"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1117, 
+                    1130
+                ], 
+                "name": "turning point"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1144, 
+                    1156
+                ], 
+                "name": "Gitgit Falls"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We entered  a small path into a village then after asking local where to park our scooter, we continued by foot, a bit of trekking to the waterfall. The best thing about starting early is no one\u2019s around yet and we had the waterfall for ourselves.", 
+        "line": 12, 
+        "range": [
+            1178, 
+            1426
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1195, 
+                    1199
+                ], 
+                "name": "path"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1207, 
+                    1214
+                ], 
+                "name": "village"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1257, 
+                    1264
+                ], 
+                "name": "scooter"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1282, 
+                    1286
+                ], 
+                "name": "foot"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1313, 
+                    1322
+                ], 
+                "name": "waterfall"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1398, 
+                    1407
+                ], 
+                "name": "waterfall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I took off my clothes and dipped my toe into the water to measure the temperature. It\u2019s chilly! I braced myself and let my skin and body adjust to the cold and next up to my neck, I plunged into the water.", 
+        "line": 14, 
+        "range": [
+            1428, 
+            1634
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gitgit waterfall is not too tall but the drop is pretty strong so we had to try hard to capture some shots while getting splashed by the water. What a nice morning to swim.", 
+        "line": 16, 
+        "range": [
+            1636, 
+            1807
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The sun ray tried to make its way through the leaves but the trees were too dense leaving just shades. Apparently there\u2019s two Gitgit Falls around this area. I\u2019m not sure whether this is the first or the second one. Enough with the swim, we jumped back to our scooter and drove to the accommodation that we had booked near Aling-aling. Day one was spent by relaxing in the villa.", 
+        "line": 18, 
+        "range": [
+            1809, 
+            2190
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1931, 
+                    1943
+                ], 
+                "name": "Gitgit Falls"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1956, 
+                    1960
+                ], 
+                "name": "area"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2064, 
+                    2071
+                ], 
+                "name": "scooter"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2089, 
+                    2102
+                ], 
+                "name": "accommodation"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2127, 
+                    2138
+                ], 
+                "name": "Aling-aling"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2177, 
+                    2182
+                ], 
+                "name": "villa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Aling-aling Waterfall", 
+        "line": 20, 
+        "range": [
+            2192, 
+            2212
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Same strategy for today, woke up early to avoid the crowd. There\u2019s no big sign that shows the exact location of Aling-aling, we were in confusion and finally found it.", 
+        "line": 22, 
+        "range": [
+            2214, 
+            2382
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2320, 
+                    2331
+                ], 
+                "name": "Aling-aling"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The parking is by the roadside then we walked passing through a beautiful garden full of colorful leaves and flowers. From all these threes waterfall I really like the surrounding the most.", 
+        "line": 24, 
+        "range": [
+            2384, 
+            2572
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2399, 
+                    2407
+                ], 
+                "name": "roadside"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2451, 
+                    2457
+                ], 
+                "name": "garden"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2517, 
+                    2526
+                ], 
+                "name": "waterfall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are several waterfalls in this area as well besides Aling-aling; Kroya Falls and Kembar Falls. First we stopped at Aling-aling. The waterfall is so strong that you\u2019re not allowed to swim. We didn\u2019t spend too much time there and went straight to the next one which is only few meters away, Kroya Falls.", 
+        "line": 26, 
+        "range": [
+            2574, 
+            2884
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2586, 
+                    2596
+                ], 
+                "name": "waterfalls"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2605, 
+                    2609
+                ], 
+                "name": "area"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2626, 
+                    2637
+                ], 
+                "name": "Aling-aling"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2639, 
+                    2650
+                ], 
+                "name": "Kroya Falls"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2655, 
+                    2667
+                ], 
+                "name": "Kembar Falls"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2689, 
+                    2700
+                ], 
+                "name": "Aling-aling"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2706, 
+                    2715
+                ], 
+                "name": "waterfall"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2863, 
+                    2874
+                ], 
+                "name": "Kroya Falls"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kroya Falls is famous for its jumping point. My friend was getting ready to jump but then a man showed up. He told us that if we\u2019d like to jump we had to pay Rp 100.000, like, seriously? \u201cWhat about just a swim?\u201d, I asked. \u201cYes, you have to pay\u201d, he replied.", 
+        "line": 28, 
+        "range": [
+            2886, 
+            3153
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2907, 
+                    2920
+                ], 
+                "name": "jumping point"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My mood suddenly changed. This is the most ridiculous thing ever. We paid the entrance fee and we had to pay extra just to swim? This is nature and nature doesn\u2019t belong to someone particularly. I understand if there\u2019s a price to rent the helmet, the life jacket, and stuffs.", 
+        "line": 30, 
+        "range": [
+            3155, 
+            3433
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "But only for a swim? I was totally disappointed. Eventually, the guy was kindhearted. He told us if we wanted to swim, we could go down to the other waterfall so that his friend could not see and charged us money. Still, I didn\u2019t have any mood to swim again and left. Better to swim in our villa\u2019s pool.", 
+        "line": 32, 
+        "range": [
+            3435, 
+            3741
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3563, 
+                    3572
+                ], 
+                "name": "waterfall"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3712, 
+                    3716
+                ], 
+                "name": "pool"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3719, 
+                    3737
+                ], 
+                "name": "Sekumpul Waterfall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekumpul Waterfall", 
+        "line": 34, 
+        "range": [
+            3743, 
+            3760
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekumpul Falls was the last one to complete and it\u2019s located a bit off-the-beaten track. From the main road we still had to drive through a small road with some up and down hill, not an easy drive.", 
+        "line": 36, 
+        "range": [
+            3762, 
+            3960
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3821, 
+                    3826
+                ], 
+                "name": "track"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3842, 
+                    3846
+                ], 
+                "name": "road"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3885, 
+                    3889
+                ], 
+                "name": "road"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3912, 
+                    3916
+                ], 
+                "name": "hill"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Finally we reached the carpark yet we still had to walk for about half an hour down to the waterfall. The trek at the beginning passed through villages and farms, again it\u2019s a bit confusing because there\u2019s no mark or sign.", 
+        "line": 38, 
+        "range": [
+            3962, 
+            4187
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4029, 
+                    4038
+                ], 
+                "name": "waterfall"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4081, 
+                    4089
+                ], 
+                "name": "villages"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4094, 
+                    4099
+                ], 
+                "name": "farms"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We reached a registration post and paid our entrance fee then we slowly walked down the steep stairs. Sekumpul Falls is huge. Surrounded by lush and green plants, I really can\u2019t wait to jump into the water.", 
+        "line": 40, 
+        "range": [
+            4189, 
+            4396
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4264, 
+                    4278
+                ], 
+                "name": "Sekumpul Falls"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was hard for me to open my eyes because the splash from the falls were pretty hard but it was amazing. There are some waterfalls nearby and we went to the one on the left, nobody\u2019s around. We had a blast enjoying all the waterfalls!", 
+        "line": 42, 
+        "range": [
+            4398, 
+            4634
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4433, 
+                    4438
+                ], 
+                "name": "falls"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4491, 
+                    4501
+                ], 
+                "name": "waterfalls"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4594, 
+                    4604
+                ], 
+                "name": "waterfalls"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "That\u2019s pretty much how beautiful the waterfalls in Bali, especially the one in the north, Gitgit, Aling Aling, and Sekumpul Waterfall. Make sure to check them out while you\u2019re in Bali.", 
+        "line": 44, 
+        "range": [
+            4636, 
+            4823
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4644, 
+                    4654
+                ], 
+                "name": "waterfalls"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4658, 
+                    4662
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4697, 
+                    4703
+                ], 
+                "name": "Gitgit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4705, 
+                    4716
+                ], 
+                "name": "Aling Aling"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4722, 
+                    4740
+                ], 
+                "name": "Sekumpul Waterfall"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4786, 
+                    4790
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in October 2017", 
+        "line": 46, 
+        "range": [
+            4825, 
+            4848
+        ], 
+        "entities": []
+    }
+]

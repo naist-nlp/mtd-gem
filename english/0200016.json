@@ -1,0 +1,772 @@
+[
+    {
+        "text": "May 21, 2017    Photo Diary: Myanmar", 
+        "line": 0, 
+        "range": [
+            1, 
+            36
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    29, 
+                    36
+                ], 
+                "name": "Myanmar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hello, I decided to make a section called Photo Diary. Basically the content is pictures with a little story behind it. It is all about my experience, my thought, and it\u2019s more personal. I\u2019ve been writing articles more about the destination itself, like information about where to go, how to get there, all those stuffs, so when it comes to photo diary, I\u2019m able to share whatever on my mind and how I feel.", 
+        "line": 2, 
+        "range": [
+            38, 
+            450
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I\u2019ve heard many rave reviews about Myanmar. It is often told as a country that you have to visit as soon as possible before it gets modernized or touristy like other typical South East Asia countries. This once-locked-up country is turning into a magnet-pull for curious travelers. I\u2019m more than happy to show you what I\u2019ve found in the daily events through the pictures below.", 
+        "line": 4, 
+        "range": [
+            452, 
+            834
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    482, 
+                    489
+                ], 
+                "name": "Myanmar"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    513, 
+                    520
+                ], 
+                "name": "country"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    621, 
+                    646
+                ], 
+                "name": "South East Asia countries"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    668, 
+                    675
+                ], 
+                "name": "country"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Inside Songtheau Myanmar", 
+        "line": 6, 
+        "range": [
+            836, 
+            859
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    843, 
+                    850
+                ], 
+                "name": "Myanmar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I had to squeeze inside this full loaded truck on my way to the Golden Rock in Kyaikto. Many locals were making their way up to the mountain to do worship. The road was bumpy and narrow. I didn\u2019t see any private cars and trucks on the opposite direction. I\u2019m pretty sure they manage the flow of the trucks so the trucks don\u2019t bump into each other. Strange, I felt really excited like a young girl taking a ride in amusement park.", 
+        "line": 8, 
+        "range": [
+            861, 
+            1295
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    893, 
+                    898
+                ], 
+                "name": "truck"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    916, 
+                    927
+                ], 
+                "name": "Golden Rock"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    931, 
+                    938
+                ], 
+                "name": "Kyaikto"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    984, 
+                    992
+                ], 
+                "name": "mountain"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1012, 
+                    1016
+                ], 
+                "name": "road"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1056, 
+                    1068
+                ], 
+                "name": "private cars"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1073, 
+                    1079
+                ], 
+                "name": "trucks"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1151, 
+                    1157
+                ], 
+                "name": "trucks"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1165, 
+                    1171
+                ], 
+                "name": "trucks"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1266, 
+                    1280
+                ], 
+                "name": "amusement park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Local Life Bagan", 
+        "line": 10, 
+        "range": [
+            1297, 
+            1312
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This is how morning looks like in Bagan. Horse carts, motorbikes, cars, and pedestrians share the same road to start the activities.", 
+        "line": 12, 
+        "range": [
+            1314, 
+            1445
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1335, 
+                    1340
+                ], 
+                "name": "Bagan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1342, 
+                    1353
+                ], 
+                "name": "Horse carts"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1355, 
+                    1365
+                ], 
+                "name": "motorbikes"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1367, 
+                    1371
+                ], 
+                "name": "cars"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1404, 
+                    1408
+                ], 
+                "name": "road"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Monks in Bagan Morning Alms", 
+        "line": 14, 
+        "range": [
+            1447, 
+            1473
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Group of novices walking back to the monastery after receiving food from morning alms. Every Burmese boy is expected to enter monastery to learn more about Buddhism. When they grow older they can choose to devote themselves forever as a monk, or return to their normal lives.", 
+        "line": 16, 
+        "range": [
+            1475, 
+            1749
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1501, 
+                    1510
+                ], 
+                "name": "monastery"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1590, 
+                    1599
+                ], 
+                "name": "monastery"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cattles in Bagan", 
+        "line": 18, 
+        "range": [
+            1751, 
+            1766
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1752, 
+                    1757
+                ], 
+                "name": "Bagan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was rushing to the temples to catch the sunset with my e-bike until a group of cows slowed me down. Traffic jam spotted in Bagan, haha! Three cowherds were having hard time, trying to corner the cows to the roadside. They shouted at the cows, chasing the runaway cows to the bushes, and I was busy recording this special moment.", 
+        "line": 20, 
+        "range": [
+            1768, 
+            2097
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1780, 
+                    1787
+                ], 
+                "name": "temples"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1816, 
+                    1822
+                ], 
+                "name": "e-bike"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1884, 
+                    1889
+                ], 
+                "name": "Bagan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1968, 
+                    1976
+                ], 
+                "name": "roadside"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Crafter in Mandalay", 
+        "line": 22, 
+        "range": [
+            2099, 
+            2117
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2102, 
+                    2110
+                ], 
+                "name": "Mandalay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I accidentally found a street in Mandalay where the majority of the residents here are making and selling statues. This young boy for example, shaping a Buddha Statue like a professional regardless his young age. He was all covered in white marble powder.", 
+        "line": 24, 
+        "range": [
+            2119, 
+            2373
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2135, 
+                    2141
+                ], 
+                "name": "street"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2145, 
+                    2153
+                ], 
+                "name": "Mandalay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Fisherman Inle Lake", 
+        "line": 26, 
+        "range": [
+            2375, 
+            2393
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2379, 
+                    2388
+                ], 
+                "name": "Inle Lake"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Inle Lake is famous for the unique fishing techniques. They used their leg to paddle the boat and pulling the nets. I thought I wouldn\u2019t see them. There are certain times in a day or schedule where they perform the fishing attraction for tourists, at that time I knew I couldn\u2019t make it to the show. I was relieved, they still doing this tradition in their normal life.", 
+        "line": 28, 
+        "range": [
+            2395, 
+            2767
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2479, 
+                    2483
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kids Tribe in Kalaw", 
+        "line": 30, 
+        "range": [
+            2769, 
+            2787
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2775, 
+                    2780
+                ], 
+                "name": "Kalaw"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I did three days trekking from Kalaw to Inle Lake where I had the chance to sleep in local houses in the rural villages. I walked around the village while waiting for the dinner to be ready. I saw this young Pa-oh boy running to the front yard to take a bucket of water. He had a turban wrapped on his head. He was very shy at first but after a while he smiled at me.", 
+        "line": 32, 
+        "range": [
+            2789, 
+            3155
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2813, 
+                    2818
+                ], 
+                "name": "Kalaw"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2822, 
+                    2831
+                ], 
+                "name": "Inle Lake"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2873, 
+                    2879
+                ], 
+                "name": "houses"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2893, 
+                    2901
+                ], 
+                "name": "villages"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2923, 
+                    2930
+                ], 
+                "name": "village"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3021, 
+                    3025
+                ], 
+                "name": "yard"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Life in Inle Lake", 
+        "line": 34, 
+        "range": [
+            3157, 
+            3173
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3159, 
+                    3168
+                ], 
+                "name": "Inle Lake"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I really really like this shot. The scenery is different, and if you take closer look, the farmer is actually carrying his child on his arm. I could hear laughter from the distance, they looked very happy. Life is beautiful indeed.", 
+        "line": 36, 
+        "range": [
+            3175, 
+            3405
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Puppet Toys Bagan", 
+        "line": 38, 
+        "range": [
+            3407, 
+            3423
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3415, 
+                    3420
+                ], 
+                "name": "Bagan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "These hanging dolls caught my attention. I found it very creative and artistic hanging the dolls to the branches. When the wind blows, the dolls are moving slightly makes it look more interesting, especially with ray like this.", 
+        "line": 40, 
+        "range": [
+            3425, 
+            3651
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sunset View U Bein Bridge", 
+        "line": 42, 
+        "range": [
+            3653, 
+            3677
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3663, 
+                    3676
+                ], 
+                "name": "U Bein Bridge"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I never had bad sunrise or sunset in Myanmar, not even once. It was always full and red. Somehow it has that misty feeling, soon I realized it was actually coming from the dust. This photo was taken from U Bein Bridge in Mandalay.", 
+        "line": 44, 
+        "range": [
+            3679, 
+            3908
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3715, 
+                    3722
+                ], 
+                "name": "Myanmar"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3882, 
+                    3895
+                ], 
+                "name": "U Bein Bridge"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3899, 
+                    3907
+                ], 
+                "name": "Mandalay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lovely Burmese Kids", 
+        "line": 46, 
+        "range": [
+            3910, 
+            3928
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wefie with these beautiful girls! I only need thanaka on my face and I\u2019d look exactly like Burmese, don\u2019t you think so?", 
+        "line": 48, 
+        "range": [
+            3930, 
+            4052
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 7 February \u2013 17 February 2017", 
+        "line": 50, 
+        "range": [
+            4054, 
+            4096
+        ], 
+        "entities": []
+    }
+]

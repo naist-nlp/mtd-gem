@@ -1,0 +1,1423 @@
+[
+    {
+        "text": "June 8, 2020    Travel To Brunei Darussalam: Small Country, Lucky People", 
+        "line": 0, 
+        "range": [
+            1, 
+            72
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    26, 
+                    43
+                ], 
+                "name": "Brunei Darussalam"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    51, 
+                    58
+                ], 
+                "name": "Country"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "To be honest, among all the South East Asia Countries, travel to Brunei attracted me the least. I don\u2019t know why I\u2019m not interested in it or even search any information about Brunei, it just didn\u2019t come through my mind. I thought it was just a small country with nothing special. I don\u2019t even hear or see them in the news. Brunei is too peaceful.", 
+        "line": 2, 
+        "range": [
+            74, 
+            427
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    102, 
+                    127
+                ], 
+                "name": "South East Asia Countries"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    139, 
+                    145
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    249, 
+                    255
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    324, 
+                    331
+                ], 
+                "name": "country"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    397, 
+                    403
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you meet the right people, then you will enjoy Brunei.", 
+        "line": 4, 
+        "range": [
+            429, 
+            485
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    472, 
+                    478
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I will not forget these words, coming from a Siberian guy who\u2019s traveling all over Borneo by hitchhiking. I met this bahasa-speaking guy in Kota Kinabalu after hiking Mount Kinabalu.", 
+        "line": 6, 
+        "range": [
+            487, 
+            670
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    564, 
+                    570
+                ], 
+                "name": "Borneo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    621, 
+                    634
+                ], 
+                "name": "Kota Kinabalu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    648, 
+                    662
+                ], 
+                "name": "Mount Kinabalu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We were sitting with some others traveler in a cafe and without any reason the conversation about Brunei started. Most of them said that nothing much to do in Brunei, same thing as what I thought. I was about to leave on the next day to Brunei since I had to do visa run, my Malaysia visa was almost expired.", 
+        "line": 8, 
+        "range": [
+            672, 
+            979
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    712, 
+                    716
+                ], 
+                "name": "cafe"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    763, 
+                    769
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    824, 
+                    830
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    902, 
+                    908
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "\u201cI spent a week in Brunei and it was so much fun.\u201d said the Siberian.", 
+        "line": 10, 
+        "range": [
+            981, 
+            1053
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    994, 
+                    1000
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "\u201cWhat did you do? I was in Brunei for ten days and I almost killed myself. Too quiet there, no alcohol.\u201d, said the Indian guy", 
+        "line": 12, 
+        "range": [
+            1055, 
+            1183
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1073, 
+                    1079
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "\u201cThe people. They are all nice. I\u2019d stay longer in Brunei if I could.\u201d, he replied.", 
+        "line": 14, 
+        "range": [
+            1185, 
+            1273
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1224, 
+                    1230
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "During this conversation, I was more pro to the Indian Guy. One or two days will be enough to see Brunei. I crossed the sea, had a stopover in Labuan, and stepped on Brunei.", 
+        "line": 16, 
+        "range": [
+            1275, 
+            1447
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1356, 
+                    1362
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1378, 
+                    1381
+                ], 
+                "name": "sea"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1401, 
+                    1407
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1424, 
+                    1430
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "On my way to the capital city, Bandar Sri Begawan which takes about an hour, I bumped an Indonesia guy. We chattered till the point he told me that he\u2019s a couchsurfer and he had a host.", 
+        "line": 18, 
+        "range": [
+            1449, 
+            1635
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1450, 
+                    1462
+                ], 
+                "name": "capital city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1464, 
+                    1482
+                ], 
+                "name": "Bandar Sri Begawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I took this opportunity asking him if I could stay as well, and everything went on perfectly. Apparently, there were seven of us staying in the same super cool host.", 
+        "line": 20, 
+        "range": [
+            1637, 
+            1801
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dipping into Bruneian Culture", 
+        "line": 22, 
+        "range": [
+            1803, 
+            1831
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "First day upon arrival, Waida, our host, invited us to her cousin\u2019s wedding. It\u2019s a bit weird for me because I didn\u2019t know her family well yet was invited to attend this special occasion, plus I had no formal clothes at all.", 
+        "line": 24, 
+        "range": [
+            1833, 
+            2062
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Waida and her sister dressed us up with traditional baju kurung (special Malay clothing). Second day, again Waida brought us to open houses. Open house is a tradition for Muslims celebrating Ramadhan by inviting family and friends.", 
+        "line": 26, 
+        "range": [
+            2064, 
+            2294
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The purpose is to strengthen relationship within family and friends, get know each other closer. The open house in Brunei is quiet different with Indonesia or Malaysia where in both countries open house only happens three days or maximum a week after Hari Raya, while in Brunei it still happens until the end of month. One tip in visiting Brunei, please respect them by not wearing shorts and sleeveless shirt.", 
+        "line": 28, 
+        "range": [
+            2296, 
+            2705
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2392, 
+                    2398
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2423, 
+                    2432
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2436, 
+                    2444
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2459, 
+                    2468
+                ], 
+                "name": "countries"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2548, 
+                    2554
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2616, 
+                    2622
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sultan as the Most Powerful Man in Brunei", 
+        "line": 30, 
+        "range": [
+            2707, 
+            2747
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2724, 
+                    2730
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The 29th Sultan, Sultan Hassanal Bolkiah has ruled for more than thirty years. As the head of state and head of government, he gained full respect and love from his people.", 
+        "line": 32, 
+        "range": [
+            2749, 
+            2920
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Even though he\u2019s a Sultan, he\u2019s down to earth and humble person in Brunei. He doesn\u2019t mind to jump into public, for example every Friday during the pray, he will go to different mosque each week and pray in the middle of all common people.", 
+        "line": 34, 
+        "range": [
+            2922, 
+            3166
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2973, 
+                    2979
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3084, 
+                    3090
+                ], 
+                "name": "mosque"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sultan Hassanal Bolkiah has proved his ability and power to welfare the country. He concerns a lot about health and education. Bruneians pay only 1 dollar to see the doctor.", 
+        "line": 36, 
+        "range": [
+            3168, 
+            3340
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "They can also pursue their education for free, gain scholarship to study abroad wherever and how high they want (thing I jealous the most). Sultan\u2019s interest in cars is not a secret anymore. He collects all the finest and most expensive cars in the world.", 
+        "line": 38, 
+        "range": [
+            3342, 
+            3598
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Things to do in Brunei Darussalam", 
+        "line": 40, 
+        "range": [
+            3600, 
+            3632
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3618, 
+                    3632
+                ], 
+                "name": "muslim country"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "As  muslim country, Brunei has stunning mosques in nearly all districts. The interior designs are highly decorated with the finest material. Almost half of this Northern Borneo country is covered by jungle.", 
+        "line": 42, 
+        "range": [
+            3634, 
+            3839
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3634, 
+                    3640
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3654, 
+                    3661
+                ], 
+                "name": "mosques"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3676, 
+                    3685
+                ], 
+                "name": "districts"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3775, 
+                    3798
+                ], 
+                "name": "Northern Borneo country"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3813, 
+                    3819
+                ], 
+                "name": "jungle"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Most famous national park is Ulu Temburong National Park. Unfortunately I have no enough budget to explore it, so I will tell you more about sight-seeing around Bandar Sri Begawan.", 
+        "line": 44, 
+        "range": [
+            3841, 
+            4020
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3851, 
+                    3878
+                ], 
+                "name": "Ulu Temburong National Park"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3983, 
+                    4001
+                ], 
+                "name": "Bandar Sri Begawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sultan Omar Ali Saifuddien Mosque", 
+        "line": 46, 
+        "range": [
+            4022, 
+            4054
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Named after the 28th Sultan of Brunei, this mosque represent the high-end Islamic art and also represent Brunei\u2019s identity. Constructed in 1958, the mosque has become the major attraction of the city.", 
+        "line": 48, 
+        "range": [
+            4056, 
+            4257
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4083, 
+                    4089
+                ], 
+                "name": "mosque"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4188, 
+                    4194
+                ], 
+                "name": "mosque"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4216, 
+                    4226
+                ], 
+                "name": "attraction"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4234, 
+                    4238
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4245, 
+                    4249
+                ], 
+                "name": "dome"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The dome was made of pure gold. Inside the prayer room, if you look up you will see big crystal chandelier. The ablution area or commonly called wudu (act of cleaning self before praying) is neatly styled between the white pillar.", 
+        "line": 50, 
+        "range": [
+            4259, 
+            4488
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4284, 
+                    4295
+                ], 
+                "name": "prayer room"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4353, 
+                    4366
+                ], 
+                "name": "ablution area"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hassanal Bolkiah Mosque", 
+        "line": 52, 
+        "range": [
+            4490, 
+            4512
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jame\u2019 Asr Hassanil Bolkiah is the biggest mosque in Brunei Darussalam. The ground floor of entrance hall has 29 steps of grand white marble stairs which symbolize the 29th Sultan. There are 29 domes finished with gold mosaic. Gotta check this out if you travel to Brunei.", 
+        "line": 54, 
+        "range": [
+            4514, 
+            4786
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4540, 
+                    4546
+                ], 
+                "name": "mosque"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4550, 
+                    4567
+                ], 
+                "name": "Brunei Darussalam"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4589, 
+                    4602
+                ], 
+                "name": "entrance hall"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4691, 
+                    4696
+                ], 
+                "name": "domes"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4762, 
+                    4768
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Royal Regalia Museum", 
+        "line": 56, 
+        "range": [
+            4788, 
+            4807
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Surely one of the must visit place in Bandar Seri Begawan. It looks tiny outside but huge inside. The museum has all information about Sultan, gallery of Sultan\u2019s collection, history, everything. The museum is beautifully and neatly decorated enable visitors to see and learn more about the country.", 
+        "line": 58, 
+        "range": [
+            4809, 
+            5109
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4822, 
+                    4827
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4831, 
+                    4850
+                ], 
+                "name": "Bandar Seri Begawan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4895, 
+                    4901
+                ], 
+                "name": "museum"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4936, 
+                    4943
+                ], 
+                "name": "gallery"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4993, 
+                    4999
+                ], 
+                "name": "museum"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5084, 
+                    5091
+                ], 
+                "name": "country"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5094, 
+                    5106
+                ], 
+                "name": "Kampung Ayer"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kampung Ayer", 
+        "line": 60, 
+        "range": [
+            5111, 
+            5122
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Part of Bruneian culture, these people about 10% of Brunei population had lived over Brunei River for long time ago. I was kindda surprise when I saw the well-built modern houses. Some wooden houses are also still well preserved on the other side. Water taxis will take you to the village\u2019s jetty for 1 Brunei Dollar each way.", 
+        "line": 62, 
+        "range": [
+            5124, 
+            5451
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5160, 
+                    5166
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    5193, 
+                    5205
+                ], 
+                "name": "Brunei River"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5273, 
+                    5286
+                ], 
+                "name": "modern houses"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5293, 
+                    5306
+                ], 
+                "name": "wooden houses"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5356, 
+                    5367
+                ], 
+                "name": "Water taxis"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5399, 
+                    5404
+                ], 
+                "name": "jetty"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5436, 
+                    5446
+                ], 
+                "name": "Tasik Lama"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tasik Lama", 
+        "line": 64, 
+        "range": [
+            5453, 
+            5462
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This is where the locals do their morning exercise especially during weekend. People do jogging, dancing, chi kung, any kinds of exercise. Fresh air also there\u2019s a beautiful waterfall makes this place perfect for relaxing and exercise.", 
+        "line": 66, 
+        "range": [
+            5464, 
+            5700
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5622, 
+                    5631
+                ], 
+                "name": "waterfall"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5643, 
+                    5648
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Getting to Brunei from Kota Kinabalu", 
+        "line": 68, 
+        "range": [
+            5702, 
+            5737
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5708, 
+                    5721
+                ], 
+                "name": "Kota Kinabalu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Most convenient way to travel to to Brunei is taking fast boat from Jesselton Port in Kota Kinabalu. Kota Kinabalu-Labuan departed at 8 a.m. (3 hours). Labuan-Brunei departed at 1.30 p.m. (1 hour) You can buy two passes ticket  KK-Labuan-Brunei for RM 63.30 (non-Malaysian).", 
+        "line": 70, 
+        "range": [
+            5739, 
+            6012
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5759, 
+                    5765
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5776, 
+                    5785
+                ], 
+                "name": "fast boat"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5791, 
+                    5805
+                ], 
+                "name": "Jesselton Port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5809, 
+                    5822
+                ], 
+                "name": "Kota Kinabalu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5824, 
+                    5837
+                ], 
+                "name": "Kota Kinabalu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5838, 
+                    5844
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5875, 
+                    5881
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5882, 
+                    5888
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5951, 
+                    5953
+                ], 
+                "name": "KK"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5954, 
+                    5960
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5961, 
+                    5967
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "RM 5 taxes will be charged in Labuan Port. Upon arrival in Serasa Port Brunei, you can wait for bus connecting to the center (1 Brunei Dollar), it takes 1 hour journey.", 
+        "line": 72, 
+        "range": [
+            6014, 
+            6181
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6029, 
+                    6040
+                ], 
+                "name": "Labuan Port"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6058, 
+                    6076
+                ], 
+                "name": "Serasa Port Brunei"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6095, 
+                    6098
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6113, 
+                    6123
+                ], 
+                "name": "the center"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Same thing for getting to KK from Brunei, take bus from bus terminal to the port. Boat from Brunei-Labuan departed at 8.30 or 9.30 (15 Brunei Dollar+2 dollar tax). Labuan-KK departed at 1 p.m (RM 34 including tax).", 
+        "line": 74, 
+        "range": [
+            6183, 
+            6396
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6195, 
+                    6197
+                ], 
+                "name": "KK"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6203, 
+                    6209
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6216, 
+                    6219
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6225, 
+                    6237
+                ], 
+                "name": "bus terminal"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6245, 
+                    6249
+                ], 
+                "name": "port"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6251, 
+                    6255
+                ], 
+                "name": "Boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6261, 
+                    6267
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6268, 
+                    6274
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6333, 
+                    6339
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6340, 
+                    6342
+                ], 
+                "name": "KK"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are also buses from KK to Brunei which takes around 8 hours in total. Buses from Miri are also available.", 
+        "line": 76, 
+        "range": [
+            6398, 
+            6508
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6400, 
+                    6405
+                ], 
+                "name": "buses"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6411, 
+                    6413
+                ], 
+                "name": "KK"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6417, 
+                    6423
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6461, 
+                    6466
+                ], 
+                "name": "Buses"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6472, 
+                    6476
+                ], 
+                "name": "Miri"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 16-18 August 2014", 
+        "line": 78, 
+        "range": [
+            6510, 
+            6538
+        ], 
+        "entities": []
+    }
+]

@@ -1,0 +1,5016 @@
+[
+    {
+        "text": "August 15, 2023    Wakatobi Islands Travel Guide: Itinerary, Boat Schedule, And Tips", 
+        "line": 0, 
+        "range": [
+            1, 
+            84
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    19, 
+                    35
+                ], 
+                "name": "Wakatobi Islands"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    61, 
+                    65
+                ], 
+                "name": "Boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wakatobi is a paradise consists of four big islands: Wangi-Wangi, Kaledupa, Tomia, and Binongko.", 
+        "line": 2, 
+        "range": [
+            86, 
+            181
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    86, 
+                    94
+                ], 
+                "name": "Wakatobi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    130, 
+                    137
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    139, 
+                    150
+                ], 
+                "name": "Wangi-Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    152, 
+                    160
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    162, 
+                    167
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    173, 
+                    181
+                ], 
+                "name": "Binongko"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "No more doubts, we need time to explore all parts of Wakatobi. While the information of public boat schedules is still less published in the website or books, even when I did research on traveling in Wakatobi I still found difficulties in getting the exact information about boat schedule.", 
+        "line": 4, 
+        "range": [
+            183, 
+            471
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    228, 
+                    233
+                ], 
+                "name": "parts"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    237, 
+                    245
+                ], 
+                "name": "Wakatobi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    272, 
+                    283
+                ], 
+                "name": "public boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    384, 
+                    392
+                ], 
+                "name": "Wakatobi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    459, 
+                    463
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Trip to Wakatobi is not as distress as it seems. From what I\u2019ve experienced, if you can\u2019t find boat or the plan is not working as it should be, just take another boat because actually whatever routes you take, it\u2019s still possible to make it on time.", 
+        "line": 6, 
+        "range": [
+            473, 
+            727
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    483, 
+                    491
+                ], 
+                "name": "Wakatobi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    570, 
+                    574
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    637, 
+                    641
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    668, 
+                    674
+                ], 
+                "name": "routes"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "For example, in my case I planned to start from Bau Bau-Tomia-Kaledupa-Wangi Wangi-Bau Bau. Unfortunately after asking the people at the harbor on that night, boat to Tomia was not operated. Other option was to take boat to Wangi Wangi up to Tomia.", 
+        "line": 8, 
+        "range": [
+            729, 
+            976
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    774, 
+                    781
+                ], 
+                "name": "Bau Bau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    782, 
+                    787
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    788, 
+                    796
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    797, 
+                    808
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    809, 
+                    816
+                ], 
+                "name": "Bau Bau"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    863, 
+                    869
+                ], 
+                "name": "harbor"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    885, 
+                    889
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    893, 
+                    898
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    942, 
+                    946
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    950, 
+                    961
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    968, 
+                    973
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Again after I checked trying to adjust the boat schedule, if we did Wangi Wangi first, there\u2019s no boat from Tomia to Bau-Bau on the day we\u2019re planned cause we had to go back with Pelni from Bau Bau to Makassar.", 
+        "line": 10, 
+        "range": [
+            978, 
+            1191
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1019, 
+                    1023
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1044, 
+                    1055
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1074, 
+                    1078
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1084, 
+                    1089
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1093, 
+                    1100
+                ], 
+                "name": "Bau-Bau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1155, 
+                    1160
+                ], 
+                "name": "Pelni"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1166, 
+                    1173
+                ], 
+                "name": "Bau Bau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1177, 
+                    1185
+                ], 
+                "name": "Makassar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Then after asking around, there\u2019s boat to Kaledupa. So, we ended up going to Kaledupa-Tomia-Wangi Wangi, perfect plan.", 
+        "line": 12, 
+        "range": [
+            1193, 
+            1312
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1222, 
+                    1226
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1230, 
+                    1238
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1265, 
+                    1273
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1274, 
+                    1279
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1280, 
+                    1291
+                ], 
+                "name": "Wangi Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Means, no matter what route what ship you take you can adjust. Here are some data I got, hopefully it\u2019s still the same.", 
+        "line": 14, 
+        "range": [
+            1314, 
+            1434
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1330, 
+                    1335
+                ], 
+                "name": "route"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1341, 
+                    1345
+                ], 
+                "name": "ship"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1429, 
+                    1433
+                ], 
+                "name": "Boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Boat Schedule to Wakatobi Islands", 
+        "line": 16, 
+        "range": [
+            1436, 
+            1468
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1446, 
+                    1462
+                ], 
+                "name": "Wakatobi Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From Bau Bau to Wangi Wangi", 
+        "line": 18, 
+        "range": [
+            1470, 
+            1496
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1480, 
+                    1491
+                ], 
+                "name": "Wangi Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Public/Wooden Boat:", 
+        "line": 20, 
+        "range": [
+            1498, 
+            1516
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Bau Bau (Murhum Port)- Wangi Wangi (Wanci Port) : Everyday 9 p.m.  Price Rp 105,000", 
+        "line": 21, 
+        "range": [
+            1517, 
+            1599
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1522, 
+                    1533
+                ], 
+                "name": "Murhum Port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1536, 
+                    1547
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1549, 
+                    1559
+                ], 
+                "name": "Wanci Port"
+            }
+        ]
+    }, 
+    {
+        "text": "Wangi- Wangi (Wanci Port) \u2013 Bau Bau (Murhum Port) : Everyday 9 p.m. Price Rp 105,000", 
+        "line": 22, 
+        "range": [
+            1600, 
+            1685
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1611, 
+                    1621
+                ], 
+                "name": "Wanci Port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1625, 
+                    1632
+                ], 
+                "name": "Bau Bau"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1634, 
+                    1645
+                ], 
+                "name": "Murhum Port"
+            }
+        ]
+    }, 
+    {
+        "text": "(duration: more or less 10 hours depends on the waves)", 
+        "line": 23, 
+        "range": [
+            1686, 
+            1739
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 24, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Speed Boat:", 
+        "line": 25, 
+        "range": [
+            1741, 
+            1751
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Bau-Bau (Murhum Port) \u2013 Wangi Wangi (Wanci Port): Mostly every day but check out the schedule on the port 1 p.m.  Rp 180,000", 
+        "line": 26, 
+        "range": [
+            1752, 
+            1877
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1759, 
+                    1770
+                ], 
+                "name": "Murhum Port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1774, 
+                    1785
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1787, 
+                    1797
+                ], 
+                "name": "Wanci Port"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1851, 
+                    1855
+                ], 
+                "name": "port"
+            }
+        ]
+    }, 
+    {
+        "text": "Wangi Wangi (Wanci Port) -Bau-Bau (Murhum Port): Mostly everyday but check out the schedule on the port 8 a.m  Rp 180,000", 
+        "line": 27, 
+        "range": [
+            1878, 
+            1998
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1888, 
+                    1898
+                ], 
+                "name": "Wanci Port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1901, 
+                    1908
+                ], 
+                "name": "Bau-Bau"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1910, 
+                    1921
+                ], 
+                "name": "Murhum Port"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1974, 
+                    1978
+                ], 
+                "name": "port"
+            }
+        ]
+    }, 
+    {
+        "text": "(duration: 3-4 hours)", 
+        "line": 28, 
+        "range": [
+            1999, 
+            2019
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From Bau Bau to Tomia", 
+        "line": 30, 
+        "range": [
+            2021, 
+            2041
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2025, 
+                    2032
+                ], 
+                "name": "Bau Bau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2036, 
+                    2041
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Public/Wooden Boat", 
+        "line": 32, 
+        "range": [
+            2043, 
+            2060
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2043, 
+                    2061
+                ], 
+                "name": "Public/Wooden Boat"
+            }
+        ]
+    }, 
+    {
+        "text": "Bau Bau (Murhum Port)-Tomia (Waha Port) : Tuesday, Wednesday, Saturday, Monday 9 p.m. Rp 130,000", 
+        "line": 33, 
+        "range": [
+            2061, 
+            2156
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2062, 
+                    2069
+                ], 
+                "name": "Bau Bau"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2071, 
+                    2082
+                ], 
+                "name": "Murhum Port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2084, 
+                    2089
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2091, 
+                    2100
+                ], 
+                "name": "Waha Port"
+            }
+        ]
+    }, 
+    {
+        "text": "Tomia (Waha Port)-Bau Bau (Murhum Port) : Saturday, Sunday, Tuesday, Thursday 9 a.m. Rp 130,000", 
+        "line": 34, 
+        "range": [
+            2157, 
+            2251
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2159, 
+                    2164
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2166, 
+                    2175
+                ], 
+                "name": "Waha Port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2177, 
+                    2184
+                ], 
+                "name": "Bau Bau"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2186, 
+                    2197
+                ], 
+                "name": "Murhum Port"
+            }
+        ]
+    }, 
+    {
+        "text": "(duration: more or less 12 hours depends on the waves)", 
+        "line": 35, 
+        "range": [
+            2252, 
+            2305
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 36, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From Bau Bau to Kaledupa", 
+        "line": 37, 
+        "range": [
+            2307, 
+            2330
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2316, 
+                    2323
+                ], 
+                "name": "Bau Bau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 38, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Public/Wooden Boat", 
+        "line": 39, 
+        "range": [
+            2332, 
+            2349
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Bau Bau (Murhum Port)-Kaledupa (Buranga Port) : Day need to be confirmed at the port 9 p.m. Rp 55,000", 
+        "line": 40, 
+        "range": [
+            2350, 
+            2450
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2356, 
+                    2363
+                ], 
+                "name": "Bau Bau"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2365, 
+                    2376
+                ], 
+                "name": "Murhum Port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2378, 
+                    2386
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2388, 
+                    2400
+                ], 
+                "name": "Buranga Port"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2436, 
+                    2440
+                ], 
+                "name": "port"
+            }
+        ]
+    }, 
+    {
+        "text": "(duration around 14 hours)", 
+        "line": 41, 
+        "range": [
+            2451, 
+            2476
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 42, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Once you\u2019re arrived in one of the big islands it\u2019s easier for you to go around. The route is either they start from Wangi Wangi \u2013 Kaledupa \u2013 Tomia or the other way around.", 
+        "line": 43, 
+        "range": [
+            2478, 
+            2656
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2524, 
+                    2531
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2570, 
+                    2575
+                ], 
+                "name": "route"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2602, 
+                    2613
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2616, 
+                    2624
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2627, 
+                    2632
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 44, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Let\u2019s say the boat departs from Wangi Wangi at 9 a.m. in the morning, it will reach Kaledupa (Taw Harbor) at 11 a.m. where you need to pay Rp 10,000 for the transfer by small boat because the boat is not going to docked on the port. Then the boat continues to Tomia and arrives around 2 or 3 p.m.", 
+        "line": 45, 
+        "range": [
+            2658, 
+            2955
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2673, 
+                    2677
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2691, 
+                    2702
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2743, 
+                    2751
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2753, 
+                    2763
+                ], 
+                "name": "Taw Harbor"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2828, 
+                    2838
+                ], 
+                "name": "small boat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2851, 
+                    2855
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2886, 
+                    2890
+                ], 
+                "name": "port"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2901, 
+                    2905
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2919, 
+                    2924
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Same thing if the boat start from Tomia  at 9 a.m., it will stop in Kaledupa around 11 a.m. and continue to Wangi-Wangi around 2 p.m. The boat price is Rp 50,000 until Kaledupa, Rp 100,000 from Wangi Wangi to Tomia or Tomia to Wangi Wangi.", 
+        "line": 47, 
+        "range": [
+            2957, 
+            3195
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2975, 
+                    2979
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2991, 
+                    2996
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3025, 
+                    3033
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3065, 
+                    3076
+                ], 
+                "name": "Wangi-Wangi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3095, 
+                    3099
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3125, 
+                    3133
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3151, 
+                    3162
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3166, 
+                    3171
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3175, 
+                    3180
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3184, 
+                    3195
+                ], 
+                "name": "Wangi Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Fast boat cost Rp 80,000 to Kaledupa and Rp 120,000 to Tomia/Wangi Wangi . The boat departs around 8 a.m. from Wangi Wangi or Tomia. But I suggest you to take normal boat because  if you use fast boat, they\u2019ll drop you in Usuku Port (Tomia) while all the main diving centers are in Waha Port, so better to take regular boat.", 
+        "line": 49, 
+        "range": [
+            3197, 
+            3522
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3198, 
+                    3207
+                ], 
+                "name": "Fast boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3226, 
+                    3234
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3253, 
+                    3258
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3259, 
+                    3270
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3277, 
+                    3281
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3309, 
+                    3320
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3324, 
+                    3329
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3357, 
+                    3368
+                ], 
+                "name": "normal boat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3389, 
+                    3398
+                ], 
+                "name": "fast boat"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3420, 
+                    3430
+                ], 
+                "name": "Usuku Port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3432, 
+                    3437
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3458, 
+                    3472
+                ], 
+                "name": "diving centers"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3480, 
+                    3489
+                ], 
+                "name": "Waha Port"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3509, 
+                    3521
+                ], 
+                "name": "regular boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019re traveling from Kendari City then there is boat to Wangi Wangi every Monday, Tuesday, Thursday, Saturday, Sunday at 10 a.m., price is Rp 130,000.", 
+        "line": 51, 
+        "range": [
+            3524, 
+            3679
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3549, 
+                    3561
+                ], 
+                "name": "Kendari City"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3576, 
+                    3580
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3584, 
+                    3595
+                ], 
+                "name": "Wangi Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some tips to visit Wakatobi Islands", 
+        "line": 53, 
+        "range": [
+            3681, 
+            3715
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3699, 
+                    3715
+                ], 
+                "name": "Wakatobi Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 54, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are two main starting point to Wakatobi Islands: Bau Bau and Kendari. I, myself prefer to start from Bau Bau because you can explore Bau Bau. There is also direct flight to Wangi Wangi from Makassar/Kendari.", 
+        "line": 55, 
+        "range": [
+            3717, 
+            3929
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3754, 
+                    3770
+                ], 
+                "name": "Wakatobi Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3772, 
+                    3779
+                ], 
+                "name": "Bau Bau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3784, 
+                    3791
+                ], 
+                "name": "Kendari"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3824, 
+                    3831
+                ], 
+                "name": "Bau Bau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3856, 
+                    3863
+                ], 
+                "name": "Bau Bau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3886, 
+                    3892
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3896, 
+                    3907
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3913, 
+                    3921
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3922, 
+                    3929
+                ], 
+                "name": "Kendari"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 56, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ask and ask.", 
+        "line": 57, 
+        "range": [
+            3931, 
+            3942
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "The boat schedule can be changed anytime and not fixed. Spare your time to ask people around about the schedule.", 
+        "line": 58, 
+        "range": [
+            3943, 
+            4054
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3949, 
+                    3953
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Use the regular boat.", 
+        "line": 60, 
+        "range": [
+            4056, 
+            4076
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Using the regular boat is a challenging thing, not only the long journeybut the wave can be so rough sometimes. Don\u2019t expect to much on regular boat. It is the cheapest so the condition is average. There\u2019s mat where you can sleep, it\u2019s better to put some of your belongings to mark your place few hours before so you have mat to sleep. It\u2019s quiet safe, just put everything except valuable things.", 
+        "line": 61, 
+        "range": [
+            4077, 
+            4480
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4091, 
+                    4103
+                ], 
+                "name": "regular boat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4217, 
+                    4229
+                ], 
+                "name": "regular boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 62, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Price for diving is about Rp 350,000/dive (license) and Rp 450,000/dive (non license) contact the person I mentioned above.", 
+        "line": 63, 
+        "range": [
+            4482, 
+            4604
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 64, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Contact Person for diving/snorkeling:", 
+        "line": 65, 
+        "range": [
+            4606, 
+            4642
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Wangi-Wangi (Waha Beach): Pak Sudirman (085241857674)", 
+        "line": 66, 
+        "range": [
+            4643, 
+            4695
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4655, 
+                    4665
+                ], 
+                "name": "Waha Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "Kaledupa (Hoga Island): Pak Jufry (085395303993)", 
+        "line": 67, 
+        "range": [
+            4696, 
+            4743
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4696, 
+                    4704
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4706, 
+                    4717
+                ], 
+                "name": "Hoga Island"
+            }
+        ]
+    }, 
+    {
+        "text": "Tomia: Pak Ade (081234767854 / 085341300675)", 
+        "line": 68, 
+        "range": [
+            4744, 
+            4787
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4745, 
+                    4750
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "You\u2019ll spot snakes in Wakatobi sometimes.", 
+        "line": 70, 
+        "range": [
+            4789, 
+            4831
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4813, 
+                    4821
+                ], 
+                "name": "Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "Don\u2019t worry they won\u2019t attack you unless you threatened them.", 
+        "line": 71, 
+        "range": [
+            4832, 
+            4896
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 72, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Extra time and energy.", 
+        "line": 73, 
+        "range": [
+            4898, 
+            4919
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "You need extra time and energy but believe me, it\u2019s way too beautiful to be missed. So it\u2019s totally worthy.", 
+        "line": 74, 
+        "range": [
+            4920, 
+            5030
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Travel Itinerary Wakatobi Islands", 
+        "line": 76, 
+        "range": [
+            5032, 
+            5064
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5045, 
+                    5061
+                ], 
+                "name": "Wakatobi Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This is my whole itinerary when I traveled to Wakatobi Islands. In total I spent seven days. I wish I could spend longer but I had limited time. You can read this itinerary as a guideline or you can jump to the next session where I\u2019ll share about each islands.", 
+        "line": 78, 
+        "range": [
+            5066, 
+            5327
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5109, 
+                    5125
+                ], 
+                "name": "Wakatobi Islands"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5315, 
+                    5322
+                ], 
+                "name": "islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: Makassar \u2013 Bau-Bau", 
+        "line": 80, 
+        "range": [
+            5329, 
+            5355
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5332, 
+                    5340
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5343, 
+                    5350
+                ], 
+                "name": "Bau-Bau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Our journey started from Makassar by pelni ship (KM. Lambelu). The departure time was supposed to be at 1 a.m. but the ship came late and delayed to 11 a.m. Reached Bau-Bau after 14 hours, exactly on 2 a.m.. Stayed overnight on one of the wooden boat to Tomia.", 
+        "line": 82, 
+        "range": [
+            5357, 
+            5616
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5377, 
+                    5385
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5389, 
+                    5399
+                ], 
+                "name": "pelni ship"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    5401, 
+                    5412
+                ], 
+                "name": "KM. Lambelu"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5471, 
+                    5475
+                ], 
+                "name": "ship"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5517, 
+                    5524
+                ], 
+                "name": "Bau-Bau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5591, 
+                    5602
+                ], 
+                "name": "wooden boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5606, 
+                    5611
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Expense: Pelni to Bau-Bau (Rp 145,000/person)", 
+        "line": 84, 
+        "range": [
+            5618, 
+            5662
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5623, 
+                    5628
+                ], 
+                "name": "Pelni"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5632, 
+                    5639
+                ], 
+                "name": "Bau-Bau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: Explore Bau-Bau", 
+        "line": 86, 
+        "range": [
+            5664, 
+            5685
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5676, 
+                    5683
+                ], 
+                "name": "Bau-Bau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "With the help of boat crew, we managed to rent a public car (angkot) with the driver and explore the city. Started from Nirwana Beach, Lakasa Cave, Governor office, Fortress (Benteng), Tirta Rimba Waterfall, a beach near the waterfall, and back to the harbor.", 
+        "line": 88, 
+        "range": [
+            5687, 
+            5945
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5702, 
+                    5706
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5734, 
+                    5744
+                ], 
+                "name": "public car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5746, 
+                    5752
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5786, 
+                    5790
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5805, 
+                    5818
+                ], 
+                "name": "Nirwana Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5820, 
+                    5831
+                ], 
+                "name": "Lakasa Cave"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5833, 
+                    5848
+                ], 
+                "name": "Governor office"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5850, 
+                    5868
+                ], 
+                "name": "Fortress (Benteng)"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5870, 
+                    5891
+                ], 
+                "name": "Tirta Rimba Waterfall"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5895, 
+                    5900
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5910, 
+                    5919
+                ], 
+                "name": "waterfall"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5937, 
+                    5943
+                ], 
+                "name": "harbor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Started around 9 a.m. and finished around 1 p.m. Chilled out at KFC in Kamali Beach while waiting for the boat until 9 p.m. Then off to Kaledupa.", 
+        "line": 90, 
+        "range": [
+            5947, 
+            6091
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6010, 
+                    6013
+                ], 
+                "name": "KFC"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6017, 
+                    6029
+                ], 
+                "name": "Kamali Beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6052, 
+                    6056
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6082, 
+                    6090
+                ], 
+                "name": "Kaledupa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Expense: Rent the car to explore the city (Rp 180,000), entrance fee Nirwana Beach (Rp 5,000), ticket to Kaledupa (Rp 55,000/person), Retribution fee to enter the harbor (Rp 2,000/person)", 
+        "line": 92, 
+        "range": [
+            6093, 
+            6279
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6111, 
+                    6114
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6130, 
+                    6134
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6162, 
+                    6175
+                ], 
+                "name": "Nirwana Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6198, 
+                    6206
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6256, 
+                    6262
+                ], 
+                "name": "harbor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3: Kaledupa \u2013 Hoga Island", 
+        "line": 94, 
+        "range": [
+            6281, 
+            6311
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6289, 
+                    6297
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6300, 
+                    6311
+                ], 
+                "name": "Hoga Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Reached Kaledupa at 11 a.m. and picked up by a small boat then transferred to Hoga Island for about 30 minutes because the tide was low at that time. Checked in to a small cottage, snorkelled for whole day!", 
+        "line": 96, 
+        "range": [
+            6313, 
+            6518
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6321, 
+                    6329
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6360, 
+                    6370
+                ], 
+                "name": "small boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6391, 
+                    6402
+                ], 
+                "name": "Hoga Island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6485, 
+                    6492
+                ], 
+                "name": "cottage"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Expense: Small boat Kaledupa-Hoga Island (Rp 50,000), Cottage+Dinner provided in Hoga Island (Rp 100,000+Rp 100,000= Rp 200,000)", 
+        "line": 98, 
+        "range": [
+            6520, 
+            6647
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6530, 
+                    6540
+                ], 
+                "name": "Small boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6541, 
+                    6549
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6550, 
+                    6561
+                ], 
+                "name": "Hoga Island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6575, 
+                    6582
+                ], 
+                "name": "Cottage"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6602, 
+                    6613
+                ], 
+                "name": "Hoga Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 4: Kaledupa \u2013 Tomia Island", 
+        "line": 100, 
+        "range": [
+            6649, 
+            6680
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6658, 
+                    6666
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6669, 
+                    6681
+                ], 
+                "name": "Tomia Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Back to Kaledupa by small boat, then walked a little bit until we found a pickup who took us to Taw Peer. Around 20 minutes ride, and we arrived at Taw Peer around 10 a.m.", 
+        "line": 102, 
+        "range": [
+            6682, 
+            6852
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6691, 
+                    6699
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6703, 
+                    6713
+                ], 
+                "name": "small boat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6757, 
+                    6763
+                ], 
+                "name": "pickup"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6779, 
+                    6787
+                ], 
+                "name": "Taw Peer"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6831, 
+                    6839
+                ], 
+                "name": "Taw Peer"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Boat to Tomia came around 12.30 p.m. We had to take a small boat again to the middle of the sea to catch the boat. Reached Tomia at 14.30, met Pak Agus, lunch for a while, and had our discovery dive until 6 p.m.", 
+        "line": 104, 
+        "range": [
+            6854, 
+            7064
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6856, 
+                    6860
+                ], 
+                "name": "Boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6864, 
+                    6869
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6910, 
+                    6920
+                ], 
+                "name": "small boat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6965, 
+                    6969
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6979, 
+                    6984
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Expense: Small boat Hoga Island-Kaledupa (Rp 50,000), Pickup/car to Taw Peer (Rp 35,000), small boat transferred to Tomia Boat/Koli Koli (Rp 10,000/person), Boat Kaledupa-Tomia (Rp 50,000/person), discovery dive (Rp 400,000/person)", 
+        "line": 106, 
+        "range": [
+            7066, 
+            7296
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7078, 
+                    7088
+                ], 
+                "name": "Small boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7089, 
+                    7100
+                ], 
+                "name": "Hoga Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7101, 
+                    7109
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7123, 
+                    7129
+                ], 
+                "name": "Pickup"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7130, 
+                    7133
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7137, 
+                    7145
+                ], 
+                "name": "Taw Peer"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7159, 
+                    7169
+                ], 
+                "name": "small boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7185, 
+                    7190
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7191, 
+                    7195
+                ], 
+                "name": "Boat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7196, 
+                    7205
+                ], 
+                "name": "Koli Koli"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7226, 
+                    7230
+                ], 
+                "name": "Boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7231, 
+                    7239
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7240, 
+                    7245
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 5: Explore Tomia", 
+        "line": 108, 
+        "range": [
+            7298, 
+            7317
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Explored Tomia to Huntete Beach, Puncak Kahianga, Benteng Patuha for half day. Then snorkelling time until the sun went down.", 
+        "line": 109, 
+        "range": [
+            7318, 
+            7442
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7332, 
+                    7337
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7341, 
+                    7354
+                ], 
+                "name": "Huntete Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7356, 
+                    7371
+                ], 
+                "name": "Puncak Kahianga"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7373, 
+                    7387
+                ], 
+                "name": "Benteng Patuha"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 110, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Expense: Car+diver to explore Tomia (Rp 150,000), boat for hopping island/to snorkeling spot (Rp 300,000), homestay in Tomia (Rp 150,000 for two nights)", 
+        "line": 111, 
+        "range": [
+            7444, 
+            7595
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7459, 
+                    7462
+                ], 
+                "name": "Car"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7480, 
+                    7485
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7500, 
+                    7504
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7517, 
+                    7523
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7527, 
+                    7542
+                ], 
+                "name": "snorkeling spot"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7557, 
+                    7565
+                ], 
+                "name": "homestay"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7569, 
+                    7574
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 112, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 6: Tomia \u2013 Wangi-Wangi \u2013 Bau-Bau", 
+        "line": 113, 
+        "range": [
+            7597, 
+            7636
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7611, 
+                    7616
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7619, 
+                    7630
+                ], 
+                "name": "Wangi-Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 114, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Left Tomia at 9 a.m. and arrived at Wangi Wangi at 1.30 p.m. Took a public car from station to Waha Beach. Snorkeling time until 5 p.m. Again, we stopped a public transportation to take us to the harbor. Departed from Wangi-Wangi to Bau Bau at 9 p.m.", 
+        "line": 115, 
+        "range": [
+            7638, 
+            7887
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7647, 
+                    7652
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7678, 
+                    7689
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7710, 
+                    7720
+                ], 
+                "name": "public car"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7726, 
+                    7733
+                ], 
+                "name": "station"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7737, 
+                    7747
+                ], 
+                "name": "Waha Beach"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7798, 
+                    7819
+                ], 
+                "name": "public transportation"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7838, 
+                    7844
+                ], 
+                "name": "harbor"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7860, 
+                    7871
+                ], 
+                "name": "Wangi-Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7875, 
+                    7882
+                ], 
+                "name": "Bau Bau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 116, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Expense: Boat Tomia-Wangi Wangi (Rp 100,000), public car to Waha Beach (Rp 5,000/person), paid for the car from Waha Beach-Wanci Harbor (Rp 25,000) because no more public transportation. Boat Wangi-Wangi to Bau Bau (Rp 105,000/person)", 
+        "line": 117, 
+        "range": [
+            7889, 
+            8122
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7903, 
+                    7907
+                ], 
+                "name": "Boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7908, 
+                    7913
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7914, 
+                    7925
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7940, 
+                    7950
+                ], 
+                "name": "public car"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7954, 
+                    7964
+                ], 
+                "name": "Waha Beach"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7997, 
+                    8000
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8006, 
+                    8016
+                ], 
+                "name": "Waha Beach"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8017, 
+                    8029
+                ], 
+                "name": "Wanci Harbor"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8058, 
+                    8079
+                ], 
+                "name": "public transportation"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8081, 
+                    8085
+                ], 
+                "name": "Boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8086, 
+                    8097
+                ], 
+                "name": "Wangi-Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8101, 
+                    8108
+                ], 
+                "name": "Bau Bau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 118, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 7: Back to Makassar, end of the trip", 
+        "line": 119, 
+        "range": [
+            8124, 
+            8163
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8145, 
+                    8153
+                ], 
+                "name": "Makassar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 120, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Reached Bau Bau at 6 a.m. and waited for our Pelni boat which came at 8 a.m. Goodbye Bau Bau and welcome back to Makassar (around 10 p.m.).", 
+        "line": 121, 
+        "range": [
+            8165, 
+            8303
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8180, 
+                    8187
+                ], 
+                "name": "Bau Bau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8217, 
+                    8227
+                ], 
+                "name": "Pelni boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8257, 
+                    8264
+                ], 
+                "name": "Bau Bau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8285, 
+                    8293
+                ], 
+                "name": "Makassar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 122, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Expense: Entrance fee to harbor (Rp 2,000/person), pelni from Bau-Bau to Makassar (Rp 150,000)", 
+        "line": 123, 
+        "range": [
+            8305, 
+            8398
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8338, 
+                    8344
+                ], 
+                "name": "harbor"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8364, 
+                    8369
+                ], 
+                "name": "pelni"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8375, 
+                    8382
+                ], 
+                "name": "Bau-Bau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8386, 
+                    8394
+                ], 
+                "name": "Makassar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 124, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "So, that\u2019s my travel itinerary to Wakatobi Please noted that there were 3 of us, so the cost was shared among 3 of us. More people will be cheaper. In total I spent around Rp 1,500,000 including food, dive, and all personal expense. You don\u2019t really need to spend a lot Wakatobi Islands. It\u2019s pretty easy to travel by yourself because there\u2019re public boats.", 
+        "line": 125, 
+        "range": [
+            8400, 
+            8764
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8443, 
+                    8451
+                ], 
+                "name": "Wakatobi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8679, 
+                    8695
+                ], 
+                "name": "Wakatobi Islands"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8753, 
+                    8765
+                ], 
+                "name": "public boats"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 126, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The Islands", 
+        "line": 127, 
+        "range": [
+            8766, 
+            8776
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 128, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wakatobi Islands consists of four big islands named Wangi-Wangi, Kaledupa, Tomia, and Binongko. A marine national park in Southeast Sulawesi, very rich in coral diversity and marine life. I would say it is one of the best islands I\u2019ve been to other than Raja Ampat or Derawan Islands.", 
+        "line": 129, 
+        "range": [
+            8778, 
+            9063
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8781, 
+                    8797
+                ], 
+                "name": "Wakatobi Islands"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8819, 
+                    8826
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8833, 
+                    8844
+                ], 
+                "name": "Wangi-Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8846, 
+                    8854
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8856, 
+                    8861
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8867, 
+                    8875
+                ], 
+                "name": "Binongko"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8879, 
+                    8899
+                ], 
+                "name": "marine national park"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8903, 
+                    8921
+                ], 
+                "name": "Southeast Sulawesi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9003, 
+                    9010
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9035, 
+                    9045
+                ], 
+                "name": "Raja Ampat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9049, 
+                    9064
+                ], 
+                "name": "Derawan Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 130, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wakatobi marine park has more than 750 coral species and around 942 species of fishes. More than in Carriebean Sea (50 species) and Red Sea (300) species.", 
+        "line": 131, 
+        "range": [
+            9065, 
+            9218
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9067, 
+                    9087
+                ], 
+                "name": "Wakatobi marine park"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9167, 
+                    9181
+                ], 
+                "name": "Carriebean Sea"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9199, 
+                    9206
+                ], 
+                "name": "Red Sea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 132, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Furthermore, Wakatobi has the second biggest barrier reef after Australia, and the longest atol (48 km) in the world. Part of Operation Wallacea, an organization that do research and conserve wildlife in remote locations around the world.", 
+        "line": 133, 
+        "range": [
+            9220, 
+            9457
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9236, 
+                    9244
+                ], 
+                "name": "Wakatobi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9268, 
+                    9280
+                ], 
+                "name": "barrier reef"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9287, 
+                    9296
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9314, 
+                    9318
+                ], 
+                "name": "atol"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9434, 
+                    9443
+                ], 
+                "name": "locations"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 134, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hoga Island, Kaledupa", 
+        "line": 135, 
+        "range": [
+            9459, 
+            9479
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9463, 
+                    9474
+                ], 
+                "name": "Hoga Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 136, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Actually Kaledupa was not our first destination. Normally people will start doing Wangi-Wangi-Kaledupa-Tomia, or vice versa. After thinking about our conditions and all the timing matters, we decided to go to Kaledupa first.", 
+        "line": 137, 
+        "range": [
+            9481, 
+            9704
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9495, 
+                    9503
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9568, 
+                    9579
+                ], 
+                "name": "Wangi-Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9580, 
+                    9588
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9589, 
+                    9594
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9695, 
+                    9703
+                ], 
+                "name": "Kaledupa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 138, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Our destination was Hoga Island. Our boat departed at 9 p.m, all the boats to Wakatobi Islands are facilitated with simple mat on the deck.", 
+        "line": 139, 
+        "range": [
+            9706, 
+            9844
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9732, 
+                    9743
+                ], 
+                "name": "Hoga Island"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9749, 
+                    9753
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9781, 
+                    9786
+                ], 
+                "name": "boats"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9790, 
+                    9806
+                ], 
+                "name": "Wakatobi Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 140, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "14 hours long with the wooden boat to Kaledupa. The beach reminds me of Weh Island, Sumatera.", 
+        "line": 141, 
+        "range": [
+            9846, 
+            9938
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9876, 
+                    9887
+                ], 
+                "name": "wooden boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9891, 
+                    9899
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9905, 
+                    9910
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9925, 
+                    9935
+                ], 
+                "name": "Weh Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 142, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are four peers in Kaledupa Island. We arrived at Buranga peer, picked up to Hoga Island by a small boat, then headed to Hoga Island, around 30 minutes ride.", 
+        "line": 143, 
+        "range": [
+            9940, 
+            10101
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9963, 
+                    9968
+                ], 
+                "name": "peers"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9972, 
+                    9980
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    10003, 
+                    10015
+                ], 
+                "name": "Buranga peer"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10030, 
+                    10041
+                ], 
+                "name": "Hoga Island"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    10047, 
+                    10057
+                ], 
+                "name": "small boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10074, 
+                    10085
+                ], 
+                "name": "Hoga Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 144, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was cloudy and rainy at that time but it didn\u2019t stop us to taste the underwater in Hoga Island.", 
+        "line": 145, 
+        "range": [
+            10103, 
+            10202
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 146, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We did snorkeling in front of the peer. Visibility was not too good at that time due to the rain, but we still could enjoy the corals. Many fishes swam around, felt like swimming in huge aquarium!", 
+        "line": 147, 
+        "range": [
+            10204, 
+            10399
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10246, 
+                    10250
+                ], 
+                "name": "peer"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 148, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "First time I saw such a huge amount of fishes. As a freediver, I really love the wall and dive down to enjoy the corals.", 
+        "line": 149, 
+        "range": [
+            10401, 
+            10520
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 150, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "About 22 diving spots can be found around Hoga Island.", 
+        "line": 151, 
+        "range": [
+            10522, 
+            10575
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10541, 
+                    10553
+                ], 
+                "name": "diving spots"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 152, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips in Hoga Island", 
+        "line": 153, 
+        "range": [
+            10577, 
+            10595
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 154, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Avoid coming to Hoga Island from June-August because students overseas especially from Europe are coming to Hoga Island for research.", 
+        "line": 155, 
+        "range": [
+            10597, 
+            10729
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10625, 
+                    10636
+                ], 
+                "name": "Hoga Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10696, 
+                    10702
+                ], 
+                "name": "Europe"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10717, 
+                    10728
+                ], 
+                "name": "Hoga Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 156, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are 200 bungalows cost Rp 50,000 where you can stay. For food, you have to paid about Rp 30,000- Rp 40,000/meal but you will very satisfy because they serve delicious fish, crab, vegetable, and other sea food.", 
+        "line": 157, 
+        "range": [
+            10731, 
+            10945
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10758, 
+                    10767
+                ], 
+                "name": "bungalows"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 158, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Contact Mr. Jufry (085395303993), he\u2019s the coordinator of the island. He will arrange the boat from Kaledupa-Hoga, homestay, food, diving everything.", 
+        "line": 159, 
+        "range": [
+            10947, 
+            11097
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11023, 
+                    11029
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11051, 
+                    11055
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11061, 
+                    11069
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11070, 
+                    11074
+                ], 
+                "name": "Hoga"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    11076, 
+                    11084
+                ], 
+                "name": "homestay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 160, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Normal prices to dive in Wakatobi is Rp 350,000 (license) Rp 450,000 (no license). Price for boat transfer from Kaledupa-Hoga : Rp 50,000 (one way).", 
+        "line": 161, 
+        "range": [
+            11099, 
+            11246
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11137, 
+                    11145
+                ], 
+                "name": "Wakatobi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11205, 
+                    11209
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11224, 
+                    11232
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11233, 
+                    11237
+                ], 
+                "name": "Hoga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 162, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bajo Sampela", 
+        "line": 163, 
+        "range": [
+            11248, 
+            11259
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 164, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Not far from Kaledupa island, wooden houses on stilts where Bajo people lives are normally seen. Bajo people or known as sea gypsies still doing their traditional way on living, adapting their living styles above the sea, not on the land.", 
+        "line": 165, 
+        "range": [
+            11261, 
+            11498
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11262, 
+                    11274
+                ], 
+                "name": "Bajo Sampela"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11289, 
+                    11304
+                ], 
+                "name": "Kaledupa island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    11306, 
+                    11329
+                ], 
+                "name": "wooden houses on stilts"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 166, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Most of Bajo people are fishermen. They live in the islands of Sulawesi, such as here in Wakatobi and also Togean Islands.", 
+        "line": 167, 
+        "range": [
+            11500, 
+            11621
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11568, 
+                    11575
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11579, 
+                    11587
+                ], 
+                "name": "Sulawesi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11605, 
+                    11613
+                ], 
+                "name": "Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 168, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Instead of using fishing pole or net, they use spear to catch the fish. They are able to free-dive and hold their breath for a long time. Growing up on the sea makes an exceptional ability for them which they can see better and hold their breath longer.", 
+        "line": 169, 
+        "range": [
+            11623, 
+            11875
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11623, 
+                    11637
+                ], 
+                "name": "Togean Islands"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11796, 
+                    11799
+                ], 
+                "name": "sea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 170, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some Bajo intentionally rupture their eardrums when they were young in order to facilitate diving and hunting in the sea.", 
+        "line": 171, 
+        "range": [
+            11877, 
+            11997
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 172, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tomia Island", 
+        "line": 173, 
+        "range": [
+            11999, 
+            12010
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 174, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After had enough fun in Kaledupa, we were delivered to Ambeua Peer. To go to Tomia, we had to go to Tau peer which is located around 30 minutes from Ambeua Peer.", 
+        "line": 175, 
+        "range": [
+            12012, 
+            12172
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12018, 
+                    12023
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12056, 
+                    12064
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    12087, 
+                    12098
+                ], 
+                "name": "Ambeua Peer"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12109, 
+                    12114
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    12132, 
+                    12140
+                ], 
+                "name": "Tau peer"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 176, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Options are by catching an ojek (Rp 15,000-20,000) what we did is walking on the street and try to find pick up to take us to the peer so we only have to pay Rp 35,000 for three of us (after bargain).", 
+        "line": 177, 
+        "range": [
+            12174, 
+            12373
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    12181, 
+                    12192
+                ], 
+                "name": "Ambeua Peer"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12222, 
+                    12226
+                ], 
+                "name": "ojek"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    12276, 
+                    12282
+                ], 
+                "name": "street"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12299, 
+                    12306
+                ], 
+                "name": "pick up"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    12325, 
+                    12329
+                ], 
+                "name": "peer"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 178, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was unique in Tau peer. We have to get small boat until the middle of the sea and jump into the boat which came from Wangi-wangi heading to Tomia. Price for the transfer is Rp 10,000/person.", 
+        "line": 179, 
+        "range": [
+            12375, 
+            12567
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    12414, 
+                    12422
+                ], 
+                "name": "Tau peer"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12439, 
+                    12449
+                ], 
+                "name": "small boat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12496, 
+                    12500
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12517, 
+                    12528
+                ], 
+                "name": "Wangi-wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12540, 
+                    12545
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 180, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tomia Island is unbelievable! That\u2019s what I can say. The underwater, oh gosh! I\u2019m speechless right now. A very wise decision spending two days in Tomia Island. Fortunately, the weather was good.", 
+        "line": 181, 
+        "range": [
+            12569, 
+            12766
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12592, 
+                    12604
+                ], 
+                "name": "Tomia Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12739, 
+                    12750
+                ], 
+                "name": "omia Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 182, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We spent our first day doing discovery dive, it was the first time for me. I was so nervous until I need around 10 minutes adapting to the regulator.", 
+        "line": 183, 
+        "range": [
+            12768, 
+            12916
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 184, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some favorite spots for dive in Tomia are Marimabuk, Fan Garden, Roma, Teluk Waiti, Table Coral City, and many more.", 
+        "line": 185, 
+        "range": [
+            12918, 
+            13033
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    12953, 
+                    12967
+                ], 
+                "name": "spots for dive"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12971, 
+                    12976
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12981, 
+                    12990
+                ], 
+                "name": "Marimabuk"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12992, 
+                    13002
+                ], 
+                "name": "Fan Garden"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13004, 
+                    13008
+                ], 
+                "name": "Roma"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13010, 
+                    13021
+                ], 
+                "name": "Teluk Waiti"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 186, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mostly the spots are covered by soft corals. Visibility was perfect and again I love when we snorkeled in the wall. I\u2019ll just show you guys the picture.", 
+        "line": 187, 
+        "range": [
+            13035, 
+            13188
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    13068, 
+                    13073
+                ], 
+                "name": "spots"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    13167, 
+                    13171
+                ], 
+                "name": "wall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 188, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We did a visit to a Puncak Kahianga and Benteng Patuha as well. View from Puncak Kahianga is beautiful. Nothing much to see at Benteng Patuha.", 
+        "line": 189, 
+        "range": [
+            13190, 
+            13331
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13231, 
+                    13246
+                ], 
+                "name": "Puncak Kahianga"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    13251, 
+                    13265
+                ], 
+                "name": "Benteng Patuha"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13285, 
+                    13300
+                ], 
+                "name": "Puncak Kahianga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 190, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips in Tomia Island", 
+        "line": 191, 
+        "range": [
+            13333, 
+            13352
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    13338, 
+                    13352
+                ], 
+                "name": "Benteng Patuha"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 192, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are two diving center in Tomia. I contacted Pak Ade (081234767854 / 085341300675) as our coordinator in Tomia. He is a very nice and humble guy.", 
+        "line": 193, 
+        "range": [
+            13354, 
+            13503
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13363, 
+                    13368
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    13391, 
+                    13404
+                ], 
+                "name": "diving center"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13408, 
+                    13413
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13487, 
+                    13492
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 194, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are some homestays in Tomia cost around Rp 100,000/night. We stayed at Pak Ade\u2019s family homestay for only Rp 75,000. If you are rich enough to afford luxurious diving resort, exactly in Onemobaa Island, try Wakatobi Dive Resort.", 
+        "line": 195, 
+        "range": [
+            13505, 
+            13740
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    13544, 
+                    13553
+                ], 
+                "name": "homestays"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13557, 
+                    13562
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    13623, 
+                    13631
+                ], 
+                "name": "homestay"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    13685, 
+                    13708
+                ], 
+                "name": "luxurious diving resort"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13721, 
+                    13736
+                ], 
+                "name": "Onemobaa Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 196, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Discovery dive cost Rp 450,000. If you have license you can dive for only Rp 350,000/dive or ask more information about diving package to Pak Ade. Car for city tour starts from Rp 300,000, motorbike rent is Rp 100,000. We asked Pak Ade\u2019s help to get us cheapest pick up and his neighbor agreed to take us around the city for only Rp 150,000.", 
+        "line": 197, 
+        "range": [
+            13742, 
+            14084
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    13742, 
+                    13762
+                ], 
+                "name": "Wakatobi Dive Resort"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    13912, 
+                    13915
+                ], 
+                "name": "Car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    13954, 
+                    13963
+                ], 
+                "name": "motorbike"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    14027, 
+                    14034
+                ], 
+                "name": "pick up"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 198, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wangi Wangi", 
+        "line": 199, 
+        "range": [
+            14086, 
+            14096
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 200, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Our last destination in Wakatobi Islands was Wangi-Wangi. We only spent one day because we needed to leave to Bau Bau on the night. Wangi-Wangi is the capital region of Wakatobi Islands.", 
+        "line": 201, 
+        "range": [
+            14098, 
+            14283
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14108, 
+                    14119
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14145, 
+                    14161
+                ], 
+                "name": "Wakatobi Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14166, 
+                    14177
+                ], 
+                "name": "Wangi-Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14231, 
+                    14238
+                ], 
+                "name": "Bau Bau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14253, 
+                    14264
+                ], 
+                "name": "Wangi-Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 202, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Our boat from Tomia took us to Mola Peer for about 2 and a half hours.", 
+        "line": 203, 
+        "range": [
+            14285, 
+            14354
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14290, 
+                    14298
+                ], 
+                "name": "Wakatobi Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14323, 
+                    14328
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    14340, 
+                    14349
+                ], 
+                "name": "Mola Peer"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 204, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are Bajo people who live in Mola. We took a walk to the station, not so far and took angkot (public car) to Waha Beach.", 
+        "line": 205, 
+        "range": [
+            14356, 
+            14480
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14415, 
+                    14419
+                ], 
+                "name": "Mola"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    14443, 
+                    14450
+                ], 
+                "name": "station"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    14472, 
+                    14478
+                ], 
+                "name": "angkot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 206, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I didn\u2019t expect too much on Wangi-Wangi island in Wakatobi because from most sources I read, the best part to dive is Tomia and Hoga, not too much mentioning about Wangi-Wangi.", 
+        "line": 207, 
+        "range": [
+            14482, 
+            14659
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14495, 
+                    14505
+                ], 
+                "name": "Waha Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14536, 
+                    14554
+                ], 
+                "name": "Wangi-Wangi island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14558, 
+                    14566
+                ], 
+                "name": "Wakatobi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    14610, 
+                    14614
+                ], 
+                "name": "part"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14626, 
+                    14631
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14636, 
+                    14640
+                ], 
+                "name": "Hoga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 208, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was disappointed at first when I jumped into the water because there\u2019s nothing can be seen. We swam further and further, the further we swam, the closest we were to the wall and believe it or not, it was totally amazing.", 
+        "line": 209, 
+        "range": [
+            14661, 
+            14884
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14672, 
+                    14683
+                ], 
+                "name": "Wangi-Wangi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    14857, 
+                    14861
+                ], 
+                "name": "wall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 210, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I would say that this spot is my favorite so far! I like it more that Hoga and Tomia. The wall is so deep until you can\u2019t see what\u2019s underneath. The corals, breathtaking, and the fish, thousands !", 
+        "line": 211, 
+        "range": [
+            14886, 
+            15085
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    14932, 
+                    14936
+                ], 
+                "name": "spot"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14980, 
+                    14984
+                ], 
+                "name": "Hoga"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14989, 
+                    14994
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    15000, 
+                    15004
+                ], 
+                "name": "wall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 212, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "More groups of fishes swim here. I got more beautiful picture here in Wangi-Wangi island in Wakatobi.", 
+        "line": 213, 
+        "range": [
+            15087, 
+            15187
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 214, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I still couldn\u2019t forget how we were free-diving until 10 meters and took photo with the sea-fan and also sponges. So far, it\u2019s the best experience.", 
+        "line": 215, 
+        "range": [
+            15189, 
+            15339
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    15200, 
+                    15208
+                ], 
+                "name": "Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 216, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Not far from Wanci Harbor there\u2019s a night market where you can find local foods and fruits.", 
+        "line": 217, 
+        "range": [
+            15341, 
+            15433
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    15373, 
+                    15385
+                ], 
+                "name": "Wanci Harbor"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    15396, 
+                    15408
+                ], 
+                "name": "night market"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 218, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Both raw fish and grilled fish are sold in the market. Beautiful decoration of tomatoes and chillies on the stall. Try to visit if you have time.", 
+        "line": 219, 
+        "range": [
+            15435, 
+            15579
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    15500, 
+                    15506
+                ], 
+                "name": "market"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    15561, 
+                    15566
+                ], 
+                "name": "stall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 220, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips in Wangi Wangi Island", 
+        "line": 221, 
+        "range": [
+            15581, 
+            15606
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 222, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Contact Pak Sudirman (085241857674) He\u2019s the one who in charge taking care of Waha Beach.", 
+        "line": 223, 
+        "range": [
+            15608, 
+            15698
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    15608, 
+                    15626
+                ], 
+                "name": "Wangi Wangi Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 224, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Snorkeling package is only Rp 50,000/person/90 minutes minimun 4 persons including: Guide, Snorkeling set (fin, mask, snorkel, life jacket, swimsuit), if you only want to rent snorkeling gear it only cost Rp 10,000/item/90 minutes.", 
+        "line": 225, 
+        "range": [
+            15700, 
+            15930
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    15706, 
+                    15716
+                ], 
+                "name": "Waha Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 226, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Last public transportation from Waha Beach to the town or the Wanci Harbor is at 4 p.m. If you snorkeled to long and passed 4 p.m. like what we did, walked out to the main road and hopefully there are cars willing to take you to the harbor, or else, ask Pak Sudirman, maybe he can ask some guys with motorbikes taking you to the harbor or wherever you want.", 
+        "line": 227, 
+        "range": [
+            15932, 
+            16288
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    15957, 
+                    15978
+                ], 
+                "name": "public transportation"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    15984, 
+                    15994
+                ], 
+                "name": "Waha Beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    16002, 
+                    16006
+                ], 
+                "name": "town"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    16014, 
+                    16026
+                ], 
+                "name": "Wanci Harbor"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    16124, 
+                    16128
+                ], 
+                "name": "road"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    16153, 
+                    16157
+                ], 
+                "name": "cars"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    16185, 
+                    16191
+                ], 
+                "name": "harbor"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    16252, 
+                    16262
+                ], 
+                "name": "motorbikes"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    16281, 
+                    16287
+                ], 
+                "name": "harbor"
+            }
+        ]
+    }
+]

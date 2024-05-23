@@ -1,0 +1,849 @@
+[
+    {
+        "text": "April 26, 2020    Andong: Hahoe Folk Village", 
+        "line": 0, 
+        "range": [
+            1, 
+            44
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    18, 
+                    24
+                ], 
+                "name": "Andong"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    26, 
+                    44
+                ], 
+                "name": "Hahoe Folk Village"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nestled in the middle of Mount Namsan and Buyongdae Cliff, the traditional village from Joseon dynasty, the Hahoe Folk Village is intoxicating with its preservation of old traditional Korean culture. Located in the city of Andong, about 2 hours ride from Busan and 3 hours ride from the capital city Seoul, endlessly, this village has staggered the visitors with its unique landscape and houses.", 
+        "line": 2, 
+        "range": [
+            46, 
+            440
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    71, 
+                    83
+                ], 
+                "name": "Mount Namsan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    88, 
+                    103
+                ], 
+                "name": "Buyongdae Cliff"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    109, 
+                    128
+                ], 
+                "name": "traditional village"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    154, 
+                    172
+                ], 
+                "name": "Hahoe Folk Village"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    261, 
+                    275
+                ], 
+                "name": "city of Andong"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    301, 
+                    306
+                ], 
+                "name": "Busan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    333, 
+                    351
+                ], 
+                "name": "capital city Seoul"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    369, 
+                    376
+                ], 
+                "name": "village"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    434, 
+                    440
+                ], 
+                "name": "houses"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "History of Hahoe Folk Village", 
+        "line": 4, 
+        "range": [
+            442, 
+            470
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hahoe Folk Village was the birth place of two famous historical figure, Ryu Unrong and Ryu Seongryong. Both were blessed with immense talent, one was a Confucian scholar during the Joseon Dynasty, while the other one was the Prime Minister when the Japanese invaded South Korea.", 
+        "line": 6, 
+        "range": [
+            472, 
+            749
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    474, 
+                    492
+                ], 
+                "name": "Hahoe Folk Village"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The name itself means \u201cRiver Returning\u201d where the location of the village is right near the bend of the S shape Nakdong River. In the eastern part of the village, a small mountain named Mountain Hwa stands 271 meters high.", 
+        "line": 8, 
+        "range": [
+            751, 
+            976
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    820, 
+                    827
+                ], 
+                "name": "village"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    842, 
+                    850
+                ], 
+                "name": "the bend"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    866, 
+                    879
+                ], 
+                "name": "Nakdong River"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    888, 
+                    900
+                ], 
+                "name": "eastern part"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    908, 
+                    915
+                ], 
+                "name": "village"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    925, 
+                    933
+                ], 
+                "name": "mountain"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    940, 
+                    952
+                ], 
+                "name": "Mountain Hwa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Visiting Hahoe Folk Village", 
+        "line": 10, 
+        "range": [
+            978, 
+            1004
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    987, 
+                    1005
+                ], 
+                "name": "Hahoe Folk Village"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The moment I stepped into the world heritage site, the weather was cloudy and misty. Sometimes the sky started to cry, and stopped, and cried again.", 
+        "line": 12, 
+        "range": [
+            1006, 
+            1153
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1033, 
+                    1056
+                ], 
+                "name": "the world heritage site"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Usually I didn\u2019t like getting wet at all but turned out the rain has create an idyllic tone of the village itself.", 
+        "line": 14, 
+        "range": [
+            1155, 
+            1270
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1256, 
+                    1263
+                ], 
+                "name": "village"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I immediately took a small boat crossing the Nakdonggang river then climbed to the top of Buyongdae Cliff until I found the astounding view of Hahoe Folk Village.", 
+        "line": 16, 
+        "range": [
+            1272, 
+            1433
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1300, 
+                    1304
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1318, 
+                    1335
+                ], 
+                "name": "Nakdonggang river"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1363, 
+                    1378
+                ], 
+                "name": "Buyongdae Cliff"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1416, 
+                    1434
+                ], 
+                "name": "Hahoe Folk Village"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The Pungsan Ryu clan who formed the village was one of the five powerful local familie of the Andong region which produced many notable politicians and scholars.", 
+        "line": 18, 
+        "range": [
+            1435, 
+            1595
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1473, 
+                    1480
+                ], 
+                "name": "village"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1531, 
+                    1544
+                ], 
+                "name": "Andong region"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The houses of Yangban Nobility are mostly made by timber-framed with tiled roofs, while commoners built houses of mud over timer framework and the roofs were thatched with rice straw.", 
+        "line": 20, 
+        "range": [
+            1597, 
+            1779
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1604, 
+                    1630
+                ], 
+                "name": "houses of Yangban Nobility"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1704, 
+                    1710
+                ], 
+                "name": "houses"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Complemented with irrigated rice paddies on the slope of the mountain, this landscape has never been more refreshing than the others.", 
+        "line": 22, 
+        "range": [
+            1781, 
+            1913
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1813, 
+                    1825
+                ], 
+                "name": "rice paddies"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1833, 
+                    1838
+                ], 
+                "name": "slope"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1846, 
+                    1854
+                ], 
+                "name": "mountain"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The Mask Dance Performance", 
+        "line": 24, 
+        "range": [
+            1915, 
+            1940
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Before leaving the village, I spared my time to watch the famous Hahoe Mask Performance. The performance is a combination of dance and drama, all the performers wear masks.", 
+        "line": 26, 
+        "range": [
+            1942, 
+            2113
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1967, 
+                    1974
+                ], 
+                "name": "village"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This dance has been performed following 800 years of tradition. The performance itself tells the story combining the daily life and conflict between the common people and the nobleman.", 
+        "line": 28, 
+        "range": [
+            2115, 
+            2298
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some of the performances are used in ceremonies, ritual dances, or theatrical plays. Korean masks are varies, moret than 250 types and shaped similar to human.", 
+        "line": 30, 
+        "range": [
+            2300, 
+            2458
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Not far from the village, there is a mask museum with collection of masks all over the world. Visiting Hahoe Village together also with another historical city in Korea named Gyeongju can\u2019t be missed.", 
+        "line": 32, 
+        "range": [
+            2460, 
+            2661
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2486, 
+                    2493
+                ], 
+                "name": "village"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2506, 
+                    2517
+                ], 
+                "name": "mask museum"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2572, 
+                    2585
+                ], 
+                "name": "Hahoe Village"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2613, 
+                    2628
+                ], 
+                "name": "historical city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2632, 
+                    2637
+                ], 
+                "name": "Korea"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2644, 
+                    2652
+                ], 
+                "name": "Gyeongju"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips to Visit Hahoe Folk Village", 
+        "line": 34, 
+        "range": [
+            2663, 
+            2694
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Getting to Hahoe Folk Village", 
+        "line": 36, 
+        "range": [
+            2696, 
+            2724
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "First you need to make your way to the city named Andong. Upon arrival, take bus number 46 that runs up to ten times a day from Andong Bus Terminal to Hahoe Folk Village, approximately 30-45 minutes (1200 won)", 
+        "line": 38, 
+        "range": [
+            2726, 
+            2934
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2775, 
+                    2779
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2786, 
+                    2792
+                ], 
+                "name": "Andong"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2813, 
+                    2826
+                ], 
+                "name": "bus number 46"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2864, 
+                    2883
+                ], 
+                "name": "Andong Bus Terminal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2887, 
+                    2905
+                ], 
+                "name": "Hahoe Folk Village"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Entrance Fee to Hahoe Folk Village", 
+        "line": 40, 
+        "range": [
+            2936, 
+            2969
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The Admission fee to Hahoe Folk Village is 5000 won for adult, 2,500 won for teenagers and 1,500 won for children. The entrance fee to the mask museum is 2000 won, crossing the river by boat is 3000 won return.", 
+        "line": 42, 
+        "range": [
+            2971, 
+            3180
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3004, 
+                    3022
+                ], 
+                "name": "Hahoe Folk Village"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3122, 
+                    3133
+                ], 
+                "name": "mask museum"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3160, 
+                    3165
+                ], 
+                "name": "river"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3169, 
+                    3173
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Other tips", 
+        "line": 44, 
+        "range": [
+            3182, 
+            3191
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "- Mask performance schedule: Jan-Feb: Saturday and Sunday 2 p.m.-3 p.m. Mar-Dec: Wednesday, Friday, Saturday, and Sunday same time (free of charge)", 
+        "line": 45, 
+        "range": [
+            3192, 
+            3338
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "- Some houses are opened for accommodation, so called \u201chanok stay\u201d rates about 30.000-60.000 won. Click here for more information about the stay.", 
+        "line": 46, 
+        "range": [
+            3339, 
+            3487
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3361, 
+                    3367
+                ], 
+                "name": "houses"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3383, 
+                    3396
+                ], 
+                "name": "accommodation"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3409, 
+                    3419
+                ], 
+                "name": "hanok stay"
+            }
+        ]
+    }, 
+    {
+        "text": "- In October you can visit International Mask Dance Festival showcasing all the masks from around the world.", 
+        "line": 47, 
+        "range": [
+            3488, 
+            3595
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "- Other attractions in Andong, Woryeonggyo Bridge, Bongjeongsa Temple, Confucian Schools.", 
+        "line": 48, 
+        "range": [
+            3596, 
+            3684
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3632, 
+                    3638
+                ], 
+                "name": "Andong"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3640, 
+                    3658
+                ], 
+                "name": "Woryeonggyo Bridge"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3660, 
+                    3678
+                ], 
+                "name": "Bongjeongsa Temple"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 28-30 November 2014", 
+        "line": 50, 
+        "range": [
+            3686, 
+            3716
+        ], 
+        "entities": []
+    }
+]

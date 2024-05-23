@@ -1,0 +1,2362 @@
+[
+    {
+        "text": "October 29, 2020    Australia Road Trip For A Month: Itinerary And Travel Tips", 
+        "line": 0, 
+        "range": [
+            1, 
+            78
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    20, 
+                    29
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019re following my Instagram, lately, I\u2019ve been intensively posting pictures, hashtag Australia, which I would only do when I travel. True, for the last one month of my stay in Australia I decided to travel.", 
+        "line": 2, 
+        "range": [
+            80, 
+            294
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    261, 
+                    270
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I felt that I should see more of the country rather than just eat, sleep, and work in Sydney for the past ten months. I\u2019m sick of work, and I really need to be back on the road so badly, whatever, I\u2019m coming for you Straya!", 
+        "line": 4, 
+        "range": [
+            296, 
+            522
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    330, 
+                    337
+                ], 
+                "name": "country"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    379, 
+                    385
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    509, 
+                    515
+                ], 
+                "name": "Straya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Why and why don\u2019t I want to travel Australia?", 
+        "line": 6, 
+        "range": [
+            524, 
+            570
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    553, 
+                    562
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "While some people came to Australia with their work and holiday visa to travel, I came with different intention, work hard and earn dollars.", 
+        "line": 8, 
+        "range": [
+            572, 
+            711
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    591, 
+                    600
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some people laughed and thought I was weird; why would I come to Australia and spent most of my time in one city? Neither get a car and drive along the east coast, nor do the farm work.", 
+        "line": 10, 
+        "range": [
+            713, 
+            897
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    772, 
+                    781
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    815, 
+                    819
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    835, 
+                    838
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    855, 
+                    869
+                ], 
+                "name": "the east coast"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    882, 
+                    886
+                ], 
+                "name": "farm"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Well, I might sound cocky to say this but the reason why I didn\u2019t do all those stuffs, solely because I wasn\u2019t interested. Australia has never been on my bucket list. I came to Australia because it\u2019s the only country where I, as an Indonesian could do work and holiday, and worse, only for a year.", 
+        "line": 12, 
+        "range": [
+            899, 
+            1201
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1017, 
+                    1026
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1071, 
+                    1080
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1103, 
+                    1110
+                ], 
+                "name": "country"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Secondly, traveling in Australia is no joke, in terms of money. Guidebooks mentioned; expect spending $100/day to travel Australia. Why would I spend that money when I had no interest? A month in Australia can be equal to 3-4 months in Asian countries, it\u2019s ridiculous. Expert never lies.", 
+        "line": 14, 
+        "range": [
+            1203, 
+            1492
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1216, 
+                    1225
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1314, 
+                    1323
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1389, 
+                    1398
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1429, 
+                    1444
+                ], 
+                "name": "Asian countries"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "However, that\u2019s not how I travel. I don\u2019t presume myself \u2013 Okay, I\u2019m in Bangkok, I\u2019ve been to Thailand, or, I\u2019m in Sydney, I\u2019ve been to Australia. That\u2019s not me.", 
+        "line": 16, 
+        "range": [
+            1494, 
+            1670
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1555, 
+                    1562
+                ], 
+                "name": "Bangkok"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1577, 
+                    1585
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1598, 
+                    1604
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1619, 
+                    1628
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I like to explore and indulge more into the culture. I believe traveling is not just about the destination, it\u2019s about experience. That\u2019s why I decided to travel more in Australia while I\u2019m here cause I\u2019m pretty sure I\u2019d never come back to Australia once I left it.", 
+        "line": 18, 
+        "range": [
+            1672, 
+            1946
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1816, 
+                    1825
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1886, 
+                    1895
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1913, 
+                    1922
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Australia Road Trip Itinerary", 
+        "line": 20, 
+        "range": [
+            1948, 
+            1976
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My plan was not having too much plan. I\u2019ve secured three flights; Sydney-Hobart, Launceston-Melbourne, and Perth-back home. The rest, I had to figure out how I got to Perth from Melbourne without flying.", 
+        "line": 22, 
+        "range": [
+            1978, 
+            2182
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2010, 
+                    2016
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2017, 
+                    2023
+                ], 
+                "name": "Hobart"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2025, 
+                    2035
+                ], 
+                "name": "Launceston"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2036, 
+                    2045
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2051, 
+                    2056
+                ], 
+                "name": "Perth"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2062, 
+                    2066
+                ], 
+                "name": "home"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2111, 
+                    2116
+                ], 
+                "name": "Perth"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2122, 
+                    2131
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Road trip was the answer, I owned no car. How? That\u2019s the challenge. Here I\u2019ll break down what I\u2019ve done and where I\u2019ve been for a month in Australia. I\u2019ll write the details more on my upcoming posts, enjoy!", 
+        "line": 24, 
+        "range": [
+            2184, 
+            2400
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2186, 
+                    2189
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2289, 
+                    2298
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2366, 
+                    2374
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Week 1: Tasmania", 
+        "line": 26, 
+        "range": [
+            2402, 
+            2417
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2409, 
+                    2417
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I often heard good reviews about Tasmania. Some people said Tasmania was like a tiny version of New Zealand, known for its wonderful nature. It\u2019s the only island state outside the mainland of Australia.", 
+        "line": 28, 
+        "range": [
+            2419, 
+            2622
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2436, 
+                    2444
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2472, 
+                    2483
+                ], 
+                "name": "New Zealand"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2531, 
+                    2543
+                ], 
+                "name": "island state"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2556, 
+                    2564
+                ], 
+                "name": "mainland"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2568, 
+                    2577
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I spent my first three days exploring the city while waiting for Maria, a Canadian girl who came after with the same plan, so we decided to rent a car and travel together.", 
+        "line": 30, 
+        "range": [
+            2624, 
+            2794
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2727, 
+                    2730
+                ], 
+                "name": "car"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The only thing that concerned me the most was the weather. But, we always came to the right place in the perfect time, we were so lucky.", 
+        "line": 32, 
+        "range": [
+            2796, 
+            2931
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2845, 
+                    2850
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mostly our trip were done by camping, except some nights when we really need a shower or it\u2019s too cold to camp then we opted for a shelter.", 
+        "line": 34, 
+        "range": [
+            2933, 
+            3073
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3022, 
+                    3029
+                ], 
+                "name": "shelter"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3051, 
+                    3057
+                ], 
+                "name": "Hobart"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "During our stay in Hobart, we\u2019re lucky enough to stay in a hostel that enabled us to borrow some camping gear for free! There\u2019s one night in Devonport where we had to check-in to a pub.", 
+        "line": 36, 
+        "range": [
+            3075, 
+            3263
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3091, 
+                    3097
+                ], 
+                "name": "hostel"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3173, 
+                    3182
+                ], 
+                "name": "Devonport"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3214, 
+                    3215
+                ], 
+                "name": "u"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s kindda like a new thing for me, sounds a little bit creepy. I imagined drunk men walked through the dark corridor and did stupid thing, lucky it\u2019s just in my imagination, apparently it wasn\u2019t that bad.", 
+        "line": 38, 
+        "range": [
+            3265, 
+            3476
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3431, 
+                    3436
+                ], 
+                "name": "route"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3453, 
+                    3459
+                ], 
+                "name": "Hobart"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3460, 
+                    3473
+                ], 
+                "name": "Wineglass Bay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The route that we did was Hobart-Wineglass Bay-Ross-Cradle Mountain-Marrawah-Devonport-Launceston. It was a good drive, Tasmania wasn\u2019t that big so we spent maximum 3 hours drive a day, mostly looking at a huge green land with herds of sheep and cattle. I love Tasmania, it\u2019s so peaceful though sometimes it could be too quiet.", 
+        "line": 40, 
+        "range": [
+            3478, 
+            3808
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3479, 
+                    3494
+                ], 
+                "name": "Cradle Mountain"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3495, 
+                    3503
+                ], 
+                "name": "Marrawah"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3504, 
+                    3513
+                ], 
+                "name": "Devonport"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3514, 
+                    3524
+                ], 
+                "name": "Launceston"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3547, 
+                    3555
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3638, 
+                    3648
+                ], 
+                "name": "green land"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3688, 
+                    3696
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3766, 
+                    3775
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3776, 
+                    3784
+                ], 
+                "name": "Adelaide"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3786, 
+                    3794
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Week 2-3: Melbourne-Adelaide", 
+        "line": 42, 
+        "range": [
+            3810, 
+            3837
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3829, 
+                    3833
+                ], 
+                "name": "city"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tasmania was lovely. However, I missed big city. I couldn\u2019t be more happier when I flew to Melbourne, ready to find out what the city could offer. I caught up with a friend, Vivi, together we strolled around the city for four days.", 
+        "line": 44, 
+        "range": [
+            3839, 
+            4071
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3877, 
+                    3886
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3915, 
+                    3919
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3998, 
+                    4002
+                ], 
+                "name": "city"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We did all the sight-seeing, from the old railway station to the state library, admiring the grandeur of Anglicans Cathedrals, and took lots of selfie in one of the artsiest lane in Melbourne, it was so much fun.", 
+        "line": 46, 
+        "range": [
+            4073, 
+            4284
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4084, 
+                    4097
+                ], 
+                "name": "state library"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4124, 
+                    4144
+                ], 
+                "name": "Anglicans Cathedrals"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4193, 
+                    4197
+                ], 
+                "name": "lane"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4201, 
+                    4210
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The more I walked, the more I fell in love with the city. European-style building, trees as the natural canopy on the street, adorable cafes along cobbled lanes, I think I should consider moving to Melbourne and live there.", 
+        "line": 48, 
+        "range": [
+            4286, 
+            4508
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4291, 
+                    4314
+                ], 
+                "name": "European-style building"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4351, 
+                    4357
+                ], 
+                "name": "street"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4368, 
+                    4373
+                ], 
+                "name": "cafes"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4380, 
+                    4393
+                ], 
+                "name": "cobbled lanes"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4431, 
+                    4440
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I later found this Belgian guy, Jef, who planned to drive to Adelaide and did some stops on the way. Good timing! I tagged along with him without having any idea about the places that we would visit.", 
+        "line": 50, 
+        "range": [
+            4510, 
+            4708
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4519, 
+                    4527
+                ], 
+                "name": "Adelaide"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4630, 
+                    4636
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4670, 
+                    4684
+                ], 
+                "name": "Phillip Island"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4685, 
+                    4703
+                ], 
+                "name": "Wilsons Promontory"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We went to Phillip Island-Wilsons Promontory-Great Ocean Road-Grampians-Adelaide with different group of people. Driving along Great Ocean Road was a great experience itself, you might want to read Great Ocean Road two days itinerary.", 
+        "line": 52, 
+        "range": [
+            4710, 
+            4943
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4721, 
+                    4730
+                ], 
+                "name": "Grampians"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4731, 
+                    4739
+                ], 
+                "name": "Adelaide"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    4786, 
+                    4802
+                ], 
+                "name": "Great Ocean Road"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    4857, 
+                    4873
+                ], 
+                "name": "Great Ocean Road"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s interesting how we could pull it together and met cool travelers from Facebook. This was the real road trip for me. We camped, we cooked all the time, we kept our budget low.", 
+        "line": 54, 
+        "range": [
+            4945, 
+            5125
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5084, 
+                    5092
+                ], 
+                "name": "Adelaide"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5093, 
+                    5099
+                ], 
+                "name": "Darwin"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Week 4: Adelaide-Darwin", 
+        "line": 56, 
+        "range": [
+            5127, 
+            5149
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Before driving to Adelaide, I kept checking all my social media and websites trying to find a lift to Perth but I couldn\u2019t find any. Everything went wrong from here.", 
+        "line": 58, 
+        "range": [
+            5151, 
+            5317
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5203, 
+                    5208
+                ], 
+                "name": "Perth"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Somehow I felt weird, my trip had been too smooth like a silky road and now, here come the obstacles. I found a host in Adelaide as precaution so I could stay longer and maybe got a lift to Perth.", 
+        "line": 60, 
+        "range": [
+            5319, 
+            5514
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5388, 
+                    5396
+                ], 
+                "name": "Adelaide"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5458, 
+                    5463
+                ], 
+                "name": "Perth"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5494, 
+                    5499
+                ], 
+                "name": "Perth"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Worst case, I had to fly to Perth and it\u2019d cost me $200. Suddenly, I had another idea, maybe I should go up to Darwin and fly back home from Darwin.", 
+        "line": 62, 
+        "range": [
+            5516, 
+            5665
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5577, 
+                    5583
+                ], 
+                "name": "Darwin"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5597, 
+                    5601
+                ], 
+                "name": "home"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5607, 
+                    5613
+                ], 
+                "name": "Darwin"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019d cost me the same, $200. I found two lifts, Adelaide-Alice Spring, Alice Spring-Darwin. I decided to go up to Darwin. I knew it\u2019s gonna be insane, 1532 km, around 16 hours from Adelaide to Alice Spring in a day, literally pain in the ass.", 
+        "line": 64, 
+        "range": [
+            5667, 
+            5912
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5673, 
+                    5685
+                ], 
+                "name": "Alice Spring"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5687, 
+                    5699
+                ], 
+                "name": "Alice Spring"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5700, 
+                    5706
+                ], 
+                "name": "Darwin"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5730, 
+                    5736
+                ], 
+                "name": "Darwin"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5797, 
+                    5805
+                ], 
+                "name": "Adelaide"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5809, 
+                    5821
+                ], 
+                "name": "Alice Spring"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Only two of us taking turn driving. What hurt me most was I got a message offering a lift to Perth that day, few hours after I left Adelaide.  Why is life\u2019s messing around with me? If only I chose to stay longer in Adelaide.", 
+        "line": 66, 
+        "range": [
+            5914, 
+            6139
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5953, 
+                    5958
+                ], 
+                "name": "Perth"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5992, 
+                    6000
+                ], 
+                "name": "Adelaide"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6075, 
+                    6083
+                ], 
+                "name": "Adelaide"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6134, 
+                    6139
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "That\u2019s not the only problem. I didn\u2019t know that Uluru and Kings Canyon was before Alice Spring, fool me. It means I had to make a detour to see them both.", 
+        "line": 68, 
+        "range": [
+            6141, 
+            6298
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6144, 
+                    6156
+                ], 
+                "name": "Kings Canyon"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6168, 
+                    6180
+                ], 
+                "name": "Alice Spring"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6285, 
+                    6290
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I didn\u2019t even ask the other guy if he\u2019d do Uluru and stuff, apparently when I met him, he told me that he had done them both and now it\u2019s time for him to move up to Darwin. I\u2019m not leaving Australia without visiting to Uluru while I\u2019m in Red Centre, no way. I ended up not going with him.", 
+        "line": 70, 
+        "range": [
+            6300, 
+            6597
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6407, 
+                    6413
+                ], 
+                "name": "Darwin"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6431, 
+                    6440
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6461, 
+                    6466
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6480, 
+                    6490
+                ], 
+                "name": "Red Centre"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6551, 
+                    6556
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was all over the place trying to figure out what I should do. I checked Facebook again, there\u2019s a guy doing Uluru but he\u2019s going down to Alice Spring. I had no choice beside joining three-day tour to Uluru. It sucks cause I\u2019m not a tour person and for sure, it\u2019s way more expensive.", 
+        "line": 72, 
+        "range": [
+            6599, 
+            6890
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6642, 
+                    6647
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6671, 
+                    6683
+                ], 
+                "name": "Alice Spring"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6734, 
+                    6739
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I tried not to let this thing ruined my trip, well, let it go and enjoy. Uluru, Kata Tjuta, and Kings Canyon were stunning in their own way. Frankly, I got more insights about Aboriginal Culture and the history from the tour guide.", 
+        "line": 74, 
+        "range": [
+            6892, 
+            7122
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6898, 
+                    6908
+                ], 
+                "name": "Kata Tjuta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6914, 
+                    6926
+                ], 
+                "name": "Kings Canyon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I could read everything from the cultural center, however, it\u2019s utterly different when the guide explained everything in interactive way. It\u2019s like you absorbed the essence of the whole story.", 
+        "line": 76, 
+        "range": [
+            7124, 
+            7319
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Another positive thing was I got this whole new experience sleeping in a swag. Swag looks like a bed case with zipper on the side. You sleep on the ground, that\u2019s it, no tent, nothing covers you above, no shelter.", 
+        "line": 78, 
+        "range": [
+            7321, 
+            7535
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "You sleep in open air with the stars as the roof. I hope no bugs or spiders crossing my face that night. On the last night we did camp fire and our guide cooked us real Australian dinner; Kangaroo stew and homemade cookies bread that he baked traditionally using burning wood.", 
+        "line": 80, 
+        "range": [
+            7537, 
+            7812
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7769, 
+                    7781
+                ], 
+                "name": "Alice Spring"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I had to stay few more days in Alice Spring till I found another lift to Darwin. Another German girl named Suzy (p.s. she\u2019s in the same group with the guy that I saw in FB going to Uluru), both of us were driving up to Darwin.", 
+        "line": 82, 
+        "range": [
+            7814, 
+            8041
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7919, 
+                    7924
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7957, 
+                    7963
+                ], 
+                "name": "Darwin"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was a short two days but I had great time talking to her. I didn\u2019t do much in Darwin. Five minutes out and I was sweating like river stream. 34 degrees with 100% humidity, how could I handle that?", 
+        "line": 84, 
+        "range": [
+            8043, 
+            8243
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8047, 
+                    8053
+                ], 
+                "name": "Darwin"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Highlights of the trip", 
+        "line": 86, 
+        "range": [
+            8245, 
+            8266
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Definitely all about the road trip experience. Camping, cooking, meeting new people, bushwalking, seeing wild life. I\u2019ve seen so many colorful birds, wallabies and kangaroos jumping around, maybe drunk koalas lazily hanging on the tree, emus, even wild whale.", 
+        "line": 88, 
+        "range": [
+            8268, 
+            8528
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8457, 
+                    8463
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8497, 
+                    8512
+                ], 
+                "name": "Cradle Mountain"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some places that impressed me the most were; Cradle Mountain, I love the iconic rugged shape of the mountain, Ross, a little cute town that captivated my heart.", 
+        "line": 90, 
+        "range": [
+            8530, 
+            8689
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8552, 
+                    8560
+                ], 
+                "name": "mountain"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8562, 
+                    8566
+                ], 
+                "name": "Ross"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8582, 
+                    8586
+                ], 
+                "name": "town"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8614, 
+                    8633
+                ], 
+                "name": "The Twelve Apostles"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The Twelve Apostles for its exceptional landscape, it looks way bigger than the picture. Uluru, no wonder it becomes a magnetic pull over the travelers. The sunset was breathtaking and they story behind it was \u201ceye-widening\u201d. Last but not least, Valley of the Winds in Kata Tjuta, there\u2019s just something magical about this place that I couldn\u2019t explain by words.", 
+        "line": 92, 
+        "range": [
+            8691, 
+            9060
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8703, 
+                    8708
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8860, 
+                    8879
+                ], 
+                "name": "Valley of the Winds"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8883, 
+                    8893
+                ], 
+                "name": "Kata Tjuta"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8937, 
+                    8942
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8997, 
+                    9006
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips to prepare an Australia road trip", 
+        "line": 94, 
+        "range": [
+            9062, 
+            9099
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9083, 
+                    9092
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Here\u2019re some tips if you\u2019re planning your road trip adventure in Australia:", 
+        "line": 96, 
+        "range": [
+            9101, 
+            9179
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9115, 
+                    9118
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9146, 
+                    9149
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9168, 
+                    9177
+                ], 
+                "name": "campervan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Buying or renting a car", 
+        "line": 98, 
+        "range": [
+            9181, 
+            9203
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Whether you want to buy a car or just renting a campervan, there are different ways to accomplish your road trip dream. You can find many travelers/backpackers selling their car from $1500-$7000 fully equipped with beds cooking utensils, and camping stuffs.", 
+        "line": 100, 
+        "range": [
+            9205, 
+            9461
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9294, 
+                    9297
+                ], 
+                "name": "car"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Make sure you check the kms, rego, and car condition. You don\u2019t wanna stuck in the middle of nowhere especially in the outback. You can find them in Facebook groups such as; Australia Backpackers, Sydney Backpacker, etc.", 
+        "line": 102, 
+        "range": [
+            9463, 
+            9684
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9498, 
+                    9505
+                ], 
+                "name": "outback"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9611, 
+                    9614
+                ], 
+                "name": "car"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Renting a car is another good option if you don\u2019t want to worry about selling them after. Some companies allow you to return the car in different location. Check Jucy, Wicked Campers, Maui, Britz, etc.", 
+        "line": 104, 
+        "range": [
+            9686, 
+            9888
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9730, 
+                    9733
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9747, 
+                    9755
+                ], 
+                "name": "location"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There\u2019s an interesting site called imoova, basically it\u2019s a car relocation website. You can rent a car as cheap as $1/day in return of driving the car to specific location.", 
+        "line": 106, 
+        "range": [
+            9890, 
+            10065
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9903, 
+                    9906
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9951, 
+                    9954
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9967, 
+                    9975
+                ], 
+                "name": "location"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Or, you can find lift or ride share like I did. Easy, you just need to be flexible and of course, willing to split cost. Again you can find them in backpacker groups in Facebook, forum like Gumtree, and Coseats.", 
+        "line": 108, 
+        "range": [
+            10067, 
+            10277
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10199, 
+                    10208
+                ], 
+                "name": "campsites"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10248, 
+                    10257
+                ], 
+                "name": "campsites"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Finding campsites", 
+        "line": 110, 
+        "range": [
+            10279, 
+            10295
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Next step you have to know is finding campsites. Download \u201cWikicamps\u201d application in your phone to find the location. In Australia, you\u2019re not allowed to camp wherever you want. You get caught, you\u2019ll get fined.", 
+        "line": 112, 
+        "range": [
+            10297, 
+            10515
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10331, 
+                    10340
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10462, 
+                    10476
+                ], 
+                "name": "free campsites"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10480, 
+                    10494
+                ], 
+                "name": "paid campsites"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10496, 
+                    10510
+                ], 
+                "name": "Free campsites"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wikicamps can show you the location of free campsites or paid campsites. Free campsites normally have no facilities, whereas paid campsites have facilities such as hot shower and kitchen, normally around $30-$60/car/night.", 
+        "line": 114, 
+        "range": [
+            10517, 
+            10738
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10548, 
+                    10562
+                ], 
+                "name": "paid campsites"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Road and driving condition", 
+        "line": 116, 
+        "range": [
+            10740, 
+            10765
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The road condition is fairly good and sealed. You don\u2019t really need 4wd unless you wanna drive in unsealed road at the outback. Europeans might not use to left side driving, beware of that, and better not to drive in the dark cause it\u2019s the active time for wildlife.", 
+        "line": 118, 
+        "range": [
+            10767, 
+            11036
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    10773, 
+                    10786
+                ], 
+                "name": "unsealed road"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10794, 
+                    10801
+                ], 
+                "name": "outback"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11015, 
+                    11024
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I\u2019ve seen many roadkill and it can be dangerous for driving. Driving in Australia is generally safe with clear road signs, speed limit, and overtaking lanes (I love this!), and enough rest area. I find the drivers are pretty generous. They\u2019ll give you sign when it\u2019s safe enough for you to overtake them.", 
+        "line": 120, 
+        "range": [
+            11038, 
+            11347
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    11083, 
+                    11099
+                ], 
+                "name": "overtaking lanes"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    11127, 
+                    11136
+                ], 
+                "name": "rest area"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11263, 
+                    11272
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cost of doing Australia road trip", 
+        "line": 122, 
+        "range": [
+            11349, 
+            11381
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    11362, 
+                    11366
+                ], 
+                "name": "dorm"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Regarding how much it cost, again it depends on individual. Average price for dorm room is $20-30/bed, food is about $10-20, and gasoline $1.25/liter. A day tour would normally cost you $100.", 
+        "line": 124, 
+        "range": [
+            11383, 
+            11573
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11527, 
+                    11535
+                ], 
+                "name": "location"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11562, 
+                    11573
+                ], 
+                "name": "south coast"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Other tips", 
+        "line": 126, 
+        "range": [
+            11575, 
+            11584
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The climate can change depends on the location. It can be really cold in south coast and can be really hot in the red center, make sure you check the weather and bring clothes accordingly.", 
+        "line": 128, 
+        "range": [
+            11586, 
+            11773
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11603, 
+                    11613
+                ], 
+                "name": "red center"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11706, 
+                    11713
+                ], 
+                "name": "outback"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11725, 
+                    11735
+                ], 
+                "name": "red centre"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "When you\u2019re driving in the outback especially red centre, bring enough supply of water. Also, consider about the distance and the fuel. You can download \u201cFuel Map\u201d for offline database of petrol stations and fuel prices from all across Australia.", 
+        "line": 130, 
+        "range": [
+            11775, 
+            12026
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11915, 
+                    11924
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 131, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 02-31 October 2016", 
+        "line": 132, 
+        "range": [
+            12028, 
+            12057
+        ], 
+        "entities": []
+    }
+]

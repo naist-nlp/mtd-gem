@@ -1,0 +1,2128 @@
+[
+    {
+        "text": "July 10, 2020    Climbing Mount Semeru: It\u2019s Never Been Easy", 
+        "line": 0, 
+        "range": [
+            1, 
+            62
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    26, 
+                    38
+                ], 
+                "name": "Mount Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mount Semeru is a volcano located in East Java, Indonesia with the elevation of 3,676m. It\u2019s the highest volcano in Java Island and the third highest in Indonesia after Mount Kerinci and Mount Rinjani. Climbing Mount Semeru is like a dream for every hikers in Indonesia.", 
+        "line": 2, 
+        "range": [
+            64, 
+            335
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    80, 
+                    87
+                ], 
+                "name": "volcano"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    99, 
+                    108
+                ], 
+                "name": "East Java"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    110, 
+                    119
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    167, 
+                    174
+                ], 
+                "name": "volcano"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    178, 
+                    189
+                ], 
+                "name": "Java Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    215, 
+                    224
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    231, 
+                    244
+                ], 
+                "name": "Mount Kerinci"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    249, 
+                    262
+                ], 
+                "name": "Mount Rinjani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    273, 
+                    285
+                ], 
+                "name": "Mount Semeru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    322, 
+                    331
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Known for its challenging trek, especially before the summit, however, once you reach the summit, all the hard work would be pay off. This is my second attempt in climbing Mount Semeru. I didn\u2019t get to the summit at my first climb and here I was determined to try it again.", 
+        "line": 4, 
+        "range": [
+            337, 
+            611
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    388, 
+                    394
+                ], 
+                "name": "summit"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    424, 
+                    430
+                ], 
+                "name": "summit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    506, 
+                    518
+                ], 
+                "name": "Mount Semeru"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    540, 
+                    546
+                ], 
+                "name": "summit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Getting to Mount Semeru", 
+        "line": 6, 
+        "range": [
+            613, 
+            635
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    620, 
+                    632
+                ], 
+                "name": "Mount Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The closest city before going to the basecamp is Malang. You can either fly or take the train from other cities in Indonesia. Next, you need to take taxi (Rp 150,000) to Pasar Tumpang, followed by jeep (Rp 600,000) to the basecamp, Ranu Pani.", 
+        "line": 8, 
+        "range": [
+            637, 
+            878
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    646, 
+                    650
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    671, 
+                    679
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    683, 
+                    689
+                ], 
+                "name": "Malang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    706, 
+                    709
+                ], 
+                "name": "fly"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    722, 
+                    727
+                ], 
+                "name": "train"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    739, 
+                    745
+                ], 
+                "name": "cities"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    749, 
+                    758
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    783, 
+                    787
+                ], 
+                "name": "taxi"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    804, 
+                    817
+                ], 
+                "name": "Pasar Tumpang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    831, 
+                    835
+                ], 
+                "name": "jeep"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    856, 
+                    864
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    866, 
+                    875
+                ], 
+                "name": "Ranu Pani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Entrance Fee", 
+        "line": 10, 
+        "range": [
+            880, 
+            891
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mount Semeru is part of the Bromo Tengger Semeru National Park. Therefore, you need to pay entrance fee to Climb Mount Semeru. The price for local is Rp 29,000 (weekedays) and Rp 34,000 (weekends), for foreigner is Rp 220,000 (weekdays) and Rp 329,000 (weekends)", 
+        "line": 12, 
+        "range": [
+            893, 
+            1154
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    920, 
+                    954
+                ], 
+                "name": "Bromo Tengger Semeru National Park"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1005, 
+                    1017
+                ], 
+                "name": "Mount Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mount Semeru Climbing Routes", 
+        "line": 14, 
+        "range": [
+            1156, 
+            1183
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1156, 
+                    1168
+                ], 
+                "name": "Mount Semeru"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1169, 
+                    1184
+                ], 
+                "name": "Climbing Routes"
+            }
+        ]
+    }, 
+    {
+        "text": "Ranu Pani \u2013 Landengan Dowo : 3 km / 1.5h", 
+        "line": 15, 
+        "range": [
+            1184, 
+            1225
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1185, 
+                    1194
+                ], 
+                "name": "Ranu Pani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1197, 
+                    1211
+                ], 
+                "name": "Landengan Dowo"
+            }
+        ]
+    }, 
+    {
+        "text": "Landengan Dowo \u2013 Watu Rejeng : 3 km / 1.5h", 
+        "line": 16, 
+        "range": [
+            1226, 
+            1269
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1226, 
+                    1240
+                ], 
+                "name": "Landengan Dowo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1243, 
+                    1254
+                ], 
+                "name": "Watu Rejeng"
+            }
+        ]
+    }, 
+    {
+        "text": "Watu Rejeng \u2013 Ranu Kumbolo : 4.5  km / 2h", 
+        "line": 17, 
+        "range": [
+            1270, 
+            1312
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1283, 
+                    1295
+                ], 
+                "name": "Ranu Kumbolo"
+            }
+        ]
+    }, 
+    {
+        "text": "Ranu Kumbolo \u2013 Oro Oro Ombo : 1 km / 30min", 
+        "line": 18, 
+        "range": [
+            1313, 
+            1356
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1326, 
+                    1338
+                ], 
+                "name": "Oro Oro Ombo"
+            }
+        ]
+    }, 
+    {
+        "text": "Oro-Oro Ombo \u2013 Cemoro Kandang : 1.5 km / 30min", 
+        "line": 19, 
+        "range": [
+            1357, 
+            1404
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1369, 
+                    1383
+                ], 
+                "name": "Cemoro Kandang"
+            }
+        ]
+    }, 
+    {
+        "text": "Cemoro Kandang \u2013 Jambangan : 3 km / 30min", 
+        "line": 20, 
+        "range": [
+            1405, 
+            1447
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1418, 
+                    1427
+                ], 
+                "name": "Jambangan"
+            }
+        ]
+    }, 
+    {
+        "text": "Jambangan \u2013 Kalimati : 2 km / 30min", 
+        "line": 21, 
+        "range": [
+            1448, 
+            1484
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1455, 
+                    1463
+                ], 
+                "name": "Kalimati"
+            }
+        ]
+    }, 
+    {
+        "text": "Kalimati \u2013 Arcopodo : 1.2 km / 2.5h", 
+        "line": 22, 
+        "range": [
+            1485, 
+            1521
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1490, 
+                    1498
+                ], 
+                "name": "Arcopodo"
+            }
+        ]
+    }, 
+    {
+        "text": "Arcopodo \u2013 Summit : 1.5km / 4h", 
+        "line": 23, 
+        "range": [
+            1522, 
+            1553
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1526, 
+                    1532
+                ], 
+                "name": "Summit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 24, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ideally it takes 3 days to climb Mount Semeru. To camp, you can choose either Ranu Kumbolo or Kalimati. As you can see the last two points there, the distance is not so far. But it takes so long because the trek is just to steep and slippery from the stone. Make sure to prepare well.", 
+        "line": 25, 
+        "range": [
+            1555, 
+            1838
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1580, 
+                    1592
+                ], 
+                "name": "Mount Semeru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1625, 
+                    1637
+                ], 
+                "name": "Ranu Kumbolo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1641, 
+                    1649
+                ], 
+                "name": "Kalimati"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 26, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My experience climbing Mount Semeru", 
+        "line": 27, 
+        "range": [
+            1840, 
+            1874
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1856, 
+                    1868
+                ], 
+                "name": "Mount Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 28, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was looking for my lecturer to as for permission that I wouldn\u2019t be able to join his class. There was important final presentation at that day. Everything\u2019s mixed up. My feeling of scared leaving this presentation, on the other hand I couldn\u2019t wait to climb land of God, Mount Semeru.", 
+        "line": 29, 
+        "range": [
+            1876, 
+            2167
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2143, 
+                    2155
+                ], 
+                "name": "Mount Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 30, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Finally I encouraged myself to tell my lecturer. His answer was just simple, \u201d You wouldn\u2019t get higher than C if you skipped next week presentation. I have ensured myself, my heart, I chose Mount Semeru, coming back to accomplish my unfinished mission, to stand on the highest land in Java.", 
+        "line": 31, 
+        "range": [
+            2169, 
+            2462
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2348, 
+                    2360
+                ], 
+                "name": "Mount Semeru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2427, 
+                    2447
+                ], 
+                "name": "highest land in Java"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 32, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rough beginning", 
+        "line": 33, 
+        "range": [
+            2464, 
+            2478
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 34, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was late ! Started from my  dormitory at 11.30 then directly headed to bus station. I waited for the bus but what the hell it didn\u2019t show up. Finally 12 p.m. it started going from the station, but you know, bus in Indonesia, they still trying to find passengers.", 
+        "line": 35, 
+        "range": [
+            2480, 
+            2745
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2497, 
+                    2506
+                ], 
+                "name": "dormitory"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2540, 
+                    2551
+                ], 
+                "name": "bus station"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2570, 
+                    2573
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2653, 
+                    2660
+                ], 
+                "name": "station"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2676, 
+                    2679
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2683, 
+                    2692
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 36, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1 p.m.still at Cibitung. My train took off at 2.05 p.m. I got panic ! I saw a taxi before the bus entering the highway. I asked the driver to drive in high speed. But again, Jakarta was fakin traffic, 1.50 p.m. arrived at Cawang and took ojek.", 
+        "line": 37, 
+        "range": [
+            2747, 
+            2989
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2748, 
+                    2756
+                ], 
+                "name": "Cibitung"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2761, 
+                    2766
+                ], 
+                "name": "train"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2811, 
+                    2815
+                ], 
+                "name": "taxi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2827, 
+                    2830
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2844, 
+                    2851
+                ], 
+                "name": "highway"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2907, 
+                    2914
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2955, 
+                    2961
+                ], 
+                "name": "Cawang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2971, 
+                    2975
+                ], 
+                "name": "ojek"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 38, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My friend kept calling me and I just said \u201cCan you ask the train officer to wait and don\u2019t leave until I come?\u201d stupid me and horray, I reached Senen Station and the train had left 10 minutes ago.", 
+        "line": 39, 
+        "range": [
+            2991, 
+            3192
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3122, 
+                    3135
+                ], 
+                "name": "Senen Station"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3144, 
+                    3149
+                ], 
+                "name": "train"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 40, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Oh mann, I tried to find another ticket but it\u2019s all sold out. I started to think why I chose long weekend. Luckily, I met some guys who were late and also left by the train, same fate as me. We went to Rawamangun Bus Station, and got Pahala Kencana Bus at 5.30 p.m..huff..still need efforts to go for Semeru.", 
+        "line": 41, 
+        "range": [
+            3194, 
+            3504
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3344, 
+                    3349
+                ], 
+                "name": "train"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3379, 
+                    3401
+                ], 
+                "name": "Rawamangun Bus Station"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    3411, 
+                    3429
+                ], 
+                "name": "Pahala Kencana Bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3478, 
+                    3484
+                ], 
+                "name": "Semeru"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3496, 
+                    3499
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 42, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Taking a bus was comfortable but wasting both time and money. Salute to one of my friend who\u2019s willing to spend his money using a plane! I gave a big applause to him. I teased him, \u201cMan, you can go to Mount Rinjani with this amount of money you spent, haha.\u201d", 
+        "line": 43, 
+        "range": [
+            3506, 
+            3769
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3617, 
+                    3622
+                ], 
+                "name": "plane"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3688, 
+                    3701
+                ], 
+                "name": "Mount Rinjani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3760, 
+                    3766
+                ], 
+                "name": "Malang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 44, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I arrived in Malang at 4 p.m. I waited my friends who arrived earlier to fetch me. Quick flashback, I actually registered me and my friends to a mass-climbing event by Avtech, with Rp 200,000, everything\u2019s included.", 
+        "line": 45, 
+        "range": [
+            3771, 
+            3987
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3964, 
+                    3968
+                ], 
+                "name": "Jeep"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3974, 
+                    3981
+                ], 
+                "name": "Tumpang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jeep from Tumpang-Ranu Pane (return), breakfast, T-shirt, rain cover, certificate. From the beginning, I targeted only the cheap facilities we got. The rest, I don\u2019t really care. In fact, the committee couldn\u2019t manage everything until complaints and conflicts arise, check it out after this!", 
+        "line": 47, 
+        "range": [
+            3989, 
+            4283
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We\u2019re joining an event", 
+        "line": 49, 
+        "range": [
+            4285, 
+            4308
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was a bit upset when the committee opened the re-registration at Tumpang earlier than the date decided and posted before. It should be opened on 15 Dec 7 a.m. but they already opened the registration on 14 Dec on evening. Their reason was many participants had come so they let some participants went first so on the next day it\u2019s less crowded.", 
+        "line": 51, 
+        "range": [
+            4310, 
+            4657
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4348, 
+                    4355
+                ], 
+                "name": "Tumpang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was unfair where the rules are the participants were grouped in several groups, some groups would go first, and the rest would have limitation in time to climb. Finally, we re-registered but we didn\u2019t follow them. We were supposed to wait for other groups to depart but we got into the truck to depart faster.", 
+        "line": 53, 
+        "range": [
+            4659, 
+            4972
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4918, 
+                    4923
+                ], 
+                "name": "truck"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4949, 
+                    4958
+                ], 
+                "name": "Ranu Pane"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 54, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Until Ranu Pane, we climbed by ourselves. Can you imagine the total participants of this mass climbing was 1697 people??? It\u2019s totally INSANE !!!! There should be limitation. It impacted to other hikers who were not avtech participants.", 
+        "line": 55, 
+        "range": [
+            4974, 
+            5211
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 56, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "TNBTS made an announcement which prohibited the climbers to climb Semeru because of overload capacity. Protest from many parties couldn\u2019t be avoided. But then the announcement was pulled back. I believe there are a lot of sneers towards Avtech. I hope Avtech learned from what had happened.", 
+        "line": 57, 
+        "range": [
+            5213, 
+            5504
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5247, 
+                    5253
+                ], 
+                "name": "Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 58, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Here\u2019s my team (me myslef, Ko Anton, Vivi, and Iky (the one using plane). We acted poker face at that time haha. If some people asked about us, we would say that we were non-avtech.", 
+        "line": 59, 
+        "range": [
+            5506, 
+            5688
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 60, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The climb begins", 
+        "line": 61, 
+        "range": [
+            5690, 
+            5705
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 62, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I don\u2019t know why but climbing Mount Semeru is pretty boring  for me. The long sloping track makes me feel sleepy and bored. The unusual thing, that seldom happened when I did hiking was, our bags were damn heavy ! I", 
+        "line": 63, 
+        "range": [
+            5707, 
+            5923
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5760, 
+                    5765
+                ], 
+                "name": "track"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 64, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s all Ko Anton\u2019s fault, buying too much food ! OMG ! We turned into piggies. It\u2019s raining but not very big, I used my lovely umbrella along our way. Everything was executed well, based on our plan. But Ko Anton\u2019s injured plus heavy bags plus queuing made the schedule plus one hour.", 
+        "line": 65, 
+        "range": [
+            5925, 
+            6217
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6201, 
+                    6213
+                ], 
+                "name": "Ranu Kumbolo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 66, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "First night camping at Ranu Kumbolo, the one I missed on the last hiking in Semeru and I really regret it. Avtech participants built their camp on the first side when we got down to the lake, but we chose to camp on the other side, facing the hills. It was a fun night ! Cooked so many food, playing card, loser had to massage the winner. Stupid Ko Anton farting in the tent and it\u2019s sooo smelly.", 
+        "line": 67, 
+        "range": [
+            6219, 
+            6616
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6254, 
+                    6260
+                ], 
+                "name": "Semeru"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6364, 
+                    6368
+                ], 
+                "name": "lake"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6421, 
+                    6426
+                ], 
+                "name": "hills"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 68, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Second day of the hike", 
+        "line": 69, 
+        "range": [
+            6618, 
+            6639
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 70, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We continued our journey to Tanjakan Cinta and down to Oro Oro Ombo. Ko Anton\u2019s condition getting worse plus the steep track which drained our stamina. But finally after 4 hours trekking we arrived at Kalimati. We found a lil bit difficulties to build our tent. I once asked a person and this guy was completely mad at avtech I think.", 
+        "line": 71, 
+        "range": [
+            6641, 
+            6976
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6655, 
+                    6667
+                ], 
+                "name": "Oro Oro Ombo"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6719, 
+                    6724
+                ], 
+                "name": "track"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6801, 
+                    6809
+                ], 
+                "name": "Kalimati"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 72, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There was such a police line written avtech, so I assumed this land was exclusive for Avtech. I asked this guy, \u201cWhere can we build our tent, any space?\u201d This guy answered, \u201d You can build it over there\u201d the area with Avtech line. then I asked \u201cCan we? Isn\u2019t it for avtech only?\u201d He raised his voice, \u201cThis is not Avtech\u2019s land, it\u2019s belong to no one, everyone can camp wherever they want!\u201d Eww, this guy dislike Avtech..", 
+        "line": 73, 
+        "range": [
+            6978, 
+            7420
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6999, 
+                    7003
+                ], 
+                "name": "land"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7144, 
+                    7148
+                ], 
+                "name": "area"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7259, 
+                    7263
+                ], 
+                "name": "land"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7369, 
+                    7381
+                ], 
+                "name": "water spring"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7389, 
+                    7400
+                ], 
+                "name": "Sumber Mani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7404, 
+                    7412
+                ], 
+                "name": "Kalimati"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 74, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There\u2019s a water spring called Sumber Mani in Kalimati. Usually people will refill water in this place. But when I went to this place, with distance around 1 km, I saw people queuing up to get the water. I took around an hour just to get the water, oh Godd\u2026We\u2019re having summit attack around 12 p.m.", 
+        "line": 75, 
+        "range": [
+            7422, 
+            7724
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7455, 
+                    7460
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7486, 
+                    7491
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7628, 
+                    7634
+                ], 
+                "name": "summit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 76, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There were some people who already started the attack around 9 p.m. wow they really into it. But then, someone\u2019s shouting. DILARANG PUNCAK !!! SUMMIT ATTACK IS PROHIBITED ! ALL THOSE GUY WHO HAD GONE BEFORE WERE GOING TO BE CALLED BACK !! AGAIN NO ONE CAN GO TO SUMMIT. COMMITTEE  AND RANGER WILL STOP YOU !! AND IF YOU VIOLATED THE RULES, THERE WILL BE SANCTIONS IMPOSED\u201d", 
+        "line": 77, 
+        "range": [
+            7726, 
+            8101
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7790, 
+                    7796
+                ], 
+                "name": "PUNCAK"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7801, 
+                    7807
+                ], 
+                "name": "SUMMIT"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7920, 
+                    7926
+                ], 
+                "name": "SUMMIT"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 78, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Problem arises", 
+        "line": 79, 
+        "range": [
+            8103, 
+            8116
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 80, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Last year on the exact month September, I tried to reach the highest peak in Java, but unfortunately I was unable to step on that highest peak, Mahameru. After one year, I came back to test my fortune back to climb Mount Semeru.", 
+        "line": 81, 
+        "range": [
+            8118, 
+            8345
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8125, 
+                    8129
+                ], 
+                "name": "Java"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8186, 
+                    8190
+                ], 
+                "name": "peak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8192, 
+                    8200
+                ], 
+                "name": "Mahameru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8263, 
+                    8275
+                ], 
+                "name": "Mount Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 82, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I felt like the time had stopped at that moment when I heard someone\u2019s screaming \u201cSummit attack is not allowed\u201d. My friend tried to calm me down, saying that it\u2019s just their trick to diminish the number of people to continue their journey to the top of the mountain.", 
+        "line": 83, 
+        "range": [
+            8347, 
+            8620
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8360, 
+                    8366
+                ], 
+                "name": "Summit"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8520, 
+                    8527
+                ], 
+                "name": "the top"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8535, 
+                    8543
+                ], 
+                "name": "mountain"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8578, 
+                    8584
+                ], 
+                "name": "Semeru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8599, 
+                    8607
+                ], 
+                "name": "Kalimati"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8609, 
+                    8621
+                ], 
+                "name": "Ranu Kumbolo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s ridiculous. No one came to Semeru only up until Kalimati. Ranu Kumbolo still make sense. I just could pray to God that we could do the summit attack. 12 a.m. Iky, Vivi, and I were ready to attack the summit. I insisted one person one bottle, learning from past experience when we ran out of water.", 
+        "line": 85, 
+        "range": [
+            8622, 
+            8925
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8686, 
+                    8692
+                ], 
+                "name": "summit"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8751, 
+                    8757
+                ], 
+                "name": "summit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ko Anton\u2019s not following because of his injury. We just walked few meters than someone stopped us. He asked, \u201cAvtech or non avtech?\u201d, I replied, \u201cno\u201d. He asked, \u201cDo you have your identity card and letter from basecamp?\u201d \u201cYes, we have in our tent.\u201d So we went back to our tent.", 
+        "line": 87, 
+        "range": [
+            8927, 
+            9220
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9059, 
+                    9067
+                ], 
+                "name": "basecamp"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 88, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "\u201cWhat are we supposed to do?\u201d, asked Vivi. I said, \u201cLet us take our id card and medical letter.\u201d We went back to that place, and we passed by, and another guy stop us. He was from avtech, also participant. Quickly we told them we were avtech and then we joined their group to climb the peak.", 
+        "line": 89, 
+        "range": [
+            9222, 
+            9520
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9246, 
+                    9251
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9414, 
+                    9418
+                ], 
+                "name": "peak"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9453, 
+                    9459
+                ], 
+                "name": "summit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9476, 
+                    9484
+                ], 
+                "name": "Arcopodo"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    9490, 
+                    9495
+                ], 
+                "name": "track"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 90, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The hardest part, on the way to summit", 
+        "line": 91, 
+        "range": [
+            9522, 
+            9559
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 92, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Here we go, to Arcopodo. The track was steeper than before and we had to QUEUE UP ! Too many people ! Problems happened when Vivi\u2019s sinus relapse, her stamina dropped, and she couldn\u2019t able to go up again. Iky and I had tried our best to cheer her up.", 
+        "line": 93, 
+        "range": [
+            9561, 
+            9815
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 94, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "She did her best, but then she didn\u2019t have energy left. Luckily there was a girl who\u2019re going down, gave up for the summit. We commended Vivi to her, then continued hiking up. Passed Arcopodo, here\u2019s the real challenge, the sandy part.", 
+        "line": 95, 
+        "range": [
+            9817, 
+            10057
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9830, 
+                    9836
+                ], 
+                "name": "summit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9897, 
+                    9905
+                ], 
+                "name": "Arcopodo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 96, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Climb up three steps, slipped down two steps. This is the hardest part ! But holy crap, still queuing up. The line was not moving about 10 minutes. We could see one line lights covering the body of Semeru. Climbing at this time was easier than a year before. It\u2019s raining before so the sand is more dense and compact, and many foot steps on the ground so it\u2019s easier to step again on it.", 
+        "line": 97, 
+        "range": [
+            10059, 
+            10449
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10149, 
+                    10155
+                ], 
+                "name": "Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 98, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Iky and I waited each other. We didnt want to separate far. Suddenly, I heard people screamed from above. \u201cWATCH OUT ! BIG STONE !\u201d You know what I saw at that time? Something that only I\u2019d seen in movie? Yep. A big stone fell just like in the movie. People tried to avoid, but one guy got hit by the stone and he rolled down.", 
+        "line": 99, 
+        "range": [
+            10451, 
+            10782
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 100, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Someone in front of me tried to run to the other side and he almost pushed me away. It was totally chaos. Fortunately, the stone fell to the cliff before it fell further and reached where I stood. Iky called my name and asked if I was okay. I was okay but mentally I was shocked.", 
+        "line": 101, 
+        "range": [
+            10784, 
+            11062
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10809, 
+                    10814
+                ], 
+                "name": "cliff"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 102, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My body trembled and my heart beat so fast. The guy who was hit by the stone and fell down was caught by some people. That guy was just about 30 meters on my left side. People shouted where\u2019s medic? where\u2019s medic? who got tissue to stop the bleeding?", 
+        "line": 103, 
+        "range": [
+            11064, 
+            11317
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 104, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "When the incident happened, all people stopped hiking. I heard people shouting, \u201cHey you guys up there, don\u2019t step on big stone ! You know how dangerous it is? look at what have you done !\u201d The activities stop for few minutes than back to normal. I think that guy was saved by the medic and I think he had been brought down by the medic. So scaryy..", 
+        "line": 105, 
+        "range": [
+            11319, 
+            11673
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11592, 
+                    11596
+                ], 
+                "name": "peak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 106, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The sun rise and we had not reached the peak yet. I kept spiriting myself not to give up. I\u2019ve gone so far, sacrificing my final presentation, I got water this time. I caught a cold and not feeling well. Iky before walked a little bit far behind me but now he had walked after me.", 
+        "line": 107, 
+        "range": [
+            11675, 
+            11956
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11898, 
+                    11902
+                ], 
+                "name": "peak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 108, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Whenever I saw people going down, I asked how long is it to the peak?  They said maybe one hour. Shit it\u2019s in front of my eyes but still an hour? Be strong vel be strong. I cheered up myself. Again I asked, how long again to other guy, 30 minutes maybe. I walked and when I asked again, about 30 minutes.", 
+        "line": 109, 
+        "range": [
+            11958, 
+            12263
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    12246, 
+                    12250
+                ], 
+                "name": "land"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12254, 
+                    12258
+                ], 
+                "name": "Java"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 110, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Shit, why it\u2019s so far. Finally, I saw Iky\u2019s waving his hand and not long after that I reached the highest land on Java. I lied down and rest. \u201cLet\u2019s take picture, velyz\u201d \u201cAre you crazy? wait me rest for a while.\u201d I was soo happy yet tired, I thanked to God, I felt moved and grateful.", 
+        "line": 111, 
+        "range": [
+            12265, 
+            12562
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    12442, 
+                    12448
+                ], 
+                "name": "ground"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    12514, 
+                    12520
+                ], 
+                "name": "crater"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 112, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Finally !!! The ground suddenly trembled and bushh, Wedus Gembel, an explosion from the crater. Without wasting any time we directly took our picture. The funny thing was we had to queue up even to take photo with the flag and the sign of Mahameru.", 
+        "line": 113, 
+        "range": [
+            12564, 
+            12811
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12665, 
+                    12673
+                ], 
+                "name": "Mahameru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 114, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After satisfied taking photos, we went down. It\u2019s much more faster than climbing up. You can run and only takes not until an hour to get down. It\u2019s like playing ski. But I got problems going down because literally I don\u2019t like going down.", 
+        "line": 115, 
+        "range": [
+            12813, 
+            13056
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12924, 
+                    12932
+                ], 
+                "name": "Kalimati"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    12964, 
+                    12972
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    12986, 
+                    12994
+                ], 
+                "name": "basecamp"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 116, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Reached Kalimati and then directly went down to basecamp. 12 hours to basecamp can you imagine?? normally it just took 5-7 hours to reached basecamp. But my friends got injured. Ko Anton and Vivi hurt her ankle.", 
+        "line": 117, 
+        "range": [
+            13058, 
+            13268
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    13143, 
+                    13151
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13197, 
+                    13203
+                ], 
+                "name": "Malang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13228, 
+                    13234
+                ], 
+                "name": "Semeru"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    13240, 
+                    13248
+                ], 
+                "name": "mountain"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 118, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We arrived at basecamp on 4 a.m. sleep for a while and then back to Malang. Thanks everyone! Still Semeru is a mountain fulled with stories, memories, efforts, tears, everything. I got a quote from Ko Anton. Mount Semeru is one of the best volcanoes in Indonesia. It is like a place of pilgrimage. It\u2019s like Muslims go to Mekkah, so do hikers hike Semeru. You are not counted as a hiker if you have not hike Semeru.", 
+        "line": 119, 
+        "range": [
+            13270, 
+            13686
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13337, 
+                    13349
+                ], 
+                "name": "Mount Semeru"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    13369, 
+                    13378
+                ], 
+                "name": "volcanoes"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13382, 
+                    13391
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    13406, 
+                    13411
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13451, 
+                    13457
+                ], 
+                "name": "Mekkah"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13477, 
+                    13483
+                ], 
+                "name": "Semeru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13537, 
+                    13543
+                ], 
+                "name": "Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 120, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hiked in 13-18 November 2012", 
+        "line": 121, 
+        "range": [
+            13688, 
+            13715
+        ], 
+        "entities": []
+    }
+]

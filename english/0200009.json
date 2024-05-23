@@ -1,0 +1,1018 @@
+[
+    {
+        "text": "August 15, 2023    Daegu: Unexpected Bustling City", 
+        "line": 0, 
+        "range": [
+            1, 
+            50
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    19, 
+                    24
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    46, 
+                    50
+                ], 
+                "name": "City"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Daegu, Daegu, Daegu, what can I say about this city. Daegu might be not a popular destination in South Korea but since my lovely friend is staying and teaching in Daegu then I decided to visit him.", 
+        "line": 2, 
+        "range": [
+            52, 
+            248
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    52, 
+                    57
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    59, 
+                    64
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    66, 
+                    71
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    99, 
+                    103
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    105, 
+                    110
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    149, 
+                    160
+                ], 
+                "name": "South Korea"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    215, 
+                    220
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yes, that\u2019s what brought me to South Korea.", 
+        "line": 4, 
+        "range": [
+            250, 
+            294
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    282, 
+                    293
+                ], 
+                "name": "South Korea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I stayed almost a week in Daegu, considering I had a friend who offered me free accommodation (or I\u2019m gonna spend alot) and, it is right in the middle so I could do a day trip to my on-list destination, Gyeongju and Jirisan.", 
+        "line": 6, 
+        "range": [
+            296, 
+            521
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    322, 
+                    327
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    376, 
+                    389
+                ], 
+                "name": "accommodation"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    499, 
+                    507
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    512, 
+                    519
+                ], 
+                "name": "Jirisan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "So if you wonder, what are the things to do in Daegu? Places to visit? Or maybe what kind of tourist attractions in Daegu that you can check out?", 
+        "line": 8, 
+        "range": [
+            523, 
+            667
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    569, 
+                    574
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    576, 
+                    582
+                ], 
+                "name": "Places"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    615, 
+                    634
+                ], 
+                "name": "tourist attractions"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    638, 
+                    643
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Then maybe I have some recommendations based on my own experience traveling in Daegu.", 
+        "line": 10, 
+        "range": [
+            669, 
+            753
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    748, 
+                    753
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Daegu, a city that\u2019s beyond my expectation!", 
+        "line": 12, 
+        "range": [
+            755, 
+            799
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    756, 
+                    761
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    765, 
+                    769
+                ], 
+                "name": "city"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Daegu was beyond my expectation, it actually surprised me. I thought it was just an urban city with nothing I could do, but I liked Daegu after I found out some interesting places in the city.", 
+        "line": 14, 
+        "range": [
+            801, 
+            992
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    801, 
+                    806
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    885, 
+                    895
+                ], 
+                "name": "urban city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    933, 
+                    938
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    974, 
+                    980
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    988, 
+                    992
+                ], 
+                "name": "city"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After I met my friend on the lunch time and got into his apartment, well, he had to leave me because he\u2019s working, I didn\u2019t want to spend the rest of my day just sitting in the room.", 
+        "line": 16, 
+        "range": [
+            994, 
+            1179
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1052, 
+                    1061
+                ], 
+                "name": "apartment"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1172, 
+                    1176
+                ], 
+                "name": "room"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I had no idea where this energy suddenly popped out and triggered me to check around the neighborhood. The apartment was just around Seobu Bus Terminal.", 
+        "line": 18, 
+        "range": [
+            1181, 
+            1332
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1268, 
+                    1280
+                ], 
+                "name": "neighborhood"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1286, 
+                    1295
+                ], 
+                "name": "apartment"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1312, 
+                    1330
+                ], 
+                "name": "Seobu Bus Terminal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Spontaneous Trip to Duryu Park", 
+        "line": 20, 
+        "range": [
+            1334, 
+            1363
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1353, 
+                    1363
+                ], 
+                "name": "Duryu Park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After I checked the map what\u2019s around here, my choice fell to a small park not far from the apartment called Duryu Park.", 
+        "line": 22, 
+        "range": [
+            1365, 
+            1486
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1435, 
+                    1439
+                ], 
+                "name": "park"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1457, 
+                    1466
+                ], 
+                "name": "apartment"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1474, 
+                    1484
+                ], 
+                "name": "Duryu Park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was around 2 p.m. at that time but the sunshine was again, mild, because it was winter.", 
+        "line": 24, 
+        "range": [
+            1488, 
+            1577
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I walked on the pedestrian and took pictures of the trees sometimes, I still couldn\u2019t believe I could feel autumn, the season I love the most.", 
+        "line": 26, 
+        "range": [
+            1579, 
+            1722
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1595, 
+                    1605
+                ], 
+                "name": "pedestrian"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The park has a small lake in the middle, and to be honest, it awed me.", 
+        "line": 28, 
+        "range": [
+            1724, 
+            1793
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1727, 
+                    1731
+                ], 
+                "name": "park"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1744, 
+                    1748
+                ], 
+                "name": "lake"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "See the reflection? Stunning! The water was so calm creating a very clear reflection. I walked around the park, mostly I was elders just hanging out, playing Korean Chess, chatting, even dancing. It was really peaceful.", 
+        "line": 30, 
+        "range": [
+            1795, 
+            2013
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1901, 
+                    1905
+                ], 
+                "name": "park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I sat down a while and checked my phone. Even in the middle of this park has wifi.", 
+        "line": 32, 
+        "range": [
+            2015, 
+            2096
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2084, 
+                    2088
+                ], 
+                "name": "park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My friend suggested me to hike the  hill behind the park and I did it. The view from uphill was really nice.", 
+        "line": 34, 
+        "range": [
+            2098, 
+            2205
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2136, 
+                    2140
+                ], 
+                "name": "hill"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2152, 
+                    2156
+                ], 
+                "name": "park"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2185, 
+                    2191
+                ], 
+                "name": "uphill"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was a huge huge park. There were people walking, jogging, very vibrant in different yet peaceful.", 
+        "line": 36, 
+        "range": [
+            2207, 
+            2306
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2229, 
+                    2233
+                ], 
+                "name": "park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Checking out the downtown area", 
+        "line": 38, 
+        "range": [
+            2308, 
+            2337
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2329, 
+                    2337
+                ], 
+                "name": "downtown"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The next day I took metro/subway to Jungangno Station and walked around downtown.", 
+        "line": 40, 
+        "range": [
+            2339, 
+            2419
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2364, 
+                    2369
+                ], 
+                "name": "metro"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2370, 
+                    2376
+                ], 
+                "name": "subway"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2380, 
+                    2397
+                ], 
+                "name": "Jungangno Station"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I walked the whole day since the attractions are close to each other starting from Gyeongsannamyeong Temple, a small park with a temple as home of some cultural and historical heritages.", 
+        "line": 42, 
+        "range": [
+            2421, 
+            2606
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2460, 
+                    2471
+                ], 
+                "name": "attractions"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2510, 
+                    2534
+                ], 
+                "name": "Gyeongsannamyeong Temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2544, 
+                    2548
+                ], 
+                "name": "park"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2556, 
+                    2562
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2566, 
+                    2570
+                ], 
+                "name": "home"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Next places were Daegu Modern History Museum, Yangnyeongsi Oriental Medicine Museum, providing the experience about history of oriental medicine, types of herbs, you can also try the medicine, hanbok, also try making soap from herbs, and many else.", 
+        "line": 44, 
+        "range": [
+            2608, 
+            2855
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2632, 
+                    2659
+                ], 
+                "name": "Daegu Modern History Museum"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2661, 
+                    2698
+                ], 
+                "name": "Yangnyeongsi Oriental Medicine Museum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Then some churches around, shopping distict in Dongseongno, and Dalseong Park.", 
+        "line": 46, 
+        "range": [
+            2857, 
+            2934
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2875, 
+                    2883
+                ], 
+                "name": "churches"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2892, 
+                    2908
+                ], 
+                "name": "shopping distict"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2912, 
+                    2923
+                ], 
+                "name": "Dongseongno"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I concerned about Dalseong Park because there\u2019s a mini zoo at the park but the animals look abandoned.", 
+        "line": 48, 
+        "range": [
+            2936, 
+            3039
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2963, 
+                    2976
+                ], 
+                "name": "Dalseong Park"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3000, 
+                    3003
+                ], 
+                "name": "zoo"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3011, 
+                    3015
+                ], 
+                "name": "park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "So far I had many nice experiences in Daegu. I was so excited when I tried my first Korean BBQ, cooking the meat by myself, then drinking Makgeolli, Korean rice wine.", 
+        "line": 50, 
+        "range": [
+            3041, 
+            3206
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3087, 
+                    3092
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Also I had another Korean experiences such as watching Korean Opera, making herbal soap, wearing Korean traditional cloth, Hanbok, and noribang! which is Korean style Karaoke Box.", 
+        "line": 52, 
+        "range": [
+            3208, 
+            3386
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Too bad I didn\u2019t go to Palgongsan Mountain, Gatbawi Rock, and Donghwasa Temple which is way up to the mountain because of the weather.", 
+        "line": 54, 
+        "range": [
+            3388, 
+            3523
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3421, 
+                    3440
+                ], 
+                "name": "Palgongsan Mountain"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3442, 
+                    3454
+                ], 
+                "name": "Gatbawi Rock"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3460, 
+                    3476
+                ], 
+                "name": "Donghwasa Temple"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3500, 
+                    3508
+                ], 
+                "name": "mountain"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I have a blast visiting Daegu, I guess my stay here for a week is pretty chill and fun.", 
+        "line": 56, 
+        "range": [
+            3525, 
+            3611
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3558, 
+                    3563
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "So yea, those are some Daegu must see. Make sure you check them out and have fun!", 
+        "line": 58, 
+        "range": [
+            3613, 
+            3693
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3646, 
+                    3651
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }
+]

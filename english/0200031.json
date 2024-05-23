@@ -1,0 +1,2190 @@
+[
+    {
+        "text": "October 13, 2022    South Moluccas: Traveling To Ora Beach", 
+        "line": 0, 
+        "range": [
+            1, 
+            58
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    20, 
+                    34
+                ], 
+                "name": "South Moluccas"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    49, 
+                    58
+                ], 
+                "name": "Ora Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ora Beach, a hidden paradise located in North of Seram Island \u2013 Indonesia. A secluded beach with only private eco-resort and surrounded by giant limestone hills, truly an excellent place to find serenity.", 
+        "line": 2, 
+        "range": [
+            60, 
+            265
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    60, 
+                    69
+                ], 
+                "name": "Ora Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    109, 
+                    121
+                ], 
+                "name": "Seram Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    124, 
+                    133
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    146, 
+                    151
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    162, 
+                    179
+                ], 
+                "name": "private eco-resor"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    205, 
+                    220
+                ], 
+                "name": "limestone hills"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    241, 
+                    246
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Moreover, the house reef in front of the resort is still maintained very well.", 
+        "line": 4, 
+        "range": [
+            267, 
+            344
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    280, 
+                    290
+                ], 
+                "name": "house reef"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    307, 
+                    313
+                ], 
+                "name": "resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Healthy bunch of corals, even when the tide is low, the corals are visible.", 
+        "line": 6, 
+        "range": [
+            346, 
+            420
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This place is very suitable for honeymooners.", 
+        "line": 8, 
+        "range": [
+            422, 
+            466
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    428, 
+                    433
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019re looking for answers about how to get to Ora Beach, which accommodation to stay at, and what are the activities to do, check out my tips here if you wanna visit Ora Beach.", 
+        "line": 10, 
+        "range": [
+            468, 
+            649
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    520, 
+                    529
+                ], 
+                "name": "Ora Beach"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    537, 
+                    550
+                ], 
+                "name": "accommodation"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    640, 
+                    649
+                ], 
+                "name": "Ora Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How to Get to Ora Beach?", 
+        "line": 12, 
+        "range": [
+            651, 
+            674
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    666, 
+                    675
+                ], 
+                "name": "Ora Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Take flight to Ambon as the starting city to Ora Beach.", 
+        "line": 14, 
+        "range": [
+            676, 
+            730
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    683, 
+                    689
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    693, 
+                    698
+                ], 
+                "name": "Ambon"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    715, 
+                    719
+                ], 
+                "name": "city"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From Ambon City you may rent a car or take taxi to Tulehu Port (Rp 150,000).", 
+        "line": 16, 
+        "range": [
+            732, 
+            807
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    740, 
+                    750
+                ], 
+                "name": "Ambon City"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    766, 
+                    769
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    778, 
+                    782
+                ], 
+                "name": "taxi"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    786, 
+                    797
+                ], 
+                "name": "Tulehu Port"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "For cheaper options, take angkot (public minivan) to Waii or Tulehu (Rp 10,000).", 
+        "line": 18, 
+        "range": [
+            809, 
+            888
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    839, 
+                    845
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    847, 
+                    861
+                ], 
+                "name": "public minivan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    866, 
+                    870
+                ], 
+                "name": "Waii"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    874, 
+                    880
+                ], 
+                "name": "Tulehu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From the port, there\u2019s an express boat (Rp 110,000) connecting Ambon and Seram, twice a day.", 
+        "line": 20, 
+        "range": [
+            890, 
+            983
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    904, 
+                    908
+                ], 
+                "name": "port"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    921, 
+                    933
+                ], 
+                "name": "express boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    958, 
+                    963
+                ], 
+                "name": "Ambon"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    968, 
+                    973
+                ], 
+                "name": "Seram"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The schedule is :", 
+        "line": 22, 
+        "range": [
+            985, 
+            1001
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ambon (Tulehu)-Masohi (Amahai) : 9 a.m. and 3 p.m.", 
+        "line": 24, 
+        "range": [
+            1003, 
+            1052
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1008, 
+                    1013
+                ], 
+                "name": "Ambon"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1015, 
+                    1021
+                ], 
+                "name": "Tulehu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1023, 
+                    1029
+                ], 
+                "name": "Masohi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1031, 
+                    1037
+                ], 
+                "name": "Amahai"
+            }
+        ]
+    }, 
+    {
+        "text": "Masohi (Amahai)-Ambon (Tulehu) : 8 a.m. and 2 p.m.", 
+        "line": 25, 
+        "range": [
+            1053, 
+            1102
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1059, 
+                    1065
+                ], 
+                "name": "Masohi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1067, 
+                    1073
+                ], 
+                "name": "Amahai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1075, 
+                    1080
+                ], 
+                "name": "Ambon"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1082, 
+                    1088
+                ], 
+                "name": "Tulehu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 26, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Crossing the sea will take around one and a half hour.", 
+        "line": 27, 
+        "range": [
+            1104, 
+            1157
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 28, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From Amahai take angkot (Rp 15,000) or ojek (Rp 25,000) to Binaiya Station.", 
+        "line": 29, 
+        "range": [
+            1159, 
+            1233
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1172, 
+                    1178
+                ], 
+                "name": "Amahai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1184, 
+                    1190
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1206, 
+                    1210
+                ], 
+                "name": "ojek"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 30, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Try to ask around to find car to Saleman or Sawai.", 
+        "line": 31, 
+        "range": [
+            1235, 
+            1284
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1270, 
+                    1273
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1277, 
+                    1284
+                ], 
+                "name": "Saleman"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 32, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you want to go directly to Ora Beach then take car to Saleman (Rp 75,000-100,000) around 2.5 hours.", 
+        "line": 33, 
+        "range": [
+            1286, 
+            1387
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1288, 
+                    1293
+                ], 
+                "name": "Sawai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1326, 
+                    1335
+                ], 
+                "name": "Ora Beach"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1346, 
+                    1349
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1353, 
+                    1360
+                ], 
+                "name": "Saleman"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 34, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From Saleman take fisherman boat around 10 minutes (Rp 50,000/person), speedboat cost Rp 250,000/boat/way to Ora Beach.", 
+        "line": 35, 
+        "range": [
+            1389, 
+            1507
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1405, 
+                    1412
+                ], 
+                "name": "Saleman"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1418, 
+                    1432
+                ], 
+                "name": "fisherman boat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1471, 
+                    1480
+                ], 
+                "name": "speedboat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 36, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Same thing if you want to go to Sawai first, 3.5 hours long by car (Rp 100,000).", 
+        "line": 37, 
+        "range": [
+            1509, 
+            1588
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1509, 
+                    1518
+                ], 
+                "name": "Ora Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1553, 
+                    1558
+                ], 
+                "name": "Sawai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1584, 
+                    1587
+                ], 
+                "name": "car"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 38, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From Sawai to Ora Beach take fisherman boat (Rp 50,000/person or Rp 100,000/boat).", 
+        "line": 39, 
+        "range": [
+            1590, 
+            1671
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1608, 
+                    1613
+                ], 
+                "name": "Sawai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1617, 
+                    1626
+                ], 
+                "name": "Ora Beach"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1632, 
+                    1646
+                ], 
+                "name": "fisherman boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 40, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Getting to Ora Beach is as much challenging as getting to Togean Islands in Central Sulawesi as well.", 
+        "line": 41, 
+        "range": [
+            1673, 
+            1773
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1698, 
+                    1707
+                ], 
+                "name": "Ora Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1745, 
+                    1759
+                ], 
+                "name": "Togean Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 42, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Another beautiful island that shouldn\u2019t be missed if you\u2019re planned to travel to Indonesia", 
+        "line": 43, 
+        "range": [
+            1775, 
+            1868
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1808, 
+                    1814
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 44, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Where to Stay in Ora Beach?", 
+        "line": 45, 
+        "range": [
+            1870, 
+            1896
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1871, 
+                    1880
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ora Eco-Resort or Lisar Bahari?", 
+        "line": 47, 
+        "range": [
+            1898, 
+            1928
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1899, 
+                    1908
+                ], 
+                "name": "Ora Beach"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1911, 
+                    1925
+                ], 
+                "name": "Ora Eco-Resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lisar Bahari Pros:", 
+        "line": 49, 
+        "range": [
+            1930, 
+            1947
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Price is cheaper. Room+3x meals : Rp 250,000/person. Room only Rp 200,000/room", 
+        "line": 50, 
+        "range": [
+            1948, 
+            2025
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Delicious food and big size meals.", 
+        "line": 51, 
+        "range": [
+            2026, 
+            2059
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "In a village so you can meet locals, kids, also do trekking.", 
+        "line": 52, 
+        "range": [
+            2060, 
+            2119
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2082, 
+                    2089
+                ], 
+                "name": "village"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lisar Bahari Cons:", 
+        "line": 54, 
+        "range": [
+            2121, 
+            2138
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Corals are not so good", 
+        "line": 55, 
+        "range": [
+            2139, 
+            2160
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2139, 
+                    2151
+                ], 
+                "name": "Lisar Bahari"
+            }
+        ]
+    }, 
+    {
+        "text": "I got an inconvenient experience at that time.", 
+        "line": 56, 
+        "range": [
+            2161, 
+            2206
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Upon my arrival, I asked about the room price. Pak Ali, the owner told me Rp 250,000. He told me to choose any room I wanted. I thought it\u2019s per room price. When I checked out and paid, he told me the price is Rp 250,000/person because I took more expensive room and food. I\u2019m pretty upset about this thing because he didn\u2019t say clearly about the price per room or per person. So next time make sure you ask which room costs Rp 200,000/room and which room costs Rp 250,000/person.", 
+        "line": 57, 
+        "range": [
+            2207, 
+            2692
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 58, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ora-Eco Resort Pros:", 
+        "line": 59, 
+        "range": [
+            2694, 
+            2713
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Beautiful secluded resort, surrounded with amazing nature and also tranquility.", 
+        "line": 60, 
+        "range": [
+            2714, 
+            2792
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2750, 
+                    2756
+                ], 
+                "name": "resort"
+            }
+        ]
+    }, 
+    {
+        "text": "Well taken-cared corals.", 
+        "line": 61, 
+        "range": [
+            2793, 
+            2816
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 62, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ora Eco Resort Cons:", 
+        "line": 63, 
+        "range": [
+            2818, 
+            2837
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Pricey.", 
+        "line": 64, 
+        "range": [
+            2838, 
+            2844
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Especially the food price which costs Rp 250,000/person (3x meals, 2x coffee break) the food is limited, one of the guest didn\u2019t get a plate. Nobody was assigned to look after the dining hall so when the guest needed something, non of the resort employees were there.", 
+        "line": 65, 
+        "range": [
+            2845, 
+            3113
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3046, 
+                    3057
+                ], 
+                "name": "dining hall"
+            }
+        ]
+    }, 
+    {
+        "text": "Not so warm employees and not so good in service.", 
+        "line": 66, 
+        "range": [
+            3114, 
+            3162
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Room facility is not maintained well.", 
+        "line": 67, 
+        "range": [
+            3163, 
+            3199
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "No lock at my toilet door, fan\u2019s not working well, broken shower.  They should have maintained and fixed the broken things. Room price is Rp 400,000 (land) Rp 500,000 (stilted house on land) and Rp 700,000 (sea ville).", 
+        "line": 68, 
+        "range": [
+            3200, 
+            3419
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3390, 
+                    3411
+                ], 
+                "name": "stilted house on land"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Activities to Do in Ora Beach", 
+        "line": 70, 
+        "range": [
+            3421, 
+            3449
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3429, 
+                    3438
+                ], 
+                "name": "sea ville"
+            }
+        ]
+    }, 
+    {
+        "text": "Snorkeling around limestone hills, snorkeling to Tujuh Island. Boat to go there about Rp 1,000,000 for a day trip. Can fit to 10 people.", 
+        "line": 71, 
+        "range": [
+            3450, 
+            3585
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3462, 
+                    3471
+                ], 
+                "name": "Ora Beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3490, 
+                    3505
+                ], 
+                "name": "limestone hills"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3521, 
+                    3533
+                ], 
+                "name": "Tujuh Island"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3535, 
+                    3539
+                ], 
+                "name": "Boat"
+            }
+        ]
+    }, 
+    {
+        "text": "Bird-watching and trekking in the conservation area.", 
+        "line": 72, 
+        "range": [
+            3586, 
+            3637
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Watching bats flying out during sunset time.", 
+        "line": 73, 
+        "range": [
+            3638, 
+            3681
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3643, 
+                    3660
+                ], 
+                "name": "conservation area"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 74, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ora Beach Resort", 
+        "line": 75, 
+        "range": [
+            3683, 
+            3698
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 76, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My Experience Traveling to Ora Beach", 
+        "line": 77, 
+        "range": [
+            3700, 
+            3735
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3708, 
+                    3724
+                ], 
+                "name": "Ora Beach Resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 78, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I really wanted to go to Ora Beach for a long time.", 
+        "line": 79, 
+        "range": [
+            3737, 
+            3787
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3753, 
+                    3762
+                ], 
+                "name": "Ora Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 80, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The reason is the exotic landscape I\u2019ve seen in google.", 
+        "line": 81, 
+        "range": [
+            3789, 
+            3845
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3789, 
+                    3798
+                ], 
+                "name": "Ora Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 82, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I went to Amahai first and stay for a night hoping to get early car to Sawai.", 
+        "line": 83, 
+        "range": [
+            3847, 
+            3923
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3884, 
+                    3890
+                ], 
+                "name": "Amahai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The difficulty in reaching Ora Beach is no public transportation with exact schedule.", 
+        "line": 85, 
+        "range": [
+            3925, 
+            4009
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3938, 
+                    3941
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3945, 
+                    3950
+                ], 
+                "name": "Sawai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3980, 
+                    3989
+                ], 
+                "name": "Ora Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The driver will wait until the car is fully seated then depart. I got my car departed on 12 a.m. and reached Sawai on 4 p.m.", 
+        "line": 87, 
+        "range": [
+            4011, 
+            4134
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4071, 
+                    4074
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4113, 
+                    4116
+                ], 
+                "name": "car"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 88, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Along the way I saw forest around me.", 
+        "line": 89, 
+        "range": [
+            4136, 
+            4172
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4149, 
+                    4154
+                ], 
+                "name": "Sawai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 90, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was glad that most of Seram Island is still covered by rain forest.", 
+        "line": 91, 
+        "range": [
+            4174, 
+            4242
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4186, 
+                    4192
+                ], 
+                "name": "forest"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4229, 
+                    4241
+                ], 
+                "name": "Seram Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 92, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The status of national park, named Manusela, has protected the territory.", 
+        "line": 93, 
+        "range": [
+            4244, 
+            4316
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4262, 
+                    4273
+                ], 
+                "name": "rain forest"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4290, 
+                    4303
+                ], 
+                "name": "national park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 94, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019re a mountain lovers, try to reach the summit of Mount Binaiya (3,027 meters about sea level).", 
+        "line": 95, 
+        "range": [
+            4318, 
+            4420
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4339, 
+                    4348
+                ], 
+                "name": "territory"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4363, 
+                    4371
+                ], 
+                "name": "mountain"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4397, 
+                    4403
+                ], 
+                "name": "summit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4407, 
+                    4420
+                ], 
+                "name": "Mount Binaiya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 96, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I chose to stay in Sawai for my first night because it\u2019s cheaper.", 
+        "line": 97, 
+        "range": [
+            4422, 
+            4488
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4473, 
+                    4478
+                ], 
+                "name": "Sawai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 98, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I stayed in Lisar Bahari owned by Pak Ali.", 
+        "line": 99, 
+        "range": [
+            4490, 
+            4531
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 100, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The cottage is above the water, simple with wooden-made stilt house.", 
+        "line": 101, 
+        "range": [
+            4533, 
+            4600
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4533, 
+                    4545
+                ], 
+                "name": "Lisar Bahari"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4569, 
+                    4576
+                ], 
+                "name": "cottage"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 102, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s possible to snorkel in front of the cottage. Coral is okay, visibility not so good at that time.", 
+        "line": 103, 
+        "range": [
+            4602, 
+            4704
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4621, 
+                    4632
+                ], 
+                "name": "stilt house"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4676, 
+                    4683
+                ], 
+                "name": "cottage"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 104, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The second day we moved to Ora Beach Resort.", 
+        "line": 105, 
+        "range": [
+            4706, 
+            4749
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 106, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Took around 20 minutes by fisherman boat down the amazing limestone hills to Ora Beach.", 
+        "line": 107, 
+        "range": [
+            4751, 
+            4837
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4765, 
+                    4781
+                ], 
+                "name": "Ora Beach Resort"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4810, 
+                    4824
+                ], 
+                "name": "fisherman boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 108, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Incredible landscape makes me shiver of God\u2019s creation. You can go for snorkeling along the limestone hills.", 
+        "line": 109, 
+        "range": [
+            4839, 
+            4948
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4842, 
+                    4857
+                ], 
+                "name": "limestone hills"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4861, 
+                    4870
+                ], 
+                "name": "Ora Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 110, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We arrived in Ora Beach and the first thing I saw and amazed was the crystal glassy clear water!", 
+        "line": 111, 
+        "range": [
+            4950, 
+            5045
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4965, 
+                    4980
+                ], 
+                "name": "limestone hills"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4997, 
+                    5006
+                ], 
+                "name": "Ora Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 112, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Corals are everywhere, I think this is one of the clearest water I\u2019ve ever seen in my life.", 
+        "line": 113, 
+        "range": [
+            5047, 
+            5139
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 114, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I couldn\u2019t resist anymore to jump to the water and swim.", 
+        "line": 115, 
+        "range": [
+            5141, 
+            5198
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 116, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The corals are healthy, good visibility, it\u2019s much more better than Sawai.", 
+        "line": 117, 
+        "range": [
+            5200, 
+            5275
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 118, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Small reef fishes everywhere. I didn\u2019t see many big fishes around.", 
+        "line": 119, 
+        "range": [
+            5277, 
+            5344
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5300, 
+                    5305
+                ], 
+                "name": "Sawai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 120, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dominated with hard corals but still, there are some soft corals around.", 
+        "line": 121, 
+        "range": [
+            5346, 
+            5417
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 122, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips in Traveling to Ora Beach", 
+        "line": 123, 
+        "range": [
+            5419, 
+            5448
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 124, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I personally thought it\u2019s better to stay in Ora Eco-Resort although in the cheapest room because the landscape, corals, everything are too good to be true.", 
+        "line": 125, 
+        "range": [
+            5450, 
+            5606
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5471, 
+                    5480
+                ], 
+                "name": "Ora Beach"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5526, 
+                    5540
+                ], 
+                "name": "Ora Eco-Resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 126, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "But the management really need to improve the service or else the unsatisfied customers will stay only one or two nights and they\u2019re gone.", 
+        "line": 127, 
+        "range": [
+            5608, 
+            5747
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 128, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My suggestion is, going to Ora Beach is considered as luxurious travel. Backpacking is not suitable for this place because no hitchhiking available (I rarely see other cars passing through), accommodation is too expensive, at least you need to spent Rp 1,000,000 to come to this place.", 
+        "line": 129, 
+        "range": [
+            5749, 
+            6033
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5806, 
+                    5815
+                ], 
+                "name": "Ora Beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5888, 
+                    5893
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5947, 
+                    5951
+                ], 
+                "name": "cars"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5970, 
+                    5983
+                ], 
+                "name": "accommodation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 130, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I think to reduce the expense, you can stay in villagers house in Saleman, and visit Ora.", 
+        "line": 131, 
+        "range": [
+            6035, 
+            6123
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6058, 
+                    6063
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 132, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "But it\u2019s a waste not to stay in such a beautiful place, so prepared your budget at least Rp 1,000,000 not including the flight.", 
+        "line": 133, 
+        "range": [
+            6125, 
+            6253
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6132, 
+                    6139
+                ], 
+                "name": "Saleman"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6151, 
+                    6154
+                ], 
+                "name": "Ora"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6206, 
+                    6211
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 134, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Travel in minimum 4-6 people so you can rent cars and don\u2019t have to wait for the public cars.", 
+        "line": 135, 
+        "range": [
+            6255, 
+            6349
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6277, 
+                    6283
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6331, 
+                    6335
+                ], 
+                "name": "cars"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 136, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you need a budget pace to stay in Masohi, there\u2019s one cheap hostel in front of Binaiya Station,\u201dRaudatul\u201d price is only Rp 75,000/night. It\u2019s better to book the accommodation in Lisar or Ora Eco-Resort.", 
+        "line": 137, 
+        "range": [
+            6351, 
+            6563
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6367, 
+                    6378
+                ], 
+                "name": "public cars"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6402, 
+                    6414
+                ], 
+                "name": "pace to stay"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6418, 
+                    6424
+                ], 
+                "name": "Masohi"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6444, 
+                    6450
+                ], 
+                "name": "hostel"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6463, 
+                    6478
+                ], 
+                "name": "Binaiya Station"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6480, 
+                    6488
+                ], 
+                "name": "Raudatul"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6545, 
+                    6558
+                ], 
+                "name": "accommodation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 138, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Contact Person for Lisar Bahari is Pak Ali +6282111181137.", 
+        "line": 139, 
+        "range": [
+            6565, 
+            6622
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6571, 
+                    6585
+                ], 
+                "name": "Ora Eco-Resort"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6607, 
+                    6619
+                ], 
+                "name": "Lisar Bahari"
+            }
+        ]
+    }, 
+    {
+        "text": "Contact person for Ora-Eco Resort is Alvin +628111909404.", 
+        "line": 140, 
+        "range": [
+            6623, 
+            6679
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6666, 
+                    6680
+                ], 
+                "name": "Ora-Eco Resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 141, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Call them and they can manage your transportation starting from Masohi.", 
+        "line": 142, 
+        "range": [
+            6681, 
+            6751
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 143, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The corals are pretty shallow so please watch your step and fins. Don\u2019t step the corals, don\u2019t break the corals. Happy traveling.", 
+        "line": 144, 
+        "range": [
+            6753, 
+            6885
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6770, 
+                    6776
+                ], 
+                "name": "Masohi"
+            }
+        ]
+    }
+]

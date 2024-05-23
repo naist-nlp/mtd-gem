@@ -1,0 +1,3135 @@
+[
+    {
+        "text": "August 23, 2023    9 Things To Do In Tana Toraja, Explore The Unique Culture", 
+        "line": 0, 
+        "range": [
+            1, 
+            76
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    37, 
+                    48
+                ], 
+                "name": "Tana Toraja"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tana Toraja is a must-visit tourist spot in South Sulawesi. It\u2019s about an 8-hour drive from Makassar and is known for its unique tribes and traditions.", 
+        "line": 2, 
+        "range": [
+            78, 
+            230
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    78, 
+                    89
+                ], 
+                "name": "Tana Toraja"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    106, 
+                    118
+                ], 
+                "name": "tourist spot"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    122, 
+                    136
+                ], 
+                "name": "South Sulawesi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    170, 
+                    178
+                ], 
+                "name": "Makassar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The special customs and rituals of the Toraja people are famous worldwide.", 
+        "line": 4, 
+        "range": [
+            232, 
+            305
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "People from different places, both locals and foreigners, come to Tana Toraja to see its unique ceremonies and burial sites.", 
+        "line": 6, 
+        "range": [
+            307, 
+            430
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    329, 
+                    335
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    373, 
+                    384
+                ], 
+                "name": "Tana Toraja"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    418, 
+                    430
+                ], 
+                "name": "burial sites"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If a trip to Tana Toraja is on your agenda, make sure to explore this article for insights on transportation, accommodations, and must-visit attractions.", 
+        "line": 8, 
+        "range": [
+            432, 
+            584
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    446, 
+                    457
+                ], 
+                "name": "Tana Toraja"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    527, 
+                    541
+                ], 
+                "name": "transportation"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    543, 
+                    557
+                ], 
+                "name": "accommodations"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    574, 
+                    585
+                ], 
+                "name": "attractions"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A brief about Torajans Culture", 
+        "line": 10, 
+        "range": [
+            586, 
+            615
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The etymology of the term \u201cToraja\u201d finds its roots in the Bugis language, where it translates to \u201cto riaja,\u201d signifying \u201cdwellers of the uplands\u201d.", 
+        "line": 12, 
+        "range": [
+            617, 
+            774
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    757, 
+                    764
+                ], 
+                "name": "uplands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Residing amidst the highlands, this tribe\u2019s existence was deeply intertwined with agrarian pursuits, cultivating crops that sustained their way of life.", 
+        "line": 14, 
+        "range": [
+            776, 
+            929
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    788, 
+                    797
+                ], 
+                "name": "highlands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "In bygone eras, the Toraja community subscribed to an animistic faith known as \u201cAluk Tolodo\u201d, a doctrine encapsulating the ancestral guidelines for existence.", 
+        "line": 16, 
+        "range": [
+            931, 
+            1092
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Not until the 1900s did Christianity make its entrance, carried by Dutch missionaries, gradually transforming the religious landscape.", 
+        "line": 18, 
+        "range": [
+            1094, 
+            1227
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "While the majority of Tana Toraja\u2019s populace now aligns with Christianity, the echoes of their age-old traditions continue to reverberate through their daily activities.", 
+        "line": 20, 
+        "range": [
+            1229, 
+            1399
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1240, 
+                    1251
+                ], 
+                "name": "Tana Toraja"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "As of today, a time-honored ritual known as the Rambu Solo remains an integral part of their cultural fabric, a testament to their enduring connection with ancestral legacies.", 
+        "line": 22, 
+        "range": [
+            1401, 
+            1575
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rambu Solo is a funeral ceremony which aims to honor and deliver the spirits of people who have died to the realm of the spirits, or to return them to the afterlife with their ancestors at a resting place.", 
+        "line": 24, 
+        "range": [
+            1577, 
+            1781
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Getting to Tana Toraja", 
+        "line": 26, 
+        "range": [
+            1783, 
+            1804
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1784, 
+                    1795
+                ], 
+                "name": "Tana Toraja"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Numerous buses operate daily from Makassar to Tana Toraja, with multiple departures from 9 AM to 9 PM.", 
+        "line": 28, 
+        "range": [
+            1806, 
+            1907
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1806, 
+                    1811
+                ], 
+                "name": "buses"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1831, 
+                    1839
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1843, 
+                    1854
+                ], 
+                "name": "Tana Toraja"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The journey spans approximately 8 hours, and the bus fare ranges from Rp 100,000 to Rp 150,000.", 
+        "line": 30, 
+        "range": [
+            1909, 
+            2003
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1950, 
+                    1953
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The buses offer comfortable seating and air conditioning.", 
+        "line": 32, 
+        "range": [
+            2005, 
+            2061
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "You can catch a bus from either the Jl. Perintis Kemerdekaan station or the Daya Station.", 
+        "line": 34, 
+        "range": [
+            2063, 
+            2151
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2073, 
+                    2076
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2093, 
+                    2125
+                ], 
+                "name": "Jl. Perintis Kemerdekaan station"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2133, 
+                    2145
+                ], 
+                "name": "Daya Station"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some bus companies that serve the route from Makasssar to Tana Toraja are:", 
+        "line": 36, 
+        "range": [
+            2153, 
+            2226
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2153, 
+                    2156
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2182, 
+                    2187
+                ], 
+                "name": "route"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2193, 
+                    2202
+                ], 
+                "name": "Makasssar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2206, 
+                    2217
+                ], 
+                "name": "Tana Toraja"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bus Metro Permai, telephone number: 0411-582734 / 0411-584015", 
+        "line": 38, 
+        "range": [
+            2228, 
+            2288
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Bus Charisma Transport, telephone number:  0411-580808", 
+        "line": 39, 
+        "range": [
+            2289, 
+            2342
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Bus Bintang Prima, telephone number: 0411-4772888", 
+        "line": 40, 
+        "range": [
+            2343, 
+            2391
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Where to stay in Tana Toraja", 
+        "line": 42, 
+        "range": [
+            2393, 
+            2420
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2409, 
+                    2420
+                ], 
+                "name": "Tana Toraja"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Serving as the capital of North Toraja Regency, Rantepao stands as the pivotal starting point for both travelers and tourists.", 
+        "line": 44, 
+        "range": [
+            2422, 
+            2547
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2437, 
+                    2468
+                ], 
+                "name": "capital of North Toraja Regency"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2470, 
+                    2478
+                ], 
+                "name": "Rantepao"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2501, 
+                    2515
+                ], 
+                "name": "starting point"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "In Rantepao, you\u2019ll find affordable lodgings, options for motorbike and car rentals, diverse culinary offerings, and access to essential tourist information.", 
+        "line": 46, 
+        "range": [
+            2549, 
+            2707
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2553, 
+                    2561
+                ], 
+                "name": "Rantepao"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2586, 
+                    2594
+                ], 
+                "name": "lodgings"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2608, 
+                    2617
+                ], 
+                "name": "motorbike"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2622, 
+                    2625
+                ], 
+                "name": "car"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Commonly, buses from Makassar will also make a stop in Rantepao.", 
+        "line": 48, 
+        "range": [
+            2709, 
+            2772
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2719, 
+                    2724
+                ], 
+                "name": "buses"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2730, 
+                    2738
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2764, 
+                    2772
+                ], 
+                "name": "Rantepao"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "For your stay in Tana Toraja, consider exploring these accommodation choices:", 
+        "line": 50, 
+        "range": [
+            2774, 
+            2850
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2792, 
+                    2803
+                ], 
+                "name": "Tana Toraja"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2830, 
+                    2843
+                ], 
+                "name": "accommodation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "ManuBackpacker ($10)", 
+        "line": 52, 
+        "range": [
+            2852, 
+            2871
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2854, 
+                    2868
+                ], 
+                "name": "ManuBackpacker"
+            }
+        ]
+    }, 
+    {
+        "text": "Rosalina Homestay ($15)", 
+        "line": 53, 
+        "range": [
+            2872, 
+            2894
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2875, 
+                    2892
+                ], 
+                "name": "Rosalina Homestay"
+            }
+        ]
+    }, 
+    {
+        "text": "Ne Pakku Manja Family Home ($24)", 
+        "line": 54, 
+        "range": [
+            2895, 
+            2926
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2899, 
+                    2925
+                ], 
+                "name": "Ne Pakku Manja Family Home"
+            }
+        ]
+    }, 
+    {
+        "text": " ", 
+        "line": 55, 
+        "range": [
+            2927, 
+            2927
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Embarking on my journey to Tana Toraja", 
+        "line": 56, 
+        "range": [
+            2928, 
+            2965
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My adventure began in Makassar, accompanied by a friend. Somewhere around 2 a.m, a car picked us up, and off we went to Enrekang.", 
+        "line": 58, 
+        "range": [
+            2967, 
+            3095
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2996, 
+                    3004
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3057, 
+                    3060
+                ], 
+                "name": "car"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "By 7 a.m, we reached Enrekang. Taking a brief respite, we took the scooter and continued our voyage toward Rantepao.", 
+        "line": 60, 
+        "range": [
+            3097, 
+            3212
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3126, 
+                    3134
+                ], 
+                "name": "Enrekang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3172, 
+                    3179
+                ], 
+                "name": "scooter"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It took us about three hours to travel from Enrekang to Rantepao.", 
+        "line": 62, 
+        "range": [
+            3214, 
+            3278
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3267, 
+                    3275
+                ], 
+                "name": "Enrekang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Along the route, we took pauses to appreciate the captivating view of Buttu Kabobong, affectionately known as Gunung Nona, which carried an astonishing, albeit whimsical, resemblance to certain human anatomy.", 
+        "line": 64, 
+        "range": [
+            3280, 
+            3487
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3300, 
+                    3305
+                ], 
+                "name": "route"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3360, 
+                    3374
+                ], 
+                "name": "Buttu Kabobong"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3400, 
+                    3411
+                ], 
+                "name": "Gunung Nona"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Locals humorously likened this mountain to a \u201cvagina.\u201d It was amusing how people could perceive things that way, but honestly, it was quite accurate!", 
+        "line": 66, 
+        "range": [
+            3489, 
+            3641
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3531, 
+                    3539
+                ], 
+                "name": "mountain"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There were numerous food stalls en route, and we found solace at Bambapuang Villa by the roadside.", 
+        "line": 68, 
+        "range": [
+            3643, 
+            3740
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3671, 
+                    3682
+                ], 
+                "name": "food stalls"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3716, 
+                    3732
+                ], 
+                "name": "Bambapuang Villa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was the perfect spot to rejuvenate, sip coffee, and feel the wind tousling my hair.", 
+        "line": 70, 
+        "range": [
+            3742, 
+            3827
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3770, 
+                    3774
+                ], 
+                "name": "spot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The journey to Tana Toraja was a delight, surrounded by breathtaking landscapes.", 
+        "line": 72, 
+        "range": [
+            3829, 
+            3908
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3854, 
+                    3865
+                ], 
+                "name": "Tana Toraja"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The lush green hills seemed to proudly beckon, whispering \u201clook at me.\u201d", 
+        "line": 74, 
+        "range": [
+            3910, 
+            3984
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3936, 
+                    3941
+                ], 
+                "name": "hills"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I couldn\u2019t tear my eyes away; the beauty was simply overwhelming.", 
+        "line": 76, 
+        "range": [
+            3986, 
+            4052
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After another half-hour of riding, the gateway to Tana Toraja came into view, bearing a distinctive Tongkonan shape\u2014a nod to the traditional houses of the Torajan people, characterized by their saddleback roofs.", 
+        "line": 78, 
+        "range": [
+            4054, 
+            4266
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4100, 
+                    4107
+                ], 
+                "name": "gateway"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4111, 
+                    4122
+                ], 
+                "name": "Tana Toraja"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4190, 
+                    4208
+                ], 
+                "name": "traditional houses"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We passed through Makale, the southern part of Tana Toraja, and spotted an imposing statue in the center of a pond\u2014the Pongtiku Statue.", 
+        "line": 80, 
+        "range": [
+            4268, 
+            4404
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4292, 
+                    4298
+                ], 
+                "name": "Makale"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4321, 
+                    4332
+                ], 
+                "name": "Tana Toraja"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4358, 
+                    4364
+                ], 
+                "name": "statue"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4384, 
+                    4388
+                ], 
+                "name": "pond"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pongtiku was an Indonesian hero who played a pivotal role in resisting Dutch colonialism in the past.", 
+        "line": 82, 
+        "range": [
+            4406, 
+            4506
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Unfortunately, luck wasn\u2019t on our side. Heavy rain greeted us upon reaching Makale, and it persisted on our journey to Rantepao.", 
+        "line": 84, 
+        "range": [
+            4508, 
+            4637
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4590, 
+                    4596
+                ], 
+                "name": "Makale"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "In my stubbornness, I believed the rain would abate soon, and we opted not to buy raincoats.", 
+        "line": 86, 
+        "range": [
+            4639, 
+            4730
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "As a result, we were thoroughly soaked as we made our way to Rantepao.", 
+        "line": 88, 
+        "range": [
+            4732, 
+            4801
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Things to Do in Tana Toraja", 
+        "line": 90, 
+        "range": [
+            4803, 
+            4829
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Here are 9 things you can do during your visit to Tana Toraja", 
+        "line": 92, 
+        "range": [
+            4831, 
+            4891
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Kete Kesu", 
+        "line": 94, 
+        "range": [
+            4893, 
+            4904
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s time to delve into the wonders of Tana Toraja. Navigating to the renowned sites was a breeze, thanks to clear signage.", 
+        "line": 96, 
+        "range": [
+            4906, 
+            5030
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4955, 
+                    4966
+                ], 
+                "name": "Tana Toraja"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4995, 
+                    5000
+                ], 
+                "name": "sites"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Our initial destination was Kete Kesu, a highly popular spot in Tana Toraja.", 
+        "line": 98, 
+        "range": [
+            5032, 
+            5107
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5069, 
+                    5078
+                ], 
+                "name": "Kete Kesu"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5097, 
+                    5101
+                ], 
+                "name": "spot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The meticulously maintained traditional houses truly embodied the essence of Torajan culture.", 
+        "line": 100, 
+        "range": [
+            5109, 
+            5201
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5147, 
+                    5165
+                ], 
+                "name": "traditional houses"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Adorning the walls were buffalo horns elegantly framing a central buffalo head within the Tongkonan.", 
+        "line": 102, 
+        "range": [
+            5203, 
+            5302
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The number of horns present indicated the individual\u2019s social standing or status\u2014the more horns, the higher the class.", 
+        "line": 104, 
+        "range": [
+            5304, 
+            5425
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5304, 
+                    5313
+                ], 
+                "name": "Tongkonan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Among the Tongkonans, a museum could be found, adding to the cultural insight.", 
+        "line": 106, 
+        "range": [
+            5427, 
+            5504
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5446, 
+                    5456
+                ], 
+                "name": "Tongkonans"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5460, 
+                    5466
+                ], 
+                "name": "museum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beyond that, in the backyard, suspended graves graced the scene\u2014a feature unique to Tana Toraja.", 
+        "line": 108, 
+        "range": [
+            5506, 
+            5603
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5536, 
+                    5544
+                ], 
+                "name": "backyard"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5546, 
+                    5562
+                ], 
+                "name": "suspended graves"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "These graves were intricately carved into the walls or substantial stones.", 
+        "line": 110, 
+        "range": [
+            5605, 
+            5678
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5620, 
+                    5626
+                ], 
+                "name": "graves"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Skulls and bones seemed to be strewn about, mingling with coffins and various belongings within caves, alongside dolls that emulated ancestors\u2014a blend of oddity and uniqueness.", 
+        "line": 112, 
+        "range": [
+            5680, 
+            5857
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5786, 
+                    5791
+                ], 
+                "name": "caves"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Entrance fee for local/domestic : Rp 10,000; Entrance fee for international/foreigners Rp 20,000", 
+        "line": 114, 
+        "range": [
+            5859, 
+            5954
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Sa\u2019dan Village", 
+        "line": 116, 
+        "range": [
+            5956, 
+            5974
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sa\u2019dan Village is renowned as the hub of Toraja woven textiles.", 
+        "line": 118, 
+        "range": [
+            5976, 
+            6040
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5985, 
+                    5999
+                ], 
+                "name": "Sa\u2019dan Village"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6019, 
+                    6022
+                ], 
+                "name": "hub"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Here, you can discover the intricate process of crafting woven fabrics, where traditional tools and natural materials are still utilized.", 
+        "line": 120, 
+        "range": [
+            6042, 
+            6178
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The array of woven fabrics is diverse, with some reserved for the Rambu Solo ceremony and others designed for different rituals.", 
+        "line": 122, 
+        "range": [
+            6180, 
+            6307
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Adding to the charm, there\u2019s an ancient tongkonan, standing for over 300 years.", 
+        "line": 124, 
+        "range": [
+            6309, 
+            6389
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6359, 
+                    6368
+                ], 
+                "name": "tongkonan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My curiosity about the captivating Toraja culture and traditions keeps growing.", 
+        "line": 126, 
+        "range": [
+            6391, 
+            6469
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Entrance fee for local/domestic : Rp 10,000; Entrance fee for international/foreigners Rp 20,000", 
+        "line": 128, 
+        "range": [
+            6471, 
+            6566
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Batutumonga", 
+        "line": 130, 
+        "range": [
+            6568, 
+            6581
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 131, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The path we traversed grew more winding and uphill as we approached the Batutumonga area.", 
+        "line": 132, 
+        "range": [
+            6583, 
+            6671
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6599, 
+                    6603
+                ], 
+                "name": "path"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 133, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "This tourist spot in Tana Toraja is situated approximately 24 km from Rantepao.", 
+        "line": 134, 
+        "range": [
+            6673, 
+            6751
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6691, 
+                    6703
+                ], 
+                "name": "tourist spot"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6707, 
+                    6718
+                ], 
+                "name": "Tana Toraja"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 135, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The expanse of lush green rice terraces on the mountain slopes is a refreshing sight for anyone who gazes upon it.", 
+        "line": 136, 
+        "range": [
+            6753, 
+            6866
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6756, 
+                    6764
+                ], 
+                "name": "Rantepao"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6793, 
+                    6806
+                ], 
+                "name": "rice terraces"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6814, 
+                    6829
+                ], 
+                "name": "mountain slopes"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 137, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "At an elevation of 1,225 meters above sea level, you can pause for a moment at the Tinimbayo coffee shop to capture this view with photographs.", 
+        "line": 138, 
+        "range": [
+            6868, 
+            7010
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6966, 
+                    6987
+                ], 
+                "name": "Tinimbayo coffee shop"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 139, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Loko Mata", 
+        "line": 140, 
+        "range": [
+            7012, 
+            7023
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 141, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Continuing within the Batutumonga region, we encounter a distinctive Toraja burial site called Loko Mata, distinguished by its rock-carved nature.", 
+        "line": 142, 
+        "range": [
+            7025, 
+            7170
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7031, 
+                    7040
+                ], 
+                "name": "Loko Mata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7064, 
+                    7075
+                ], 
+                "name": "Batutumonga"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7118, 
+                    7129
+                ], 
+                "name": "burial site"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7137, 
+                    7146
+                ], 
+                "name": "Loko Mata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 143, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The rock wall features variously sized holes and caves.", 
+        "line": 144, 
+        "range": [
+            7172, 
+            7226
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7194, 
+                    7203
+                ], 
+                "name": "rock wall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 145, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Within each of these caves rest several preserved bodies with familial connections.", 
+        "line": 146, 
+        "range": [
+            7228, 
+            7310
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7229, 
+                    7234
+                ], 
+                "name": "holes"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7239, 
+                    7244
+                ], 
+                "name": "caves"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7268, 
+                    7273
+                ], 
+                "name": "caves"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 147, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Inside the cave, you\u2019ll find several figurines and small tongkonan structures as well.", 
+        "line": 148, 
+        "range": [
+            7312, 
+            7399
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7343, 
+                    7347
+                ], 
+                "name": "cave"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 149, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Bori Parinding", 
+        "line": 150, 
+        "range": [
+            7401, 
+            7417
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 151, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Finally the cold night had passed. Another beautiful shiny day to explore Tana Toraja.", 
+        "line": 152, 
+        "range": [
+            7419, 
+            7504
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7423, 
+                    7437
+                ], 
+                "name": "Bori Parinding"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 153, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We drove our motorbike to some unexplored sites.", 
+        "line": 154, 
+        "range": [
+            7506, 
+            7553
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7513, 
+                    7524
+                ], 
+                "name": "Tana Toraja"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7540, 
+                    7549
+                ], 
+                "name": "motorbike"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 155, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "First destination was Bori Parinding, a burial and ceremony site.", 
+        "line": 156, 
+        "range": [
+            7555, 
+            7619
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7569, 
+                    7574
+                ], 
+                "name": "sites"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7599, 
+                    7613
+                ], 
+                "name": "Bori Parinding"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 157, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hundreds of megalith stone stand representing a feast of merit performed in the past by a person with high status.", 
+        "line": 158, 
+        "range": [
+            7621, 
+            7734
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 159, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Two grandmothers were looking after the place.", 
+        "line": 160, 
+        "range": [
+            7736, 
+            7781
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 161, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "They were humble and nice. Talk to them and you can get information about this place. There are some Tongkongans, burial site at the back, and also baby grave.", 
+        "line": 162, 
+        "range": [
+            7783, 
+            7941
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7800, 
+                    7805
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7887, 
+                    7892
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7909, 
+                    7920
+                ], 
+                "name": "Tongkongans"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7922, 
+                    7933
+                ], 
+                "name": "burial site"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 163, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The unique thing about baby grave is the body was buried inside the tree.", 
+        "line": 164, 
+        "range": [
+            7943, 
+            8015
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7956, 
+                    7966
+                ], 
+                "name": "baby grave"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7992, 
+                    8002
+                ], 
+                "name": "baby grave"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 165, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A popular site for baby grave is in Kambira.", 
+        "line": 166, 
+        "range": [
+            8017, 
+            8060
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8054, 
+                    8058
+                ], 
+                "name": "site"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 167, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pete-pete (public transportation) passes this area, so you can get here by taking pete-pete to Bori and ask the driver to stop you here.", 
+        "line": 168, 
+        "range": [
+            8062, 
+            8197
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8063, 
+                    8073
+                ], 
+                "name": "baby grave"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8080, 
+                    8087
+                ], 
+                "name": "Kambira"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8090, 
+                    8099
+                ], 
+                "name": "Pete-pete"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8136, 
+                    8140
+                ], 
+                "name": "area"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8172, 
+                    8181
+                ], 
+                "name": "pete-pete"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8185, 
+                    8189
+                ], 
+                "name": "Bori"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 169, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beautiful view of rice field and Mount Sesean won\u2019t make your journey boring.", 
+        "line": 170, 
+        "range": [
+            8199, 
+            8277
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8246, 
+                    8256
+                ], 
+                "name": "rice field"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8261, 
+                    8273
+                ], 
+                "name": "Mount Sesean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 171, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Entrence fee is Rp 10,000 for domestic and Rp 20,000 for international tourists.", 
+        "line": 172, 
+        "range": [
+            8279, 
+            8358
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 173, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "6. Londa", 
+        "line": 174, 
+        "range": [
+            8360, 
+            8367
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 175, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Londa, a famous burial site located 5 km south from Rantepao.", 
+        "line": 176, 
+        "range": [
+            8369, 
+            8429
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8392, 
+                    8397
+                ], 
+                "name": "Londa"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8399, 
+                    8404
+                ], 
+                "name": "Londa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8415, 
+                    8426
+                ], 
+                "name": "burial site"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 177, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The imposing rock face serves as the burial site, with distinctive chambers carved into the wall for individuals of the highest stature.", 
+        "line": 178, 
+        "range": [
+            8431, 
+            8566
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8451, 
+                    8459
+                ], 
+                "name": "Rantepao"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8499, 
+                    8510
+                ], 
+                "name": "burial site"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 179, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Meanwhile, the caverns house coffins of the common folk.", 
+        "line": 180, 
+        "range": [
+            8568, 
+            8623
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8615, 
+                    8622
+                ], 
+                "name": "caverns"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 181, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The presence of skulls and bones creates an eerie atmosphere.", 
+        "line": 182, 
+        "range": [
+            8625, 
+            8685
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 183, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Stepping into the dimly lit cave, surrounded by coffins and skulls, was an unforgettable experience.", 
+        "line": 184, 
+        "range": [
+            8687, 
+            8786
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8749, 
+                    8753
+                ], 
+                "name": "cave"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 185, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I couldn\u2019t help but imagine what if one of those coffins were to shift, and a vampire decided to give chase, haha!", 
+        "line": 186, 
+        "range": [
+            8788, 
+            8903
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 187, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Entrance fee again Rp 10,000 for domestic Rp 20,000 for international visitors.", 
+        "line": 188, 
+        "range": [
+            8905, 
+            8983
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 189, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Make sure you bring your lights or consider to get the a guide with a lamp to navigate the cave\u2019s pathways.", 
+        "line": 190, 
+        "range": [
+            8985, 
+            9093
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 191, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "7. Lemo", 
+        "line": 192, 
+        "range": [
+            9095, 
+            9101
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 193, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Our last destination was Lemo.", 
+        "line": 194, 
+        "range": [
+            9103, 
+            9132
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    9111, 
+                    9126
+                ], 
+                "name": "cave\u2019s pathways"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 195, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Like Londa, it\u2019s a site of cliff burials, but with a twist: the coffins are not stored within the caves.", 
+        "line": 196, 
+        "range": [
+            9134, 
+            9239
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9163, 
+                    9167
+                ], 
+                "name": "Lemo"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9175, 
+                    9180
+                ], 
+                "name": "Londa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9189, 
+                    9210
+                ], 
+                "name": "site of cliff burials"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 197, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I found this place quite appealing, tts uniqueness sets it apart.", 
+        "line": 198, 
+        "range": [
+            9241, 
+            9305
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9268, 
+                    9273
+                ], 
+                "name": "caves"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9289, 
+                    9294
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 199, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s fascinating how cultures can be so markedly diverse from one another, even within the same country \u2013 Indonesia.", 
+        "line": 200, 
+        "range": [
+            9307, 
+            9426
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 201, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Entrence fee is Rp 10,000 for domestic and Rp 20,000 for international tourists.", 
+        "line": 202, 
+        "range": [
+            9428, 
+            9507
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9439, 
+                    9446
+                ], 
+                "name": "country"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9449, 
+                    9458
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 203, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "8. Pasar Bolu", 
+        "line": 204, 
+        "range": [
+            9509, 
+            9521
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 205, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "At first glance, Bolu Market appears to be your average market.", 
+        "line": 206, 
+        "range": [
+            9523, 
+            9585
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9546, 
+                    9556
+                ], 
+                "name": "Pasar Bolu"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9575, 
+                    9586
+                ], 
+                "name": "Bolu Market"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 207, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ordinary on weekdays, but it transforms on Sundays when the vibrant buffalo trading activity takes place.", 
+        "line": 208, 
+        "range": [
+            9587, 
+            9691
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9614, 
+                    9620
+                ], 
+                "name": "market"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 209, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "In Tana Toraja, buffalo hold immense significance.", 
+        "line": 210, 
+        "range": [
+            9693, 
+            9742
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 211, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s believed that these creatures guide the departed spirit to Puya, the realm of the spirits.", 
+        "line": 212, 
+        "range": [
+            9744, 
+            9840
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 213, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The greater the number of buffalo, the swifter the spirit\u2019s journey to Puya.", 
+        "line": 214, 
+        "range": [
+            9842, 
+            9919
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 215, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "During the Rambu Solo ceremony, buffalo are sacrificed with a single, ceremonial swing of the Golok, a traditional razor.", 
+        "line": 216, 
+        "range": [
+            9921, 
+            10041
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 217, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Buffalo prices vary based on factors like age and breed. Striped buffalo command a higher price compared to black or brown ones.", 
+        "line": 218, 
+        "range": [
+            10043, 
+            10170
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 219, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A small black buffalo might cost around $500, while a larger one could be priced at $1500.", 
+        "line": 220, 
+        "range": [
+            10172, 
+            10261
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 221, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The renowned striped variety, known as Tedong Bonga, ranges from $2000 to $5000.", 
+        "line": 222, 
+        "range": [
+            10263, 
+            10342
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 223, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "As for the rare albino buffalo, its value equals that of a car.", 
+        "line": 224, 
+        "range": [
+            10344, 
+            10406
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 225, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "9. Rambu Solo", 
+        "line": 226, 
+        "range": [
+            10408, 
+            10420
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 227, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "One of the eagerly anticipated traditions for visitors in Toraja is the Rambu Solo. Torajans pay profound respect to the departed during this event.", 
+        "line": 228, 
+        "range": [
+            10422, 
+            10569
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10522, 
+                    10528
+                ], 
+                "name": "Toraja"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 229, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The cost of these funerals is notably high, leading to a practice where the body is preserved for months or even years until enough funds are gathered and all family members can partake in the ceremony.", 
+        "line": 230, 
+        "range": [
+            10571, 
+            10772
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 231, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The peak period for Rambu Solo falls between July and August. However, you can encounter Rambu Solo on regular days as well, as it\u2019s a somewhat common occurrence in Toraja.", 
+        "line": 232, 
+        "range": [
+            10774, 
+            10947
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 233, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "To learn more about Rambu Solo, feel free to ask the locals and gather information from them.", 
+        "line": 234, 
+        "range": [
+            10949, 
+            11041
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10983, 
+                    10989
+                ], 
+                "name": "Toraja"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 235, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips to visit Tana Toraja", 
+        "line": 236, 
+        "range": [
+            11043, 
+            11067
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 237, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "For a more fulfilling exploration of Tana Toraja\u2019s attractions, consider renting a car or a motorcycle. Renting a car with a driver typically costs around IDR 500,000 per day. If you opt for a motorbike, the rental price is about IDR 70,000 per day, while renting a motorcycle taxi falls within the range of IDR 120,000.", 
+        "line": 238, 
+        "range": [
+            11069, 
+            11390
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11101, 
+                    11112
+                ], 
+                "name": "Tana Toraja"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11151, 
+                    11176
+                ], 
+                "name": "Tana Toraja\u2019s attractions"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11197, 
+                    11200
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11206, 
+                    11216
+                ], 
+                "name": "motorcycle"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11228, 
+                    11231
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11307, 
+                    11316
+                ], 
+                "name": "motorbike"
+            }
+        ]
+    }, 
+    {
+        "text": "Beforehand, inquire with a local or guide about any ongoing Rambu Solo ceremonies to fully experience this unique tradition.", 
+        "line": 239, 
+        "range": [
+            11391, 
+            11514
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Take care of your belongings when taking the night bus from Makassar to Tana Toraja.", 
+        "line": 240, 
+        "range": [
+            11515, 
+            11598
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "If a visit to Makassar is also on your itinerary, be sure to check out my guide to visit Makassar. Additionally, consider exploring Bira Beach, nestled in the southern part of Makassar City.", 
+        "line": 241, 
+        "range": [
+            11599, 
+            11788
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11605, 
+                    11614
+                ], 
+                "name": "night bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11620, 
+                    11628
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11632, 
+                    11643
+                ], 
+                "name": "Tana Toraja"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11659, 
+                    11667
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11734, 
+                    11742
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11777, 
+                    11787
+                ], 
+                "name": "Bira Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 242, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "That concludes my tale of exploring Tana Toraja\u2019s attractions and immersing myself in the Toraja people\u2019s distinctive customs.", 
+        "line": 243, 
+        "range": [
+            11790, 
+            11919
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11821, 
+                    11834
+                ], 
+                "name": "Makassar City"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11873, 
+                    11898
+                ], 
+                "name": "Tana Toraja\u2019s attractions"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 244, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019re around, why not visit Togean Islands as well?", 
+        "line": 245, 
+        "range": [
+            11921, 
+            11977
+        ], 
+        "entities": []
+    }
+]

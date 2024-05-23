@@ -1,0 +1,909 @@
+[
+    {
+        "text": "December 10, 2020    Tasmania In A Glance", 
+        "line": 0, 
+        "range": [
+            1, 
+            41
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    21, 
+                    29
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I knew that Tasmania would quench my desire after a long pause traveling-mode that I\u2019ve been craving for, certainly not a disappointment. There\u2019s a sense of pureness, adventure, and laid-back feeling that lured me to love this part of Australia. The only thing that I couldn\u2019t adjust myself to was the cold, which is understandable as it\u2019s close enough to Antarctic Circle. Do you know with forty percent of the island protected in parks and reserves, Tasmania is one of the cleanest places on Earth? Here are my favorite places in Tasmania:", 
+        "line": 2, 
+        "range": [
+            43, 
+            591
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    55, 
+                    63
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    270, 
+                    274
+                ], 
+                "name": "part"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    278, 
+                    287
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    399, 
+                    415
+                ], 
+                "name": "Antarctic Circle"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    455, 
+                    461
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    475, 
+                    480
+                ], 
+                "name": "parks"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    485, 
+                    493
+                ], 
+                "name": "reserves"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    495, 
+                    503
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    527, 
+                    533
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    575, 
+                    583
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Hobart", 
+        "line": 4, 
+        "range": [
+            593, 
+            601
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "First landed in Hobart, I had this weird feeling on how silent the city was. Being used to the fast-paced life in Sydney, the crowd, and the tall buildings, I need to wake myself and adapt. It was Sunday when I arrived. The shops were all closed, I barely could see people on the street. Until the next day, I found the city was more active. There are plenty things to do in Hobart from the eccentric MONA up to Mount Wellington. I love the chic setting of Salamanca Place along with the port creating the old romantic feel, especially for dining. I had to skip Salamanca Market which only took place on Saturday, you shouldn\u2019t!", 
+        "line": 6, 
+        "range": [
+            603, 
+            1232
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    613, 
+                    619
+                ], 
+                "name": "Hobart"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    664, 
+                    668
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    711, 
+                    717
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    743, 
+                    752
+                ], 
+                "name": "buildings"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    821, 
+                    826
+                ], 
+                "name": "shops"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    877, 
+                    883
+                ], 
+                "name": "street"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    917, 
+                    921
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    972, 
+                    978
+                ], 
+                "name": "Hobart"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    998, 
+                    1002
+                ], 
+                "name": "MONA"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1009, 
+                    1025
+                ], 
+                "name": "Mount Wellington"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1054, 
+                    1069
+                ], 
+                "name": "Salamanca Place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1085, 
+                    1089
+                ], 
+                "name": "port"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1159, 
+                    1175
+                ], 
+                "name": "Salamanca Market"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Richmond", 
+        "line": 8, 
+        "range": [
+            1234, 
+            1244
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Situated just 20 minutes drive from Hobart, Richmond is a perfect destination for a short day trip.  Livened up with down-earthy style of houses, colorful front yard, and well-preserved historic building, again walking around this area was another fun experience for me. I could fantasize being taken back to Georgian era, enjoying my afternoon tea and sweets.", 
+        "line": 10, 
+        "range": [
+            1246, 
+            1605
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1276, 
+                    1282
+                ], 
+                "name": "Hobart"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1284, 
+                    1292
+                ], 
+                "name": "Richmond"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1306, 
+                    1317
+                ], 
+                "name": "destination"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1378, 
+                    1384
+                ], 
+                "name": "houses"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1401, 
+                    1405
+                ], 
+                "name": "yard"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1426, 
+                    1443
+                ], 
+                "name": "historic building"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1471, 
+                    1475
+                ], 
+                "name": "area"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Freycinet National Park", 
+        "line": 12, 
+        "range": [
+            1607, 
+            1632
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tucked away on east coast, surrounded by azure bays and white sand beaches, Freycinet National Park is undeniably the most-talked destination among beach-lovers. There are many activities you can do including bushwalking and wildlife-watching. Friendly Beach is a great spot to relax with its soft sand and tranquil landscape. Don\u2019t miss Wineglass Bay and the lookout to see the almost perfect curve of the bay, it requires a little bit of exercise, though. Nevertheless, you\u2019ll be spoiled with the spectacular view of the coastline. (P.s. I saw a wild whale here!)", 
+        "line": 14, 
+        "range": [
+            1634, 
+            2202
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1645, 
+                    1655
+                ], 
+                "name": "east coast"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1677, 
+                    1681
+                ], 
+                "name": "bays"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1697, 
+                    1704
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1706, 
+                    1729
+                ], 
+                "name": "Freycinet National Park"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1760, 
+                    1771
+                ], 
+                "name": "destination"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1874, 
+                    1888
+                ], 
+                "name": "Friendly Beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1900, 
+                    1904
+                ], 
+                "name": "spot"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1968, 
+                    1981
+                ], 
+                "name": "Wineglass Bay"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1990, 
+                    1997
+                ], 
+                "name": "lookout"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2037, 
+                    2040
+                ], 
+                "name": "bay"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2153, 
+                    2162
+                ], 
+                "name": "coastline"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Ross", 
+        "line": 16, 
+        "range": [
+            2204, 
+            2210
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2206, 
+                    2210
+                ], 
+                "name": "Ross"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ross is a beautiful example of little town where I wanna spend my whole retirement here. It has great ambiance, the only thing I wanna do in this town is sit and relax. Ross is famous for the original bakery that has been operating in this area for over 100 years. What makes it special is the old-fashioned way of baking in a wood-fired oven. I just couldn\u2019t stop drooling looking at all pastries displayed, pies, tarts, buns, they all looked yummy! Other than that, learn more  about wool in the exhibition center and visit the churches and the bridge.", 
+        "line": 18, 
+        "range": [
+            2212, 
+            2767
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2244, 
+                    2248
+                ], 
+                "name": "town"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2352, 
+                    2356
+                ], 
+                "name": "town"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2375, 
+                    2379
+                ], 
+                "name": "Ross"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2407, 
+                    2413
+                ], 
+                "name": "bakery"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2446, 
+                    2450
+                ], 
+                "name": "area"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2704, 
+                    2721
+                ], 
+                "name": "exhibition center"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2736, 
+                    2744
+                ], 
+                "name": "churches"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2753, 
+                    2759
+                ], 
+                "name": "bridge"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Cradle Mountain", 
+        "line": 20, 
+        "range": [
+            2769, 
+            2786
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The main reason that urged me to come to Tasmania was Cradle Mountain. The craggy snow-capped peaks and the dramatic landscape, no wonder it\u2019s one of Tasmanian\u2019s pride. Who would come to Tasmania without making a stop in Cradle Mountain?", 
+        "line": 22, 
+        "range": [
+            2788, 
+            3028
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2823, 
+                    2831
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2836, 
+                    2851
+                ], 
+                "name": "Cradle Mountain"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2876, 
+                    2881
+                ], 
+                "name": "peaks"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2969, 
+                    2977
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3003, 
+                    3018
+                ], 
+                "name": "Cradle Mountain"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "6. Marrawah", 
+        "line": 24, 
+        "range": [
+            3030, 
+            3040
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I never heard about Marrawah until my travel mate brought it up. Located on the north west coast of Tasmania, the infamous town offers outstanding wave for surfers to tackle. This rural township is mostly covered with lush farmland, ideal for those who seek for serenity and peace of mind.", 
+        "line": 26, 
+        "range": [
+            3042, 
+            3330
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3054, 
+                    3062
+                ], 
+                "name": "Marrawah"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3114, 
+                    3130
+                ], 
+                "name": "north west coast"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3134, 
+                    3142
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3157, 
+                    3161
+                ], 
+                "name": "town"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3220, 
+                    3228
+                ], 
+                "name": "township"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3257, 
+                    3265
+                ], 
+                "name": "farmland"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Notes:", 
+        "line": 28, 
+        "range": [
+            3332, 
+            3337
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Regular flights are operating from Sydney, Melbourne, and Brisbane. Flying to Hobart or Launceston is a wise start. I flew from Sydney-Hobart with Jetstar ($70) and flew out from Launceston-Melbourne ($45). Alternatively, you can travel with ferries from Melbourne-Devonport. The best way to get around is by renting a car, otherwise, you can travel with state bus, Tassielink, still it\u2019s not as convenient as renting a car. In my opinion, a week is long enough to see the Tasmania, unless you wanna do longer hike that can consume up to three days.", 
+        "line": 30, 
+        "range": [
+            3339, 
+            3889
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3341, 
+                    3348
+                ], 
+                "name": "flights"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3368, 
+                    3374
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3376, 
+                    3385
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3391, 
+                    3399
+                ], 
+                "name": "Brisbane"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3411, 
+                    3417
+                ], 
+                "name": "Hobart"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3421, 
+                    3431
+                ], 
+                "name": "Launceston"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3461, 
+                    3467
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3468, 
+                    3474
+                ], 
+                "name": "Hobart"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    3480, 
+                    3487
+                ], 
+                "name": "Jetstar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3512, 
+                    3522
+                ], 
+                "name": "Launceston"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3523, 
+                    3532
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3575, 
+                    3582
+                ], 
+                "name": "ferries"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3588, 
+                    3597
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3598, 
+                    3607
+                ], 
+                "name": "Devonport"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3652, 
+                    3655
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3688, 
+                    3697
+                ], 
+                "name": "state bus"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    3699, 
+                    3709
+                ], 
+                "name": "Tassielink"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3753, 
+                    3756
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3806, 
+                    3814
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 02-10 October 2016", 
+        "line": 32, 
+        "range": [
+            3891, 
+            3920
+        ], 
+        "entities": []
+    }
+]

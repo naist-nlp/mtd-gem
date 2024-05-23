@@ -1,0 +1,1266 @@
+[
+    {
+        "text": "February 17, 2020    Traveling In Vietnam: From Ho Chi Minh To Hanoi", 
+        "line": 0, 
+        "range": [
+            1, 
+            68
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    34, 
+                    41
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    48, 
+                    59
+                ], 
+                "name": "Ho Chi Minh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    63, 
+                    68
+                ], 
+                "name": "Hanoi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I can still remember how terrible the scooters driver in Vietnam. With only a small \u201cunsafe\u201d helmet, they have no care about the safety driving rules. That\u2019s what makes Vietnam special and memorable, not forget to mention the food! I did two weeks backpacking in Vietnam from South to North, which I realized it\u2019s too short and too tiring.", 
+        "line": 2, 
+        "range": [
+            70, 
+            416
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    127, 
+                    134
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    239, 
+                    246
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    333, 
+                    340
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I did all my travel by overnight crazy buses. Actually the sleeper bus is a new thing for me and I like it because I can stretch my body however either the bad road condition or the crazy bus driver, it sometimes woke me up in the middle of the night. Check out my route starting from Ho Chi Minh to Hanoi:", 
+        "line": 4, 
+        "range": [
+            418, 
+            723
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    450, 
+                    455
+                ], 
+                "name": "buses"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    470, 
+                    481
+                ], 
+                "name": "sleeper bus"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    571, 
+                    575
+                ], 
+                "name": "road"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    676, 
+                    681
+                ], 
+                "name": "route"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    696, 
+                    707
+                ], 
+                "name": "Ho Chi Minh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    711, 
+                    716
+                ], 
+                "name": "Hanoi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1 \u2013 2: Ho Chi Min/Saigon", 
+        "line": 6, 
+        "range": [
+            725, 
+            754
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    730, 
+                    740
+                ], 
+                "name": "Ho Chi Min"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    741, 
+                    747
+                ], 
+                "name": "Saigon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The most populated city in Vietnam, no wonder how crowded it is. I did a day trip to Cu Chi Tunnel, one of the most interesting thing I visited in Vietnam. Here you can see what happened during the famous Vietnam war, how Vietnamese are so clever and advance in fighting the Americans Army, how this tiny 200 kilometers tunnel worked, really recommended. Make your way to the backpacker district named Pham Ngu Lao Street. Join the locals sitting on the floor and drink. Alcohols are so cheap here in Vietnam!", 
+        "line": 8, 
+        "range": [
+            756, 
+            1264
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    768, 
+                    772
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    776, 
+                    783
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    834, 
+                    847
+                ], 
+                "name": "Cu Chi Tunnel"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    896, 
+                    903
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1069, 
+                    1075
+                ], 
+                "name": "tunnel"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1125, 
+                    1144
+                ], 
+                "name": "backpacker district"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1151, 
+                    1170
+                ], 
+                "name": "Pham Ngu Lao Street"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1250, 
+                    1257
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3 \u2013 5: Dalat", 
+        "line": 10, 
+        "range": [
+            1266, 
+            1283
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1271, 
+                    1276
+                ], 
+                "name": "Dalat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you love outdoor activities, don\u2019t miss this place. Dalat is such a small peaceful city with cool air, and lovely set with the lake in the middle. Rent a motorbike and explore the city in one day.", 
+        "line": 12, 
+        "range": [
+            1285, 
+            1485
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1326, 
+                    1331
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1333, 
+                    1338
+                ], 
+                "name": "Dalat"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1364, 
+                    1368
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1408, 
+                    1412
+                ], 
+                "name": "lake"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1435, 
+                    1444
+                ], 
+                "name": "motorbike"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1461, 
+                    1465
+                ], 
+                "name": "city"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are some waterfalls, famous one called elephant waterfall (too bad I skipped this place). Things you can do is zip lining, motorbike crossing, jungle trail, and many more. I did visit Crazy House, Bao Dai Palace, Flower Garden, and Tiger Waterfall.", 
+        "line": 14, 
+        "range": [
+            1487, 
+            1740
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1494, 
+                    1504
+                ], 
+                "name": "waterfalls"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1524, 
+                    1542
+                ], 
+                "name": "elephant waterfall"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1567, 
+                    1572
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1669, 
+                    1680
+                ], 
+                "name": "Crazy House"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1682, 
+                    1696
+                ], 
+                "name": "Bao Dai Palace"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1698, 
+                    1711
+                ], 
+                "name": "Flower Garden"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1717, 
+                    1731
+                ], 
+                "name": "Tiger Waterfal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 6 \u2013 7: Hoi An", 
+        "line": 16, 
+        "range": [
+            1742, 
+            1760
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1746, 
+                    1752
+                ], 
+                "name": "Hoi An"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1754, 
+                    1760
+                ], 
+                "name": "Hoi An"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hoi An was before a successful trading port in South East Asia. The old town was declared as a UNESCO Heritage Site. Even though it\u2019s touristy, the city remains traditional, not much affected by western style, as much like the others city in Vietnam. T", 
+        "line": 18, 
+        "range": [
+            1762, 
+            2015
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1785, 
+                    1797
+                ], 
+                "name": "trading port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1801, 
+                    1816
+                ], 
+                "name": "South East Asia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1822, 
+                    1830
+                ], 
+                "name": "old town"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1849, 
+                    1869
+                ], 
+                "name": "UNESCO Heritage Site"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1902, 
+                    1906
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1988, 
+                    1992
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1996, 
+                    2003
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Here are several Chinese Temples that you can visit. Take bicycle and explore the city, the have nice beaches too! (not the main beach but in the islands nearby).", 
+        "line": 20, 
+        "range": [
+            2017, 
+            2178
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2025, 
+                    2040
+                ], 
+                "name": "Chinese Temples"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2066, 
+                    2073
+                ], 
+                "name": "bicycle"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2090, 
+                    2094
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2110, 
+                    2117
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2137, 
+                    2142
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2154, 
+                    2161
+                ], 
+                "name": "islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "During the night you will see people selling colorful lanterns which somehow become the trademark of the city. Also visit Marble Mountain which is located 20 kms north from Hoi An. Take a look at the Buddhist Temple which was built inside the caves.", 
+        "line": 22, 
+        "range": [
+            2180, 
+            2428
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2277, 
+                    2281
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2294, 
+                    2309
+                ], 
+                "name": "Marble Mountain"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2345, 
+                    2351
+                ], 
+                "name": "Hoi An"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2372, 
+                    2387
+                ], 
+                "name": "Buddhist Temple"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2415, 
+                    2420
+                ], 
+                "name": "caves"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 8: Hue", 
+        "line": 24, 
+        "range": [
+            2430, 
+            2439
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2430, 
+                    2433
+                ], 
+                "name": "Hue"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The only reason I wanted to see Hue is first, it\u2019s on my way to Hanoi so I could do a day trip. Second, I was curios about the only imperial city in Vietnam. I visited only Imperial Citadel and Khai Dinh Tomb (it\u2019s a bit pricey to get into the attractions in Hue).", 
+        "line": 26, 
+        "range": [
+            2441, 
+            2708
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2467, 
+                    2470
+                ], 
+                "name": "Hue"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2499, 
+                    2504
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2567, 
+                    2580
+                ], 
+                "name": "imperial city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2584, 
+                    2591
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2608, 
+                    2624
+                ], 
+                "name": "Imperial Citadel"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2629, 
+                    2643
+                ], 
+                "name": "Khai Dinh Tomb"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2679, 
+                    2690
+                ], 
+                "name": "attractions"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2694, 
+                    2697
+                ], 
+                "name": "Hue"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Imperial Citadel was badly knocked during the war, and while I was there, they\u2019re renovating the building, nothing really much to see. Khai Dinh Tomb was okay, pretty interesting but the entrance fee is just too pricey.", 
+        "line": 28, 
+        "range": [
+            2710, 
+            2930
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2798, 
+                    2806
+                ], 
+                "name": "building"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2836, 
+                    2850
+                ], 
+                "name": "Khai Dinh Tomb"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 9: Hanoi", 
+        "line": 30, 
+        "range": [
+            2932, 
+            2943
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was a bit weird how different Hanoi and Ho Chi Minh. As a capital city, Hanoi is less-developed then the South. Nothing much to see actually in Hanoi. There are some opera houses and museums in the city. I visited Hoan Kiem Lake and Saint Joseph Cathedral, the closest attraction from backpacker area.", 
+        "line": 32, 
+        "range": [
+            2945, 
+            3248
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2969, 
+                    2974
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2979, 
+                    2990
+                ], 
+                "name": "Ho Chi Minh"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2997, 
+                    3009
+                ], 
+                "name": "capital city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3011, 
+                    3016
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3040, 
+                    3049
+                ], 
+                "name": "the South"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3083, 
+                    3088
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3105, 
+                    3117
+                ], 
+                "name": "opera houses"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3122, 
+                    3129
+                ], 
+                "name": "museums"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3137, 
+                    3141
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3153, 
+                    3167
+                ], 
+                "name": "Hoan Kiem Lake"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3172, 
+                    3194
+                ], 
+                "name": "Saint Joseph Cathedral"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3208, 
+                    3218
+                ], 
+                "name": "attraction"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3224, 
+                    3239
+                ], 
+                "name": "backpacker area"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 10 \u2013 11: Sapa", 
+        "line": 34, 
+        "range": [
+            3250, 
+            3268
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3255, 
+                    3259
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beautiful landscape, rice terraces surrounded by mountains, Sapa is one of the top destination in Vietnam. It is 12 hours north of Hanoi. You can arrange tour from Hanoi but I suggest you to go Sapa by yourself and rent a motorbike so you can visit the less-touristic villages.", 
+        "line": 36, 
+        "range": [
+            3270, 
+            3546
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3282, 
+                    3295
+                ], 
+                "name": "rice terraces"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3310, 
+                    3319
+                ], 
+                "name": "mountains"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3321, 
+                    3325
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3344, 
+                    3355
+                ], 
+                "name": "destination"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3359, 
+                    3366
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3392, 
+                    3397
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3425, 
+                    3430
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3455, 
+                    3459
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3483, 
+                    3492
+                ], 
+                "name": "motorbike"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3529, 
+                    3537
+                ], 
+                "name": "villages"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The trekking tour that I did was okay we spent the night in local homestay however the annoying part is the local Hmong people tried to sell souvenirs to you, they kept approaching me and offered bracelets, one is okay but there are lots of them!", 
+        "line": 38, 
+        "range": [
+            3548, 
+            3793
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3606, 
+                    3614
+                ], 
+                "name": "homestay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 12 \u2013 13: Halong Bay", 
+        "line": 40, 
+        "range": [
+            3795, 
+            3819
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3801, 
+                    3811
+                ], 
+                "name": "Halong Bay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I think my expectation for Halong Bay was too high. Personally I wasn\u2019t really impressed by Halong Bay. I did two days one night cruising to Halong Bay. Sung Sot Cave was stunning. Cruising went well but there\u2019s one spot where we could do swimming and kayaking, the water is too fishy. Lime stone hills were not really surprising me, I saw other places better for that.", 
+        "line": 42, 
+        "range": [
+            3821, 
+            4193
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3840, 
+                    3850
+                ], 
+                "name": "Halong Bay"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3905, 
+                    3916
+                ], 
+                "name": "Halong Bay."
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3942, 
+                    3950
+                ], 
+                "name": "cruising"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3954, 
+                    3964
+                ], 
+                "name": "Halong Bay"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3966, 
+                    3979
+                ], 
+                "name": "Sung Sot Cave"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3994, 
+                    4002
+                ], 
+                "name": "Cruising"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4029, 
+                    4033
+                ], 
+                "name": "spot"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4099, 
+                    4115
+                ], 
+                "name": "Lime stone hills"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4159, 
+                    4165
+                ], 
+                "name": "places"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 14: Back to Hanoi and fly out", 
+        "line": 44, 
+        "range": [
+            4195, 
+            4227
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4200, 
+                    4205
+                ], 
+                "name": "Hanoi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "So my trip backpacking in Vietnam for two weeks has finished. I returned back to Hanoi and caught my flight back home.", 
+        "line": 46, 
+        "range": [
+            4229, 
+            4346
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4245, 
+                    4252
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4300, 
+                    4305
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4332, 
+                    4336
+                ], 
+                "name": "home"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I hope this itinerary can help you in case you wanna go backpacking in Vietnam in two weeks as well. Have a good trip!", 
+        "line": 48, 
+        "range": [
+            4348, 
+            4465
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4410, 
+                    4417
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 14-28 May 2014", 
+        "line": 50, 
+        "range": [
+            4467, 
+            4492
+        ], 
+        "entities": []
+    }
+]

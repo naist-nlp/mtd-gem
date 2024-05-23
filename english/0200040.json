@@ -1,0 +1,1575 @@
+[
+    {
+        "text": "May 8, 2020    10 Best Things To Do In Kuala Lumpur That You Need To Check Out", 
+        "line": 0, 
+        "range": [
+            1, 
+            78
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    39, 
+                    51
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kuala Lumpur is close enough to my heart that I would call it as my second home. The fact that it\u2019s a neighbouring country to Indonesia, and the fact that it\u2019s just 30-minutes on sky from my hometown, it\u2019s not an unfamiliar place for me at all. I\u2019ve been flying back and forth since I was a kid.", 
+        "line": 2, 
+        "range": [
+            80, 
+            382
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    80, 
+                    92
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    155, 
+                    159
+                ], 
+                "name": "home"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    182, 
+                    202
+                ], 
+                "name": "neighbouring country"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    206, 
+                    215
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    271, 
+                    279
+                ], 
+                "name": "hometown"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    304, 
+                    309
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kuala Lumpur has also become my favorite base to stop and mostly catch my flights to anywhere, mainly because most of the cheapest flight that I could find was from Kuala Lumpur.", 
+        "line": 4, 
+        "range": [
+            384, 
+            561
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    418, 
+                    422
+                ], 
+                "name": "base"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    542, 
+                    554
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Back in 2014, I spent couple of months living in this city and pretty much I\u2019ve been doing what I supposed to do, which was exploring every possibly interesting sides. We all agree that Malaysia is not a blurred destination, it\u2019s generally known to everyone. Despite all these matters, it doesn\u2019t stop my eagerness to inform you top 10 must-do\u2019s in Kuala Lumpur, Malaysia:", 
+        "line": 6, 
+        "range": [
+            563, 
+            942
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    611, 
+                    615
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    743, 
+                    751
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    906, 
+                    918
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    920, 
+                    928
+                ], 
+                "name": "Malaysia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Take a walk around Merdeka Square.", 
+        "line": 8, 
+        "range": [
+            944, 
+            980
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    953, 
+                    967
+                ], 
+                "name": "Merdeka Square"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beautifully set in Kuala Lumpur downtown, Merdeka Square and its surrounding remains charming through it\u2019s well-maintained colonial buildings. It\u2019s the best spot to reminiscence the time where British empire ruled Malay Peninsula.", 
+        "line": 10, 
+        "range": [
+            982, 
+            1215
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    989, 
+                    1010
+                ], 
+                "name": "Kuala Lumpur downtown"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1012, 
+                    1026
+                ], 
+                "name": "Merdeka Square"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1093, 
+                    1111
+                ], 
+                "name": "colonial buildings"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1127, 
+                    1131
+                ], 
+                "name": "spot"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1184, 
+                    1199
+                ], 
+                "name": "Malay Peninsula"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Walk around the colonial buildings; Sultan Abdul Samad Building, St. Mary\u2019s Church, and Royal Selangor Club or you can discover 11 historical sites within 2.5 hours walk with free Dataran Merdeka Heritage Walk Tour every Monday, Wednesday, and Saturday 8.30 a.m. starting from Kuala Lumpur City Gallery.", 
+        "line": 12, 
+        "range": [
+            1217, 
+            1521
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1218, 
+                    1236
+                ], 
+                "name": "colonial buildings"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1238, 
+                    1265
+                ], 
+                "name": "Sultan Abdul Samad Building"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1267, 
+                    1284
+                ], 
+                "name": "St. Mary\u2019s Church"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1290, 
+                    1309
+                ], 
+                "name": "Royal Selangor Club"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1333, 
+                    1349
+                ], 
+                "name": "historical sites"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1479, 
+                    1504
+                ], 
+                "name": "Kuala Lumpur City Gallery"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Get to know more about the city.", 
+        "line": 14, 
+        "range": [
+            1523, 
+            1557
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1537, 
+                    1541
+                ], 
+                "name": "city"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Still around Merdeka Square, Kuala Lumpur City Gallery is an interesting place to visit. I know you might not like places with admission fee, but this place is really worthy for RM 5. Inside there\u2019s a show with dioramas and mapping of the city with blitz of lights that will give you informative sights about Kuala Lumpur.", 
+        "line": 16, 
+        "range": [
+            1559, 
+            1882
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1573, 
+                    1598
+                ], 
+                "name": "Kuala Lumpur City Gallery"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1617, 
+                    1622
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1659, 
+                    1665
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1695, 
+                    1700
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1783, 
+                    1787
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1853, 
+                    1865
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Bewildered by the breath-taking skyscrapers.", 
+        "line": 18, 
+        "range": [
+            1884, 
+            1930
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1903, 
+                    1914
+                ], 
+                "name": "skyscrapers"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "No matter how many times I stared at these magnificent twin towers, I still couldn\u2019t believe how fascinated I was to the towers. It\u2019s undeniably a top-notch landmark of the city and of course one of the best things to do in Kuala Lumpur.", 
+        "line": 20, 
+        "range": [
+            1932, 
+            2172
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1972, 
+                    1983
+                ], 
+                "name": "twin towers"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2038, 
+                    2044
+                ], 
+                "name": "towers"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2074, 
+                    2082
+                ], 
+                "name": "landmark"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2090, 
+                    2094
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2141, 
+                    2153
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Come around 7 pm.-10 p.m and you\u2019ll be entertained by a musical fountain show with the twin towers as the background. Do not hesitate to visit Kuala Lumpur Tower where you can dine up the sky with panoramic view of the city.", 
+        "line": 22, 
+        "range": [
+            2174, 
+            2399
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2220, 
+                    2228
+                ], 
+                "name": "fountain"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2243, 
+                    2254
+                ], 
+                "name": "twin towers"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2299, 
+                    2317
+                ], 
+                "name": "Kuala Lumpur Tower"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2375, 
+                    2379
+                ], 
+                "name": "city"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Never-ending shopping. ", 
+        "line": 24, 
+        "range": [
+            2401, 
+            2426
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Shopping in Kuala Lumpur is highly guaranteed. Whether you wanna buy some cheap unlabelled sneakers or gold chain bags from world-class designers, you can find always find what you want here.", 
+        "line": 26, 
+        "range": [
+            2428, 
+            2618
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Go straight to Bukit Bintang, the trendiest shopping district in Kuala Lumpur. Even one day is not enough to cover all the shops and malls here. If you wanna get affordable stuffs, go to Berjaya Times Square or Sungai Wang Plaza. If you\u2019re a big spender, go to Pavillion, Suria KLCC, or Fahrenheit 88. For souvenirs, Petaling Street (China Town) and Central Market are the headliners.", 
+        "line": 28, 
+        "range": [
+            2620, 
+            3005
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2647, 
+                    2664
+                ], 
+                "name": "shopping district"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2668, 
+                    2680
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2726, 
+                    2731
+                ], 
+                "name": "shops"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2736, 
+                    2741
+                ], 
+                "name": "malls"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2790, 
+                    2810
+                ], 
+                "name": "Berjaya Times Square"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2814, 
+                    2831
+                ], 
+                "name": "Sungai Wang Plaza"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2864, 
+                    2873
+                ], 
+                "name": "Pavillion"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2875, 
+                    2885
+                ], 
+                "name": "Suria KLCC"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2890, 
+                    2903
+                ], 
+                "name": "Fahrenheit 88"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    2920, 
+                    2935
+                ], 
+                "name": "Petaling Street"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2937, 
+                    2947
+                ], 
+                "name": "China Town"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2953, 
+                    2967
+                ], 
+                "name": "Central Market"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I reckon it\u2019s easier to stay around this area as well, chains of hotels spread, both budget hotels and luxury hotels. Don\u2019t waste your time \u201cgo show\u201d and searching for hotels. I trust traveloka as my online booking platform. It made my life a lot easier.", 
+        "line": 30, 
+        "range": [
+            3007, 
+            3268
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3030, 
+                    3034
+                ], 
+                "name": "area"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3054, 
+                    3060
+                ], 
+                "name": "hotels"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3074, 
+                    3087
+                ], 
+                "name": "budget hotels"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3092, 
+                    3105
+                ], 
+                "name": "luxury hotels"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3157, 
+                    3163
+                ], 
+                "name": "hotels"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Find serenity inside the mosque.", 
+        "line": 32, 
+        "range": [
+            3270, 
+            3304
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3273, 
+                    3279
+                ], 
+                "name": "mosque"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I\u2019m not a Muslim, but I really admire the designs and architectural style of religious places all around the world, including mosques. As majority of the population in Malaysia believes in Islam, you can easily spot mosques.", 
+        "line": 34, 
+        "range": [
+            3306, 
+            3531
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3359, 
+                    3375
+                ], 
+                "name": "religious places"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3391, 
+                    3396
+                ], 
+                "name": "world"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3408, 
+                    3415
+                ], 
+                "name": "mosques"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3498, 
+                    3505
+                ], 
+                "name": "mosques"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3520, 
+                    3526
+                ], 
+                "name": "mosque"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My favorite mosque is National Mosque, Jamek Mosque, and Putra Mosque. Bear in mind that visiting religious places often requires a strict dress code. It\u2019s better to cover up your body, however the mosques in KL provide free long cloaks that will cover your whole body.", 
+        "line": 36, 
+        "range": [
+            3533, 
+            3803
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3547, 
+                    3559
+                ], 
+                "name": "Jamek Mosque"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3565, 
+                    3577
+                ], 
+                "name": "Putra Mosque"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3606, 
+                    3622
+                ], 
+                "name": "religious places"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3706, 
+                    3713
+                ], 
+                "name": "mosques"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3717, 
+                    3719
+                ], 
+                "name": "KL"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "6. Broaden your horizons at the museum.", 
+        "line": 38, 
+        "range": [
+            3805, 
+            3843
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3811, 
+                    3817
+                ], 
+                "name": "museum"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3834, 
+                    3841
+                ], 
+                "name": "museums"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Who says that museums are stodgy or boring? To be honest I\u2019m not a fan of history and the past, I prefer to see something futuristic. However, I enjoy myself concentrating into a sculpture, painting, something artistic, and unique at the same time.", 
+        "line": 40, 
+        "range": [
+            3845, 
+            4094
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4082, 
+                    4089
+                ], 
+                "name": "museums"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My favorite museums in Kuala Lumpur is National Textile Museum, it has many collections of fabrics and jewelries from the past. In addition, Islamic Art Museum has outstanding showpieces including carpets, jewelries and potteries. If you love history, checking out museums is one of the best things to do in Kuala Lumpur", 
+        "line": 42, 
+        "range": [
+            4096, 
+            4415
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4109, 
+                    4132
+                ], 
+                "name": "National Textile Museum"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4211, 
+                    4229
+                ], 
+                "name": "Islamic Art Museum"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4335, 
+                    4342
+                ], 
+                "name": "museums"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4378, 
+                    4390
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4405, 
+                    4415
+                ], 
+                "name": "Batu Caves"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "7. Travel to Batu Caves", 
+        "line": 44, 
+        "range": [
+            4417, 
+            4439
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4417, 
+                    4427
+                ], 
+                "name": "Batu Caves"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Batu Caves is a sacred place for Hindu believers. It has alluring scenery of the natural caverns and an enormous statue which illustrate Lord Murugan as the God of War. Make sure you\u2019re fit enough to climb as many as 272 steps to the cave. Be careful with the monkeys that might snatch your sunglasses. Batu Caves can be easily done with a short trip (30 minutes) by KTM Komuter.", 
+        "line": 46, 
+        "range": [
+            4441, 
+            4821
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4506, 
+                    4513
+                ], 
+                "name": "caverns"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4530, 
+                    4536
+                ], 
+                "name": "statue"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4651, 
+                    4655
+                ], 
+                "name": "cave"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4720, 
+                    4730
+                ], 
+                "name": "Batu Caves"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4784, 
+                    4795
+                ], 
+                "name": "KTM Komuter"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "8. Say hi to tortoises in Thean Hou Temple.", 
+        "line": 48, 
+        "range": [
+            4823, 
+            4865
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4824, 
+                    4840
+                ], 
+                "name": "Thean Hou Temple"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4843, 
+                    4859
+                ], 
+                "name": "Thean Hou Temple"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Thean Hou Temple is a large six-tiered Chinese temple built by the Hainanese community living in Kuala Lumpur. During Chinese Festival, thousand of devotees gather in the temple. One thing that caught my attention was the tortoise pond, where hundreds of tortoises laid peacefully. Tortoise is a symbol of longevity and auspicious according to Chinese.", 
+        "line": 50, 
+        "range": [
+            4867, 
+            5218
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4890, 
+                    4896
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4940, 
+                    4952
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5014, 
+                    5020
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5065, 
+                    5078
+                ], 
+                "name": "tortoise pond"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "9. Eat till you drop.", 
+        "line": 52, 
+        "range": [
+            5220, 
+            5240
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It is no secret that Malaysia is a melting pot of religions, cultures, and traditions. Three dominant ethnicity \u2013 Malays, Chinese, Indians shapes many aspects in terms of how they live, how they interact, that brings diversity, as well as food.", 
+        "line": 54, 
+        "range": [
+            5242, 
+            5487
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Then it makes sense, Kuala Lumpur is the right place to do your culinary adventure. Taste the authenticity of Malay food, the spices in Indian curry, and the mouth-watering Penang Char Kuey Teow (my all time favorite!).", 
+        "line": 56, 
+        "range": [
+            5489, 
+            5707
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5513, 
+                    5518
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5639, 
+                    5645
+                ], 
+                "name": "Penang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "You can find these all in Jalan Alor, nevertheless, you can easily find it anywhere. Join another street food festive at Taman Connaught Night Market which only opened on Wednesday night. Marked as the longest night market in Kuala Lumpur, 2 kms long, it\u2019s definitely one of my favorite market to eat lots and lots of food! Warning: This market is not suitable for dieters.", 
+        "line": 58, 
+        "range": [
+            5709, 
+            6083
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    5713, 
+                    5723
+                ], 
+                "name": "Jalan Alor"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5808, 
+                    5836
+                ], 
+                "name": "Taman Connaught Night Market"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5897, 
+                    5909
+                ], 
+                "name": "night market"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5913, 
+                    5925
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5974, 
+                    5980
+                ], 
+                "name": "market"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6025, 
+                    6031
+                ], 
+                "name": "market"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "10. Dance all night long.", 
+        "line": 60, 
+        "range": [
+            6085, 
+            6109
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019re a party-lover like me, let me tell you, you won\u2019t be disappointed here in KL. Heaps of bars, rooftop bars, and clubs that will keep you dancing all night long.", 
+        "line": 62, 
+        "range": [
+            6111, 
+            6283
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6173, 
+                    6175
+                ], 
+                "name": "KL"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6186, 
+                    6190
+                ], 
+                "name": "bars"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6192, 
+                    6204
+                ], 
+                "name": "rooftop bars"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6210, 
+                    6215
+                ], 
+                "name": "clubs"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019re after cheap drinks, go to Changkat Street where you can find lines of bars offering you cheap gin and tonic. Wanna get classy? Go to Sky Bar, Luna Bar, or Heli Lounge and have a drink overlooking glittering city lights.", 
+        "line": 64, 
+        "range": [
+            6285, 
+            6515
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    6296, 
+                    6311
+                ], 
+                "name": "Changkat Street"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6340, 
+                    6344
+                ], 
+                "name": "bars"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6403, 
+                    6410
+                ], 
+                "name": "Sky Bar"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6412, 
+                    6420
+                ], 
+                "name": "Luna Bar"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6425, 
+                    6436
+                ], 
+                "name": "Heli Lounge"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ladies will have advantage every Wednesday night in most of the bars here. You can get free drinks on ladies night, don\u2019t miss this out. Wanna pump yourself with the latest electronic music, Zouk is where you have to go. Free pass for tourists, all you need is just bring a copy of your passport and dress up!", 
+        "line": 66, 
+        "range": [
+            6517, 
+            6827
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6555, 
+                    6559
+                ], 
+                "name": "bars"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6682, 
+                    6686
+                ], 
+                "name": "Zouk"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There you go, I did my best to summarize top things to do in Kuala Lumpur. Of course, still many places to do, and things to see such as a day trip to Malacca, Cameron Highland, or Genting Highland.", 
+        "line": 68, 
+        "range": [
+            6829, 
+            7026
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6863, 
+                    6875
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6899, 
+                    6905
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6953, 
+                    6960
+                ], 
+                "name": "Malacca"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6962, 
+                    6978
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6983, 
+                    6999
+                ], 
+                "name": "Genting Highland"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Overall, getting around Kuala Lumpur is easy and convenient. Public transport such as bus, train, commuter are well-linked. There is also free bus called Go KL that takes you to major tourist attractions. Looking for hotels in Kuala Lumpur? Click here to find out hotel that suits you the best.", 
+        "line": 70, 
+        "range": [
+            7028, 
+            7321
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7088, 
+                    7091
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7093, 
+                    7098
+                ], 
+                "name": "train"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7100, 
+                    7108
+                ], 
+                "name": "commuter"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7140, 
+                    7148
+                ], 
+                "name": "free bus"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    7156, 
+                    7161
+                ], 
+                "name": "Go KL"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7186, 
+                    7205
+                ], 
+                "name": "tourist attractions"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7219, 
+                    7225
+                ], 
+                "name": "hotels"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7229, 
+                    7241
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7266, 
+                    7271
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Have suggestions about exciting things to do in Kuala Lumpur? Leave on comment section below, thanks!", 
+        "line": 72, 
+        "range": [
+            7323, 
+            7423
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7346, 
+                    7358
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }
+]

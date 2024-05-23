@@ -1,0 +1,1394 @@
+[
+    {
+        "text": "October 3, 2023    Travel Guide To Mount Papandayan In Garut, West Java", 
+        "line": 0, 
+        "range": [
+            1, 
+            71
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    35, 
+                    51
+                ], 
+                "name": "Mount Papandayan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    55, 
+                    60
+                ], 
+                "name": "Garut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    62, 
+                    71
+                ], 
+                "name": "West Java"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mount Papandayan has always been my favorite mountain so far. Located in Garut, West Java, Mount Papandayan is very easily accessible nevertheless offering a nice view for those who want to have a relaxing camping time and enjoying the scenery.", 
+        "line": 2, 
+        "range": [
+            73, 
+            316
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    73, 
+                    89
+                ], 
+                "name": "Mount Papandayan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    118, 
+                    126
+                ], 
+                "name": "mountain"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    146, 
+                    151
+                ], 
+                "name": "Garut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    153, 
+                    162
+                ], 
+                "name": "West Java"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    164, 
+                    180
+                ], 
+                "name": "Mount Papandayan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Since it is not too high (2665 meters above sea level), you don\u2019t have to worry if you\u2019re still a beginner because the trek is not too extreme. Still and all, you have to be fit and wrapped yourself with jacket and shoes for your safety.", 
+        "line": 4, 
+        "range": [
+            318, 
+            558
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "In this article I will share information about the hiking route for Mount Papandayan, how to get to Mount Papandayan from Jakarta, and how much the entrance ticket costs.", 
+        "line": 6, 
+        "range": [
+            560, 
+            729
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    609, 
+                    621
+                ], 
+                "name": "hiking route"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    626, 
+                    642
+                ], 
+                "name": "Mount Papandayan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    658, 
+                    674
+                ], 
+                "name": "Mount Papandayan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    680, 
+                    687
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How to get to Mount Papandayan from Jakarta", 
+        "line": 8, 
+        "range": [
+            731, 
+            773
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    744, 
+                    760
+                ], 
+                "name": "Mount Papandayan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    766, 
+                    773
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The trip can start from Jakarta or Bandung with the following route:", 
+        "line": 10, 
+        "range": [
+            775, 
+            842
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    799, 
+                    806
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    810, 
+                    817
+                ], 
+                "name": "Bandung"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    837, 
+                    842
+                ], 
+                "name": "route"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bus Jakarta/Bandung \u2013 Garut. From Jakarta you can take the Primajasa Bus to Garut . Buses depart from Cililitan Terminal, Pasar Rebo, or Kampung Rambutan. Travel time is around 5 hours with a bus ticket price of IDR 52,000. Primajasa buses depart every 45 minutes with a schedule between 3.30 am and 10 pm. From Bandung, it\u2019s even closer, you can take a minibus from Leuwipanjang Terminal to Garut but you can ask to be stopped at the Cisurupan Market T-junction. Travel time is around 2 hours with a ticket price of IDR 20,000.", 
+        "line": 12, 
+        "range": [
+            844, 
+            1375
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    845, 
+                    848
+                ], 
+                "name": "Bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    849, 
+                    856
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    857, 
+                    864
+                ], 
+                "name": "Bandung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    867, 
+                    872
+                ], 
+                "name": "Garut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    879, 
+                    886
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    904, 
+                    917
+                ], 
+                "name": "Primajasa Bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    921, 
+                    926
+                ], 
+                "name": "Garut"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    929, 
+                    934
+                ], 
+                "name": "Buses"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    947, 
+                    965
+                ], 
+                "name": "Cililitan Terminal"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    967, 
+                    977
+                ], 
+                "name": "Pasar Rebo"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    982, 
+                    998
+                ], 
+                "name": "Kampung Rambutan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1037, 
+                    1040
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1069, 
+                    1084
+                ], 
+                "name": "Primajasa buses"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1157, 
+                    1164
+                ], 
+                "name": "Bandung"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1199, 
+                    1206
+                ], 
+                "name": "minibus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1212, 
+                    1233
+                ], 
+                "name": "Leuwipanjang Terminal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1237, 
+                    1242
+                ], 
+                "name": "Garut"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1280, 
+                    1307
+                ], 
+                "name": "Cisurupan Market T-junction"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Garut Minibus \u2013 Cisurupan Market T-junction . After arriving at Guntur Terminal, Garut, you have to take another minibus to the Cisurupan Market T-junction. The journey by minibus takes approximately 1 hour with a ticket price of IDR 13,000. The last schedule for this minibus is until 6 pm.", 
+        "line": 14, 
+        "range": [
+            1377, 
+            1669
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1381, 
+                    1388
+                ], 
+                "name": "Minibus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1391, 
+                    1418
+                ], 
+                "name": "Cisurupan Market T-junction"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1439, 
+                    1454
+                ], 
+                "name": "Guntur Terminal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1456, 
+                    1461
+                ], 
+                "name": "Garut"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1488, 
+                    1495
+                ], 
+                "name": "minibus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1503, 
+                    1530
+                ], 
+                "name": "Cisurupan Market T-junction"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1547, 
+                    1554
+                ], 
+                "name": "minibus"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1644, 
+                    1651
+                ], 
+                "name": "minibus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Motorcycle taxi/pickup at Cisurupan Market T-junction \u2013 Camp David . So, from the T-junction you have to take another motorbike taxi or pick-up truck . Approximately 30 minutes. Motorbike taxi fares are around IDR 15,000 \u2013 25,000. Meanwhile, one pick-up car costs Rp. 200,000 and can accommodate 10-15 people.", 
+        "line": 16, 
+        "range": [
+            1671, 
+            1983
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1684, 
+                    1690
+                ], 
+                "name": "pickup"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1694, 
+                    1721
+                ], 
+                "name": "Cisurupan Market T-junction"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1724, 
+                    1734
+                ], 
+                "name": "Camp David"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1750, 
+                    1760
+                ], 
+                "name": "T-junction"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1786, 
+                    1800
+                ], 
+                "name": "motorbike taxi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1804, 
+                    1817
+                ], 
+                "name": "pick-up truck"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1846, 
+                    1860
+                ], 
+                "name": "Motorbike taxi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1914, 
+                    1925
+                ], 
+                "name": "pick-up car"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Other option, you can book a one day trekking tour here starting from Bandung.", 
+        "line": 18, 
+        "range": [
+            1985, 
+            2062
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2049, 
+                    2056
+                ], 
+                "name": "Bandung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Entrance fee to Mount Papandayan", 
+        "line": 20, 
+        "range": [
+            2064, 
+            2095
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2075, 
+                    2091
+                ], 
+                "name": "Mount Papandayan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The admission fee for Mount Papandayan is Rp 20,000 (weekdays) dan Rp 30,000 (weekends) for domestic hikers, and Rp 200,000 (weekdays) dan Rp 300,000 (weekends) for foreigners", 
+        "line": 22, 
+        "range": [
+            2097, 
+            2271
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2115, 
+                    2131
+                ], 
+                "name": "Mount Papandayan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Guide cost you around Rp 250,000/day", 
+        "line": 24, 
+        "range": [
+            2273, 
+            2308
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The path is very clear actually but if you think getting guide is better and safer, why not.", 
+        "line": 26, 
+        "range": [
+            2310, 
+            2401
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2312, 
+                    2316
+                ], 
+                "name": "path"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hiking Mount Papandayan", 
+        "line": 28, 
+        "range": [
+            2403, 
+            2425
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2409, 
+                    2425
+                ], 
+                "name": "Mount Papandayan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The hiking route for Mount Papandayan would be as follow:", 
+        "line": 30, 
+        "range": [
+            2427, 
+            2483
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2448, 
+                    2464
+                ], 
+                "name": "Mount Papandayan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Camp David \u2013 Crater (20 minutes)", 
+        "line": 32, 
+        "range": [
+            2485, 
+            2518
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2486, 
+                    2496
+                ], 
+                "name": "Camp David"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2499, 
+                    2505
+                ], 
+                "name": "Crater"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After leaving the base camp, a short walk will take you directly to the crater.", 
+        "line": 34, 
+        "range": [
+            2520, 
+            2598
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2538, 
+                    2547
+                ], 
+                "name": "base camp"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2592, 
+                    2598
+                ], 
+                "name": "crater"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s quiet unique where most of the crater can be seen once we climb to the peak, means the base camp normally was built on the opposite side of the crater but in Papandayan, the position of the base camp is right under the crater.", 
+        "line": 36, 
+        "range": [
+            2600, 
+            2832
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2637, 
+                    2643
+                ], 
+                "name": "crater"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2677, 
+                    2681
+                ], 
+                "name": "peak"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2693, 
+                    2702
+                ], 
+                "name": "base camp"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2750, 
+                    2756
+                ], 
+                "name": "crater"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2764, 
+                    2774
+                ], 
+                "name": "Papandayan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2796, 
+                    2805
+                ], 
+                "name": "base camp"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2825, 
+                    2831
+                ], 
+                "name": "crater"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lots of steam vent on this site, producing such an incredible view with the combination of volcanic rocks and the bubbling sulfur hole.", 
+        "line": 38, 
+        "range": [
+            2834, 
+            2968
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2861, 
+                    2865
+                ], 
+                "name": "site"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2957, 
+                    2968
+                ], 
+                "name": "sulfur hole"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Passing through the crater around 20-30 minutes, the path leads you to the ridge. A small greenish lake can be seen on the right side, made by the eruption in 2002.", 
+        "line": 40, 
+        "range": [
+            2970, 
+            3133
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2991, 
+                    2997
+                ], 
+                "name": "crater"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3024, 
+                    3028
+                ], 
+                "name": "path"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3046, 
+                    3051
+                ], 
+                "name": "ridge"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3070, 
+                    3074
+                ], 
+                "name": "lake"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Crater \u2013 Pondok Salada (1 \u2013 2 hours)", 
+        "line": 42, 
+        "range": [
+            3135, 
+            3174
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3137, 
+                    3143
+                ], 
+                "name": "Crater"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3146, 
+                    3159
+                ], 
+                "name": "Pondok Salada"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Next, follow a small path on the right side downward until you find a small stream. Be ready, it\u2019s time to push your energy climbing up the steep path.", 
+        "line": 44, 
+        "range": [
+            3176, 
+            3328
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3196, 
+                    3200
+                ], 
+                "name": "path"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3251, 
+                    3257
+                ], 
+                "name": "stream"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There\u2019s a branch, the left one is slope but a little bit further, right one is the shortcut but it\u2019s more tiring.", 
+        "line": 46, 
+        "range": [
+            3330, 
+            3446
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3338, 
+                    3344
+                ], 
+                "name": "branch"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "About 1-2 hours, finally a camping ground named Pondok Salada welcomes you. You may set your tent overnight, or continue to Tegal Alun.", 
+        "line": 48, 
+        "range": [
+            3448, 
+            3582
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3470, 
+                    3484
+                ], 
+                "name": "camping ground"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3491, 
+                    3504
+                ], 
+                "name": "Pondok Salada"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3567, 
+                    3577
+                ], 
+                "name": "Tegal Alun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pondok Salada \u2013 Dead Forest \u2013 Tegal Alun (1 hour)", 
+        "line": 50, 
+        "range": [
+            3584, 
+            3636
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3596, 
+                    3607
+                ], 
+                "name": "Dead Forest"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3610, 
+                    3620
+                ], 
+                "name": "Tegal Alun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are three ways pointing to Tegal Alun. Choose the right way if you want faster route cutting through the middle of the jungle on the other ridge.", 
+        "line": 52, 
+        "range": [
+            3638, 
+            3788
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3664, 
+                    3674
+                ], 
+                "name": "Tegal Alun"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3716, 
+                    3721
+                ], 
+                "name": "route"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3756, 
+                    3762
+                ], 
+                "name": "jungle"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3776, 
+                    3781
+                ], 
+                "name": "ridge"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s very steep but around 30-45 minutes you\u2019ll arrive at Tegal Alun. Otherwise, the left one is easier, passing through the astonishing dead forest.", 
+        "line": 54, 
+        "range": [
+            3790, 
+            3942
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3842, 
+                    3852
+                ], 
+                "name": "Tegal Alun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3921, 
+                    3932
+                ], 
+                "name": "dead forest"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Last time I did the right one, then go back through the left route. It\u2019s just the same. And here we are, the magnificent Tegal Alun filled with edelweiss allover the place.", 
+        "line": 56, 
+        "range": [
+            3944, 
+            4117
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3996, 
+                    4001
+                ], 
+                "name": "route"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4056, 
+                    4066
+                ], 
+                "name": "Tegal Alun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4101, 
+                    4106
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Full of Edelweiss in Mount Papandayan", 
+        "line": 58, 
+        "range": [
+            4119, 
+            4155
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4130, 
+                    4146
+                ], 
+                "name": "Mount Papandayan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you wish to proceed to the summit, I suggest you don\u2019t have to do that. You still have to walk for another one hour to see nothing at the top. The highest point is just a spot surrounded by the trees like in the middle of jungle.", 
+        "line": 60, 
+        "range": [
+            4157, 
+            4390
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4178, 
+                    4184
+                ], 
+                "name": "summit"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4285, 
+                    4292
+                ], 
+                "name": "the top"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4298, 
+                    4311
+                ], 
+                "name": "highest point"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4322, 
+                    4326
+                ], 
+                "name": "spot"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4373, 
+                    4379
+                ], 
+                "name": "jungle"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From what I could remember, after Tegal Alun, there\u2019s a place like a valley with another stream flowing and another hill in the front. That\u2019s one of the memorable place.", 
+        "line": 62, 
+        "range": [
+            4392, 
+            4564
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4416, 
+                    4426
+                ], 
+                "name": "Tegal Alun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4438, 
+                    4443
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4451, 
+                    4457
+                ], 
+                "name": "valley"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4471, 
+                    4477
+                ], 
+                "name": "stream"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4498, 
+                    4502
+                ], 
+                "name": "hill"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4545, 
+                    4550
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I guess you understand why I love this place. It\u2019s very near from Jakarta/Bandung, weekend trip is possible. The view is varies with the crater, edelweiss, dead forest, very relaxing.", 
+        "line": 64, 
+        "range": [
+            4566, 
+            4750
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4592, 
+                    4597
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4619, 
+                    4626
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4627, 
+                    4634
+                ], 
+                "name": "Bandung"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4690, 
+                    4696
+                ], 
+                "name": "crater"
+            }
+        ]
+    }
+]

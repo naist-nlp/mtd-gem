@@ -1,0 +1,900 @@
+[
+    {
+        "text": "May 31, 2013    Mount Bawakaraeng: Mount Of Hajj", 
+        "line": 0, 
+        "range": [
+            1, 
+            48
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    16, 
+                    33
+                ], 
+                "name": "Mount Bawakaraeng"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    35, 
+                    48
+                ], 
+                "name": "Mount Of Hajj"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mount Bawakaraeng (2.883 meters above sea level) administratively is located in Gowa Regency, South Celebes, part of Lompobatang protected forest area. Bawa means \u201cmouth\u201d and Karaeng means \u201cGod\u201d. Mount Bawakaraeng is popular among hikers in Sulawesi because it\u2019s easily accessible, not too far from Makassar City, also located near a popular destination in Makassar, Malino Highland.", 
+        "line": 2, 
+        "range": [
+            50, 
+            442
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    50, 
+                    67
+                ], 
+                "name": "Mount Bawakaraeng"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    130, 
+                    142
+                ], 
+                "name": "Gowa Regency"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    144, 
+                    157
+                ], 
+                "name": "South Celebes"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    167, 
+                    195
+                ], 
+                "name": "Lompobatang protected forest"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    246, 
+                    263
+                ], 
+                "name": "Mount Bawakaraeng"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    291, 
+                    299
+                ], 
+                "name": "Sulawesi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    349, 
+                    362
+                ], 
+                "name": "Makassar City"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    407, 
+                    415
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    417, 
+                    432
+                ], 
+                "name": "Malino Highland"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Best time to hike Mount Bawakaraeng is between May-September. Most popular route for hikers start from Lembana Village (1400 meters above sea level). There are 10 posts in total. Passing beautiful pinery before get into the forest with unique vegetation. The track is sloping, sometimes the path is blocked by fallen trees which make you crawling under the trunk, or jumping over the trunk. The longest track is between post 7-8 where you have to go walk down and it\u2019s very irritating when many sandfly/gnat/midge flying around you with buzzing noise. After you reach post 8 you will see wonderful waterfall and when the fog comes down it creates a magical view. Water spring can be found in post 1, 3, 5, 8, 10. Amazing view from the top of Mount Bawakaraeng with range of hills in Sulawesi view, and also city view. Here\u2019s my journal when I hiked:", 
+        "line": 4, 
+        "range": [
+            444, 
+            1296
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    453, 
+                    470
+                ], 
+                "name": "Mount Bawakaraeng"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    510, 
+                    515
+                ], 
+                "name": "route"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    538, 
+                    553
+                ], 
+                "name": "Lembana Village"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    598, 
+                    603
+                ], 
+                "name": "posts"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    632, 
+                    638
+                ], 
+                "name": "pinery"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    659, 
+                    665
+                ], 
+                "name": "forest"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    694, 
+                    699
+                ], 
+                "name": "track"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    726, 
+                    730
+                ], 
+                "name": "path"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    838, 
+                    843
+                ], 
+                "name": "track"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    855, 
+                    861
+                ], 
+                "name": "post 7"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    862, 
+                    863
+                ], 
+                "name": "8"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1003, 
+                    1009
+                ], 
+                "name": "post 8"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1033, 
+                    1042
+                ], 
+                "name": "waterfall"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1098, 
+                    1110
+                ], 
+                "name": "Water spring"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1127, 
+                    1133
+                ], 
+                "name": "post 1"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1135, 
+                    1136
+                ], 
+                "name": "3"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1138, 
+                    1139
+                ], 
+                "name": "5"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1141, 
+                    1142
+                ], 
+                "name": "8"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1144, 
+                    1146
+                ], 
+                "name": "10"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1177, 
+                    1194
+                ], 
+                "name": "Mount Bawakaraeng"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1209, 
+                    1214
+                ], 
+                "name": "hills"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1218, 
+                    1226
+                ], 
+                "name": "Sulawesi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1286, 
+                    1293
+                ], 
+                "name": "Lembana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lembana-Post 1: 8.30-9.30 (1 hour)", 
+        "line": 6, 
+        "range": [
+            1298, 
+            1331
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1321, 
+                    1327
+                ], 
+                "name": "Post 1"
+            }
+        ]
+    }, 
+    {
+        "text": "Post 1-Post 2 : 9.45-10.30  (45 minutes)", 
+        "line": 7, 
+        "range": [
+            1332, 
+            1371
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1362, 
+                    1368
+                ], 
+                "name": "Post 2"
+            }
+        ]
+    }, 
+    {
+        "text": "Post 2-Post 3 : 10.45-11.00 (15 minutes)", 
+        "line": 8, 
+        "range": [
+            1372, 
+            1411
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1403, 
+                    1409
+                ], 
+                "name": "Post 3"
+            }
+        ]
+    }, 
+    {
+        "text": "Post 3-Post 4 : 11.10-11.45 (35 minutes)", 
+        "line": 9, 
+        "range": [
+            1412, 
+            1451
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1444, 
+                    1450
+                ], 
+                "name": "Post 4"
+            }
+        ]
+    }, 
+    {
+        "text": "Post 4-Post 5 : 12.00-13.00 (1 hour)", 
+        "line": 10, 
+        "range": [
+            1452, 
+            1487
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Camp for a night", 
+        "line": 11, 
+        "range": [
+            1488, 
+            1503
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1498, 
+                    1504
+                ], 
+                "name": "Post 5"
+            }
+        ]
+    }, 
+    {
+        "text": "Post 5-Post 6 : 9.30-10.30 (1 hour)", 
+        "line": 12, 
+        "range": [
+            1504, 
+            1538
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1505, 
+                    1511
+                ], 
+                "name": "Post 6"
+            }
+        ]
+    }, 
+    {
+        "text": "Post 6-Post 7 : 10.45-11.55 (70 minutes)", 
+        "line": 13, 
+        "range": [
+            1539, 
+            1578
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1541, 
+                    1547
+                ], 
+                "name": "Post 7"
+            }
+        ]
+    }, 
+    {
+        "text": "Post 7-Post 8 : 12.23-14.10 (1 hour and 30 minutes)", 
+        "line": 14, 
+        "range": [
+            1579, 
+            1629
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1582, 
+                    1588
+                ], 
+                "name": "Post 8"
+            }
+        ]
+    }, 
+    {
+        "text": "Post 8-Post 10 : 15.37-18.09 (2 hour and 30 minutes)", 
+        "line": 15, 
+        "range": [
+            1630, 
+            1681
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1634, 
+                    1641
+                ], 
+                "name": "Post 10"
+            }
+        ]
+    }, 
+    {
+        "text": "Camp for a night before summit attack. Around 15 minutes from post 10 to the summit.", 
+        "line": 16, 
+        "range": [
+            1682, 
+            1765
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1704, 
+                    1710
+                ], 
+                "name": "summit"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1742, 
+                    1749
+                ], 
+                "name": "post 10"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1757, 
+                    1763
+                ], 
+                "name": "summit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hajj Ritual in Mount Bawakaraeng", 
+        "line": 18, 
+        "range": [
+            1767, 
+            1798
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1781, 
+                    1798
+                ], 
+                "name": "Mount Bawakaraeng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "While legends are still strongly believed by people in South Celebes relating to mystical story of ancestor before, many people will hike Mount Bawakaraeng during months of Hajj. They believe after they hiked Mount Bawakaraeng for certain times, it\u2019s the same with going to Holy Land Makkah.The tradition of hiking and praying on the top of Mount Bawakaraeng during Idul Adha or before Ramadan fasting has become a phenomenal thing yet still controverted.", 
+        "line": 20, 
+        "range": [
+            1800, 
+            2256
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1855, 
+                    1868
+                ], 
+                "name": "South Celebes"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1938, 
+                    1955
+                ], 
+                "name": "Mount Bawakaraeng"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2009, 
+                    2026
+                ], 
+                "name": "Mount Bawakaraeng"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2074, 
+                    2090
+                ], 
+                "name": "Holy Land Makkah"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2134, 
+                    2158
+                ], 
+                "name": "top of Mount Bawakaraeng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lembah Ramma", 
+        "line": 22, 
+        "range": [
+            2258, 
+            2269
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "At the feet of Mount Bawakaraeng there\u2019s a popular valley called Ramma. A favorite place for those who wants a peaceful place, far from the city and pollution. Fresh and cold air accompany your stay in Lembah Ramma. Surely you have to camp, but believe me it\u2019s a worth to come here if you prefer fun trekking and fun camping. Getting to Lembah Ramma slightly same as the route to Mount Bawakaraeng until first post. An intersection in post one will direct you to Lembah Ramma. Visit Tata Mandong, an old man who lives in Lembah Ramma for 9 years.", 
+        "line": 24, 
+        "range": [
+            2271, 
+            2820
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2278, 
+                    2303
+                ], 
+                "name": "feet of Mount Bawakaraeng"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2322, 
+                    2328
+                ], 
+                "name": "valley"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2336, 
+                    2341
+                ], 
+                "name": "Ramma"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2354, 
+                    2359
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2391, 
+                    2396
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2411, 
+                    2415
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2473, 
+                    2485
+                ], 
+                "name": "Lembah Ramma"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2608, 
+                    2620
+                ], 
+                "name": "Lembah Ramma"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2642, 
+                    2647
+                ], 
+                "name": "route"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2651, 
+                    2668
+                ], 
+                "name": "Mount Bawakaraeng"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2675, 
+                    2685
+                ], 
+                "name": "first post"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2690, 
+                    2702
+                ], 
+                "name": "intersection"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2706, 
+                    2714
+                ], 
+                "name": "post one"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2734, 
+                    2746
+                ], 
+                "name": "Lembah Ramma"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2792, 
+                    2804
+                ], 
+                "name": "Lembah Ramma"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How to get there?", 
+        "line": 26, 
+        "range": [
+            2822, 
+            2838
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From Makassar city drive your motorbike toward Malino and go further until you reach Lembana Village (75 km, around 3-4 hours). If you want to use public transportation, get pete-pete or angkot to Gowa Station, next take public transportation to Malino, ask the driver to take you to Lembana Village (around Rp 8,000). Friendly resident will let you stay in their house before you hike on the next day. Remember to prioritize safety, not summit. Prepare all your hiking stuffs, keep away our nature from rubbish.", 
+        "line": 28, 
+        "range": [
+            2840, 
+            3351
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2843, 
+                    2856
+                ], 
+                "name": "Makassar city"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2868, 
+                    2877
+                ], 
+                "name": "motorbike"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2885, 
+                    2891
+                ], 
+                "name": "Malino"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2923, 
+                    2938
+                ], 
+                "name": "Lembana Village"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2985, 
+                    3006
+                ], 
+                "name": "public transportation"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3012, 
+                    3021
+                ], 
+                "name": "pete-pete"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3025, 
+                    3031
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3035, 
+                    3047
+                ], 
+                "name": "Gowa Station"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3059, 
+                    3080
+                ], 
+                "name": "public transportation"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3084, 
+                    3090
+                ], 
+                "name": "Malino"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3122, 
+                    3137
+                ], 
+                "name": "Lembana Village"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3202, 
+                    3207
+                ], 
+                "name": "house"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hiked in 29-31 March 2013", 
+        "line": 30, 
+        "range": [
+            3353, 
+            3377
+        ], 
+        "entities": []
+    }
+]

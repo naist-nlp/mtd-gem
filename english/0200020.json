@@ -1,0 +1,1207 @@
+[
+    {
+        "text": "May 19, 2023    Watching Humpback Whale In Sydney", 
+        "line": 0, 
+        "range": [
+            1, 
+            49
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    43, 
+                    49
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Are you considering embarking on a whale watching cruise in Sydney? Here are some helpful guidelines on when to catch sight of the magnificent creatures and how to choose the most suitable tour operators for your experience.", 
+        "line": 2, 
+        "range": [
+            51, 
+            274
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    111, 
+                    117
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It all started from a small conversation between me and my colleague.", 
+        "line": 4, 
+        "range": [
+            276, 
+            344
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Another chill morning in the coffee shop that I worked at when we had so much free time to chit chat.", 
+        "line": 6, 
+        "range": [
+            346, 
+            446
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    377, 
+                    388
+                ], 
+                "name": "coffee shop"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "She was so enthusiastic telling her story about what she had done on the weekend, doing whale watching tour in Sydney.", 
+        "line": 8, 
+        "range": [
+            448, 
+            565
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "What is the best month to go whale watching in Sydney?", 
+        "line": 10, 
+        "range": [
+            567, 
+            620
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The whale watching season in Sydney typically runs from May to November each year.", 
+        "line": 12, 
+        "range": [
+            622, 
+            703
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    656, 
+                    662
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "During this time, thousands of humpback whales migrate along the Australian east coast, passing by Sydney on their journey.", 
+        "line": 14, 
+        "range": [
+            705, 
+            827
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    776, 
+                    797
+                ], 
+                "name": "Australian east coast"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    810, 
+                    816
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The peak season for whale sightings in Sydney is generally between June and July.", 
+        "line": 16, 
+        "range": [
+            829, 
+            909
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    875, 
+                    881
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "However, it\u2019s worth noting that whale activity can vary, and sightings are dependent on various factors such as weather conditions and the whales\u2019 migration patterns.", 
+        "line": 18, 
+        "range": [
+            911, 
+            1080
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s recommended to check with local tour operators or visit official websites for the most up-to-date information on whale watching in Sydney.", 
+        "line": 20, 
+        "range": [
+            1082, 
+            1226
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Booking Sydney whale watching tour", 
+        "line": 22, 
+        "range": [
+            1228, 
+            1261
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1240, 
+                    1246
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are several tour operators available to enhance your whale watching experience, including reputable ones like Captain Cook and Oz Whale Watching.", 
+        "line": 24, 
+        "range": [
+            1263, 
+            1413
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "These tours typically last around four hours, and prices usually range from AUD 80 to 100.", 
+        "line": 26, 
+        "range": [
+            1415, 
+            1504
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Typically the package includes BBQ buffet lunch or breakfast (depending on departure time selected).", 
+        "line": 28, 
+        "range": [
+            1506, 
+            1605
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Here are some tips that you can follow to book your whale watching tour:", 
+        "line": 30, 
+        "range": [
+            1607, 
+            1678
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Research tour operators: Start by researching reputable whale watching tour operators in Sydney. Look for companies that have positive reviews, experienced guides, and a good track record of successful whale sightings.", 
+        "line": 32, 
+        "range": [
+            1680, 
+            1897
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1778, 
+                    1784
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Compare tour options: Check the different tour options offered by various operators. Consider factors such as the duration of the tour, departure location, size of the vessel, onboard amenities, and the overall experience they provide.", 
+        "line": 34, 
+        "range": [
+            1899, 
+            2133
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Check availability: Once you have narrowed down your options, check the availability of tours on your preferred date and time. Many tour operators have online booking systems that allow you to see real-time availability and make reservations.", 
+        "line": 36, 
+        "range": [
+            2135, 
+            2376
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Make a reservation: Once you have selected a tour and confirmed its availability, proceed to make a reservation. This can typically be done through the tour operator\u2019s website or by contacting them directly via phone or email. Provide the required information, such as the number of participants and any special requests you may have.", 
+        "line": 38, 
+        "range": [
+            2378, 
+            2713
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Review cancellation policies: Before finalizing your booking, carefully review the tour operator\u2019s cancellation and refund policies. Ensure you understand the terms and conditions, including any potential fees or restrictions in case you need to modify or cancel your reservation.", 
+        "line": 40, 
+        "range": [
+            2715, 
+            2996
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Confirm your booking: After making your reservation, you will usually receive a confirmation email or booking reference number. Keep this information handy for future reference.", 
+        "line": 42, 
+        "range": [
+            2998, 
+            3174
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My whale watching experience in Sydney", 
+        "line": 44, 
+        "range": [
+            3176, 
+            3213
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I came back home, thought long and hard to make the decision.", 
+        "line": 46, 
+        "range": [
+            3215, 
+            3275
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3219, 
+                    3225
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3239, 
+                    3243
+                ], 
+                "name": "home"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I hate spending money (stingy!) so it took me quite a while to make up my mind.", 
+        "line": 48, 
+        "range": [
+            3277, 
+            3355
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "One side of me was trying to persuade me, it\u2019s a cool thing, a new experience for me to see whales migrating while another side of me telling me not to spend money.", 
+        "line": 50, 
+        "range": [
+            3357, 
+            3522
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I decided to go for it. I quickly surfed the internet, first, Groupon site where the deal came from.", 
+        "line": 52, 
+        "range": [
+            3524, 
+            3623
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There were several companies that provided whale watching tour.", 
+        "line": 54, 
+        "range": [
+            3625, 
+            3687
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I did couple research reading reviews about the companies and my choice fell to Oz Whale Watching.", 
+        "line": 56, 
+        "range": [
+            3689, 
+            3786
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I tried to plan everything well cause I didn\u2019t want to miss the chance meeting a whale.", 
+        "line": 58, 
+        "range": [
+            3788, 
+            3876
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Even though it\u2019s guaranteed to see a whale and the company offered another free tour if no whales were seen, still.", 
+        "line": 60, 
+        "range": [
+            3878, 
+            3994
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I wanted everything went smooth.", 
+        "line": 62, 
+        "range": [
+            3996, 
+            4027
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Also I was concerned about Sydney\u2019s weather that always keep changing especially in couple weeks ago, the weather was literally shit.", 
+        "line": 64, 
+        "range": [
+            4029, 
+            4163
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4071, 
+                    4079
+                ], 
+                "name": "Sydney\u2019s"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Everything\u2019s booked and we\u2019re set to go.", 
+        "line": 66, 
+        "range": [
+            4165, 
+            4208
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Meeting point was at Darling Harbor where we gathered to board on the boat.", 
+        "line": 68, 
+        "range": [
+            4210, 
+            4284
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4221, 
+                    4234
+                ], 
+                "name": "Meeting point"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4242, 
+                    4256
+                ], 
+                "name": "Darling Harbor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The weather was nice, even though it\u2019s a bit chilly.", 
+        "line": 70, 
+        "range": [
+            4286, 
+            4339
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4291, 
+                    4295
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "As soon as I hopped on the boat, I tried to find a good spot to sit.", 
+        "line": 72, 
+        "range": [
+            4341, 
+            4408
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4379, 
+                    4383
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The boat was big enough with some seats inside and outside.", 
+        "line": 74, 
+        "range": [
+            4410, 
+            4468
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4426, 
+                    4430
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The boat started to move slowly leaving Darling Harbor.", 
+        "line": 76, 
+        "range": [
+            4470, 
+            4524
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4487, 
+                    4491
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We passed Sydney Opera House and Harbor Bridge, what a nice view.", 
+        "line": 78, 
+        "range": [
+            4526, 
+            4590
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4550, 
+                    4568
+                ], 
+                "name": "Sydney Opera House"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4573, 
+                    4586
+                ], 
+                "name": "Harbor Bridge"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Then we enjoyed the breakfast which was included in the package; bun, sausage, and scramble egg, not bad.", 
+        "line": 80, 
+        "range": [
+            4592, 
+            4696
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I saw the whale!", 
+        "line": 82, 
+        "range": [
+            4698, 
+            4713
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The sea was a bit rough and the wind could be a little bit annoying but other than that, the sky was clear and the sun was beautiful.", 
+        "line": 84, 
+        "range": [
+            4715, 
+            4847
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Not long after we sailed, about 15 minutes, we spotted something.", 
+        "line": 86, 
+        "range": [
+            4849, 
+            4913
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A whale just came up to surface. That\u2019s really quick!", 
+        "line": 88, 
+        "range": [
+            4915, 
+            4969
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We all rushed to the front deck.", 
+        "line": 90, 
+        "range": [
+            4971, 
+            5002
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I could see this black shadow underneath the water and soon the tail followed before it disappeared.", 
+        "line": 92, 
+        "range": [
+            5004, 
+            5103
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s a humpback whale, the most spotted whale that migrates from Antarctic up to the more temperate waters of Australia.", 
+        "line": 94, 
+        "range": [
+            5105, 
+            5226
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5190, 
+                    5199
+                ], 
+                "name": "Antarctic"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There\u2019s this sort of interval when they appeared to the surface and we had to wait another 10-15 minutes before it showed up again.", 
+        "line": 96, 
+        "range": [
+            5228, 
+            5360
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5235, 
+                    5244
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some of us stood still in front of the deck sharpened our eyes tried to spot the whale while others remained sitting inside.", 
+        "line": 98, 
+        "range": [
+            5362, 
+            5485
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I bet they couldn\u2019t handle the wind and the shaky boat.", 
+        "line": 100, 
+        "range": [
+            5487, 
+            5543
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The captain of the boat and the guide were experienced enough to follow the track of the whales.", 
+        "line": 102, 
+        "range": [
+            5545, 
+            5640
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It looked funny when everyone\u2019s rushing from one side to another side to get better sight in the state where it\u2019s almost impossible to stand steady without holding onto something.", 
+        "line": 104, 
+        "range": [
+            5642, 
+            5824
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The sun went up higher, more boats were coming.", 
+        "line": 106, 
+        "range": [
+            5826, 
+            5872
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Personally I was very happy to see the whales not just once but couple of times coming up to the surface.", 
+        "line": 108, 
+        "range": [
+            5874, 
+            5978
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There were two of them, a young mother and a calf moving gracefully in the water not distracted by the boats above.", 
+        "line": 110, 
+        "range": [
+            5980, 
+            6094
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "All of sudden, the calf just jumped out of the water and slammed itself to the water.", 
+        "line": 112, 
+        "range": [
+            6096, 
+            6180
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s the whale behavior called breaching.", 
+        "line": 114, 
+        "range": [
+            6182, 
+            6224
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Everyone was screaming in excitement, couldn\u2019t believe what had just happened. Best feeling ever!", 
+        "line": 116, 
+        "range": [
+            6226, 
+            6324
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A few reminder", 
+        "line": 118, 
+        "range": [
+            6326, 
+            6339
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Little preparation is necessary to enhance the experience of watching whale.", 
+        "line": 120, 
+        "range": [
+            6341, 
+            6416
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bear in mind that the whales are wild creature.", 
+        "line": 122, 
+        "range": [
+            6418, 
+            6464
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Here\u2019re some information that might help you out:", 
+        "line": 124, 
+        "range": [
+            6466, 
+            6516
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "1. The average cost for doing this tour is $80 \u2013 100.", 
+        "line": 125, 
+        "range": [
+            6517, 
+            6571
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Best months to do whale watching in Sydney is May-November.", 
+        "line": 126, 
+        "range": [
+            6572, 
+            6633
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Check the weather before you book the tour.", 
+        "line": 127, 
+        "range": [
+            6634, 
+            6679
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Morning or afternoon doesn\u2019t really matter.", 
+        "line": 128, 
+        "range": [
+            6680, 
+            6727
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Bring jacket, hat, sunglasses, camera, and tablets if you\u2019re not comfortable with sea motion.", 
+        "line": 129, 
+        "range": [
+            6728, 
+            6825
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "6. Don\u2019t eat too much, you don\u2019t wanna get seasick!", 
+        "line": 130, 
+        "range": [
+            6826, 
+            6880
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "7. Front deck is my favorite spot.", 
+        "line": 131, 
+        "range": [
+            6881, 
+            6914
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "8. Enjoy your time!", 
+        "line": 132, 
+        "range": [
+            6915, 
+            6933
+        ], 
+        "entities": []
+    }
+]

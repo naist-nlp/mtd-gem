@@ -1,0 +1,4624 @@
+[
+    {
+        "text": "June 19, 2023    Togean Islands: The Ultimate Travel Guide To The Paradise!", 
+        "line": 0, 
+        "range": [
+            1, 
+            75
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    17, 
+                    31
+                ], 
+                "name": "Togean Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The Togean (or Togian) Islands are one of the less-traveled islands in Indonesia. Isolated in the middle of Tomini Gulf, Central Sulawesi, Togean Islands are the best-kept secret islands, far from the frenetic crowd, which I love so.", 
+        "line": 2, 
+        "range": [
+            77, 
+            309
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    81, 
+                    87
+                ], 
+                "name": "Togean"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    92, 
+                    98
+                ], 
+                "name": "Togian"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    137, 
+                    144
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    148, 
+                    157
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    185, 
+                    196
+                ], 
+                "name": "Tomini Gulf"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    198, 
+                    214
+                ], 
+                "name": "Central Sulawesi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    216, 
+                    230
+                ], 
+                "name": "Togean Islands"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    256, 
+                    263
+                ], 
+                "name": "islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "One can argue \u2013 there\u2019s nothing much to do here \u2013 that\u2019s acceptable.", 
+        "line": 4, 
+        "range": [
+            311, 
+            386
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "However, some people, including me are fond to a lone quiet place to rejuvenate ourselves.", 
+        "line": 6, 
+        "range": [
+            388, 
+            477
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    442, 
+                    447
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Therefore, this island is unsuitable for everyone, it depends on what you\u2019re looking for.", 
+        "line": 8, 
+        "range": [
+            479, 
+            569
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    490, 
+                    496
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019re looking for an ideal tropical island to rest..maybe with a bit of adventure, then Togean Islands are the perfect bliss \u2013 a destination that will never disappoint you.", 
+        "line": 10, 
+        "range": [
+            571, 
+            750
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    596, 
+                    611
+                ], 
+                "name": "tropical island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    657, 
+                    671
+                ], 
+                "name": "Togean Islands"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    698, 
+                    709
+                ], 
+                "name": "destination"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "With impeccable lines of seabed, sprawling gardens of coral, and a rare opportunity to swim with sting-less jellyfish, Togean Islands will perhaps become one of the best travel experience you will never forget!", 
+        "line": 12, 
+        "range": [
+            752, 
+            961
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    862, 
+                    876
+                ], 
+                "name": "Togean Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How to Get to Togean Islands", 
+        "line": 14, 
+        "range": [
+            963, 
+            990
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    969, 
+                    983
+                ], 
+                "name": "Togean Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Togean Islands are located in the middle of Tomini Gulf. Two common routes to get to the islands are via Ampana and Gorontalo.", 
+        "line": 16, 
+        "range": [
+            992, 
+            1117
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1029, 
+                    1040
+                ], 
+                "name": "Tomini Gulf"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1053, 
+                    1059
+                ], 
+                "name": "routes"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1074, 
+                    1081
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1090, 
+                    1096
+                ], 
+                "name": "Ampana"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1101, 
+                    1110
+                ], 
+                "name": "Gorontalo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Getting to Togean Islands from Ampana", 
+        "line": 18, 
+        "range": [
+            1119, 
+            1158
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1127, 
+                    1141
+                ], 
+                "name": "Togean Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1147, 
+                    1153
+                ], 
+                "name": "Ampana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The easiest way to get to Ampana is by flying from Palu City.", 
+        "line": 20, 
+        "range": [
+            1160, 
+            1220
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1181, 
+                    1187
+                ], 
+                "name": "Ampana"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1206, 
+                    1215
+                ], 
+                "name": "Palu City"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From Jakarta, Surabaya, Bali, or Makassar, catch a flight to Palu then another flight to Ampana.", 
+        "line": 22, 
+        "range": [
+            1222, 
+            1317
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1223, 
+                    1230
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1232, 
+                    1240
+                ], 
+                "name": "Surabaya"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1242, 
+                    1246
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1251, 
+                    1259
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1269, 
+                    1275
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1279, 
+                    1283
+                ], 
+                "name": "Palu"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1297, 
+                    1303
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1307, 
+                    1313
+                ], 
+                "name": "Ampana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The flight schedule from Palu to Ampana is operated by Susi Air every Monday and Wednesday morning (booking number by whatsApp: +62 811-2127-144)", 
+        "line": 24, 
+        "range": [
+            1319, 
+            1463
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1320, 
+                    1326
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1341, 
+                    1345
+                ], 
+                "name": "Palu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1349, 
+                    1355
+                ], 
+                "name": "Ampana"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1371, 
+                    1379
+                ], 
+                "name": "Susi Air"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Once you\u2019re in Ampana, you still have to get a boat to Wakai.", 
+        "line": 26, 
+        "range": [
+            1465, 
+            1527
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1478, 
+                    1484
+                ], 
+                "name": "Ampana"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1510, 
+                    1514
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1518, 
+                    1523
+                ], 
+                "name": "Wakai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The boat leaves everyday at 10 a.m. and you will arrive around 1 p.m. (3 hours).", 
+        "line": 28, 
+        "range": [
+            1529, 
+            1608
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1530, 
+                    1534
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The price of the boat is Rp 150.000/person.", 
+        "line": 30, 
+        "range": [
+            1610, 
+            1652
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1625, 
+                    1629
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Recommended hotel for an overnight stay in Ampana is Lawaka Hotel (check rate)", 
+        "line": 32, 
+        "range": [
+            1654, 
+            1731
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1665, 
+                    1670
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1696, 
+                    1702
+                ], 
+                "name": "Ampana"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1706, 
+                    1718
+                ], 
+                "name": "Lawaka Hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Getting to Togean Islands from Gorontalo", 
+        "line": 34, 
+        "range": [
+            1733, 
+            1775
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1747, 
+                    1761
+                ], 
+                "name": "Togean Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1767, 
+                    1776
+                ], 
+                "name": "Gorontalo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Take a flight from Jakarta or Surabaya to Gorontalo.", 
+        "line": 36, 
+        "range": [
+            1777, 
+            1828
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1785, 
+                    1791
+                ], 
+                "name": "flight"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1797, 
+                    1804
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1808, 
+                    1816
+                ], 
+                "name": "Surabaya"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1820, 
+                    1829
+                ], 
+                "name": "Gorontalo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Next, head to the ferry terminal which is about an hour.", 
+        "line": 38, 
+        "range": [
+            1830, 
+            1885
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1850, 
+                    1864
+                ], 
+                "name": "ferry terminal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ferry to Wakai leaves from Gorontalo every Tuesday and Friday at 6 p.m.", 
+        "line": 40, 
+        "range": [
+            1887, 
+            1957
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1890, 
+                    1895
+                ], 
+                "name": "Ferry"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1899, 
+                    1904
+                ], 
+                "name": "Wakai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1917, 
+                    1926
+                ], 
+                "name": "Gorontalo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The ferry ride takes around 12 hours and you will arrive in Wakai on the next morning.", 
+        "line": 42, 
+        "range": [
+            1959, 
+            2044
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1967, 
+                    1972
+                ], 
+                "name": "ferry"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2023, 
+                    2028
+                ], 
+                "name": "Wakai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The price for the ferry ride is:", 
+        "line": 44, 
+        "range": [
+            2046, 
+            2077
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2069, 
+                    2074
+                ], 
+                "name": "ferry"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rp 64.000 for economy class (no AC)", 
+        "line": 46, 
+        "range": [
+            2079, 
+            2113
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Rp 89.000 for business class (with AC)", 
+        "line": 47, 
+        "range": [
+            2114, 
+            2151
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Rp 500.000 for a cabin, fits for 4 people.", 
+        "line": 48, 
+        "range": [
+            2152, 
+            2193
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Recommended hotel for an overnight stay in Gorontalo is Aston Gorontalo (check the rates here).", 
+        "line": 50, 
+        "range": [
+            2195, 
+            2289
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2216, 
+                    2221
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2247, 
+                    2256
+                ], 
+                "name": "Gorontalo"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2260, 
+                    2275
+                ], 
+                "name": "Aston Gorontalo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Once you\u2019re in Wakai, it is easier to get to the islands around.", 
+        "line": 52, 
+        "range": [
+            2291, 
+            2356
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2316, 
+                    2321
+                ], 
+                "name": "Wakai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2350, 
+                    2357
+                ], 
+                "name": "islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some resorts can pick you up so it\u2019s better if you arrange your accommodation and your arrival ahead.", 
+        "line": 54, 
+        "range": [
+            2358, 
+            2460
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2372, 
+                    2379
+                ], 
+                "name": "resorts"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2431, 
+                    2444
+                ], 
+                "name": "accommodation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you have plenty of time, I strongly encourage you to do the whole Sulawesi Island, or overland from south to north or vice versa instead just flying to Togean Islands.", 
+        "line": 56, 
+        "range": [
+            2462, 
+            2631
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2539, 
+                    2554
+                ], 
+                "name": "Sulawesi Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s because Togean Islands is located in the middle of Sulawesi and there are so many things to see in Sulawesi.", 
+        "line": 58, 
+        "range": [
+            2633, 
+            2747
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2655, 
+                    2669
+                ], 
+                "name": "Togean Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2698, 
+                    2706
+                ], 
+                "name": "Sulawesi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "In my opinion, it\u2019s a waste of time if you just do only Togean Islands unless you don\u2019t really have much time.", 
+        "line": 60, 
+        "range": [
+            2749, 
+            2862
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2813, 
+                    2827
+                ], 
+                "name": "Togean Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you\u2019re planning to do overland. I suggest you to spare 1-2 months, even longer for the whole Sulawesi.", 
+        "line": 62, 
+        "range": [
+            2864, 
+            2970
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you start from the south, you can fly to Makassar and then do everything by car or bus to Tana Toraja \u2013 Tentena \u2013 Poso \u2013 Ampana \u2013 Togean Islands \u2013 Gorontalo \u2013 Tomohon \u2013 Manado \u2013 Bunaken, or you can do from the north starting from Manado down to Makassar.", 
+        "line": 64, 
+        "range": [
+            2972, 
+            3244
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3020, 
+                    3028
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3055, 
+                    3058
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3062, 
+                    3065
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3069, 
+                    3080
+                ], 
+                "name": "Tana Toraja"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3083, 
+                    3090
+                ], 
+                "name": "Tentena"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3093, 
+                    3097
+                ], 
+                "name": "Poso"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3100, 
+                    3106
+                ], 
+                "name": "Ampana"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3109, 
+                    3123
+                ], 
+                "name": "Togean Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3126, 
+                    3135
+                ], 
+                "name": "Gorontalo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3138, 
+                    3145
+                ], 
+                "name": "Tomohon"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3148, 
+                    3154
+                ], 
+                "name": "Manado"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3157, 
+                    3164
+                ], 
+                "name": "Bunaken"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3209, 
+                    3215
+                ], 
+                "name": "Manado"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3224, 
+                    3232
+                ], 
+                "name": "Makassar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "List of Togean Islands Accomodation", 
+        "line": 66, 
+        "range": [
+            3246, 
+            3280
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3258, 
+                    3270
+                ], 
+                "name": "Accomodation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A range of typical beach resort with wooden bungalows under the shades of coconut trees and hammock in front of your room spreads in the islands of Togean.", 
+        "line": 68, 
+        "range": [
+            3282, 
+            3436
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3291, 
+                    3303
+                ], 
+                "name": "beach resort"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3309, 
+                    3325
+                ], 
+                "name": "wooden bungalows"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3409, 
+                    3416
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3420, 
+                    3426
+                ], 
+                "name": "Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Most of the accommodations offer full board package so it is included 3x meals.", 
+        "line": 70, 
+        "range": [
+            3438, 
+            3516
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3441, 
+                    3455
+                ], 
+                "name": "accommodations"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Electricity is limited in the islands available only from 6 p.m. till midnight.", 
+        "line": 72, 
+        "range": [
+            3518, 
+            3596
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3540, 
+                    3547
+                ], 
+                "name": "islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Reconnect \u2013 Private Island Resort", 
+        "line": 74, 
+        "range": [
+            3598, 
+            3635
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3621, 
+                    3627
+                ], 
+                "name": "Resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Located on Buka Buka Island \u2013 the closest island from Ampana \u2013 Reconnect features 10 accommodations, including Glamping Rooms and Beach Villas.", 
+        "line": 76, 
+        "range": [
+            3637, 
+            3783
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3640, 
+                    3656
+                ], 
+                "name": "Buka Buka Island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3671, 
+                    3677
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3683, 
+                    3689
+                ], 
+                "name": "Ampana"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3692, 
+                    3701
+                ], 
+                "name": "Reconnect"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3714, 
+                    3728
+                ], 
+                "name": "accommodations"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3740, 
+                    3754
+                ], 
+                "name": "Glamping Rooms"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3759, 
+                    3771
+                ], 
+                "name": "Beach Villas"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Imagined as a sustainable destination, the resort offers 24/7 electricity and desalinated water, 100% sun powered.", 
+        "line": 78, 
+        "range": [
+            3785, 
+            3898
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3800, 
+                    3811
+                ], 
+                "name": "destination"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3817, 
+                    3823
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3890, 
+                    3899
+                ], 
+                "name": "Reconnect"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Reconnect also offers phone signal and free wifi.", 
+        "line": 80, 
+        "range": [
+            3900, 
+            3948
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "To simplify the access, Reconnect handles all transportation directly from Luwuk, via chartered cars and boat, so you can enjoy, sit back and relax.", 
+        "line": 82, 
+        "range": [
+            3950, 
+            4097
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3965, 
+                    3974
+                ], 
+                "name": "Reconnect"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3987, 
+                    4001
+                ], 
+                "name": "transportation"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4016, 
+                    4021
+                ], 
+                "name": "Luwuk"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4037, 
+                    4041
+                ], 
+                "name": "cars"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4046, 
+                    4050
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "They also offers day trips to the Togean Islands, so if you want a good compromise between comfort, easy access and still options to explore, this might be the place for you.", 
+        "line": 84, 
+        "range": [
+            4099, 
+            4272
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4125, 
+                    4139
+                ], 
+                "name": "Togean Islands"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4251, 
+                    4256
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Price: Rp 1.000.000 and Rp 1.500.000  per room, including all meals for 2 people.", 
+        "line": 86, 
+        "range": [
+            4274, 
+            4354
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bookings can be made via:", 
+        "line": 88, 
+        "range": [
+            4356, 
+            4380
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Website: www.reconnect.id", 
+        "line": 90, 
+        "range": [
+            4382, 
+            4406
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Instagram: www.instagram.com/reconnect.island", 
+        "line": 91, 
+        "range": [
+            4407, 
+            4451
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Whatsapp: +62 812 460 913 46", 
+        "line": 92, 
+        "range": [
+            4452, 
+            4479
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Fadhila Cottages", 
+        "line": 94, 
+        "range": [
+            4481, 
+            4499
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4482, 
+                    4498
+                ], 
+                "name": "Fadhila Cottages"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I spent couple of nights in Fadhila Cottages. It is located in a small island across Katupat Island.", 
+        "line": 96, 
+        "range": [
+            4501, 
+            4600
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4528, 
+                    4544
+                ], 
+                "name": "Fadhila Cottages"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4571, 
+                    4577
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4585, 
+                    4599
+                ], 
+                "name": "Katupat Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I really like the warm ambience of the whole island, that feeling of staying in a quiet, natural, how do I explain this, it feels very down to earth for me.", 
+        "line": 98, 
+        "range": [
+            4602, 
+            4757
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4647, 
+                    4653
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The food here was fantastic with a generous portion, more than enough for everyone.", 
+        "line": 100, 
+        "range": [
+            4759, 
+            4841
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The huts are basic with mosquito net and hammock and expect to see bees, lizards, and spiders in your room.", 
+        "line": 102, 
+        "range": [
+            4843, 
+            4949
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4849, 
+                    4853
+                ], 
+                "name": "huts"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The only thing that can be improved is the cleanliness of the room, overall it was satisfying. (Rp 200.000 \u2013 Rp 350.000/person/night)", 
+        "line": 104, 
+        "range": [
+            4951, 
+            5085
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Kadidiri Paradise", 
+        "line": 106, 
+        "range": [
+            5087, 
+            5106
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I also had a chance to stay in Kadidiri Paradise which is located in Kadidiri Island, not far from the jellyfish lake.", 
+        "line": 108, 
+        "range": [
+            5108, 
+            5225
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5142, 
+                    5159
+                ], 
+                "name": "Kadidiri Paradise"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5180, 
+                    5195
+                ], 
+                "name": "Kadidiri Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The resort is fancier with facilities such as canoe, volleyball net, and a hut on the pier for relaxing area.", 
+        "line": 110, 
+        "range": [
+            5227, 
+            5335
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5235, 
+                    5241
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5306, 
+                    5309
+                ], 
+                "name": "hut"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5317, 
+                    5321
+                ], 
+                "name": "pier"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The beach is not that impressive, and the food was okay at that time.", 
+        "line": 112, 
+        "range": [
+            5337, 
+            5405
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5346, 
+                    5351
+                ], 
+                "name": "beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I would give an A for the cleanliness of the room. (Rp 200.000 \u2013 Rp 450.000/person/night)", 
+        "line": 114, 
+        "range": [
+            5407, 
+            5497
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Bahia Tomini Eco Resort", 
+        "line": 116, 
+        "range": [
+            5499, 
+            5524
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Located in Malenge Island, Bahia Tomini Eco Resort is my favorite place so far!", 
+        "line": 118, 
+        "range": [
+            5526, 
+            5604
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5543, 
+                    5557
+                ], 
+                "name": "Malenge Island"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5559, 
+                    5582
+                ], 
+                "name": "Bahia Tomini Eco Resort"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5598, 
+                    5603
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I didn\u2019t stay here but soon when I saw this place, I fell in love and would love to come back and stay in this resort.", 
+        "line": 120, 
+        "range": [
+            5606, 
+            5725
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5657, 
+                    5662
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are only 4 bungalows here and all of them are facing straight to the sea.", 
+        "line": 122, 
+        "range": [
+            5727, 
+            5805
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5750, 
+                    5759
+                ], 
+                "name": "bungalows"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perfect white sand beach and attractive design of the bungalows, I wouldn\u2019t mind spending time in this super laid-back island. (Rp 350.000 \u2013 Rp 500.000/person/night)", 
+        "line": 124, 
+        "range": [
+            5807, 
+            5975
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5833, 
+                    5838
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5868, 
+                    5877
+                ], 
+                "name": "bungalows"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5933, 
+                    5939
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Other recommendations", 
+        "line": 126, 
+        "range": [
+            5977, 
+            6000
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "For budget option you can go to Sunset Beach, 20 minutes by boat from Wakai.", 
+        "line": 128, 
+        "range": [
+            6002, 
+            6077
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6039, 
+                    6051
+                ], 
+                "name": "Sunset Beach"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6067, 
+                    6071
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Price per person per night is Rp 175.000 including three-times meal in low season and Rp 200.000 on high season.", 
+        "line": 130, 
+        "range": [
+            6079, 
+            6190
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 131, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "For a unique experience staying in bamboo bungalows then Lia Beach in Waleakodi Island offer secluded and quiet stay with only two bungalows available.", 
+        "line": 132, 
+        "range": [
+            6192, 
+            6342
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6234, 
+                    6250
+                ], 
+                "name": "bamboo bungalows"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6256, 
+                    6265
+                ], 
+                "name": "Lia Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6269, 
+                    6285
+                ], 
+                "name": "Waleakodi Island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6330, 
+                    6339
+                ], 
+                "name": "bungalows"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 133, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Price per person per night is Rp 350.000.", 
+        "line": 134, 
+        "range": [
+            6344, 
+            6384
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 135, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If your main objective to come to Togean Islands is scuba dive, then you can choose to stay either in Sanctum Dive Resort in Una Una Island or Black Marlin Dive Resort in Kadidiri Island.", 
+        "line": 136, 
+        "range": [
+            6386, 
+            6572
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6429, 
+                    6443
+                ], 
+                "name": "Togean Islands"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6497, 
+                    6516
+                ], 
+                "name": "Sanctum Dive Resort"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6520, 
+                    6534
+                ], 
+                "name": "Una Una Island"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6538, 
+                    6562
+                ], 
+                "name": "Black Marlin Dive Resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 137, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Both dive resorts emphasize on diving experience, you go check their website for accommodation and diving packages offered.", 
+        "line": 138, 
+        "range": [
+            6574, 
+            6696
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6589, 
+                    6601
+                ], 
+                "name": "dive resorts"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6665, 
+                    6678
+                ], 
+                "name": "accommodation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 139, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Another option is Araya Dive Resort which is the nearest dive center if you wish to dive in Pasir Tengah and Goa Goa.", 
+        "line": 140, 
+        "range": [
+            6698, 
+            6814
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6727, 
+                    6744
+                ], 
+                "name": "Araya Dive Resort"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6766, 
+                    6777
+                ], 
+                "name": "dive center"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6801, 
+                    6813
+                ], 
+                "name": "Pasir Tengah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 141, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "10 Things to Do in Togean Islands", 
+        "line": 142, 
+        "range": [
+            6816, 
+            6848
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6818, 
+                    6825
+                ], 
+                "name": "Goa Goa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 143, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Now, check out these top 10 things to do in Togean Islands, trust me it\u2019d be an amazing experience!", 
+        "line": 144, 
+        "range": [
+            6850, 
+            6950
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6907, 
+                    6921
+                ], 
+                "name": "Togean Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 145, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Plunge into the crystal-clear water of Togean Islands", 
+        "line": 146, 
+        "range": [
+            6952, 
+            7007
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 147, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The Togean Islands consist of small islands and islets. No matter which island you go or stay, you will most-likely find this dreamlike paradise \u2013 a calm crystal clear water right in front of your eyes.", 
+        "line": 148, 
+        "range": [
+            7009, 
+            7212
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7026, 
+                    7040
+                ], 
+                "name": "Togean Islands"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7058, 
+                    7065
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7070, 
+                    7076
+                ], 
+                "name": "islets"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7094, 
+                    7100
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 149, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was hard for me to resist the temptation to jump into the water, refreshing myself under the warm heat of the sun and start making that tanning line.", 
+        "line": 150, 
+        "range": [
+            7214, 
+            7365
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 151, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I\u2019m sure you\u2019ll feel the same way as I do.", 
+        "line": 152, 
+        "range": [
+            7367, 
+            7412
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 153, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Snorkeling around the island is also a good idea to discover what lies below the surface.", 
+        "line": 154, 
+        "range": [
+            7414, 
+            7502
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7446, 
+                    7452
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 155, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Enjoy your time with no rush", 
+        "line": 156, 
+        "range": [
+            7504, 
+            7534
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 157, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It is almost impossible to get coverage in Togean Islands.", 
+        "line": 158, 
+        "range": [
+            7536, 
+            7593
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 159, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Electricity is also limited from 6-11 p.m. Forget your phone and forget about all the complicated things out there.", 
+        "line": 160, 
+        "range": [
+            7595, 
+            7709
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 161, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "You are basically an outcast in this small island. I would use this chance to relax and do things that I like.", 
+        "line": 162, 
+        "range": [
+            7711, 
+            7820
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7768, 
+                    7774
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 163, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Most of the resorts provide hammock outside of each room. I would lay down and swing while reading books.", 
+        "line": 164, 
+        "range": [
+            7822, 
+            7926
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7849, 
+                    7856
+                ], 
+                "name": "resorts"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 165, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I would grab a pen and a paper, writing whatever I feel like.", 
+        "line": 166, 
+        "range": [
+            7928, 
+            7988
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 167, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I would play with the dogs, play volleyball, do yoga, or even chit chat with friends.", 
+        "line": 168, 
+        "range": [
+            7990, 
+            8074
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 169, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I would paddle a kayak, sing my favorite songs, or stare at the stars.", 
+        "line": 170, 
+        "range": [
+            8076, 
+            8145
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 171, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I wouldn\u2019t mind spending time here! Five days were not long enough for me to stay in this paradise.", 
+        "line": 172, 
+        "range": [
+            8147, 
+            8247
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 173, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Dive, dive, and dive", 
+        "line": 174, 
+        "range": [
+            8249, 
+            8271
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 175, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Diving in Togean Islands are strongly encouraged, as the underwater offers impressive reef formations.", 
+        "line": 176, 
+        "range": [
+            8273, 
+            8374
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8302, 
+                    8316
+                ], 
+                "name": "Togean Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 177, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019s one of the ultimate dive sites in Sulawesi.", 
+        "line": 178, 
+        "range": [
+            8376, 
+            8425
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 179, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Togean Islands are the epicenter of the world renowned \u201cCoral Triangle\u201d.", 
+        "line": 180, 
+        "range": [
+            8427, 
+            8502
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8435, 
+                    8443
+                ], 
+                "name": "Sulawesi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8446, 
+                    8460
+                ], 
+                "name": "Togean Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 181, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dive sites are mostly concentrated in Kadidiri and Una-una Island.", 
+        "line": 182, 
+        "range": [
+            8504, 
+            8569
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8520, 
+                    8530
+                ], 
+                "name": "Dive sites"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8558, 
+                    8566
+                ], 
+                "name": "Kadidiri"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 183, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I\u2019ve heard good reviews from my friends who did scuba trip around the islands.", 
+        "line": 184, 
+        "range": [
+            8571, 
+            8650
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8571, 
+                    8585
+                ], 
+                "name": "Una-una Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 185, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some exquisite dive sites are including the Second World War fighter plane, the B24 Bomber, the atoll, and Una-una.", 
+        "line": 186, 
+        "range": [
+            8652, 
+            8766
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8658, 
+                    8665
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8683, 
+                    8693
+                ], 
+                "name": "dive sites"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8712, 
+                    8742
+                ], 
+                "name": "Second World War fighter plane"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8748, 
+                    8758
+                ], 
+                "name": "B24 Bomber"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 187, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Expect to see black-tail barracuda, nudibranches, turtles, sharks, etc. Not a diver? Neither do I.", 
+        "line": 188, 
+        "range": [
+            8768, 
+            8865
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8775, 
+                    8782
+                ], 
+                "name": "Una-una"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 189, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Snorkeling around Togean is enjoyable.", 
+        "line": 190, 
+        "range": [
+            8867, 
+            8904
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 191, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Favorite snorkeling sites are Hotel California and Reef 1. The reef was okay, though the fishes are not that diverse.", 
+        "line": 192, 
+        "range": [
+            8906, 
+            9022
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8934, 
+                    8950
+                ], 
+                "name": "snorkeling sites"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8955, 
+                    8971
+                ], 
+                "name": "Hotel California"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8976, 
+                    8982
+                ], 
+                "name": "Reef 1"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 193, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Paddle a boat in the middle of the night, see the glowing plankton", 
+        "line": 194, 
+        "range": [
+            9024, 
+            9092
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9056, 
+                    9060
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 195, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I haven\u2019t done it myself but I saw a group of people with snorkeling mask, leaving Fadhila Cottage \u2013  the resort where I stayed, and paddled the boat towards the sea in the middle of the dark.", 
+        "line": 196, 
+        "range": [
+            9094, 
+            9289
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9198, 
+                    9213
+                ], 
+                "name": "Fadhila Cottage"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9221, 
+                    9227
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9260, 
+                    9264
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9277, 
+                    9280
+                ], 
+                "name": "sea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 197, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "When they came back, they told me they were swimming with the glowing plankton.", 
+        "line": 198, 
+        "range": [
+            9291, 
+            9369
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 199, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I have no idea how a glowing plankton looks like.", 
+        "line": 200, 
+        "range": [
+            9371, 
+            9419
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 201, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "\u201cIt\u2019s like swimming with the stars\u201d, one of the girl told me.", 
+        "line": 202, 
+        "range": [
+            9421, 
+            9487
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 203, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Crossing from one island to another over a long wooden bridge", 
+        "line": 204, 
+        "range": [
+            9489, 
+            9552
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9525, 
+                    9531
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 205, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A long wooden bridge stretches about one kilometer between Malenge and Papan Island.", 
+        "line": 206, 
+        "range": [
+            9554, 
+            9637
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9555, 
+                    9568
+                ], 
+                "name": "wooden bridge"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9577, 
+                    9590
+                ], 
+                "name": "wooden bridge"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9629, 
+                    9636
+                ], 
+                "name": "Malenge"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 207, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The bridge was built to connect both islands, make it easier for students from Papan Island to walk and attend the class at Malenge Island.", 
+        "line": 208, 
+        "range": [
+            9639, 
+            9777
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9641, 
+                    9653
+                ], 
+                "name": "Papan Island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9660, 
+                    9666
+                ], 
+                "name": "bridge"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9693, 
+                    9700
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9735, 
+                    9747
+                ], 
+                "name": "Papan Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 209, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A local told me, before the bridge was built, the kids would swim back home after the class.", 
+        "line": 210, 
+        "range": [
+            9779, 
+            9870
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9780, 
+                    9794
+                ], 
+                "name": "Malenge Island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9825, 
+                    9831
+                ], 
+                "name": "bridge"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 211, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was dangerous for them so the government finally built the bridge.", 
+        "line": 212, 
+        "range": [
+            9872, 
+            9940
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 213, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Walking across the iconic bridge is assuredly noteworthy as you can clearly see the corals beneath.", 
+        "line": 214, 
+        "range": [
+            9942, 
+            10040
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9953, 
+                    9959
+                ], 
+                "name": "bridge"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9988, 
+                    9994
+                ], 
+                "name": "bridge"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 215, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I spotted my favorite sea fan corals in the shallow water and before I left the island, I climbed a small hill named Batu Karang to get a wider view of the village and the bridge from the top.", 
+        "line": 216, 
+        "range": [
+            10042, 
+            10233
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10143, 
+                    10149
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10169, 
+                    10173
+                ], 
+                "name": "hill"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10180, 
+                    10191
+                ], 
+                "name": "Batu Karang"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10224, 
+                    10225
+                ], 
+                "name": "g"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 217, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "6. Meet the curious indigenous local", 
+        "line": 218, 
+        "range": [
+            10235, 
+            10270
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10235, 
+                    10241
+                ], 
+                "name": "bridge"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 219, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The Bajo, often called as Sea Gypsies are the indigenous tribe that have settled in various areas of Indonesian water, such as Wakatobi Islands, including Togean Islands.", 
+        "line": 220, 
+        "range": [
+            10272, 
+            10441
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10387, 
+                    10392
+                ], 
+                "name": "areas"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10396, 
+                    10412
+                ], 
+                "name": "Indonesian water"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10422, 
+                    10438
+                ], 
+                "name": "Wakatobi Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 221, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "They live in stilt houses above the sea. It is said that The Bajo can dive 15-20 meters without using scuba gear. They own no car but boat.", 
+        "line": 222, 
+        "range": [
+            10443, 
+            10581
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10450, 
+                    10464
+                ], 
+                "name": "Togean Islands"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10480, 
+                    10492
+                ], 
+                "name": "stilt houses"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 223, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The kids don\u2019t play in the garden, instead they jump straight into the sea.", 
+        "line": 224, 
+        "range": [
+            10583, 
+            10659
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    10593, 
+                    10596
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    10601, 
+                    10605
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10635, 
+                    10641
+                ], 
+                "name": "garden"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 225, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Papan Island is home to Bajo Families. I also visited another Bajo village in Kabalutan Island. In a glance, the population here looks bigger than Papan Island.", 
+        "line": 226, 
+        "range": [
+            10661, 
+            10820
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10685, 
+                    10697
+                ], 
+                "name": "Papan Island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10747, 
+                    10759
+                ], 
+                "name": "Bajo village"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10763, 
+                    10779
+                ], 
+                "name": "Kabalutan Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 227, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The kids were thrilled to see visitors coming to the village.", 
+        "line": 228, 
+        "range": [
+            10822, 
+            10882
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10832, 
+                    10844
+                ], 
+                "name": "Papan Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 229, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was surrounded by all these kids, a four and a six-year old girl were holding my hand.", 
+        "line": 230, 
+        "range": [
+            10884, 
+            10971
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10900, 
+                    10907
+                ], 
+                "name": "village"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 231, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The older kids around teenager age in their school uniform started  a conversation with me.", 
+        "line": 232, 
+        "range": [
+            10973, 
+            11063
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 233, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I also had the opportunity to see a group of men involved in the process of building a stilt house.", 
+        "line": 234, 
+        "range": [
+            11065, 
+            11163
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 235, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "7. Sit back at the edge of the pier, wait till dusk and enjoy the golden time", 
+        "line": 236, 
+        "range": [
+            11165, 
+            11241
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    11180, 
+                    11191
+                ], 
+                "name": "stilt house"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    11225, 
+                    11229
+                ], 
+                "name": "pier"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 237, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After a long tiring day hopping from one to another island, the best thing to do, except for dinner, of course, was sitting at the the edge of the pier and waiting for the sun to set down.", 
+        "line": 238, 
+        "range": [
+            11243, 
+            11430
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11325, 
+                    11331
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    11420, 
+                    11424
+                ], 
+                "name": "pier"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 239, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Every single moment made me realize, how lucky I was to be in this place.", 
+        "line": 240, 
+        "range": [
+            11432, 
+            11504
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 241, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It\u2019d be great if I had a float tube with me, maybe a sunset dip sounds cool.", 
+        "line": 242, 
+        "range": [
+            11506, 
+            11583
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11531, 
+                    11532
+                ], 
+                "name": "l"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 243, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "8. Play with sting-less jellyfish in Mariona Lake", 
+        "line": 244, 
+        "range": [
+            11585, 
+            11633
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 245, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Can you imagine how fun is it to swim with jellyfish? Wait, they are poisonous, aren\u2019t they? ", 
+        "line": 246, 
+        "range": [
+            11635, 
+            11729
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11653, 
+                    11665
+                ], 
+                "name": "Mariona Lake"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 247, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some species of jellyfish can be really dangerous and deadly. I always get annoyed by the invisible jellyfish that sting when I snorkel.", 
+        "line": 248, 
+        "range": [
+            11731, 
+            11866
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 249, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "However, in particular places in the world, we can swim the jellyfish because they\u2019re sting-less.", 
+        "line": 250, 
+        "range": [
+            11868, 
+            11966
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11923, 
+                    11929
+                ], 
+                "name": "places"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 251, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "In Indonesia, there are three places where you can swim with them \u2013 Kakaban Lake in Derawan Islands, Misool, and Mariona Lake in Togean.", 
+        "line": 252, 
+        "range": [
+            11968, 
+            12105
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12002, 
+                    12011
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    12029, 
+                    12035
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12067, 
+                    12079
+                ], 
+                "name": "Kakaban Lake"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12083, 
+                    12098
+                ], 
+                "name": "Derawan Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12100, 
+                    12106
+                ], 
+                "name": "Misool"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 253, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "They have lost their sting due to the geological event, since they\u2019re trapped in a lagoon with no predators.", 
+        "line": 254, 
+        "range": [
+            12107, 
+            12216
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12112, 
+                    12124
+                ], 
+                "name": "Mariona Lake"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12128, 
+                    12134
+                ], 
+                "name": "Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 255, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I doubt they completely lost their sting, because a friend of mine got stung on his lips and he could feel it.", 
+        "line": 256, 
+        "range": [
+            12218, 
+            12327
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    12220, 
+                    12226
+                ], 
+                "name": "lagoon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 257, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Swimming with this adorable creature is definitely the highlight of this trip!", 
+        "line": 258, 
+        "range": [
+            12329, 
+            12406
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 259, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "9. Introduce your taste bud to local delicacy", 
+        "line": 260, 
+        "range": [
+            12408, 
+            12452
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 261, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Almost every resort in the island offers full board package, means that the food or meals are inclusive with the price you paid along with your accommodation.", 
+        "line": 262, 
+        "range": [
+            12454, 
+            12611
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    12499, 
+                    12505
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    12513, 
+                    12519
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 263, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are no restaurants or bars outside the resort.", 
+        "line": 264, 
+        "range": [
+            12613, 
+            12664
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    12630, 
+                    12643
+                ], 
+                "name": "accommodation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 265, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Unquestionably they will serve seafood for you, freshly harvested from the sea.", 
+        "line": 266, 
+        "range": [
+            12666, 
+            12744
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    12674, 
+                    12678
+                ], 
+                "name": "bars"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    12691, 
+                    12697
+                ], 
+                "name": "resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 267, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The portion given tends to be generous, don\u2019t worry, they won\u2019t starve you.", 
+        "line": 268, 
+        "range": [
+            12746, 
+            12824
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 269, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "One thing that caught my attention was sago.", 
+        "line": 270, 
+        "range": [
+            12826, 
+            12869
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 271, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sago is a major staple food in eastern part of Indonesia.", 
+        "line": 272, 
+        "range": [
+            12871, 
+            12927
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 273, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It is a starch extracted from the spongy centre of various tropical palm stems.", 
+        "line": 274, 
+        "range": [
+            12929, 
+            13007
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12951, 
+                    12960
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 275, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are many variations in processing sago.", 
+        "line": 276, 
+        "range": [
+            13009, 
+            13053
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 277, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It can be toasted, boiled to make a soup, or rolled into balls.", 
+        "line": 278, 
+        "range": [
+            13055, 
+            13117
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 279, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My favorite is the rolled balls, mixed with brown sugars and garnished with coconut flakes on top.", 
+        "line": 280, 
+        "range": [
+            13119, 
+            13216
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 281, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It has a bit of chewy texture and not overly sweet.", 
+        "line": 282, 
+        "range": [
+            13218, 
+            13268
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 283, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "10. Learn from local communities on how they recycle plastics to handicrafts", 
+        "line": 284, 
+        "range": [
+            13270, 
+            13345
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 285, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "In order to sustain the local\u2019s living through tourism and to keep the environment clean, a non-profit called Everto encouraged the locals to use and recycle plastic, and turn them into beautiful handicrafts.", 
+        "line": 286, 
+        "range": [
+            13347, 
+            13556
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 287, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Stands for Everyone for Togean, the organization aims to raise awareness and educate the people of the importance of the ocean, home for them.", 
+        "line": 288, 
+        "range": [
+            13558, 
+            13699
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 289, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "In Katupat Island, you can see the process of making this handicraft.", 
+        "line": 290, 
+        "range": [
+            13701, 
+            13769
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13744, 
+                    13758
+                ], 
+                "name": "Katupat Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 291, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The souvenirs such as keychain, hat, or purse are sold ranging from $2-$10.", 
+        "line": 292, 
+        "range": [
+            13771, 
+            13845
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 293, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The money they collected are distributed as the wages for the waste collector in the island.", 
+        "line": 294, 
+        "range": [
+            13847, 
+            13938
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 295, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Boat excursions for snorkeling trip in Togean Islands (from Fadhila Cottage)", 
+        "line": 296, 
+        "range": [
+            13940, 
+            14015
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    13974, 
+                    13980
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    13983, 
+                    13987
+                ], 
+                "name": "Boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 297, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Reef Satu \u2013 Hotel California \u2013 Karina Beach \u2013 Jellyfish Lake \u2013 Mangrove Trail: Rp 425.000 (6-8 ppl)", 
+        "line": 298, 
+        "range": [
+            14017, 
+            14123
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14022, 
+                    14036
+                ], 
+                "name": "Togean Islands"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    14043, 
+                    14058
+                ], 
+                "name": "Fadhila Cottage"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14061, 
+                    14070
+                ], 
+                "name": "Reef Satu"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    14073, 
+                    14089
+                ], 
+                "name": "Hotel California"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14092, 
+                    14104
+                ], 
+                "name": "Karina Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14107, 
+                    14121
+                ], 
+                "name": "Jellyfish Lake"
+            }
+        ]
+    }, 
+    {
+        "text": "Taipi Island \u2013 Karina Beach \u2013 Jellyfish Lake \u2013 Mangrove Trail: Rp 425.000 (6-8 ppl)", 
+        "line": 299, 
+        "range": [
+            14124, 
+            14212
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14124, 
+                    14138
+                ], 
+                "name": "Mangrove Trail"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14161, 
+                    14173
+                ], 
+                "name": "Taipi Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14176, 
+                    14188
+                ], 
+                "name": "Karina Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14191, 
+                    14205
+                ], 
+                "name": "Jellyfish Lake"
+            }
+        ]
+    }, 
+    {
+        "text": "Hotel California \u2013 Reef Dua \u2013 Atoll \u2013 Malenge Beach: Rp 475.000 (6 ppl)", 
+        "line": 300, 
+        "range": [
+            14213, 
+            14289
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    14245, 
+                    14261
+                ], 
+                "name": "Hotel California"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14264, 
+                    14272
+                ], 
+                "name": "Reef Dua"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14275, 
+                    14280
+                ], 
+                "name": "Atoll"
+            }
+        ]
+    }, 
+    {
+        "text": "Reef Satu \u2013 Reef Dua \u2013 Atoll \u2013 Malenge\u2019s Jetty: Rp 525.000 (6 ppl)", 
+        "line": 301, 
+        "range": [
+            14290, 
+            14363
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14317, 
+                    14326
+                ], 
+                "name": "Reef Satu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14329, 
+                    14337
+                ], 
+                "name": "Reef Dua"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14340, 
+                    14345
+                ], 
+                "name": "Atoll"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    14348, 
+                    14363
+                ], 
+                "name": "Malenge\u2019s Jetty"
+            }
+        ]
+    }, 
+    {
+        "text": "Kabalutan Village \u2013 Talawenga Island: Rp 525.000 (6-8 ppl)", 
+        "line": 302, 
+        "range": [
+            14364, 
+            14423
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14384, 
+                    14401
+                ], 
+                "name": "Kabalutan Village"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14404, 
+                    14420
+                ], 
+                "name": "Talawenga Island"
+            }
+        ]
+    }, 
+    {
+        "text": "Mas, snorkel, and fin rental: Rp 50.000/day", 
+        "line": 303, 
+        "range": [
+            14424, 
+            14466
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 304, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Recommended dive sites around Togean Islands", 
+        "line": 305, 
+        "range": [
+            14468, 
+            14511
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    14500, 
+                    14510
+                ], 
+                "name": "dive sites"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 306, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The Pinaccle-Una Una: Large rock pinnacle with wall dropping off to 60 meters with variations of sponge corals.", 
+        "line": 307, 
+        "range": [
+            14513, 
+            14623
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14518, 
+                    14532
+                ], 
+                "name": "Togean Islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14534, 
+                    14554
+                ], 
+                "name": "The Pinaccle-Una Una"
+            }
+        ]
+    }, 
+    {
+        "text": "Apollo-Una Una:  High possibility to see a school of Blackfin Barracuda.", 
+        "line": 308, 
+        "range": [
+            14624, 
+            14695
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14646, 
+                    14660
+                ], 
+                "name": "Apollo-Una Una"
+            }
+        ]
+    }, 
+    {
+        "text": "Pasir Tengah: a three kilometer wide coral atoll adorned with colorful corals and nudibranchs.", 
+        "line": 309, 
+        "range": [
+            14696, 
+            14789
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14719, 
+                    14731
+                ], 
+                "name": "Pasir Tengah"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    14762, 
+                    14767
+                ], 
+                "name": "atoll"
+            }
+        ]
+    }, 
+    {
+        "text": "B24 Bomber Wreck: 17m long by 22m wide wreck lies under the sea still in a good shape.", 
+        "line": 310, 
+        "range": [
+            14790, 
+            14875
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    14814, 
+                    14830
+                ], 
+                "name": "B24 Bomber Wreck"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    14853, 
+                    14858
+                ], 
+                "name": "wreck"
+            }
+        ]
+    }, 
+    {
+        "text": "Batu Gila: Where you can see reef sharks, manta rays, and barracuda.", 
+        "line": 311, 
+        "range": [
+            14876, 
+            14943
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14901, 
+                    14910
+                ], 
+                "name": "Batu Gila"
+            }
+        ]
+    }, 
+    {
+        "text": "Goa Goa: Dive through tunnels for amazing corals with good visibility.", 
+        "line": 312, 
+        "range": [
+            14944, 
+            15013
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14970, 
+                    14977
+                ], 
+                "name": "Goa Goa"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    14995, 
+                    14996
+                ], 
+                "name": "n"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 313, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I\u2019ve some up ten things to do in the Togean Islands, which one you\u2019d like to do the most?", 
+        "line": 314, 
+        "range": [
+            15015, 
+            15107
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    15079, 
+                    15093
+                ], 
+                "name": "Togean Islands"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 315, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I assure you that this undiscovered paradise are worth to visit. I\u2019ve met returning travelers from French, Australia, that could spend a month in this island!", 
+        "line": 316, 
+        "range": [
+            15109, 
+            15268
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    15232, 
+                    15238
+                ], 
+                "name": "French"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    15240, 
+                    15249
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 317, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lastly, I would thank Ministry of Tourism for inviting me in this six day trips around Togean.", 
+        "line": 318, 
+        "range": [
+            15270, 
+            15363
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    15284, 
+                    15290
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 319, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I had so much fun! They have ticked-off my bucket-list to travel in Togean.", 
+        "line": 320, 
+        "range": [
+            15365, 
+            15439
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    15380, 
+                    15386
+                ], 
+                "name": "Togean"
+            }
+        ]
+    }
+]

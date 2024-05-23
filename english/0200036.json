@@ -1,0 +1,1121 @@
+[
+    {
+        "text": "April 5, 2020    Snorkeling In Weh Island, Sabang", 
+        "line": 0, 
+        "range": [
+            1, 
+            49
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    31, 
+                    41
+                ], 
+                "name": "Weh Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    43, 
+                    49
+                ], 
+                "name": "Sabang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sabang or known as Weh Island is the most outer island in western part of Indonesia. People might think that the best marine or the best island in Indonesia lays in the eastern part of Indonesia. Completely wrong! The beauty of Weh Island equals to other islands in the east. Its special characteristic is the amazing gradation of green and blue colour. Get ready for snorkeling in Weh Island", 
+        "line": 2, 
+        "range": [
+            51, 
+            442
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    51, 
+                    57
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    70, 
+                    80
+                ], 
+                "name": "Weh Island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    88, 
+                    105
+                ], 
+                "name": "most outer island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    109, 
+                    121
+                ], 
+                "name": "western part"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    125, 
+                    134
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    188, 
+                    194
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    198, 
+                    207
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    220, 
+                    232
+                ], 
+                "name": "eastern part"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    236, 
+                    245
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    279, 
+                    289
+                ], 
+                "name": "Weh Island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    306, 
+                    313
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    317, 
+                    325
+                ], 
+                "name": "the east"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    433, 
+                    443
+                ], 
+                "name": "Weh Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My Experience Visiting Weh Island", 
+        "line": 4, 
+        "range": [
+            444, 
+            476
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I rushed into Ulee Lheu Port after picking up some friends from the airport. Delayed, normal incident which almost made us missed the boat. We were the last passangers, luckily the boat was not leaving yet. The sky was grey, no sunshine at all. For 45 minutes we sat inside the shaking boat.", 
+        "line": 6, 
+        "range": [
+            478, 
+            768
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    494, 
+                    508
+                ], 
+                "name": "Ulee Lheu Port"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    548, 
+                    555
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    614, 
+                    618
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    661, 
+                    665
+                ], 
+                "name": "boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Finally, we reached Balohan Port in Sabang and we still have to take the car another 45 minutes to reach our destination, Iboih Beach. It was dark, with little rain pouring down. Zig Zag road made me feel a little bit sick. Then, we reached Iboih Inn, that\u2019s where we stay. A beautiful inn with magic view in front of the peer. We took rest, hoping that tomorrow will be a shiny day.", 
+        "line": 8, 
+        "range": [
+            770, 
+            1154
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    793, 
+                    805
+                ], 
+                "name": "Balohan Port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    809, 
+                    815
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    846, 
+                    849
+                ], 
+                "name": "car"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    882, 
+                    893
+                ], 
+                "name": "destination"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    895, 
+                    906
+                ], 
+                "name": "Iboih Beach"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    960, 
+                    964
+                ], 
+                "name": "road"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1014, 
+                    1023
+                ], 
+                "name": "Iboih Inn"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1059, 
+                    1062
+                ], 
+                "name": "inn"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1095, 
+                    1099
+                ], 
+                "name": "peer"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I woke up and the first thing I did was looking at the window. Oh God, still cloudy. I walked back to my bed and stretched my body lazily before going for shower. Our main activity was snorkeling in Weh Island. I finished my yummy breakfast, packed up my snorkeling set, and waited for my friends to get ready.", 
+        "line": 10, 
+        "range": [
+            1156, 
+            1465
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1357, 
+                    1367
+                ], 
+                "name": "Weh Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "We crossed to Rubiah Island, only 5 minutes far by boat from Iboih Beach. By that time, the sky turned 180 degrees different from before.", 
+        "line": 12, 
+        "range": [
+            1467, 
+            1603
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1484, 
+                    1497
+                ], 
+                "name": "Rubiah Island"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1521, 
+                    1525
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1531, 
+                    1542
+                ], 
+                "name": "Iboih Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The sun came out, blue sky, it was just a perfect day to have a tanning skin, thanks God. I jumped into the water, in front of the peer, explore around the island, but I could not find anything.", 
+        "line": 14, 
+        "range": [
+            1605, 
+            1798
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1713, 
+                    1722
+                ], 
+                "name": "the water"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1740, 
+                    1744
+                ], 
+                "name": "peer"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1765, 
+                    1771
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Maybe I was just unlucky snorkeling at the wrong spot. Probably diving is the better option if you want to see the underwater. This was the last moment I took underwater picture with my beloved camera sony Tx-5, accompanied me for two years traveling, and it\u2019s totally unusable.", 
+        "line": 16, 
+        "range": [
+            1800, 
+            2079
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1854, 
+                    1858
+                ], 
+                "name": "spot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Done with snorkeling, we cleaned up ourselves, had lunch, then visit some places in Sabang such as Zero Kilometer Monument as the starting point of Indonesia. Government should put more concern to this place because it looks neglected. Next, we went to the city and visit Gapang Beach, Sumur Tiga Beach, Fort, and Aneuk Laot Lake.", 
+        "line": 18, 
+        "range": [
+            2081, 
+            2410
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2169, 
+                    2175
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2184, 
+                    2207
+                ], 
+                "name": "Zero Kilometer Monument"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2215, 
+                    2229
+                ], 
+                "name": "starting point"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2233, 
+                    2242
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2287, 
+                    2292
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2342, 
+                    2346
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2357, 
+                    2369
+                ], 
+                "name": "Gapang Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2371, 
+                    2387
+                ], 
+                "name": "Sumur Tiga Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2389, 
+                    2393
+                ], 
+                "name": "Fort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Getting To Sabang/Weh Island", 
+        "line": 20, 
+        "range": [
+            2412, 
+            2439
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2428, 
+                    2434
+                ], 
+                "name": "Sabang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Airport (Aceh)-Ulee Lheu Port : Rp 100,000/car Rp 70,000/motor tricycle", 
+        "line": 22, 
+        "range": [
+            2441, 
+            2511
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2447, 
+                    2454
+                ], 
+                "name": "Airport"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2456, 
+                    2460
+                ], 
+                "name": "Aceh"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2462, 
+                    2476
+                ], 
+                "name": "Ulee Lheu Port"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2490, 
+                    2493
+                ], 
+                "name": "car"
+            }
+        ]
+    }, 
+    {
+        "text": "Bus Station- Ulee Lheu Port : Rp 60,000/car Rp 30,000 (becak)", 
+        "line": 23, 
+        "range": [
+            2512, 
+            2572
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2519, 
+                    2530
+                ], 
+                "name": "Bus Station"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2532, 
+                    2546
+                ], 
+                "name": "Ulee Lheu Port"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2559, 
+                    2562
+                ], 
+                "name": "car"
+            }
+        ]
+    }, 
+    {
+        "text": "Balohan Port (Sabang)-Iboih : Rp 50,000/person", 
+        "line": 24, 
+        "range": [
+            2573, 
+            2618
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2574, 
+                    2579
+                ], 
+                "name": "becak"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2581, 
+                    2593
+                ], 
+                "name": "Balohan Port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2595, 
+                    2601
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2603, 
+                    2608
+                ], 
+                "name": "Iboih"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Boat Schedule to Weh Island", 
+        "line": 26, 
+        "range": [
+            2620, 
+            2646
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2629, 
+                    2633
+                ], 
+                "name": "Boat"
+            }
+        ]
+    }, 
+    {
+        "text": "Express Boat (45 min) from Banda Aceh-Sabang : 8 a.m., 9.30 a.m., 4 p.m. Rp 65,000/one way", 
+        "line": 27, 
+        "range": [
+            2647, 
+            2736
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2657, 
+                    2669
+                ], 
+                "name": "Express Boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2684, 
+                    2694
+                ], 
+                "name": "Banda Aceh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2695, 
+                    2701
+                ], 
+                "name": "Sabang"
+            }
+        ]
+    }, 
+    {
+        "text": "Return from Sabang-Banda Aceh : 8 a.m., 2.30 p.m., 4.30 p.m.", 
+        "line": 28, 
+        "range": [
+            2737, 
+            2796
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2760, 
+                    2766
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2767, 
+                    2777
+                ], 
+                "name": "Banda Aceh"
+            }
+        ]
+    }, 
+    {
+        "text": "Slow Boat (90 min) from Banda Aceh-Sabang : 2 p.m.(mon,tue,thur,fri) 10.30 a.m., 4 p.m. (wed,sat,sun). Rp 25,000                     Return Sabang-Banda Aceh :8 a.m, (daily) 1.30 p.m. (wed,sat,sun)", 
+        "line": 29, 
+        "range": [
+            2797, 
+            2993
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2809, 
+                    2818
+                ], 
+                "name": "Slow Boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2833, 
+                    2843
+                ], 
+                "name": "Banda Aceh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2844, 
+                    2850
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2949, 
+                    2955
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2956, 
+                    2966
+                ], 
+                "name": "Banda Aceh"
+            }
+        ]
+    }, 
+    {
+        "text": "Boat from Balohan-Iboih : Rp 50,000", 
+        "line": 30, 
+        "range": [
+            2994, 
+            3028
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3007, 
+                    3011
+                ], 
+                "name": "Boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3017, 
+                    3024
+                ], 
+                "name": "Balohan"
+            }
+        ]
+    }, 
+    {
+        "text": "Boat from Balohan-Sumur Tiga Beach : Rp 25,000-30,000", 
+        "line": 31, 
+        "range": [
+            3029, 
+            3081
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3043, 
+                    3047
+                ], 
+                "name": "Boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3053, 
+                    3060
+                ], 
+                "name": "Balohan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3061, 
+                    3077
+                ], 
+                "name": "Sumur Tiga Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "Motorcycle Rent: Rp 60,000-100,000", 
+        "line": 32, 
+        "range": [
+            3082, 
+            3115
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3097, 
+                    3107
+                ], 
+                "name": "Motorcycle"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Where to Stay ", 
+        "line": 34, 
+        "range": [
+            3117, 
+            3130
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I stayed in iboih Inn and I do really recommend it. The view was spectacular, pretty close to Rubiah Island, and also there\u2019s dive operator here in Iboih Beach. You don\u2019t have to bring hammock because there\u2019s hammock provided for guests in every single bungalow.", 
+        "line": 36, 
+        "range": [
+            3132, 
+            3399
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3161, 
+                    3170
+                ], 
+                "name": "iboih Inn"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3243, 
+                    3256
+                ], 
+                "name": "Rubiah Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3297, 
+                    3308
+                ], 
+                "name": "Iboih Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The room was clean and comfortable. Hanging out at the restaurant and peer is a must thing to do. I\u2019m sure you\u2019ll be amazed. A tranquil place if you want to cohere with nature. Sometimes, a group of monkeys were running over the trees. The breakfast was nice. Everything\u2019s perfect! Click here for rates and booking", 
+        "line": 38, 
+        "range": [
+            3401, 
+            3720
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3402, 
+                    3410
+                ], 
+                "name": "bungalow"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3468, 
+                    3478
+                ], 
+                "name": "restaurant"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3483, 
+                    3487
+                ], 
+                "name": "peer"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3549, 
+                    3554
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are some homestays along iboih beach but I\u2019m not really sure the condition. If you want to stay in Sumur Tiga Beach which is closer from the port and town, check Freddies and Casanemo", 
+        "line": 40, 
+        "range": [
+            3722, 
+            3912
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3744, 
+                    3753
+                ], 
+                "name": "homestays"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3760, 
+                    3771
+                ], 
+                "name": "iboih beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3834, 
+                    3850
+                ], 
+                "name": "Sumur Tiga Beach"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3876, 
+                    3880
+                ], 
+                "name": "port"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3885, 
+                    3889
+                ], 
+                "name": "town"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3897, 
+                    3905
+                ], 
+                "name": "Freddies"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you want to dive, please refer to Rubiah Tirta Divers or Lumba-lumba. Diving might be a better option than snorkeling in Weh Island", 
+        "line": 42, 
+        "range": [
+            3914, 
+            4047
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3957, 
+                    3976
+                ], 
+                "name": "Rubiah Tirta Divers"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3980, 
+                    3991
+                ], 
+                "name": "Lumba-lumba"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you need any assistance in tour package in Aceh and sabang you can refer to wisatasabang", 
+        "line": 44, 
+        "range": [
+            4049, 
+            4139
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4102, 
+                    4106
+                ], 
+                "name": "Aceh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4111, 
+                    4117
+                ], 
+                "name": "sabang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 6-7 September 2013", 
+        "line": 46, 
+        "range": [
+            4141, 
+            4170
+        ], 
+        "entities": []
+    }
+]

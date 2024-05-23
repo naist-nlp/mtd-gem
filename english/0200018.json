@@ -1,0 +1,1504 @@
+[
+    {
+        "text": "August 24, 2020    A Million Experiences In Seoul", 
+        "line": 0, 
+        "range": [
+            1, 
+            49
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    44, 
+                    49
+                ], 
+                "name": "Seoul"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Whether you want to taste a gleaming metropolitan city or witness the extensive area of historical site, it is a right place for holidaymakers to immerse both modernity and cultural side in Seoul. As the capital city and the heart of nation activities, unseparated from politic and economic, the mega city with over than 10 million population will not be able to detain the curiosity of travelers around the world.", 
+        "line": 2, 
+        "range": [
+            51, 
+            464
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    88, 
+                    105
+                ], 
+                "name": "metropolitan city"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    131, 
+                    135
+                ], 
+                "name": "area"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    139, 
+                    154
+                ], 
+                "name": "historical site"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    170, 
+                    175
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    241, 
+                    246
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    255, 
+                    267
+                ], 
+                "name": "capital city"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    347, 
+                    356
+                ], 
+                "name": "mega city"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gyeongbokgung Palace", 
+        "line": 4, 
+        "range": [
+            466, 
+            485
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gyeongbokgung Palace can be said  as the star of the historical attractions in the city. It was served as the main palace during Joseon Dynasty, encompassing four main entrances, halls, pavilions, bridges, and ponds.", 
+        "line": 6, 
+        "range": [
+            487, 
+            702
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    489, 
+                    509
+                ], 
+                "name": "Gyeongbokgung Palace"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    542, 
+                    564
+                ], 
+                "name": "historical attractions"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    572, 
+                    576
+                ], 
+                "name": "city"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    604, 
+                    610
+                ], 
+                "name": "palace"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    657, 
+                    666
+                ], 
+                "name": "entrances"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    668, 
+                    673
+                ], 
+                "name": "halls"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    675, 
+                    684
+                ], 
+                "name": "pavilions"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    686, 
+                    693
+                ], 
+                "name": "bridges"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hyangwonjeon Pavilion  is artfully built on an artificial island of a lake which make it beautifully captured by lens. The highlight of the palace is changing guard ceremony where all the men with traditional clothes, followed by a raging music instrument and march with flags, sword, and shield on hand. It is truly an irreplaceable experience.", 
+        "line": 8, 
+        "range": [
+            704, 
+            1048
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    707, 
+                    728
+                ], 
+                "name": "Hyangwonjeon Pavilion"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    754, 
+                    771
+                ], 
+                "name": "artificial island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    777, 
+                    781
+                ], 
+                "name": "lake"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    847, 
+                    853
+                ], 
+                "name": "palace"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Admission Fee: 3000 won", 
+        "line": 10, 
+        "range": [
+            1050, 
+            1072
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Nearest Station: Gyeongbokgung Palace Station (Subway Line 3, exit 5)", 
+        "line": 11, 
+        "range": [
+            1073, 
+            1141
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1086, 
+                    1093
+                ], 
+                "name": "Station"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1095, 
+                    1123
+                ], 
+                "name": "Gyeongbokgung Palace Station"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1125, 
+                    1138
+                ], 
+                "name": "Subway Line 3"
+            }
+        ]
+    }, 
+    {
+        "text": "Gate Guard Changing Ceremony Schedule: 10 a.m., 1 p.m., 3 p,m.", 
+        "line": 12, 
+        "range": [
+            1142, 
+            1203
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1148, 
+                    1152
+                ], 
+                "name": "Gate"
+            }
+        ]
+    }, 
+    {
+        "text": "Gwanghamun Gate Guard Duty Performance: 11 a.m., 2 p.m., 3.45 p.m.", 
+        "line": 13, 
+        "range": [
+            1204, 
+            1269
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1211, 
+                    1226
+                ], 
+                "name": "Gwanghamun Gate"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 14, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bukchon Hanok Village", 
+        "line": 15, 
+        "range": [
+            1271, 
+            1291
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 16, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Don\u2019t have time to visit traditional village in Gyeongju or Andong Hahoe Folk Village? Worry no cause in Seoul you can still see a complex of traditional houses. With more than 1,000 hanoks, some of them remains as a living place for Koreans. Some houses are opened as guesthouse, or just a mini museum for people. A special feeling when you walk through the hilly alleys.", 
+        "line": 17, 
+        "range": [
+            1293, 
+            1666
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1327, 
+                    1346
+                ], 
+                "name": "traditional village"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1350, 
+                    1358
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1362, 
+                    1387
+                ], 
+                "name": "Andong Hahoe Folk Village"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1407, 
+                    1412
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1433, 
+                    1462
+                ], 
+                "name": "complex of traditional houses"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1485, 
+                    1491
+                ], 
+                "name": "hanoks"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1519, 
+                    1531
+                ], 
+                "name": "living place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1550, 
+                    1556
+                ], 
+                "name": "houses"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1571, 
+                    1581
+                ], 
+                "name": "guesthouse"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1593, 
+                    1604
+                ], 
+                "name": "mini museum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 18, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nearest station: Anguk Station (Subway line 3, exit 2 )", 
+        "line": 19, 
+        "range": [
+            1668, 
+            1722
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1684, 
+                    1691
+                ], 
+                "name": "station"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1693, 
+                    1706
+                ], 
+                "name": "Anguk Station"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1708, 
+                    1721
+                ], 
+                "name": "Subway line 3"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 20, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "N Seoul Tower", 
+        "line": 21, 
+        "range": [
+            1724, 
+            1736
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 22, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "N Seoul Tower attracts travelers with the opportunity so see a stunning view of Seoul City from it\u2019s top. Standing on the top of Namsan Mountain, originally functioned as communication and observation tower, the enchanting view awaits you without missing having dinner in N-Grill Restaurant.", 
+        "line": 23, 
+        "range": [
+            1738, 
+            2030
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1748, 
+                    1761
+                ], 
+                "name": "N Seoul Tower"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1828, 
+                    1838
+                ], 
+                "name": "Seoul City"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1877, 
+                    1892
+                ], 
+                "name": "Namsan Mountain"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1919, 
+                    1954
+                ], 
+                "name": "communication and observation tower"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 24, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Chains of locks are stacked forming a tree of locks full of wishes from people around the world.  If you have guts to climb the stair, then it\u2019s the cheapest option to reach the tower or else taking a cable car helps you save your energy.", 
+        "line": 25, 
+        "range": [
+            2032, 
+            2271
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2079, 
+                    2092
+                ], 
+                "name": "tree of locks"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2131, 
+                    2136
+                ], 
+                "name": "world"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2169, 
+                    2174
+                ], 
+                "name": "stair"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2219, 
+                    2224
+                ], 
+                "name": "tower"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2242, 
+                    2251
+                ], 
+                "name": "cable car"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 26, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Admission Fee: 9,000 won for observatory, 12,000 won for alive museum", 
+        "line": 27, 
+        "range": [
+            2273, 
+            2341
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2310, 
+                    2321
+                ], 
+                "name": "observatory"
+            }
+        ]
+    }, 
+    {
+        "text": "Cable car: 8,500 won for return, 6,000 for one way", 
+        "line": 28, 
+        "range": [
+            2342, 
+            2391
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2351, 
+                    2360
+                ], 
+                "name": "Cable car"
+            }
+        ]
+    }, 
+    {
+        "text": "Nearest Station: Myeongdong Station (Subway Line 4), walk about 15 minutes towards pacific hotel, you an take cable car or climb the stairs.", 
+        "line": 29, 
+        "range": [
+            2392, 
+            2531
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2410, 
+                    2417
+                ], 
+                "name": "Station"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2419, 
+                    2437
+                ], 
+                "name": "Myeongdong Station"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    2439, 
+                    2452
+                ], 
+                "name": "Subway Line 4"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2485, 
+                    2498
+                ], 
+                "name": "pacific hotel"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2512, 
+                    2521
+                ], 
+                "name": "cable car"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 30, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Districts in Seoul", 
+        "line": 31, 
+        "range": [
+            2533, 
+            2550
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2535, 
+                    2541
+                ], 
+                "name": "stairs"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 32, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Seoul has many interesting districts with different vibes and characters. The famous Gangnam District (Gangnam Station line 2)is for upper class Seoulista with branded shops and pricey clubs.", 
+        "line": 33, 
+        "range": [
+            2552, 
+            2742
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2557, 
+                    2562
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2564, 
+                    2569
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2591, 
+                    2600
+                ], 
+                "name": "districts"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2649, 
+                    2665
+                ], 
+                "name": "Gangnam District"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2667, 
+                    2682
+                ], 
+                "name": "Gangnam Station"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    2683, 
+                    2689
+                ], 
+                "name": "line 2"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2732, 
+                    2737
+                ], 
+                "name": "shops"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 34, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hongdae District (Hongik Univ Station line 2) most backpacker hostels can be found here. Maybe can be said as never sleep district. Full of youngster, the hype is just so wild and young with lots of bars, restaurant, small shops.", 
+        "line": 35, 
+        "range": [
+            2744, 
+            2972
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2749, 
+                    2754
+                ], 
+                "name": "clubs"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2757, 
+                    2773
+                ], 
+                "name": "Hongdae District"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2775, 
+                    2794
+                ], 
+                "name": "Hongik Univ Station"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    2795, 
+                    2801
+                ], 
+                "name": "line 2"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2819, 
+                    2826
+                ], 
+                "name": "hostels"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2879, 
+                    2887
+                ], 
+                "name": "district"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2956, 
+                    2960
+                ], 
+                "name": "bars"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2962, 
+                    2972
+                ], 
+                "name": "restaurant"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 36, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itaweon (Itaewon Station line 6) is more like expat district cause it is near to US military camp. Very clean environment, unique shops, western type of restaurant.", 
+        "line": 37, 
+        "range": [
+            2974, 
+            3137
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2980, 
+                    2985
+                ], 
+                "name": "shops"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2988, 
+                    2995
+                ], 
+                "name": "Itaweon"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2997, 
+                    3012
+                ], 
+                "name": "Itaewon Station"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    3013, 
+                    3019
+                ], 
+                "name": "line 6"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3040, 
+                    3048
+                ], 
+                "name": "district"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3069, 
+                    3085
+                ], 
+                "name": "US military camp"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3098, 
+                    3109
+                ], 
+                "name": "environment"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3118, 
+                    3123
+                ], 
+                "name": "shops"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 38, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dongdaemun Market (Dongdaeumun Station line 1 or 4) is more down to earth, suitable for everybody who seeks for affordable option. In between, the middle class people can also go for", 
+        "line": 39, 
+        "range": [
+            3139, 
+            3320
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3141, 
+                    3151
+                ], 
+                "name": "restaurant"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3154, 
+                    3171
+                ], 
+                "name": "Dongdaemun Market"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3173, 
+                    3192
+                ], 
+                "name": "Dongdaeumun Station"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    3193, 
+                    3199
+                ], 
+                "name": "line 1"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    3203, 
+                    3204
+                ], 
+                "name": "4"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 40, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Myeongdong District (Myeongong Station, subway line 4 exit 2 or 8) with also affordable prices and the irresistible street food! Looking for traditional Korean Souvenirs or artistic stuffs, make your way to Insadong (Anguk Station line 3) and check out the galleries.", 
+        "line": 41, 
+        "range": [
+            3322, 
+            3588
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3338, 
+                    3357
+                ], 
+                "name": "Myeongdong District"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3359, 
+                    3376
+                ], 
+                "name": "Myeongong Station"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    3378, 
+                    3391
+                ], 
+                "name": "subway line 4"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3392, 
+                    3398
+                ], 
+                "name": "exit 2"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3402, 
+                    3403
+                ], 
+                "name": "8"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3545, 
+                    3553
+                ], 
+                "name": "Insadong"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3555, 
+                    3568
+                ], 
+                "name": "Anguk Station"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    3569, 
+                    3575
+                ], 
+                "name": "line 3"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 42, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "DMZ", 
+        "line": 43, 
+        "range": [
+            3590, 
+            3592
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 44, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The cold war between South and North Korea can be felt in DMZ (Demilitarized Zone), the buffer zone between two countries. The two squabbling countries agreed to set up the DMZ 2 kilometers on each side of the appointed line. The DMZ tour from Seoul will take you to witness the gloomy past of the war happened between both countries.", 
+        "line": 45, 
+        "range": [
+            3594, 
+            3927
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3595, 
+                    3604
+                ], 
+                "name": "galleries"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3607, 
+                    3610
+                ], 
+                "name": "DMZ"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3633, 
+                    3654
+                ], 
+                "name": "South and North Korea"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3670, 
+                    3673
+                ], 
+                "name": "DMZ"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3675, 
+                    3693
+                ], 
+                "name": "Demilitarized Zone"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3700, 
+                    3711
+                ], 
+                "name": "buffer zone"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3724, 
+                    3733
+                ], 
+                "name": "countries"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3754, 
+                    3763
+                ], 
+                "name": "countries"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3785, 
+                    3788
+                ], 
+                "name": "DMZ"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3832, 
+                    3836
+                ], 
+                "name": "line"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3842, 
+                    3845
+                ], 
+                "name": "DMZ"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3856, 
+                    3861
+                ], 
+                "name": "Seoul"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The most common package chosen is DMZ+3rd tunnel tour or DMZ+JSA. The observatory deck, where you can see directly the land of North Korea, and unoperated Dori Station which is supposed to connect Asia and Europe. In this tour you will learn what happened in the past, and hopes of people to end this war. Tour starts from 40,000 won.", 
+        "line": 47, 
+        "range": [
+            3929, 
+            4262
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3936, 
+                    3945
+                ], 
+                "name": "countries"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3982, 
+                    3985
+                ], 
+                "name": "DMZ"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3986, 
+                    3996
+                ], 
+                "name": "3rd tunnel"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4005, 
+                    4008
+                ], 
+                "name": "DMZ"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4009, 
+                    4012
+                ], 
+                "name": "JSA"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4018, 
+                    4034
+                ], 
+                "name": "observatory deck"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4067, 
+                    4086
+                ], 
+                "name": "land of North Korea"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4103, 
+                    4115
+                ], 
+                "name": "Dori Station"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4145, 
+                    4149
+                ], 
+                "name": "Asia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4154, 
+                    4160
+                ], 
+                "name": "Europe"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are still many exciting things around Seoul such as COEX Mall, Asia\u2019s largest underground shopping mall, temples and palaces. It is easy to travel around Seoul by subway, even though the line might be confusing because there are too many lines and stops.", 
+        "line": 49, 
+        "range": [
+            4264, 
+            4525
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4328, 
+                    4333
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4342, 
+                    4351
+                ], 
+                "name": "COEX Mall"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4353, 
+                    4359
+                ], 
+                "name": "Asia\u2019s"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4368, 
+                    4393
+                ], 
+                "name": "underground shopping mall"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4395, 
+                    4402
+                ], 
+                "name": "temples"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4407, 
+                    4414
+                ], 
+                "name": "palaces"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4444, 
+                    4449
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4453, 
+                    4459
+                ], 
+                "name": "subway"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4477, 
+                    4481
+                ], 
+                "name": "line"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "But once you get used to it, planning will be very easy. There are some area closes to each other such as Gyeongbokung Palace, Bukchon Hanok, and Insadong can be done in a day. Myeongdong and N Seoul Tower in one journey as well.", 
+        "line": 51, 
+        "range": [
+            4527, 
+            4755
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4528, 
+                    4533
+                ], 
+                "name": "lines"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4538, 
+                    4543
+                ], 
+                "name": "stops"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4618, 
+                    4622
+                ], 
+                "name": "area"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4652, 
+                    4671
+                ], 
+                "name": "Gyeongbokung Palace"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4673, 
+                    4686
+                ], 
+                "name": "Bukchon Hanok"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4692, 
+                    4700
+                ], 
+                "name": "Insadong"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4723, 
+                    4733
+                ], 
+                "name": "Myeongdong"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4738, 
+                    4751
+                ], 
+                "name": "N Seoul Tower"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Any other interesting things in Seoul you want to share? Please comment.", 
+        "line": 53, 
+        "range": [
+            4757, 
+            4828
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4809, 
+                    4814
+                ], 
+                "name": "Seoul"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 54, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 5-10 December 2014", 
+        "line": 55, 
+        "range": [
+            4830, 
+            4859
+        ], 
+        "entities": []
+    }
+]

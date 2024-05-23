@@ -1,0 +1,1322 @@
+[
+    {
+        "text": "February 28, 2021    Traveling To Tanjung Bira: Surrounded By Flour !", 
+        "line": 0, 
+        "range": [
+            1, 
+            69
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    34, 
+                    46
+                ], 
+                "name": "Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Far on the south of Sulawesi, a popular getaway beach for Makassar people and also tourists from outside of Indonesia, Tanjung Bira which is located in Bulukumba Regency is full of tranquility and perfect ambience for honeymooners.", 
+        "line": 2, 
+        "range": [
+            71, 
+            301
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    91, 
+                    99
+                ], 
+                "name": "Sulawesi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    119, 
+                    124
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    129, 
+                    137
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    179, 
+                    188
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    190, 
+                    202
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    223, 
+                    240
+                ], 
+                "name": "Bulukumba Regency"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I didn\u2019t come here for honeymoon for sure, I came here to relax my body and mind. Far distance, around 6 hours is not a hurdle for pleasure seekers.", 
+        "line": 4, 
+        "range": [
+            303, 
+            452
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Places to visit in Tanjung Bira", 
+        "line": 6, 
+        "range": [
+            454, 
+            484
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    454, 
+                    460
+                ], 
+                "name": "Places"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    473, 
+                    485
+                ], 
+                "name": "Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Here\u2019re some places to visit while you\u2019re traveling to Tanjung Bira:", 
+        "line": 8, 
+        "range": [
+            486, 
+            557
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    500, 
+                    506
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    542, 
+                    554
+                ], 
+                "name": "Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Tanjung Bira (White Sand Beach/Pantai Pasir Putih)", 
+        "line": 10, 
+        "range": [
+            559, 
+            611
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    560, 
+                    572
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    585, 
+                    590
+                ], 
+                "name": "Beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    591, 
+                    597
+                ], 
+                "name": "Pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beautiful place with a view point, pointing to the sea and also a restaurant as the trademark. Many pictures that you see in google are taken from this point.", 
+        "line": 12, 
+        "range": [
+            613, 
+            770
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    622, 
+                    627
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    635, 
+                    645
+                ], 
+                "name": "view point"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    678, 
+                    688
+                ], 
+                "name": "restaurant"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    764, 
+                    769
+                ], 
+                "name": "point"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tanjung Bira Beach has the softest sand I\u2019ve ever touched. It is as soft as flour. Even when you walk on the beach, you don\u2019t have to remove the naughty sand that stick on your feet or clean your feet because the sand is too soft.", 
+        "line": 14, 
+        "range": [
+            772, 
+            1005
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    772, 
+                    784
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    881, 
+                    886
+                ], 
+                "name": "beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Bara Beach", 
+        "line": 16, 
+        "range": [
+            1007, 
+            1019
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1007, 
+                    1017
+                ], 
+                "name": "Bara Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Such a stunning beach, even I couldn\u2019t believe the scenery I saw was still somewhere in Indonesia. I mean I\u2019ve seen this kind of beach in picture probably in Hawaii, or Australia.", 
+        "line": 18, 
+        "range": [
+            1021, 
+            1203
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1035, 
+                    1040
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1107, 
+                    1116
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1148, 
+                    1153
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1177, 
+                    1183
+                ], 
+                "name": "Hawaii"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1188, 
+                    1197
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The coconut trees, a perfect shade to cover your body from the hot sun. Such a beautiful blue color and waves coming again and again.", 
+        "line": 20, 
+        "range": [
+            1205, 
+            1337
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There\u2019s a resort named Bara Beach Resort, well known for western honeymooners. Bara Beach can be accessed by 20 minutes walk from Bira shore if the tide is low, or else you have to walk around 45 minutes, there\u2019s just one path through a small forest with colourful butterflies or take \u201cojek\u201d and pay around Rp 15,000-Rp 20,000.", 
+        "line": 22, 
+        "range": [
+            1339, 
+            1673
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1345, 
+                    1351
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1358, 
+                    1375
+                ], 
+                "name": "Bara Beach Resort"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1414, 
+                    1424
+                ], 
+                "name": "Bara Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1465, 
+                    1475
+                ], 
+                "name": "Bira shore"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1557, 
+                    1561
+                ], 
+                "name": "path"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1578, 
+                    1584
+                ], 
+                "name": "forest"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1621, 
+                    1625
+                ], 
+                "name": "ojek"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Liukang Loe Island and Kambing Island", 
+        "line": 24, 
+        "range": [
+            1675, 
+            1714
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1690, 
+                    1704
+                ], 
+                "name": "Kambing Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Not only beautiful beach but Tanjung Bira has some incredible spots for snorkeling and diving. If you are a diving-lovers, diving in Bira has its own sensation where you have to deal with challenging current but it\u2019s a worth to try.", 
+        "line": 26, 
+        "range": [
+            1716, 
+            1949
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1725, 
+                    1730
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1735, 
+                    1747
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1768, 
+                    1799
+                ], 
+                "name": "spots for snorkeling and diving"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1839, 
+                    1843
+                ], 
+                "name": "Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "If you only want to see the corals, don\u2019t worry, snorkeling is enough to enjoy the different types of coral and swimming with fishes.", 
+        "line": 28, 
+        "range": [
+            1951, 
+            2085
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A professional dive center named Bira Divecamp may be a right choice for you if you want to dive. They provide fun dive, discovery dive, and also courses. Price of snorkeling set is around Rp 50,000/set, and boat for hopping island cost Rp 250,000-Rp 300,000/day.", 
+        "line": 30, 
+        "range": [
+            2087, 
+            2349
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2090, 
+                    2101
+                ], 
+                "name": "dive center"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2108, 
+                    2121
+                ], 
+                "name": "Bira Divecamp"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2283, 
+                    2287
+                ], 
+                "name": "boat"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2300, 
+                    2306
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Panrang Luhuk", 
+        "line": 32, 
+        "range": [
+            2351, 
+            2366
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tanjung Bira is quiet popular with phinisi making. Phinisi boat is built to ship grocery or goods and inter-insular cargo. There are three main places to built phinisi boat in Bulukumba Regency/Tanjung Bira.", 
+        "line": 34, 
+        "range": [
+            2368, 
+            2574
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2393, 
+                    2400
+                ], 
+                "name": "phinisi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2409, 
+                    2421
+                ], 
+                "name": "Phinisi boat"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2502, 
+                    2508
+                ], 
+                "name": "places"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2518, 
+                    2530
+                ], 
+                "name": "phinisi boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2534, 
+                    2551
+                ], 
+                "name": "Bulukumba Regency"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2552, 
+                    2564
+                ], 
+                "name": "Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The most popular you may always heard or read in Tana Beru. I went to a different phinisi making, it\u2019s on the east beach, exactly on Tanetang village.", 
+        "line": 36, 
+        "range": [
+            2576, 
+            2727
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2616, 
+                    2625
+                ], 
+                "name": "Tana Beru"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2649, 
+                    2656
+                ], 
+                "name": "phinisi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2677, 
+                    2687
+                ], 
+                "name": "east beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2700, 
+                    2716
+                ], 
+                "name": "Tanetang village"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Different sizes of ships were built on the shore. One big phinisi is made for 12 months, and mostly are handmade. Only 12-15 people built one ship, and it\u2019s somehow amazing to see everything is made traditionally by hand, and how they can produce such a big strong ship.", 
+        "line": 38, 
+        "range": [
+            2729, 
+            3000
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2738, 
+                    2743
+                ], 
+                "name": "ships"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2762, 
+                    2767
+                ], 
+                "name": "shore"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2777, 
+                    2784
+                ], 
+                "name": "phinisi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2861, 
+                    2865
+                ], 
+                "name": "ship"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2984, 
+                    2988
+                ], 
+                "name": "ship"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was allowed to get up into the ship, and I was amazed on how they brought the materials and climbed a narrow ladder. It is located near to the local peer at the eastern beach.", 
+        "line": 40, 
+        "range": [
+            3002, 
+            3178
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3024, 
+                    3028
+                ], 
+                "name": "ship"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3142, 
+                    3146
+                ], 
+                "name": "peer"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3154, 
+                    3167
+                ], 
+                "name": "eastern beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Pua Janggo", 
+        "line": 42, 
+        "range": [
+            3180, 
+            3192
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Still in the area of Tanjung Bira, there\u2019s a view point on the top of a hill called Pua Janggo. Trekking about two kilometers and you will see Tanjung Bira, some islands like Liukang Loe, Kambing, even Selayar Island.", 
+        "line": 44, 
+        "range": [
+            3194, 
+            3412
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3206, 
+                    3218
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3230, 
+                    3240
+                ], 
+                "name": "view point"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3257, 
+                    3261
+                ], 
+                "name": "hill"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3269, 
+                    3279
+                ], 
+                "name": "Pua Janggo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3328, 
+                    3340
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3347, 
+                    3354
+                ], 
+                "name": "islands"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3360, 
+                    3371
+                ], 
+                "name": "Liukang Loe"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3373, 
+                    3380
+                ], 
+                "name": "Kambing"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3387, 
+                    3401
+                ], 
+                "name": "Selayar Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How to get to Tanjung Bira from Makassar?", 
+        "line": 46, 
+        "range": [
+            3414, 
+            3454
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3418, 
+                    3430
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3436, 
+                    3444
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3451, 
+                    3454
+                ], 
+                "name": "car"
+            }
+        ]
+    }, 
+    {
+        "text": "Rent car from Makassar: Rp 500,000- 600,000 for drop only", 
+        "line": 47, 
+        "range": [
+            3455, 
+            3511
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3460, 
+                    3468
+                ], 
+                "name": "Makassar"
+            }
+        ]
+    }, 
+    {
+        "text": "Through Maliengkeri Station by public Kijang car. Cheapest but not a very comfortable ride because one car probably is filled with 11 people. Better to go in the morning around 9 a.m.-11 a.m. Price is Rp 50,000/person", 
+        "line": 48, 
+        "range": [
+            3512, 
+            3728
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3512, 
+                    3531
+                ], 
+                "name": "Maliengkeri Station"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3535, 
+                    3552
+                ], 
+                "name": "public Kijang car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3607, 
+                    3610
+                ], 
+                "name": "car"
+            }
+        ]
+    }, 
+    {
+        "text": "BMA service, a public transportation with air-con, pretty comfortable but it only stop in Bulukumba. Price is around Rp 75,000.You have to change another public transportation (angkot) about 1-2 hours and add Rp 10,000", 
+        "line": 49, 
+        "range": [
+            3729, 
+            3946
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3737, 
+                    3758
+                ], 
+                "name": "public transportation"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3812, 
+                    3821
+                ], 
+                "name": "Bulukumba"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3876, 
+                    3897
+                ], 
+                "name": "public transportation"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3899, 
+                    3905
+                ], 
+                "name": "angkot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some travel tips for Tanjung Bira", 
+        "line": 51, 
+        "range": [
+            3948, 
+            3980
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3963, 
+                    3975
+                ], 
+                "name": "Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "Entrance fee for domestic visitors is Rp 10,000, entrance fee for foreigners is Rp 20,000.", 
+        "line": 52, 
+        "range": [
+            3981, 
+            4070
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "If you don\u2019t really like to walk, just rent a motorbike Rp 60,000/day exclude the gasoline.", 
+        "line": 53, 
+        "range": [
+            4071, 
+            4163
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4113, 
+                    4122
+                ], 
+                "name": "motorbike"
+            }
+        ]
+    }, 
+    {
+        "text": "Place to stay? Check Sunshine Guesthouse", 
+        "line": 54, 
+        "range": [
+            4164, 
+            4203
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4180, 
+                    4199
+                ], 
+                "name": "Sunshine Guesthouse"
+            }
+        ]
+    }, 
+    {
+        "text": "Place to eat? Warung Bamboo or Warung Melati, both has affordable price and taste is good.", 
+        "line": 55, 
+        "range": [
+            4204, 
+            4293
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4214, 
+                    4227
+                ], 
+                "name": "Warung Bamboo"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4231, 
+                    4244
+                ], 
+                "name": "Warung Melati"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 56, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My Story", 
+        "line": 57, 
+        "range": [
+            4295, 
+            4302
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 58, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I really wanted to relax on a white-sandy beach and I decided to go to Tanjung Bira. I\u2019ll leave Makassar soon, after 4 months staying in Makassar but didn\u2019t go to Tanjung Bira is somehow funny.", 
+        "line": 59, 
+        "range": [
+            4304, 
+            4500
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4344, 
+                    4349
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4373, 
+                    4385
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4398, 
+                    4406
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4439, 
+                    4447
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4465, 
+                    4477
+                ], 
+                "name": "Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 60, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Packed my things and went to Maliengkeri Station. Met a German guy named Ben at the station and traveled together. That\u2019s what I loved from traveling solo because actually you never alone. You\u2019ll meet someone new on the road.", 
+        "line": 61, 
+        "range": [
+            4502, 
+            4730
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4526, 
+                    4545
+                ], 
+                "name": "Maliengkeri Station"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4581, 
+                    4588
+                ], 
+                "name": "station"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 62, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lucky me, and I didn\u2019t know why the driver didn\u2019t ask me to pay. I tried to give my money but he suddenly leave. I stayed at Sunshine Guesthouse for 3 nights, 2 nights shared room with Ben and 1 night shared with a Thai girl named Alawiyah.", 
+        "line": 63, 
+        "range": [
+            4732, 
+            4975
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4849, 
+                    4868
+                ], 
+                "name": "Sunshine Guesthouse"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 64, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was fun, I did whole day trekking to Bara Beach, Phinisi making, and Pua Janggo with Ben. Weather was unpredictable at that time, sometimes rain sometimes hot. I spent not more than Rp 300,000 overall for this trip.", 
+        "line": 65, 
+        "range": [
+            4977, 
+            5194
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5006, 
+                    5016
+                ], 
+                "name": "Bara Beach"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5018, 
+                    5025
+                ], 
+                "name": "Phinisi"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5038, 
+                    5048
+                ], 
+                "name": "Pua Janggo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 66, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 11-14 June 2013", 
+        "line": 67, 
+        "range": [
+            5196, 
+            5222
+        ], 
+        "entities": []
+    }
+]

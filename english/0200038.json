@@ -1,0 +1,587 @@
+[
+    {
+        "text": "November 9, 2020    Ujung Kulon National Park: Peucang Island", 
+        "line": 0, 
+        "range": [
+            1, 
+            61
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    20, 
+                    45
+                ], 
+                "name": "Ujung Kulon National Park"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    47, 
+                    61
+                ], 
+                "name": "Peucang Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ujung Kulon reminds me with social sciences subject which I learned during my primary school, a home for the endangered one horn Javanese Rhino. Located in Banten Province, around 6 hours from Jakarta. It\u2019s funny how you look how close the location in the map but it needs 6 hours drive from Jakarta to Peucang Island, Ujung Kulon.", 
+        "line": 2, 
+        "range": [
+            63, 
+            395
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    63, 
+                    74
+                ], 
+                "name": "Ujung Kulon"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    159, 
+                    163
+                ], 
+                "name": "home"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    219, 
+                    234
+                ], 
+                "name": "Banten Province"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    256, 
+                    263
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    303, 
+                    311
+                ], 
+                "name": "location"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    355, 
+                    362
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    366, 
+                    380
+                ], 
+                "name": "Peucang Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    382, 
+                    393
+                ], 
+                "name": "Ujung Kulon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I\u2019ve heard a lot about Peucang Island but I never thought to go there remembering the far distance I should go through. Finally, a friend asked me to join him with some friends to Peucang Island. Why not? It\u2019s been quite a while since I traveled together with my friends. The tiresome journey starts right after leaving Jakarta.", 
+        "line": 4, 
+        "range": [
+            397, 
+            728
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    419, 
+                    433
+                ], 
+                "name": "Peucang Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    576, 
+                    590
+                ], 
+                "name": "Peucang Island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    716, 
+                    723
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Six hours ride with those bumpy road exceeding the motocross off-road track, sleeping tablets might be needed. We arrived in the national park office, fresh condition of course, excited to cross the island. Many kids wearing school uniforms were playing around enjoying their break. They jumped, they laughed, they ran, they fell, such a good life.", 
+        "line": 6, 
+        "range": [
+            730, 
+            1077
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    855, 
+                    875
+                ], 
+                "name": "national park office"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    925, 
+                    931
+                ], 
+                "name": "island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Snorkeling in Peucang Island, Ujung Kulon National Park", 
+        "line": 8, 
+        "range": [
+            1079, 
+            1133
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1090, 
+                    1104
+                ], 
+                "name": "Peucang Island"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1106, 
+                    1131
+                ], 
+                "name": "Ujung Kulon National Park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Peucang Island is actually beyond my expectation. We did snorkeling in some spots like Ciapus, Citerjun, and Legon Koba. Visibility was not too good but the corals were not bad at all and the fishes, grouping as if they were having a big conference. I enjoyed swimming around chasing the fishes, breaking their formation and scattered around.", 
+        "line": 10, 
+        "range": [
+            1135, 
+            1476
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1209, 
+                    1214
+                ], 
+                "name": "spots"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1220, 
+                    1226
+                ], 
+                "name": "Ciapus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1228, 
+                    1236
+                ], 
+                "name": "Citerjun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1242, 
+                    1252
+                ], 
+                "name": "Legon Koba"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Once we reached the island, a different view from usual beaches that I\u2019d been to. I felt more like in a jungle rather than beach. Of course the beach is clean and beautiful but the uniqueness of this island is the presence of wild animals. I saw monkeys running around, wild boars, deers, and lizards and they were just hanging around near the cottage, a new experience for me. Don\u2019t worry those animals won\u2019t harm you.", 
+        "line": 12, 
+        "range": [
+            1478, 
+            1902
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1497, 
+                    1503
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1533, 
+                    1540
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1581, 
+                    1587
+                ], 
+                "name": "jungle"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1600, 
+                    1605
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1621, 
+                    1626
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1677, 
+                    1683
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1821, 
+                    1828
+                ], 
+                "name": "cottage"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Trekking in Peucang Island", 
+        "line": 14, 
+        "range": [
+            1904, 
+            1929
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1910, 
+                    1924
+                ], 
+                "name": "Peucang Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Another activity you can do besides snorkeling is trekking to Cidaon and Tanjung Layar. Tanjung Layar is the spot to see sunset while Cidaon is a big savanna and if you\u2019re lucky you can find bulls. I really wanted to see the famous one horn rhino, unfortunately after I heard my guide telling me that even a researcher needs to wait for two-three weeks to find the rhino passing by and observe them.", 
+        "line": 16, 
+        "range": [
+            1931, 
+            2331
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1988, 
+                    1994
+                ], 
+                "name": "Cidaon"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1999, 
+                    2012
+                ], 
+                "name": "Tanjung Layar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2014, 
+                    2027
+                ], 
+                "name": "Tanjung Layar"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2035, 
+                    2039
+                ], 
+                "name": "spot"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2060, 
+                    2066
+                ], 
+                "name": "Cidaon"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2076, 
+                    2083
+                ], 
+                "name": "savanna"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I was totally shocked when I knew that the number of one horn rhino is only around 50 left in Ujung Kulon National Park. The rest rhino only around 8 rhinos can be found in Cat Tien National Park, Vietnam. In fact, as mammals, rhino can only reproduce within 4-5 years. This is the output of human\u2019s greediness hunting for innocent animals using them as a tool to earn money. These animals must be protected, not harmed.", 
+        "line": 18, 
+        "range": [
+            2333, 
+            2754
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2421, 
+                    2446
+                ], 
+                "name": "Ujung Kulon National Park"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2500, 
+                    2522
+                ], 
+                "name": "Cat Tien National Park"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2524, 
+                    2531
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The facilities in Peucang Island are acceptable with some simple huts and shared bathroom. The bathroom is clean and fresh water running from the tap. Overall, it was a nice experience to taste both beach and jungle at once. Blending with nature surrounded with animals, sharing moments with friend. You should try!", 
+        "line": 20, 
+        "range": [
+            2756, 
+            3070
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2767, 
+                    2781
+                ], 
+                "name": "Peucang Island"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2814, 
+                    2818
+                ], 
+                "name": "huts"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2823, 
+                    2838
+                ], 
+                "name": "shared bathroom"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2844, 
+                    2852
+                ], 
+                "name": "bathroom"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2948, 
+                    2953
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2958, 
+                    2964
+                ], 
+                "name": "jungle"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips Visiting Peucang Island", 
+        "line": 22, 
+        "range": [
+            3072, 
+            3099
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3080, 
+                    3094
+                ], 
+                "name": "Peucang Island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It will be better if you\u2019re in a group of people. I paid for Rp 650,000 last time for 2 days trip to Ujung Kulon (19 people) held by independent organizer. If you wish to go in small group you can refer here for more information and details.", 
+        "line": 24, 
+        "range": [
+            3101, 
+            3343
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3197, 
+                    3208
+                ], 
+                "name": "Ujung Kulon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 6-8 December 2013", 
+        "line": 26, 
+        "range": [
+            3345, 
+            3373
+        ], 
+        "entities": []
+    }
+]

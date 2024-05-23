@@ -1,0 +1,1076 @@
+[
+    {
+        "text": "August 7, 2020    My First Encounter With Orangutans", 
+        "line": 0, 
+        "range": [
+            1, 
+            52
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My first encounter with Orangutans in bukit lawang. Seeing animals in their real habitat living wild and free without cages or fences trapping them is a vary experience compares to a zoo visit. There\u2019s a different sensation when you meet them face to face. The biggest concern when we try to approach them wildly is the possibility of not seeing them. The fact that their natural instinct to human being, and the fact that they scatter deep inside the jungle.", 
+        "line": 2, 
+        "range": [
+            54, 
+            514
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    92, 
+                    104
+                ], 
+                "name": "bukit lawang"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    135, 
+                    142
+                ], 
+                "name": "habitat"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    172, 
+                    177
+                ], 
+                "name": "cages"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    181, 
+                    187
+                ], 
+                "name": "fences"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    237, 
+                    240
+                ], 
+                "name": "zoo"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    506, 
+                    512
+                ], 
+                "name": "jungle"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I had no intention at all to visit even the best zoo in the world. I prefer seeing wild animals in their real habitat. My first encounter with an exotic animal was Komodo Dragon in Komodo National Park. It was such an amazing experience for me. Not all efforts that I tried were successful. I had to bite my fingers due to a disappointment for not seeing One-Horned Rhino in Ujung Kulon National Park.", 
+        "line": 4, 
+        "range": [
+            516, 
+            916
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    564, 
+                    567
+                ], 
+                "name": "zoo"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    625, 
+                    632
+                ], 
+                "name": "habitat"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    696, 
+                    716
+                ], 
+                "name": "Komodo National Park"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    890, 
+                    915
+                ], 
+                "name": "Ujung Kulon National Park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My next mission to accomplish was to \u201chunt\u201d down an amazing creature, which is said close and similar enough to mankind, the great apes, Orang utans. In my language, Malay or Bahasa, Orang means person/man and Utan/Hutan means forest, so combined it means jungle of forest person. Orang utans settles for ages in the jungle of Sumatera and Borneo.", 
+        "line": 6, 
+        "range": [
+            918, 
+            1268
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1145, 
+                    1151
+                ], 
+                "name": "forest"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1174, 
+                    1180
+                ], 
+                "name": "jungle"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1184, 
+                    1190
+                ], 
+                "name": "forest"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1235, 
+                    1241
+                ], 
+                "name": "jungle"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1245, 
+                    1253
+                ], 
+                "name": "Sumatera"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1258, 
+                    1264
+                ], 
+                "name": "Borneo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Heading to Bukit Lawang for the Orang Utans.", 
+        "line": 8, 
+        "range": [
+            1270, 
+            1313
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1278, 
+                    1290
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "It was actually a bit unplanned, my visit to Bukit Lawang. I had to bound to Medan for some paperwork where I met my old friend and surf to his place in Binjai, about an hour from Medan. The plan suddenly popped up. His place is not far from Bukit Lawang. about two hours ride passing crappy road, with both sides planted with palm oil trees, not a delightful sight.", 
+        "line": 10, 
+        "range": [
+            1315, 
+            1680
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1358, 
+                    1370
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1390, 
+                    1395
+                ], 
+                "name": "Medan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1457, 
+                    1462
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1466, 
+                    1472
+                ], 
+                "name": "Binjai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1493, 
+                    1498
+                ], 
+                "name": "Medan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1533, 
+                    1538
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1555, 
+                    1567
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1605, 
+                    1609
+                ], 
+                "name": "road"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Prior to our arrival, after negotiating with one of the guide, it\u2019s time to start our mission. I didn\u2019t expect too much but I was still hoping to see at least one Orang utan. About 15 minutes walking and screening the barely clear path, we heard a noise from a distance.", 
+        "line": 12, 
+        "range": [
+            1682, 
+            1955
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1912, 
+                    1916
+                ], 
+                "name": "path"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My heart was pounding. I felt the excitement, it\u2019s like going on an exploration where you find a hint that could possibly lead you to the treasure. I was more alerted, I tried to scan 360 degrees up of the tree. \u201cIs it Orang utans?\u201d I was curiously asking. The guide knew what he\u2019s doing. He tried to figure out where that noise came from while me and my friend silently followed him from the back.", 
+        "line": 14, 
+        "range": [
+            1957, 
+            2362
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There was a  small shade of dark color creature moving between the leaves. Apparently it was a Thomas Monkey, not the Orang utans. I wasn\u2019t really disappointed because it\u2019s my first time seeing a Thomas Monkey as well. Then, we continued searching Bukit Lawang for the Orang utans, again, walking through the bushes and twigs.", 
+        "line": 16, 
+        "range": [
+            2364, 
+            2693
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2601, 
+                    2613
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "After a while, we finally found it! A female Orang utan with her baby. I got this incredible hype seeing them live, in their real home, in addition with the adorably baby Orang utan. They\u2019re like playing around, slowly doing their thing, ignoring tens of eyes that watch them in awe.", 
+        "line": 18, 
+        "range": [
+            2695, 
+            2979
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2811, 
+                    2815
+                ], 
+                "name": "home"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mission accomplished. We saw three big Orang utans and two baby Orang utans in total. I had fun observing their behavior swinging over from one tree to another tree, how they function their long arms to support their body. We happily returned back and I\u2019ll keep this memory of my first encounter with Orang utans.", 
+        "line": 20, 
+        "range": [
+            2981, 
+            3295
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Critically Endangered", 
+        "line": 22, 
+        "range": [
+            3297, 
+            3317
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sadly, they are critically endangered due to deforestation, around 70,000 Orangutans left. The threat mainly comes from land or forest clearance used particularly for palm oil. Moreover, the weak law enforcement from the government couldn\u2019t stop the irresponsible loggers, in this case big companies which stole and destroyed not only a tiny piece of land, but thousand hectares of land.", 
+        "line": 24, 
+        "range": [
+            3319, 
+            3707
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3424, 
+                    3428
+                ], 
+                "name": "land"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3432, 
+                    3438
+                ], 
+                "name": "forest"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3655, 
+                    3659
+                ], 
+                "name": "land"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3686, 
+                    3690
+                ], 
+                "name": "land"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Despite all the efforts from NGOs to conserve and rehabilitate these species, without awareness from the public, they\u2019re still in danger. And it\u2019s heart-breaking for me, cause I know what exactly happens, how the government works, how the people here, well most of them, doesn\u2019t care about environment or wildlife, that\u2019s a shame that I feel right now, to my own country. It\u2019s a burden for me and it\u2019s my responsibility to give a hand. Let us do something, even it\u2019s a simple act to save the nature and the endangered animals.", 
+        "line": 26, 
+        "range": [
+            3709, 
+            4248
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4056, 
+                    4063
+                ], 
+                "name": "country"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4235, 
+                    4247
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "How to Get to Bukit Lawang", 
+        "line": 28, 
+        "range": [
+            4250, 
+            4275
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are two options if you want to travel to Bukit Lawang to see Orang Utans:", 
+        "line": 30, 
+        "range": [
+            4277, 
+            4355
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4296, 
+                    4308
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4341, 
+                    4353
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Getting to Bukit Lawang From Kualanamu Airport", 
+        "line": 32, 
+        "range": [
+            4357, 
+            4402
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4359, 
+                    4376
+                ], 
+                "name": "Kualanamu Airport"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4389, 
+                    4397
+                ], 
+                "name": "bus stop"
+            }
+        ]
+    }, 
+    {
+        "text": "Head to the bus stop at the airport and search for \u201cALS\u201d bus that goes to Binjai (destination name). This bus cost you Rp 40.000. Next, after the bus stops in Binjai, take a rickshaw (Rp 10.000) to an area called Tanah Lapang where you can get minivan (Rp 20,000) to Bukit Lawang. Just mention that you\u2019re looking for minivan to Bukit Lawang. The journey slightly takes around 4-5 hours in total", 
+        "line": 33, 
+        "range": [
+            4403, 
+            4803
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4405, 
+                    4412
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4428, 
+                    4437
+                ], 
+                "name": "\u201cALS\u201d bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4451, 
+                    4457
+                ], 
+                "name": "Binjai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4483, 
+                    4486
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4523, 
+                    4526
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4536, 
+                    4542
+                ], 
+                "name": "Binjai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4551, 
+                    4559
+                ], 
+                "name": "rickshaw"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4578, 
+                    4582
+                ], 
+                "name": "area"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4590, 
+                    4602
+                ], 
+                "name": "Tanah Lapang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4621, 
+                    4628
+                ], 
+                "name": "minivan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4644, 
+                    4656
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4695, 
+                    4702
+                ], 
+                "name": "minivan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4706, 
+                    4719
+                ], 
+                "name": "Bukit Lawang."
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4785, 
+                    4797
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 34, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Getting to Bukit Lawang From Medan City", 
+        "line": 35, 
+        "range": [
+            4805, 
+            4843
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4823, 
+                    4843
+                ], 
+                "name": "Pinang Baris Station"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 36, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Head to Pinang Baris Station and catch a minivan to Bukit Lawang. It should cost you just around Rp 30.000-50.000. All you need to do next is just hire a rickshaw to take you inside the national park area, Rp 5.000-10.000.", 
+        "line": 37, 
+        "range": [
+            4845, 
+            5066
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4856, 
+                    4863
+                ], 
+                "name": "minivan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4867, 
+                    4879
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4969, 
+                    4977
+                ], 
+                "name": "rickshaw"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5001, 
+                    5019
+                ], 
+                "name": "national park area"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5043, 
+                    5056
+                ], 
+                "name": "accommodation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 38, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The accommodation ranges from Rp 150.000-Rp 500.000 in Bukit Lawang.", 
+        "line": 39, 
+        "range": [
+            5068, 
+            5135
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5094, 
+                    5106
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 40, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Guide information Bukit Lawang", 
+        "line": 41, 
+        "range": [
+            5137, 
+            5166
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 42, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Taking a guide is a must for your own safety. The path is not clear, no direction, you might get lost in the middle of jungle. Hiring a guide or taking a tour here is very pricey. There\u2019s a guide association with fix rate. Normally the accommodation offers a day tour to see Orang utans.", 
+        "line": 43, 
+        "range": [
+            5168, 
+            5456
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5191, 
+                    5195
+                ], 
+                "name": "path"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5260, 
+                    5266
+                ], 
+                "name": "jungle"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5377, 
+                    5390
+                ], 
+                "name": "accommodation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 44, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Some recommended guide: Dede Pinem +62821 6833 7066 or +62813 7047 0414, Robet Tuex  +62812 6099 8236. For Indonesian/local expect to pay around Rp 350.000/person. for foreigners expect to pay $50-$100 depends on the trekking type you take.", 
+        "line": 45, 
+        "range": [
+            5458, 
+            5697
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There\u2019s a controversy about feeding Orang utans. Some guides are strict with the rules, they\u2019re actually not allowed to feed them. But some guides still feed them to lure the Orang utans closer in order to entertain the guest.", 
+        "line": 47, 
+        "range": [
+            5699, 
+            5928
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Just a Small Opinion of Mine", 
+        "line": 49, 
+        "range": [
+            5930, 
+            5957
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "To be honest, I was a bit shocked with the condition of Bukit Lawang. As far as I know, Bukit Lawang is a popular destination especially for foreigners so I expected that place as a part of national park will be more organized. I found out the facilities are under-supervised.", 
+        "line": 51, 
+        "range": [
+            5959, 
+            6234
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5986, 
+                    5998
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6018, 
+                    6030
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6101, 
+                    6106
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6120, 
+                    6133
+                ], 
+                "name": "national park"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6174, 
+                    6184
+                ], 
+                "name": "facilities"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The tourist information doesn\u2019t provide well information to the guest. I didn\u2019t know who to talk to because it\u2019s hard for me to find which one is the officer. There previous guy told me to buy entrance ticket and it\u2019s going to be checked when we arrived at the check point. I didn\u2019t see a proper check point and a proper officer who check our tickets.", 
+        "line": 53, 
+        "range": [
+            6236, 
+            6596
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6469, 
+                    6480
+                ], 
+                "name": "check point"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6504, 
+                    6515
+                ], 
+                "name": "check point"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 54, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There\u2019re just a bunch of people in the hut playing cards. That\u2019s a bit funny. I think the private runs their own business, no synergy among the official body from the national park. I could still accept this kind of condition if it\u2019s in different place which is not popular and still underdeveloped, not for Bukit Lawang. The potential is so big here, but it\u2019s not well-maintained.", 
+        "line": 55, 
+        "range": [
+            6598, 
+            6986
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6600, 
+                    6603
+                ], 
+                "name": "hut"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6728, 
+                    6741
+                ], 
+                "name": "national park"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6808, 
+                    6813
+                ], 
+                "name": "place"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6869, 
+                    6881
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 56, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I wonder where the money that the visitors have to pay goes, it\u2019s not a small amount, it\u2019s pretty expensive in Indonesia, in contrast with the level of improvement in that area, it doesn\u2019t really make sense to me.", 
+        "line": 57, 
+        "range": [
+            6988, 
+            7206
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7055, 
+                    7064
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7116, 
+                    7120
+                ], 
+                "name": "area"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 58, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 11 November 2015", 
+        "line": 59, 
+        "range": [
+            7208, 
+            7235
+        ], 
+        "entities": []
+    }
+]

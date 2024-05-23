@@ -1,0 +1,1971 @@
+[
+    {
+        "text": "April 23, 2020    11 Best Beaches In Bali: My Favorite Pick !", 
+        "line": 0, 
+        "range": [
+            1, 
+            61
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    26, 
+                    33
+                ], 
+                "name": "Beaches"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    37, 
+                    41
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I\u2019m not gonna brag on how beautiful the beaches in Bali cause everyone on earth knows that Bali is a true paradise, which by means what they always called so far, right? The question is, with all the beaches covering almost all the coast in this island, which one is the best? It\u2019s a tricky one. Truthfully, I have no idea which one is the best but surely I can recommend you my personal pick. Been living in Bali for almost a year now so pretty much I\u2019ve seen some cool beaches, even some are also considered as the most secluded beaches in Bali.", 
+        "line": 2, 
+        "range": [
+            63, 
+            615
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    103, 
+                    110
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    114, 
+                    118
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    137, 
+                    142
+                ], 
+                "name": "earth"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    154, 
+                    158
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    263, 
+                    270
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    295, 
+                    300
+                ], 
+                "name": "coast"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    309, 
+                    315
+                ], 
+                "name": "island"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    472, 
+                    476
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    534, 
+                    541
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    594, 
+                    601
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    605, 
+                    609
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Balangan Beach", 
+        "line": 4, 
+        "range": [
+            617, 
+            633
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Based under the rocky hill, Balangan Beach is quite popular among surfer. I had a great time spending my whole day here, the waves and the weather were just perfect. Head to the right side of the beach for calmer waves for swim and the water looks great too with turquoise color. It\u2019s also the spot for taking pre-wedding shot.", 
+        "line": 6, 
+        "range": [
+            635, 
+            963
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    653, 
+                    657
+                ], 
+                "name": "hill"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    659, 
+                    673
+                ], 
+                "name": "Balangan Beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    827, 
+                    832
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    925, 
+                    929
+                ], 
+                "name": "spot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Where: Southwest coast of Bali", 
+        "line": 8, 
+        "range": [
+            965, 
+            994
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    967, 
+                    982
+                ], 
+                "name": "Southwest coast"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    986, 
+                    990
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "What I love: Just perfect for me at that time to swim.", 
+        "line": 9, 
+        "range": [
+            995, 
+            1048
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 10, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Tegal Wangi Beach", 
+        "line": 11, 
+        "range": [
+            1050, 
+            1069
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1050, 
+                    1067
+                ], 
+                "name": "Tegal Wangi Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 12, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bless you if you find this beach for just a bunch of people and yourself, that\u2019s what happened to me when I came to Tegal Wangi Beach. Yep, it\u2019s one of the most secluded beaches in Bali. The rugged cliffs are aesthetically pleasing the eyes and rumbling waves occasionally hit the rocks on the shore.", 
+        "line": 13, 
+        "range": [
+            1071, 
+            1374
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1096, 
+                    1101
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1185, 
+                    1202
+                ], 
+                "name": "Tegal Wangi Beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1239, 
+                    1246
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1250, 
+                    1254
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1267, 
+                    1273
+                ], 
+                "name": "cliffs"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1363, 
+                    1368
+                ], 
+                "name": "shore"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 14, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sometimes it can be impossible to access the beach during the high tide however, if you happen to be during the low tide, it\u2019s an award itself. Keep an eye on the natural jacuzzi. There\u2019s also a hidden cave somewhere along this beach, try to find for it.", 
+        "line": 15, 
+        "range": [
+            1376, 
+            1633
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1416, 
+                    1421
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1534, 
+                    1549
+                ], 
+                "name": "natural jacuzzi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1573, 
+                    1577
+                ], 
+                "name": "cave"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1599, 
+                    1604
+                ], 
+                "name": "beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 16, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "To get inspired, hit the magnifier button on instagram and search for hashtag Tegal Wangi, you\u2019ll see heaps of terrific pictures. You better visit Tegal Wangi soon before it gets super busy.", 
+        "line": 17, 
+        "range": [
+            1635, 
+            1826
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1705, 
+                    1716
+                ], 
+                "name": "Tegal Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1774, 
+                    1785
+                ], 
+                "name": "Tegal Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 18, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Where: Southwest coast of Bali", 
+        "line": 19, 
+        "range": [
+            1828, 
+            1857
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1845, 
+                    1849
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "What I love: The unique character of the limestone cliffs.", 
+        "line": 20, 
+        "range": [
+            1858, 
+            1915
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1891, 
+                    1907
+                ], 
+                "name": "limestone cliffs"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Melasti Beach", 
+        "line": 22, 
+        "range": [
+            1917, 
+            1932
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dotted sun umbrellas with different kinds of colour lining on Melasti Beach. From all the list here, Melasti Beach is probably the busiest on the southern part of Bali. It\u2019s still acceptable though, cause the sparkle of the water is different, makes you wanna jump straight to the ocean.", 
+        "line": 24, 
+        "range": [
+            1934, 
+            2222
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1990, 
+                    2003
+                ], 
+                "name": "Melasti Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2029, 
+                    2042
+                ], 
+                "name": "Melasti Beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2074, 
+                    2087
+                ], 
+                "name": "southern part"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2091, 
+                    2095
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Unfortunately, Melasti beach is ready for tourism now. The road has been built, cutting the cliffs. Don\u2019t be surprised if you spot a couple dressed in fancy outfit stand on your way having photo shoot. Regardless, I\u2019ll consider Melasti as a destination if I gotta bring my friend who\u2019re less adventurous.", 
+        "line": 26, 
+        "range": [
+            2224, 
+            2533
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2232, 
+                    2245
+                ], 
+                "name": "Melasti beach"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2276, 
+                    2280
+                ], 
+                "name": "road"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2309, 
+                    2315
+                ], 
+                "name": "cliffs"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2343, 
+                    2347
+                ], 
+                "name": "spot"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2445, 
+                    2452
+                ], 
+                "name": "Melasti"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Where: Southeast coast of Bali", 
+        "line": 28, 
+        "range": [
+            2535, 
+            2564
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2549, 
+                    2553
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "What I love: Sparkling blue, crystal clear water, great view from the top.", 
+        "line": 29, 
+        "range": [
+            2565, 
+            2638
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 30, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Pura Geger Beach", 
+        "line": 31, 
+        "range": [
+            2640, 
+            2658
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 32, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My favorite secret beach. When I get too lazy to drive far to another beaches in the south. I\u2019ll just stop by in Pura Geger Beach. It\u2019s in Nusa Dua area, yep, that upscale resort complex, surprisingly no fancy restaurant, no sunbeds, it\u2019s fairly untouched. People usually go to Geger beach, whereas this beach is somewhat tucked. That\u2019s why it\u2019s less crowded. To get here, put Pura Geger (without beach) and it\u2019s right there. Definitely in the list for the most secluded beaches in Bali.", 
+        "line": 33, 
+        "range": [
+            2660, 
+            3158
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2670, 
+                    2675
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2721, 
+                    2728
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2732, 
+                    2741
+                ], 
+                "name": "the south"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2764, 
+                    2780
+                ], 
+                "name": "Pura Geger Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2790, 
+                    2803
+                ], 
+                "name": "Nusa Dua area"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2823, 
+                    2837
+                ], 
+                "name": "resort complex"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2861, 
+                    2871
+                ], 
+                "name": "restaurant"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2876, 
+                    2883
+                ], 
+                "name": "sunbeds"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2929, 
+                    2940
+                ], 
+                "name": "Geger beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2955, 
+                    2960
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3028, 
+                    3038
+                ], 
+                "name": "Pura Geger"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3048, 
+                    3053
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3122, 
+                    3129
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3133, 
+                    3137
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 34, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Where: Southeast coast of Bali", 
+        "line": 35, 
+        "range": [
+            3160, 
+            3189
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3166, 
+                    3170
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "What I love: Quiet white sand beach not too far from central area.", 
+        "line": 36, 
+        "range": [
+            3190, 
+            3255
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3201, 
+                    3206
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3224, 
+                    3236
+                ], 
+                "name": "central area"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Green Bowl Beach", 
+        "line": 38, 
+        "range": [
+            3257, 
+            3275
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "A small hidden beach, Green Bowl Beach is not really tourists\u2019 kind of thing because of the \u201cstairs to hell\u201d. People who are not that fit would probably swear when climbing up the stairs, it\u2019ll give that adrenaline-rush, some people like it of course. The sand is not that great, I mean the texture is a bit rough but the water is blue, good for swimming.", 
+        "line": 40, 
+        "range": [
+            3277, 
+            3639
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3282, 
+                    3298
+                ], 
+                "name": "Green Bowl Beach"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3353, 
+                    3359
+                ], 
+                "name": "stairs"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3440, 
+                    3446
+                ], 
+                "name": "stairs"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "You don\u2019t need to rent expensive sun umbrellas to cool you down after the swim, the cave will do it. The only downside of Green Bowl Beach is the ladies offering bracelets or massage, they can be quite rude sometimes. Just ignore them and enjoy the day.", 
+        "line": 42, 
+        "range": [
+            3641, 
+            3895
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3701, 
+                    3705
+                ], 
+                "name": "cave"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3739, 
+                    3755
+                ], 
+                "name": "Green Bowl Beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3879, 
+                    3894
+                ], 
+                "name": "Southeast coast"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Where: Southeast coast of Bali", 
+        "line": 44, 
+        "range": [
+            3897, 
+            3926
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3898, 
+                    3902
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3919, 
+                    3923
+                ], 
+                "name": "cave"
+            }
+        ]
+    }, 
+    {
+        "text": "What I love:The cave is perfect place for getting shade.", 
+        "line": 45, 
+        "range": [
+            3927, 
+            3982
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3964, 
+                    3981
+                ], 
+                "name": "Nyang nyang Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "6. Nyang nyang Beach", 
+        "line": 47, 
+        "range": [
+            3984, 
+            4003
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I hope it stays like this forever! Nyang-nyang beach is probably the only beach on the south that you can feel the remoteness and the wilderness. You have to trek down through uneven terrain with tangling roots for maybe 20 mins to get to this beach.", 
+        "line": 49, 
+        "range": [
+            4005, 
+            4254
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4018, 
+                    4035
+                ], 
+                "name": "Nyang-nyang beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4057, 
+                    4062
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4066, 
+                    4075
+                ], 
+                "name": "the south"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4227, 
+                    4232
+                ], 
+                "name": "beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The long stretch coastline will welcome you. Since it\u2019s huge, you don\u2019t really cramp with other people, just find your spot then you\u2019ll be yourself. The wreck on the beach become an attraction itself with murals painted. Definitely, a top contender as the most secluded beaches in Bali.", 
+        "line": 51, 
+        "range": [
+            4256, 
+            4547
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4354, 
+                    4358
+                ], 
+                "name": "spot"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4388, 
+                    4393
+                ], 
+                "name": "wreck"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4401, 
+                    4406
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4417, 
+                    4427
+                ], 
+                "name": "attraction"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4505, 
+                    4512
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4516, 
+                    4520
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4530, 
+                    4545
+                ], 
+                "name": "Southeast coast"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Where: Southeast coast of Bali", 
+        "line": 53, 
+        "range": [
+            4549, 
+            4578
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4549, 
+                    4553
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "What I love: The long stretch coastline and the remoteness.", 
+        "line": 54, 
+        "range": [
+            4579, 
+            4637
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4584, 
+                    4593
+                ], 
+                "name": "coastline"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4618, 
+                    4629
+                ], 
+                "name": "Sanur Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "7. Sanur Beach", 
+        "line": 56, 
+        "range": [
+            4639, 
+            4652
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Used to be a hot destination in Bali but I think the trend is going down, since people are crazier for Seminyak and Canggu. The market is different here, more golden age tourist or local Balinese. As a morning person I really enjoy Sanur area, and yes, sunrise here is amazing. On a clear day, Mount Agung can be seen and the waves can be very calm, like very very very calm.", 
+        "line": 58, 
+        "range": [
+            4654, 
+            5028
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4663, 
+                    4667
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4734, 
+                    4742
+                ], 
+                "name": "Seminyak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4747, 
+                    4753
+                ], 
+                "name": "Canggu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4863, 
+                    4868
+                ], 
+                "name": "Sanur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4925, 
+                    4936
+                ], 
+                "name": "Mount Agung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5015, 
+                    5027
+                ], 
+                "name": "Karang Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "I love Karang Beach precisely. I do yoga regularly on the beach every day from 7.30, it\u2019s free!  Some of the days, you can see fisherman with its conical hat standing on the sea during low tide, gracefully stand and wait, what a scene. Also, the trek reminds me of the coastal walk, starting from Matahari Terbit Beach passing some other beaches until it ends in Mertasari Beach with a total of 6 km long.", 
+        "line": 60, 
+        "range": [
+            5030, 
+            5436
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5066, 
+                    5071
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5277, 
+                    5284
+                ], 
+                "name": "coastal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5305, 
+                    5326
+                ], 
+                "name": "Matahari Terbit Beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5346, 
+                    5353
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5371, 
+                    5386
+                ], 
+                "name": "Mertasari Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5420, 
+                    5425
+                ], 
+                "name": "Sanur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "From Sanur, there\u2019re some Bali boat rentals that can transfer you to Lombok or Nusa Islands.", 
+        "line": 62, 
+        "range": [
+            5438, 
+            5531
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5441, 
+                    5450
+                ], 
+                "name": "Bali boat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5484, 
+                    5490
+                ], 
+                "name": "Lombok"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5494, 
+                    5506
+                ], 
+                "name": "Nusa Islands"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5516, 
+                    5526
+                ], 
+                "name": "East coast"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Where: East coast of Bali", 
+        "line": 64, 
+        "range": [
+            5533, 
+            5557
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "What I love: Well-built jogging track along the beach, view of Mount Agung in a clear morning, very peaceful.", 
+        "line": 65, 
+        "range": [
+            5558, 
+            5666
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5559, 
+                    5572
+                ], 
+                "name": "jogging track"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5583, 
+                    5588
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5598, 
+                    5609
+                ], 
+                "name": "Mount Agung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5649, 
+                    5665
+                ], 
+                "name": "Kelingking Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 66, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "8. Kelingking Beach", 
+        "line": 67, 
+        "range": [
+            5668, 
+            5686
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 68, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The jaw-dropping scenery above the cliffs pointing down to the unique rock formation, Kelingking Beach has become a superstar lately after discovered by social-media addict. It has strong character that everyone can tell that this is Kelingking Beach in Nusa Penida.  Challenge yourself by going down the steep path down to the beach, the view is priceless!", 
+        "line": 69, 
+        "range": [
+            5688, 
+            6044
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5702, 
+                    5708
+                ], 
+                "name": "cliffs"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5737, 
+                    5751
+                ], 
+                "name": "rock formation"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5753, 
+                    5769
+                ], 
+                "name": "Kelingking Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5901, 
+                    5917
+                ], 
+                "name": "Kelingking Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5921, 
+                    5932
+                ], 
+                "name": "Nusa Penida"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5978, 
+                    5982
+                ], 
+                "name": "path"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5995, 
+                    6000
+                ], 
+                "name": "beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 70, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Where: Nusa Penida Island", 
+        "line": 71, 
+        "range": [
+            6046, 
+            6070
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "What I love: The surreal landscape.", 
+        "line": 72, 
+        "range": [
+            6071, 
+            6105
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "9. Bias Tugel Beach", 
+        "line": 74, 
+        "range": [
+            6107, 
+            6125
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Accidentally found this beach on the way to Amed. One of the most secluded beaches in Bali. It\u2019s an unplanned trip, we just randomly chose to visit this beach after spotting it on google maps. I was stunned with the view.", 
+        "line": 76, 
+        "range": [
+            6127, 
+            6349
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6134, 
+                    6139
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6154, 
+                    6158
+                ], 
+                "name": "Amed"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6185, 
+                    6192
+                ], 
+                "name": "beaches"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6196, 
+                    6200
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6263, 
+                    6268
+                ], 
+                "name": "beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The floury-like beach perfectly match with the bluish water. Can\u2019t believe that I never knew about this beach before. A few local shops occupied the beach. Bias Tugel Beach is so close to Padang Bai, you can see the ferry boat slowly disappearing. What surprises me is that the beach is so clean and the water so clear, even it\u2019s just next to the port, amazing!", 
+        "line": 78, 
+        "range": [
+            6351, 
+            6715
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6437, 
+                    6442
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6463, 
+                    6468
+                ], 
+                "name": "shops"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6482, 
+                    6487
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6489, 
+                    6505
+                ], 
+                "name": "Bias Tugel Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6521, 
+                    6531
+                ], 
+                "name": "Padang Bai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6549, 
+                    6558
+                ], 
+                "name": "ferry boa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6611, 
+                    6616
+                ], 
+                "name": "beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Where: Northeast coast of Bali", 
+        "line": 80, 
+        "range": [
+            6717, 
+            6746
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6722, 
+                    6726
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "What I love: The excitement of spontaneous discovery of this beautiful beach.", 
+        "line": 81, 
+        "range": [
+            6747, 
+            6823
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6798, 
+                    6803
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6810, 
+                    6822
+                ], 
+                "name": "Berawa Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 82, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "10. Berawa Beach", 
+        "line": 83, 
+        "range": [
+            6825, 
+            6840
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Canggu is very happening these days, attracting younger generations who fancy digital-nomad lifestyle. Basically you can find almost everything here; surfboards, healthy bowls, rice field, nightlife. Compared to Kuta or Seminyak, it\u2019s a a lot more affordable, plus the atmosphere is very vibrant.", 
+        "line": 85, 
+        "range": [
+            6842, 
+            7139
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7001, 
+                    7011
+                ], 
+                "name": "rice field"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7036, 
+                    7040
+                ], 
+                "name": "Kuta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7044, 
+                    7052
+                ], 
+                "name": "Seminyak"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7134, 
+                    7139
+                ], 
+                "name": "place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "My favorite place to chill out every Sunday is actually called \u201cHidden Beach\u201d, somewhere between Berawa Beach and Perancak Beach. I\u2019ll pick one of the beach bar facing the ocean, order $2 fresh coconut, and lay down lazily on the bean bag. A fantastic way to enjoy life!", 
+        "line": 87, 
+        "range": [
+            7141, 
+            7416
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7186, 
+                    7198
+                ], 
+                "name": "Hidden Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7219, 
+                    7231
+                ], 
+                "name": "Berawa Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7236, 
+                    7250
+                ], 
+                "name": "Perancak Beach"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7273, 
+                    7282
+                ], 
+                "name": "beach bar"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7294, 
+                    7299
+                ], 
+                "name": "ocean"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7401, 
+                    7411
+                ], 
+                "name": "West coast"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 88, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Where: West coast of Bali", 
+        "line": 89, 
+        "range": [
+            7418, 
+            7442
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "What I love: Free to sit on the beanbag with just ordering cheap bears and coconut.", 
+        "line": 90, 
+        "range": [
+            7443, 
+            7525
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7509, 
+                    7525
+                ], 
+                "name": "Batu Belig Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "11. Batu Belig Beach", 
+        "line": 92, 
+        "range": [
+            7527, 
+            7546
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7527, 
+                    7543
+                ], 
+                "name": "Batu Belig Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Batu Belig Beach is probably the most-visited beach since I moved to Bali. I might be super bias, probably it\u2019s not fair cause the beach is just average with black sand and less-clean compared to other. However, the sunset here is so captivating. I often go to 707 Beach Berm and sit on the beanbag watching sunset listening to deep house techno kind of music.", 
+        "line": 94, 
+        "range": [
+            7548, 
+            7909
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7573, 
+                    7578
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7596, 
+                    7600
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7658, 
+                    7663
+                ], 
+                "name": "beach"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7788, 
+                    7802
+                ], 
+                "name": "707 Beach Berm"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "When the sky turns golden, a bit pinkish sometimes, then the perfectly round sun goes down. All the colors glow together with the gently rolling waves, it makes me appreciate life even more. Sunday is the best time to come. The DJ plays good music and as it gets darker, a bunch of regular party-people will dance and have fun at the small dance floor.", 
+        "line": 96, 
+        "range": [
+            7911, 
+            8262
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8250, 
+                    8260
+                ], 
+                "name": "West coast"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Where: West coast of Bali", 
+        "line": 98, 
+        "range": [
+            8264, 
+            8288
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8264, 
+                    8268
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "What I love: Great sunset bar, good vibes, cheap beers, great music on Sunday.", 
+        "line": 99, 
+        "range": [
+            8289, 
+            8366
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8295, 
+                    8298
+                ], 
+                "name": "bar"
+            }
+        ]
+    }
+]

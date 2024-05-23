@@ -1,0 +1,627 @@
+[
+    {
+        "text": "November 1, 2020    Gyeongju: A Deeper Look To Korean Ancient Dynasty", 
+        "line": 0, 
+        "range": [
+            1, 
+            69
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    20, 
+                    28
+                ], 
+                "name": "Gyeongju"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Maybe Three Kingdoms sounds familiar, yes, those are the famous powerful kingdoms in China, but do you aware that Three Kingdoms period also existed in the land of Korea? The Three Kingdoms of Korea refers to Goguryeo, Baekje, and Silla. One of the world\u2019s longest sustained dynasties, Silla chose Gyeongju as the capital and became the center of Korean political and cultural life.", 
+        "line": 2, 
+        "range": [
+            71, 
+            454
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    156, 
+                    161
+                ], 
+                "name": "China"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    227, 
+                    240
+                ], 
+                "name": "land of Korea"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    369, 
+                    377
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    385, 
+                    392
+                ], 
+                "name": "capital"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    404, 
+                    414
+                ], 
+                "name": "the center"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "The Famous Temple Ever Built in Gyeongju, Bulguksa Temple", 
+        "line": 4, 
+        "range": [
+            456, 
+            512
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    466, 
+                    472
+                ], 
+                "name": "Temple"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    487, 
+                    495
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    497, 
+                    512
+                ], 
+                "name": "Bulguksa Temple"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Many outstanding form of relics, arts, temples, and pagodas adopted from Buddhism belief are stored in Gyeongju. Bulguksa Temple is the famous temple ever built in Gyeongju, home of seven official national treasures. That is why the temple cannot be skipped once you\u2019re in Gyeongju.", 
+        "line": 6, 
+        "range": [
+            514, 
+            797
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    539, 
+                    545
+                ], 
+                "name": "relics"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    553, 
+                    560
+                ], 
+                "name": "temples"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    566, 
+                    573
+                ], 
+                "name": "pagodas"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    617, 
+                    625
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    627, 
+                    642
+                ], 
+                "name": "Bulguksa Temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    657, 
+                    663
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    678, 
+                    686
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    688, 
+                    692
+                ], 
+                "name": "home"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    747, 
+                    753
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    787, 
+                    795
+                ], 
+                "name": "Gyeongju"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Getting here is easy, bus number 10 and 11 runs every 15-30 minutes to the temple. Traveling in Gyeongju feels different with other cities in South Korea. Listed as World Unesco Heritage Site, most of the attractions charge the visitors for entrance fee (I\u2019m on tight budget, sorry :p) but it\u2019s a worth to pay to preserve them.", 
+        "line": 8, 
+        "range": [
+            799, 
+            1129
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    820, 
+                    833
+                ], 
+                "name": "bus number 10"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    838, 
+                    840
+                ], 
+                "name": "11"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    873, 
+                    879
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    894, 
+                    902
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    930, 
+                    936
+                ], 
+                "name": "cities"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    940, 
+                    951
+                ], 
+                "name": "South Korea"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    963, 
+                    989
+                ], 
+                "name": "World Unesco Heritage Site"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1003, 
+                    1014
+                ], 
+                "name": "attractions"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Entrance fee for Bulguksa Temple is 4,000 won. Free guided tours around the temple are available several times in a day. My guide speaking in proper English explained me about the temple. The gate is the separator from the temple which is believed as the heaven from outside.", 
+        "line": 10, 
+        "range": [
+            1131, 
+            1405
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1144, 
+                    1159
+                ], 
+                "name": "Bulguksa Temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1203, 
+                    1209
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1307, 
+                    1313
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1319, 
+                    1323
+                ], 
+                "name": "gate"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1350, 
+                    1356
+                ], 
+                "name": "temple"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "There are several rooms with different functions such as prayer hall and monk\u2019s housing. I found something interesting when I walked around the temple. I saw an area filled with stones, but the stones were arranged on the top of other stones. That is how Korean make wishes, putting a stone on the top of another stone. If it doesn\u2019t fall, then your wish will come true. Another piquant thing in the temple is a lucky golden pig, touch it and put your hand in the pocket, then you\u201dll get lucky.", 
+        "line": 12, 
+        "range": [
+            1407, 
+            1906
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1422, 
+                    1427
+                ], 
+                "name": "rooms"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1461, 
+                    1472
+                ], 
+                "name": "prayer hall"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1477, 
+                    1491
+                ], 
+                "name": "monk\u2019s housing"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1548, 
+                    1554
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1565, 
+                    1569
+                ], 
+                "name": "area"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1804, 
+                    1810
+                ], 
+                "name": "temple"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1816, 
+                    1832
+                ], 
+                "name": "lucky golden pig"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Seokguram Grotto, Gyeongju National Museum and Anapji Pond", 
+        "line": 14, 
+        "range": [
+            1908, 
+            1965
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1918, 
+                    1942
+                ], 
+                "name": "Gyeongju National Museum"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1947, 
+                    1958
+                ], 
+                "name": "Anapji Pond"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Having enough in Bulguksa Temple, I went to Seokguram Grotto, another national treasure. Actually I could take the bus but I decided to walk 2 kilometers up, again I\u2019m on budget haha. Again admission fee is 4,000 won. Basically what you will see is a big granite Buddha Statue inside a small chamber, I don\u2019t know why I felt peace when I was inside.", 
+        "line": 16, 
+        "range": [
+            1967, 
+            2319
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1977, 
+                    1992
+                ], 
+                "name": "Bulguksa Temple"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2004, 
+                    2020
+                ], 
+                "name": "Seokguram Grotto"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2075, 
+                    2078
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2215, 
+                    2236
+                ], 
+                "name": "granite Buddha Statue"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2252, 
+                    2259
+                ], 
+                "name": "chamber"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "During Japanese occupancy in South Korea, they tried to destroy many historical artifacts that is why they covered up the top of the room with concrete, as the result inside was humid and forming moss, The chamber is separated with a glass wall and will be only opened during Buddha\u2019s birthday.", 
+        "line": 18, 
+        "range": [
+            2321, 
+            2616
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2340, 
+                    2351
+                ], 
+                "name": "South Korea"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2444, 
+                    2448
+                ], 
+                "name": "room"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2517, 
+                    2524
+                ], 
+                "name": "chamber"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Actually, there are so many things to see in Gyeongju, especially tombs and traditional houses. I didn\u2019t have much time so I went to Gyeongju National Museum (free admission, finally) to learn more about Silla Kingdom also watching beautiful ancient Buddha relics. Last, I went to Anapji Pond, nothing special in the day but once the sun goes down and the light is on, many photographers try to capture the beauty of this pond. Admission fee in 2,000 won.", 
+        "line": 20, 
+        "range": [
+            2618, 
+            3074
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2652, 
+                    2660
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2673, 
+                    2678
+                ], 
+                "name": "tombs"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2683, 
+                    2701
+                ], 
+                "name": "traditional houses"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2740, 
+                    2764
+                ], 
+                "name": "Gyeongju National Museum"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2888, 
+                    2899
+                ], 
+                "name": "Anapji Pond"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3029, 
+                    3033
+                ], 
+                "name": "pond"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveled in 25 November 2014", 
+        "line": 22, 
+        "range": [
+            3076, 
+            3103
+        ], 
+        "entities": []
+    }
+]
