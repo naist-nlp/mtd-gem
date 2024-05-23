@@ -1,0 +1,4165 @@
+[
+    {
+        "text": "May 24, 2022   Info Jalur Pendakian Gunung Semeru (Transportasi, Biaya, Rute)", 
+        "line": 0, 
+        "range": [
+            1, 
+            77
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    20, 
+                    25
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    36, 
+                    49
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya akan berbagi info seputar pendakian Gunung Semeru seperti jalur pendakian, cara menuju ke sana, berapa biaya yang dibutuhkan, dan itinerary atau pengalaman saya mendaki puncak tertinggi di Jawa! ", 
+        "line": 2, 
+        "range": [
+            79, 
+            278
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    120, 
+                    133
+                ], 
+                "name": "Gunung Semeru"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    142, 
+                    157
+                ], 
+                "name": "jalur pendakian"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    273, 
+                    277
+                ], 
+                "name": "Jawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Semeru merupakan sebuah gunung berapi yang terletak di Jawa Timur, Indonesia, tepatnya di Kabupaten Lumajang dan Kabupaten Malang.", 
+        "line": 4, 
+        "range": [
+            280, 
+            416
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    281, 
+                    294
+                ], 
+                "name": "Gunung Semeru"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    312, 
+                    325
+                ], 
+                "name": "gunung berapi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    343, 
+                    353
+                ], 
+                "name": "Jawa Timur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    355, 
+                    364
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    378, 
+                    396
+                ], 
+                "name": "Kabupaten Lumajang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    401, 
+                    417
+                ], 
+                "name": "Kabupaten Malang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung ini memiliki ketinggian 3,676 mdpl yang menjadikannya gunung berapi ketiga tertinggi di Indonesia, setelah Gunung Kerinci dan Gunung Rinjani.", 
+        "line": 6, 
+        "range": [
+            418, 
+            565
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    420, 
+                    426
+                ], 
+                "name": "Gunung"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    481, 
+                    494
+                ], 
+                "name": "gunung berapi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    515, 
+                    524
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    534, 
+                    548
+                ], 
+                "name": "Gunung Kerinci"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mendaki Gunung Semeru adalah impian bagi banyak pendaki di Indonesia termasuk saya.", 
+        "line": 8, 
+        "range": [
+            567, 
+            649
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    578, 
+                    591
+                ], 
+                "name": "Gunung Semeru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    629, 
+                    638
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sendiri berkesempatan untuk naik Gunung Semeru sebanyak 2 kali.", 
+        "line": 10, 
+        "range": [
+            651, 
+            718
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    693, 
+                    706
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pada pendakian pertama saya harus menahan rasa kecewa karena gagal mencapai Puncak Mahameru.", 
+        "line": 12, 
+        "range": [
+            720, 
+            811
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Baru pada pendakian kedua saya berhasil menggapai puncak tertinggi di Jawa ini.", 
+        "line": 14, 
+        "range": [
+            813, 
+            891
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Transportasi atau cara ke Gunung Semeru", 
+        "line": 16, 
+        "range": [
+            893, 
+            931
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk mendaki Gunung Semeru, kamu terlebih dahulu harus ke Kota Malang.", 
+        "line": 18, 
+        "range": [
+            933, 
+            1003
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    955, 
+                    968
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jika kamu berangkat dari Jakarta, ada 3 opsi transportasi untuk ke Malang yaitu:", 
+        "line": 20, 
+        "range": [
+            1005, 
+            1084
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1039, 
+                    1046
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kereta api ekonomi", 
+        "line": 22, 
+        "range": [
+            1086, 
+            1103
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Kereta api Matamarja berangkat dari Pasar Senen ke Stasiun Malang dengan lama perjalanan sekitar 16.5 jam dan harga tiket Rp 150,000.", 
+        "line": 23, 
+        "range": [
+            1104, 
+            1236
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1115, 
+                    1135
+                ], 
+                "name": "Kereta api Matamarja"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1151, 
+                    1162
+                ], 
+                "name": "Pasar Senen"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1166, 
+                    1180
+                ], 
+                "name": "Stasiun Malang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 24, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bus ", 
+        "line": 25, 
+        "range": [
+            1238, 
+            1241
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada beberapa operator bus seperti Pahala Kencana, Kramat Djati, Medali Mas, dan Lorena yang berangkat dari terminal Grogol atau Pulau Gebang di Jakarta menuju Terminal Arjosari di Malang. Lama perjalanan menggunakan bus sekitar 15 jam dengan harga tiket sekitar Rp 320,000 \u2013 400,000. (lihat jadwal bus)", 
+        "line": 26, 
+        "range": [
+            1242, 
+            1545
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1250, 
+                    1253
+                ], 
+                "name": "Bus"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1277, 
+                    1280
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1289, 
+                    1303
+                ], 
+                "name": "Pahala Kencana"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1305, 
+                    1317
+                ], 
+                "name": "Kramat Djati"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1319, 
+                    1329
+                ], 
+                "name": "Medali Mas"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1335, 
+                    1341
+                ], 
+                "name": "Lorena"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1362, 
+                    1377
+                ], 
+                "name": "terminal Grogol"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1383, 
+                    1395
+                ], 
+                "name": "Pulau Gebang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1399, 
+                    1406
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1414, 
+                    1431
+                ], 
+                "name": "Terminal Arjosari"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1435, 
+                    1441
+                ], 
+                "name": "Malang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1471, 
+                    1474
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pesawat", 
+        "line": 28, 
+        "range": [
+            1547, 
+            1553
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara paling cepat tapi mahal adalah menggunakan pesawat. Maskapai LionAir, Batik, dan Garuda memiliki jadwal penerbangan ke Malang dengan lama penerbangan hanya 1.5jam saja. Harga tiket pesawat berkisar antara Rp 500,000 \u2013 700,000.", 
+        "line": 29, 
+        "range": [
+            1554, 
+            1786
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1559, 
+                    1566
+                ], 
+                "name": "Pesawat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1615, 
+                    1622
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1633, 
+                    1640
+                ], 
+                "name": "LionAir"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1642, 
+                    1647
+                ], 
+                "name": "Batik"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1653, 
+                    1659
+                ], 
+                "name": "Garuda"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1691, 
+                    1697
+                ], 
+                "name": "Malang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1753, 
+                    1760
+                ], 
+                "name": "pesawat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 30, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di Malang, kamu bisa naik angkot TA (Tumpang-Arjosari) ke Pasar Tumpang.", 
+        "line": 31, 
+        "range": [
+            1788, 
+            1874
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1818, 
+                    1824
+                ], 
+                "name": "Malang"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1841, 
+                    1869
+                ], 
+                "name": "angkot TA (Tumpang-Arjosari)"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 32, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perjalanan kemudian dilanjutkan menuju basecamp Ranu Pani dengan jeep atau ojek.", 
+        "line": 33, 
+        "range": [
+            1876, 
+            1955
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1937, 
+                    1946
+                ], 
+                "name": "Ranu Pani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 34, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga sewa jeep dari Pasar Tumpang menuju Ranu Pani biasanya di harga Rp 650,000 dengan kapasitas 10 \u2013 12 orang dan memakan waktu 1.5 jam.", 
+        "line": 35, 
+        "range": [
+            1957, 
+            2096
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1964, 
+                    1968
+                ], 
+                "name": "ojek"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1982, 
+                    1986
+                ], 
+                "name": "jeep"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1992, 
+                    2005
+                ], 
+                "name": "Pasar Tumpang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2013, 
+                    2022
+                ], 
+                "name": "Ranu Pani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 36, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jika kapasitas tidak cukup, kamu bisa cari rombongan lain untuk sharing ongkos jeep, atau pilihan lainnya adalah menggunakan jasa ojek ke Ranu Pani dengan tarif Rp 100,000 \u2013 150,000.", 
+        "line": 37, 
+        "range": [
+            2098, 
+            2281
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2190, 
+                    2194
+                ], 
+                "name": "jeep"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2241, 
+                    2245
+                ], 
+                "name": "ojek"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2249, 
+                    2258
+                ], 
+                "name": "Ranu Pani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 38, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Melakukan pendaftaran Gunung Semeru melalui sistem online", 
+        "line": 39, 
+        "range": [
+            2283, 
+            2339
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2317, 
+                    2330
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 40, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendakian Gunung Semeru telah mengalami perubahan di mana pendaki wajib melakukan pendaftaran melalui sistem online yang dikelola oleh Balai Taman Nasional Bromo Tengger Semeru.", 
+        "line": 41, 
+        "range": [
+            2341, 
+            2517
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2364, 
+                    2377
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 42, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tujuan diberlakukannya Standar Operasional Prosedur (SOP) pendakian Gunung Semeru adalah sebagai upaya dalam meningkatkan keselematan dan kenyamanan pendaki, serta menjaga kelestarian ekosistem Gunung Semeru.", 
+        "line": 43, 
+        "range": [
+            2519, 
+            2726
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2601, 
+                    2614
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 44, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saat ini kuota pendakian untuk Gunung Semeru dibatasi 300 orang per hari melalui pintu masuk Ranu Pani.", 
+        "line": 45, 
+        "range": [
+            2728, 
+            2830
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2774, 
+                    2787
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Langkah-langkah prosedur pendaftaran pendakian Gunung Semeru melalui sistem online kurang lebih sebagai berikut:", 
+        "line": 47, 
+        "range": [
+            2832, 
+            2943
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2836, 
+                    2845
+                ], 
+                "name": "Ranu Pani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2895, 
+                    2908
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Klik di sini untuk masuk ke sistem pendaftaran online", 
+        "line": 49, 
+        "range": [
+            2945, 
+            2997
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Pilih tombol \u201cBooking Sekarang Juga\u201d", 
+        "line": 50, 
+        "range": [
+            2998, 
+            3037
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Baca SOP lengkap pendakian dan klik tombol \u201cselanjutnya\u201d", 
+        "line": 51, 
+        "range": [
+            3038, 
+            3097
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Centang semua pilihan dan klik tombol \u201cdaftar\u201d", 
+        "line": 52, 
+        "range": [
+            3098, 
+            3147
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Pilih tanggal pendaftaran sesuai kuota yang tersedia", 
+        "line": 53, 
+        "range": [
+            3148, 
+            3199
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Isi data diri ketua dan rombongan termasuk jadwal pendakian, nama, kewarganegaraan, tanggal lahir, nomor telp keluarga, pekerjaan, dan email. Setelah lengkap klik tombol \u201ckirim\u201d", 
+        "line": 54, 
+        "range": [
+            3200, 
+            3380
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Lakukan pembayaran simaksi menggunakan nomor virtual account dengan tujuan Bank BRI Syariah. Pembayaran harus dilakukan dalam jangka waktu 5 jam, lewat dari masa tersebut pendaftaran akan dibatalkan. Untuk cara pembayaran lengkapnya bisa klik di sini.", 
+        "line": 55, 
+        "range": [
+            3381, 
+            3631
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah melakukan pembayaran, cek alamat e-mail untuk konfirmasi.", 
+        "line": 56, 
+        "range": [
+            3632, 
+            3696
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Print bukti pendaftaran, surat pernyataan, dan daftar perlengkapan.", 
+        "line": 57, 
+        "range": [
+            3697, 
+            3763
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 58, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Checklist yang harus dibawa ketika akan memulai pendakian Gunung Semeru adalah:", 
+        "line": 59, 
+        "range": [
+            3765, 
+            3843
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 60, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bukti cetak pendaftaran", 
+        "line": 61, 
+        "range": [
+            3845, 
+            3867
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Surat keterangan sehat dari dokter", 
+        "line": 62, 
+        "range": [
+            3868, 
+            3901
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Fotokopi KTP/KTM/Paspor yang masih berlaku", 
+        "line": 63, 
+        "range": [
+            3902, 
+            3943
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Surat ijin dari orang tua bermaterai dan fotokopi KTP orang tua (bagi yang belum punya KTP pribadi)", 
+        "line": 64, 
+        "range": [
+            3944, 
+            4042
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk (simaksi) Gunung Semeru", 
+        "line": 66, 
+        "range": [
+            4044, 
+            4084
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk atau simaksi Gunung Semeru adalah:", 
+        "line": 68, 
+        "range": [
+            4086, 
+            4137
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4087, 
+                    4100
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendaki Indonesia: Rp 19,000 (hari kerja) dan Rp 24,000 (hari libur) \u2013 per orang per hari", 
+        "line": 70, 
+        "range": [
+            4139, 
+            4229
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendaki Mancanegara: Rp 210,000 (hari kerja) dan Rp 310,000 (hari libur) \u2013 per orang per hari", 
+        "line": 71, 
+        "range": [
+            4230, 
+            4324
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 72, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagi pendaki yang gagal mendaki karena kebijakan penutupan bisa melakukan reschedule melalui link ini. ", 
+        "line": 73, 
+        "range": [
+            4326, 
+            4428
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 74, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Alur reschedule booking online Semeru adalah: ", 
+        "line": 75, 
+        "range": [
+            4430, 
+            4475
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 76, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Verifikasi kode booking online melalui laman reschedule", 
+        "line": 77, 
+        "range": [
+            4477, 
+            4531
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4477, 
+                    4483
+                ], 
+                "name": "Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "Verfikasi email atau no hp", 
+        "line": 78, 
+        "range": [
+            4532, 
+            4557
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Cermati syarat dan ketentuan reschedule", 
+        "line": 79, 
+        "range": [
+            4558, 
+            4596
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Ubah data ketua atau anggota", 
+        "line": 80, 
+        "range": [
+            4597, 
+            4624
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Kirim data yang telah dirubah", 
+        "line": 81, 
+        "range": [
+            4625, 
+            4653
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Cetak bukti reschedule", 
+        "line": 82, 
+        "range": [
+            4654, 
+            4675
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur pendakian Gunung Semeru", 
+        "line": 84, 
+        "range": [
+            4677, 
+            4705
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Idealnya butuh paling tidak 3 hari untuk mendaki Gunung Semeru. Pos camping bisa di Danau Ranu Kumbolo atau Pos Kalimati.", 
+        "line": 86, 
+        "range": [
+            4707, 
+            4827
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4716, 
+                    4729
+                ], 
+                "name": "Gunung Semeru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4780, 
+                    4793
+                ], 
+                "name": "Gunung Semeru"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4795, 
+                    4798
+                ], 
+                "name": "Pos"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Detail jalur pendakian Gunung Semeru kurang lebih seperti ini:", 
+        "line": 88, 
+        "range": [
+            4829, 
+            4890
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4839, 
+                    4851
+                ], 
+                "name": "Pos Kalimati"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4877, 
+                    4890
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ranu Pani \u2013 Landengan Dowo : 3 km / 1.5 jam", 
+        "line": 90, 
+        "range": [
+            4892, 
+            4936
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4918, 
+                    4927
+                ], 
+                "name": "Ranu Pani"
+            }
+        ]
+    }, 
+    {
+        "text": "Landengan Dowo \u2013 Watu Rejeng : 3 km / 1.5 jam", 
+        "line": 91, 
+        "range": [
+            4937, 
+            4983
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    4962, 
+                    4976
+                ], 
+                "name": "Landengan Dowo"
+            }
+        ]
+    }, 
+    {
+        "text": "Watu Rejeng \u2013 Ranu Kumbolo : 4.5  km / 2 jam", 
+        "line": 92, 
+        "range": [
+            4984, 
+            5029
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    5008, 
+                    5019
+                ], 
+                "name": "Watu Rejeng"
+            }
+        ]
+    }, 
+    {
+        "text": "Ranu Kumbolo \u2013 Oro Oro Ombo : 1 km / 30min", 
+        "line": 93, 
+        "range": [
+            5030, 
+            5073
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5053, 
+                    5065
+                ], 
+                "name": "Ranu Kumbolo"
+            }
+        ]
+    }, 
+    {
+        "text": "Oro-Oro Ombo \u2013 Cemoro Kandang : 1.5 km / 30min", 
+        "line": 94, 
+        "range": [
+            5074, 
+            5121
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5096, 
+                    5108
+                ], 
+                "name": "Oro-Oro Ombo"
+            }
+        ]
+    }, 
+    {
+        "text": "Cemoro Kandang \u2013 Jambangan : 3 km / 30min", 
+        "line": 95, 
+        "range": [
+            5122, 
+            5164
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    5143, 
+                    5157
+                ], 
+                "name": "Cemoro Kandang"
+            }
+        ]
+    }, 
+    {
+        "text": "Jambangan \u2013 Kalimati : 2 km / 30min", 
+        "line": 96, 
+        "range": [
+            5165, 
+            5201
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    5185, 
+                    5194
+                ], 
+                "name": "Jambangan"
+            }
+        ]
+    }, 
+    {
+        "text": "Kalimati \u2013 Arcopodo : 1.2 km / 2.5 jam", 
+        "line": 97, 
+        "range": [
+            5202, 
+            5241
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5221, 
+                    5229
+                ], 
+                "name": "Kalimati"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5232, 
+                    5240
+                ], 
+                "name": "Arcopodo"
+            }
+        ]
+    }, 
+    {
+        "text": "Arcopodo \u2013 Summit : 1.5km / 4 jam", 
+        "line": 98, 
+        "range": [
+            5242, 
+            5276
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5260, 
+                    5268
+                ], 
+                "name": "Arcopodo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya pribadi sih ngerasa kalau jalur pendakian Gunung Semeru agak membosankan.", 
+        "line": 100, 
+        "range": [
+            5278, 
+            5355
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5342, 
+                    5355
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Ranu Pani sampai Kalimati jalurnya cukup landai dan tidak terlalu sulit, sekilas mirip pendakian Gunung Argopuro (sama-sama di Jawa Timur juga).", 
+        "line": 102, 
+        "range": [
+            5357, 
+            5505
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5380, 
+                    5389
+                ], 
+                "name": "Ranu Pani"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5397, 
+                    5405
+                ], 
+                "name": "Kalimati"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5477, 
+                    5492
+                ], 
+                "name": "Gunung Argopuro"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang wajib dilakukan adalah nge-camp di tepi Danau Ranu Kumbolo.", 
+        "line": 104, 
+        "range": [
+            5507, 
+            5570
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5507, 
+                    5517
+                ], 
+                "name": "Jawa Timur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemandangan matahari terbit di Ranu Kumbolo dengan pantulan bukit di permukaan air danau benar-benar menyejukkan mata.", 
+        "line": 106, 
+        "range": [
+            5572, 
+            5689
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5623, 
+                    5635
+                ], 
+                "name": "Ranu Kumbolo"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5652, 
+                    5657
+                ], 
+                "name": "bukit"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5675, 
+                    5680
+                ], 
+                "name": "danau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Ranu Kumbolo ada yang namanya Tanjakan Cinta.", 
+        "line": 108, 
+        "range": [
+            5691, 
+            5740
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5717, 
+                    5729
+                ], 
+                "name": "Ranu Kumbolo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mungkin sudah sering dengar juga tentang mitos kalau berjalan di tanjakan ini tidak boleh berhenti atau menoleh ke belakang.", 
+        "line": 110, 
+        "range": [
+            5742, 
+            5865
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    5747, 
+                    5761
+                ], 
+                "name": "Tanjakan Cinta"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5829, 
+                    5837
+                ], 
+                "name": "tanjakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau berhasil, niscaya akan menemukan cinta sejati. Percaya atau tidak yang penting seru-seruan aja iseng taruhan sama teman, hehe.", 
+        "line": 112, 
+        "range": [
+            5867, 
+            5998
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada juga Oro-Oro Ombo yang terkenal dengan pemandangan padang rumput luas dengan puncak Mahameru sebagai latar belakang.", 
+        "line": 114, 
+        "range": [
+            6000, 
+            6119
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6033, 
+                    6045
+                ], 
+                "name": "Oro-Oro Ombo"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6079, 
+                    6092
+                ], 
+                "name": "padang rumput"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6105, 
+                    6120
+                ], 
+                "name": "puncak Mahameru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Kalimati ke puncak memang jaraknya tidak kelihatan jauh namun memakan waktu yang cukup lama karena jalurnya yang sangat terjal. Inilah bagian yang paling sulit.", 
+        "line": 116, 
+        "range": [
+            6121, 
+            6285
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6151, 
+                    6159
+                ], 
+                "name": "Kalimati"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6250, 
+                    6258
+                ], 
+                "name": "jalurnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari batas vegetasi ke puncak trek-nya sudah berbatu vulkanis dan berpasir. Jadi ketika melangkah naik pasti akan kebawa turun. Hati-hati dan jaga keselamatan ketika mendaki.", 
+        "line": 118, 
+        "range": [
+            6287, 
+            6460
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman mendaki Gunung Semeru", 
+        "line": 120, 
+        "range": [
+            6462, 
+            6493
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di bagian ini saya akan bercerita tentang pengalaman saya mendaki Gunung Semeru yang seru, deg-degan, dan penuh dengan drama. Selamat membaca!", 
+        "line": 122, 
+        "range": [
+            6495, 
+            6636
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6508, 
+                    6521
+                ], 
+                "name": "Gunung Semeru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6589, 
+                    6602
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Belajar dari kegagalan pertama", 
+        "line": 124, 
+        "range": [
+            6638, 
+            6667
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman saya mendaki Gunung Semeru selalu penuh dengan drama.", 
+        "line": 126, 
+        "range": [
+            6669, 
+            6732
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertama kali saya naik Gunung Semeru pas masih jaman kereta ekonomi yang selalu penuh dan harus berdesakan.", 
+        "line": 128, 
+        "range": [
+            6734, 
+            6840
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6788, 
+                    6801
+                ], 
+                "name": "Gunung Semeru"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6818, 
+                    6832
+                ], 
+                "name": "kereta ekonomi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya harus duduk di lantai antar gerbong kereta yang dekat toilet saking penuhnya.", 
+        "line": 130, 
+        "range": [
+            6842, 
+            6923
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6915, 
+                    6921
+                ], 
+                "name": "kereta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 131, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Malam-malam pedagang asongan melangkahi kepala-kepala penumpang yang duduk di lantai kereta sambil bersahutan.", 
+        "line": 132, 
+        "range": [
+            6925, 
+            7034
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 133, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untungnya sekarang kondisi kereta api ekonomi sudah membaik.", 
+        "line": 134, 
+        "range": [
+            7036, 
+            7095
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7043, 
+                    7049
+                ], 
+                "name": "kereta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 135, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ya, walaupun harga tiket tidak semurah dulu lagi. Alasan kenapa saya gagal sampai ke puncah Mahameru yaitu karena:", 
+        "line": 136, 
+        "range": [
+            7097, 
+            7210
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7097, 
+                    7115
+                ], 
+                "name": "kereta api ekonomi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 137, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Waktu pendakian yang sangat mepet yaitu cuma 2 hari saja. Hari pertama langsung ke Kalimati, malamnya muncak, dan besoknya langsung turun ke Ranupani. Otomatis stamina kurang fit karena tidak cukup beristirahat apalagi setelah perjalanan 18 jam naik kereta api.", 
+        "line": 138, 
+        "range": [
+            7212, 
+            7472
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7224, 
+                    7232
+                ], 
+                "name": "Mahameru"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7331, 
+                    7339
+                ], 
+                "name": "Kalimati"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7389, 
+                    7397
+                ], 
+                "name": "Ranupani"
+            }
+        ]
+    }, 
+    {
+        "text": "Rombongan berjumlah 9 orang hanya membawa air minum 3 liter atau 2 botol Aqua besar saja ketika muncak. Kesalahan paling fatal! Sampai Arcopodo persediaan air sudah menipis. Dari batas vegetasi ke puncak sudah tidak ada air minum. Ini adalah alasan utama kenapa saya gagal muncak, karena dehidrasi.", 
+        "line": 139, 
+        "range": [
+            7473, 
+            7770
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7498, 
+                    7508
+                ], 
+                "name": "kereta api"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7645, 
+                    7653
+                ], 
+                "name": "Arcopodo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 140, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Memang, salah saya karena tidak melakukan persiapan yang matang apalagi soal persediaan air.", 
+        "line": 141, 
+        "range": [
+            7772, 
+            7863
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 142, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Soalnya juga saya ikut rombongan yang menurut saya sudah sering mendaki, toh saya ikut aja dengan apa yang mereka katakan.", 
+        "line": 143, 
+        "range": [
+            7865, 
+            7986
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 144, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biarlah jadi pelajaran yang berharga bagi saya.", 
+        "line": 145, 
+        "range": [
+            7988, 
+            8034
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 146, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekarang saya selalu membawa persediaan air berlebih di setiap pendakian yang saya lakukan.", 
+        "line": 147, 
+        "range": [
+            8036, 
+            8126
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 148, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kesempatan kedua menggapai Puncak Mahameru", 
+        "line": 149, 
+        "range": [
+            8128, 
+            8169
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 150, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya mencari dosen saya untuk minta izin kalau saya tidak akan bisa menghadiri kelas. Di hari tersebut ada presentasi akhir yang penting bagi nilai.", 
+        "line": 151, 
+        "range": [
+            8171, 
+            8318
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8197, 
+                    8212
+                ], 
+                "name": "Puncak Mahameru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 152, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perasaan saya bercampur aduk. Di satu sisi saya takut meninggalkan presentasi, tapi di sisi lain saya tidak sabar mau mendaki Gunung Semeru.", 
+        "line": 153, 
+        "range": [
+            8320, 
+            8459
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 154, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya saya memberikan diri untuk minta ijin ke dosen. Jawabannya sederhana, \u201cNilai kamu tidak akan lebih tinggi dari C jika absen saat hari presentasi.\u201d", 
+        "line": 155, 
+        "range": [
+            8461, 
+            8619
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8490, 
+                    8503
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 156, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dengan yakin dan tekad yang penuh, saya memilih untuk kembali ke Gunung Semeru, menyelesaikan misi yang tidak tertuntaskan, yaitu menginjakkan kaki di puncak tertinggi di tanah Jawa.", 
+        "line": 157, 
+        "range": [
+            8621, 
+            8802
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8728, 
+                    8741
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 158, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Timeline atau Itinerary pendakian Gunung Semeru dari Ranu Pani ", 
+        "line": 159, 
+        "range": [
+            8804, 
+            8866
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8840, 
+                    8844
+                ], 
+                "name": "Jawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 160, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut adalah timeline pendakian Gunung Semeru dari basecamp Ranu Pani:", 
+        "line": 161, 
+        "range": [
+            8868, 
+            8939
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8881, 
+                    8894
+                ], 
+                "name": "Gunung Semeru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8900, 
+                    8909
+                ], 
+                "name": "Ranu Pani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 162, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: Perjalanan ke Malang, tidak semulus yang dibayangkan", 
+        "line": 163, 
+        "range": [
+            8941, 
+            8999
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8946, 
+                    8959
+                ], 
+                "name": "Gunung Semeru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8974, 
+                    8983
+                ], 
+                "name": "Ranu Pani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 164, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Duh, telat! Jam 11.30 saya berangkat dari asrama yang berlokasi di Cikarang ke terminal bus untuk ngejar bus ke Stasiun Senen.", 
+        "line": 165, 
+        "range": [
+            9001, 
+            9126
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9007, 
+                    9013
+                ], 
+                "name": "Malang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9089, 
+                    9095
+                ], 
+                "name": "asrama"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9114, 
+                    9122
+                ], 
+                "name": "Cikarang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 166, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tau sendiri, bus di Indonesia ngetemnya lama.", 
+        "line": 167, 
+        "range": [
+            9128, 
+            9172
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9152, 
+                    9155
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9159, 
+                    9172
+                ], 
+                "name": "Stasiun Senen"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 168, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 1 siang saya masih di Cibitung sedangkan kereta api berangkat jam 2 siang.", 
+        "line": 169, 
+        "range": [
+            9174, 
+            9251
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9188, 
+                    9191
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9195, 
+                    9204
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 170, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya memutuskan untuk turun sebelum bus masuk tol dan naik taksi.", 
+        "line": 171, 
+        "range": [
+            9253, 
+            9317
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9267, 
+                    9277
+                ], 
+                "name": "kereta api"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 172, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena terburu-buru saya minta supir taksi untuk ngebut tapi Jakarta macet banget.", 
+        "line": 173, 
+        "range": [
+            9319, 
+            9400
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9338, 
+                    9341
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    9348, 
+                    9351
+                ], 
+                "name": "tol"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9361, 
+                    9366
+                ], 
+                "name": "taksi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 174, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 1.40 sampai di Cawang dan naik ojek. Teman saya berkali-kali telepon suruh cepeten.", 
+        "line": 175, 
+        "range": [
+            9402, 
+            9488
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9406, 
+                    9411
+                ], 
+                "name": "taksi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9430, 
+                    9437
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9472, 
+                    9478
+                ], 
+                "name": "Cawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 176, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa-bisanya saya jawab, \u201cBisa minta petugas kereta untuk nungguin sampai saya datang?\u201d.", 
+        "line": 177, 
+        "range": [
+            9490, 
+            9581
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 178, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ya kali mau ditungguin, saya kan bukan siapa-siapa. Sampailah di Stasiun Senen dan sialnya kereta sudah berangkat 10 menit yang lalu.", 
+        "line": 179, 
+        "range": [
+            9583, 
+            9715
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9587, 
+                    9593
+                ], 
+                "name": "kereta"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9697, 
+                    9710
+                ], 
+                "name": "Stasiun Senen"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 180, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya coba nyari tiket lain tapi semuanya habis. Kenapa saya harus milih pas long weekend.", 
+        "line": 181, 
+        "range": [
+            9717, 
+            9805
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9723, 
+                    9729
+                ], 
+                "name": "kereta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 182, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untungnya saya bertemu beberapa pendaki lain yang senasib sama saya ketinggalan kereta juga.", 
+        "line": 183, 
+        "range": [
+            9807, 
+            9898
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 184, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami akhirnya ke Terminal Rawamangun dan dapat tiket bus Pahala Kencana menuju Malang.", 
+        "line": 185, 
+        "range": [
+            9900, 
+            9985
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9938, 
+                    9944
+                ], 
+                "name": "kereta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 186, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya naik bus nyaman-nyaman aja, tapi lebih lama dan harganya juga lebih mahal.", 
+        "line": 187, 
+        "range": [
+            9987, 
+            10071
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    10005, 
+                    10023
+                ], 
+                "name": "bus Pahala Kencana"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10031, 
+                    10037
+                ], 
+                "name": "Malang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    10056, 
+                    10059
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 188, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: Sampai di Malang dan mempersiapkan pendakian", 
+        "line": 189, 
+        "range": [
+            10073, 
+            10123
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 190, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 4 sore keesokan harinya saya sampai di Malang.", 
+        "line": 191, 
+        "range": [
+            10125, 
+            10174
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10144, 
+                    10150
+                ], 
+                "name": "Malang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 192, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Teman saya yang sudah sampai dengan kereta menjemput saya.", 
+        "line": 193, 
+        "range": [
+            10176, 
+            10233
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10223, 
+                    10229
+                ], 
+                "name": "Malang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 194, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, sebenarnya saya dan teman-teman join event pendakian masal yang diadakan oleh salah satu brand outdoor.", 
+        "line": 195, 
+        "range": [
+            10235, 
+            10342
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    10268, 
+                    10274
+                ], 
+                "name": "kereta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 196, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harganya Rp 200,000 udah termasuk semuanya \u2013 Jeep pulang pergi dari Tumpang \u2013 Ranu Pani, sarapan, t-shirt, rain cover, dan sertifikat.", 
+        "line": 197, 
+        "range": [
+            10344, 
+            10481
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    10447, 
+                    10451
+                ], 
+                "name": "Jeep"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10470, 
+                    10477
+                ], 
+                "name": "Tumpang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 198, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari awal saya pengen dapat fasilitasnya saja, toh sampai di sana saya pikir bakal mendaki masing-masing juga.", 
+        "line": 199, 
+        "range": [
+            10483, 
+            10592
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 200, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ternyata, banyak banget masalah yang timbul dalam acara ini.", 
+        "line": 201, 
+        "range": [
+            10594, 
+            10653
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 202, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bayangkan saja, jumlah peserta pendakian masal ini sebanyak 1,697 orang! Harusnya dibatasi oleh panitia.", 
+        "line": 203, 
+        "range": [
+            10655, 
+            10758
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 204, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Proses dari registrasi ulang, manajemen transportasi, semuanya berantakan.", 
+        "line": 205, 
+        "range": [
+            10760, 
+            10833
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 206, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bahkan pihak TNBTS membuat pengumuman bahwa pendakian Gunung Semeru dilarang.", 
+        "line": 207, 
+        "range": [
+            10835, 
+            10911
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 208, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi akhirnya ditarik kembali sehingga pendakian tetap diperbolehkan.", 
+        "line": 209, 
+        "range": [
+            10913, 
+            10981
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10948, 
+                    10961
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 210, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak sekali yang komplain dengan ketidak becusan pengurusan dalam pendakian masal ini.", 
+        "line": 211, 
+        "range": [
+            10983, 
+            11070
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 212, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tim saya terdiri dari 4 orang termasuk saya. Kami cuma bisa ikutan alur saja dan menikmati pendakian.", 
+        "line": 213, 
+        "range": [
+            11072, 
+            11172
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 214, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3: Pendakian dari Ranu Pani sampai Ranu Kumbolo", 
+        "line": 215, 
+        "range": [
+            11174, 
+            11224
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 216, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah proses registrasi segala macam, akhirnya kamu memulai pendakian Gunung Semeru melalui Ranu Pani.", 
+        "line": 217, 
+        "range": [
+            11226, 
+            11329
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11259, 
+                    11268
+                ], 
+                "name": "Ranu Pani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11276, 
+                    11288
+                ], 
+                "name": "Ranu Kumbolo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 218, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalurnya masih landai dan berliku, ya cukup membosankan.", 
+        "line": 219, 
+        "range": [
+            11331, 
+            11386
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11362, 
+                    11375
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 220, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendakian kali ini sedikit berbeda dari pendakian biasanya karena stok makanan kami sangat berlimpah.", 
+        "line": 221, 
+        "range": [
+            11388, 
+            11488
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    11396, 
+                    11404
+                ], 
+                "name": "Jalurnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 222, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Carrier pun terasa lebih berat walaupun sudah berbagi beban dan menyusun carrier atau keril dengan benar.", 
+        "line": 223, 
+        "range": [
+            11490, 
+            11594
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 224, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hujan mulai turun namun tidak begitu deras. Pendakian cukup lancar sesuai dengan yang sudah kami rencanakan.", 
+        "line": 225, 
+        "range": [
+            11596, 
+            11703
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 226, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi tiba-tiba lutut salah satu anggota kami mulai cedera, ditambah harus mengantri, dan beratnya tas akhirnya sampai di Ranu Kumbolo telat sejam.", 
+        "line": 227, 
+        "range": [
+            11705, 
+            11850
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 228, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak yang sudah mendirikan tenda di sisi danau bagian turunan pertama menuju danau.", 
+        "line": 229, 
+        "range": [
+            11852, 
+            11936
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11895, 
+                    11907
+                ], 
+                "name": "Ranu Kumbolo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 230, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami memutuskan untuk membangun tenda di sisi lain yang menghadap ke bukit.", 
+        "line": 231, 
+        "range": [
+            11938, 
+            12012
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    12001, 
+                    12006
+                ], 
+                "name": "danau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 232, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sampai malam kami menghabiskan waktu dengan memasak, main kartu, dan bercanda.", 
+        "line": 233, 
+        "range": [
+            12014, 
+            12091
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    12078, 
+                    12083
+                ], 
+                "name": "bukit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 234, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu hal yang saya sesalkan dari pendakian pertama saya adalah kami tidak sempat camping di Danau Ranu Kumbolo.", 
+        "line": 235, 
+        "range": [
+            12093, 
+            12209
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 236, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya sekarang kesampaian.", 
+        "line": 237, 
+        "range": [
+            12211, 
+            12239
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 238, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 4: Ranu Kumbolo \u2013 Pos Kalimati", 
+        "line": 239, 
+        "range": [
+            12241, 
+            12276
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 240, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perjalanan kami lanjutkan ke Tanjakan Cinta dan turun ke Oro Oro Ombo.", 
+        "line": 241, 
+        "range": [
+            12278, 
+            12347
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12323, 
+                    12335
+                ], 
+                "name": "Ranu Kumbolo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 242, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kondisi lutut teman saya makin memburuk ditambah lagi jalurnya yang semakin menanjak.", 
+        "line": 243, 
+        "range": [
+            12349, 
+            12433
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    12381, 
+                    12395
+                ], 
+                "name": "Tanjakan Cinta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12409, 
+                    12421
+                ], 
+                "name": "Oro Oro Ombo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 244, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kurang lebih setelah 4 jam trekking, sampai juga di Pos Kalimati.", 
+        "line": 245, 
+        "range": [
+            12435, 
+            12499
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    12478, 
+                    12486
+                ], 
+                "name": "jalurnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 246, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berhubung ramai, jadinya susah mencari tempat untuk mendirikan tenda.", 
+        "line": 247, 
+        "range": [
+            12501, 
+            12569
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 248, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di area tertentu ada pembatas bertanda A*, jadi ketika saya nanya pendaki lain apa boleh bangun tenda di sini beliau menjawab dengan nada tinggi, \u201cTanah di sini bukan milik A*, bukan milik siapapun! Siapa saja boleh nge-camp di sini.\u201d", 
+        "line": 249, 
+        "range": [
+            12571, 
+            12808
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 250, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Kalimati ada sumber mata air bernama \u201cSumber Mani\u201d. Di sinilah biasa pendaki mengisi persediaan air.", 
+        "line": 251, 
+        "range": [
+            12810, 
+            12916
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    12888, 
+                    12896
+                ], 
+                "name": "Kalimati"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 252, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harus berjalan kurang lebih 1 km. Di kala ini ramai banget, jadi harus ngantri. Mau ambil air saja harus menghabiskan waktu sejam.", 
+        "line": 253, 
+        "range": [
+            12918, 
+            13047
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12926, 
+                    12937
+                ], 
+                "name": "Sumber Mani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 254, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya dan rombongan berencana untuk summit attack jam 12 malam.", 
+        "line": 255, 
+        "range": [
+            13049, 
+            13110
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 256, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekitar jam 9 malam ada yang berteriak, \u201cDilarang puncak! Yang sudah naik harus turun lagi! Sekali lagi dilarang puncak! Kalau melanggar akan dikenakan sanksi.\u201d", 
+        "line": 257, 
+        "range": [
+            13112, 
+            13275
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 258, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rasanya waktu seperti berhenti ketika mendengar teriakan tersebut.", 
+        "line": 259, 
+        "range": [
+            13277, 
+            13342
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 260, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah seorang teman saya mencoba untuk menenangkan suasana dengan bilang kalau itu hanya trik biar mengurangi orang naik ke puncak Mahameru.", 
+        "line": 261, 
+        "range": [
+            13344, 
+            13483
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 262, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ya, tidak masuk akal juga. Mana ada yang naik Gunung Semeru untuk tidak sampai ke puncak.", 
+        "line": 263, 
+        "range": [
+            13485, 
+            13573
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13540, 
+                    13555
+                ], 
+                "name": "puncak Mahameru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 264, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sendiri pasrah dan lihat kondisi saja, mudah-mudahan bisa muncak.", 
+        "line": 265, 
+        "range": [
+            13575, 
+            13644
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13604, 
+                    13617
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 266, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 5: Summit attack, Puncak Mahameru", 
+        "line": 267, 
+        "range": [
+            13646, 
+            13682
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 268, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 12 malam, saya dan dua teman lain Iky dan Vivi bersiap-siap untuk muncak.", 
+        "line": 269, 
+        "range": [
+            13684, 
+            13760
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13743, 
+                    13758
+                ], 
+                "name": "Puncak Mahameru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 270, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Belajar dari pengalaman sebelumnya saya maksain seorang harus bawa air minum minimal 1.5L.", 
+        "line": 271, 
+        "range": [
+            13762, 
+            13851
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 272, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Teman satu lagi, Anton, karena cedera tidak ikut muncak.", 
+        "line": 273, 
+        "range": [
+            13853, 
+            13908
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 274, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sempat ada drama dikit sama panitia sebelum muncak tapi akhirnya kami berhasil melanjutkan perjalanan ke Arcopodo.", 
+        "line": 275, 
+        "range": [
+            13910, 
+            14023
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 276, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur makin menanjak dan parahnya lagi harus ngantri karena kebanyakan orang. Vivi mulai tidak enak badan dan tidak bisa lanjut ke puncak.", 
+        "line": 277, 
+        "range": [
+            14025, 
+            14162
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    14094, 
+                    14102
+                ], 
+                "name": "Arcopodo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 278, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Walaupun saya dan Iky udah nyemangatin tapi akhirnya Vivi tidak kuat lagi.", 
+        "line": 279, 
+        "range": [
+            14164, 
+            14237
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 280, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beruntung ada pendaki lain yang mau turun juga, saya bilang Vivi barengan dia saja.", 
+        "line": 281, 
+        "range": [
+            14239, 
+            14321
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 282, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagian tersulit adalah ketika melewati batas vegetasi, bagian berpasir. Naik tiga langkah, turun dua langkah.", 
+        "line": 283, 
+        "range": [
+            14323, 
+            14431
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 284, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Parahnya lagi masih ada antrian. Terlihat cahaya garis lurus dari headlamp atau senter pendaki lain.", 
+        "line": 285, 
+        "range": [
+            14433, 
+            14532
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 286, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Trek berpasir Gunung Semeru kali ini lebih baik dari pendakian pertama saya. Malam sebelumnya hujan, jadi tanah pasirnya agak padat.", 
+        "line": 287, 
+        "range": [
+            14534, 
+            14665
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    14619, 
+                    14623
+                ], 
+                "name": "Trek"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14633, 
+                    14646
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 288, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya dan Iky saling menunggu satu sama lain, jarak kami tidak terlalu jauh.", 
+        "line": 289, 
+        "range": [
+            14667, 
+            14741
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 290, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiba-tiba terdengar teriakan \u201cAwas! Batu Besar! Dan benar, seperti kejadian film 5 cm, sebuah batu besar menggelinding di depan mata kepala saya.", 
+        "line": 291, 
+        "range": [
+            14743, 
+            14889
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 292, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Semua orang mencoba untuk menghindari baru itu tapi ada satu pendaki yang tertabrak dan terguling ke bawah.", 
+        "line": 293, 
+        "range": [
+            14891, 
+            14997
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 294, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendaki di samping saya mencoba untuk mendorong saya agar menyelamatkan diri, benar-benar kacau.", 
+        "line": 295, 
+        "range": [
+            14999, 
+            15094
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 296, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beruntung batu tersebut jatuh ke jurang sebelum sampai tempat saya berpijak.", 
+        "line": 297, 
+        "range": [
+            15096, 
+            15171
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 298, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Iky memanggil saya dan bertanya apakah saya baik-baik saja. Secara fisik saya oke, tapi mental saya shock berat.", 
+        "line": 299, 
+        "range": [
+            15173, 
+            15284
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 300, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertama kalinya saya merasa badan bergetar, jantung berdetak kencang, dan kaki berasa benar-benar lumpuh.", 
+        "line": 301, 
+        "range": [
+            15286, 
+            15390
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 302, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendaki yang tertabrak batu tersebut untungnya diselamatkan para pendaki lain, tapi dia dalam kondisi tidak sadar.", 
+        "line": 303, 
+        "range": [
+            15392, 
+            15505
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 304, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Orang-orang pada berteriak, \u201cMana medic, siapa yang ada tisu untuk menghentikan pendarahan?\u201d", 
+        "line": 305, 
+        "range": [
+            15507, 
+            15602
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 306, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada juga yang teriak, \u201cHey yang di atas, siapa tuh yang injak batu! Lihat perbuatan kamu yang berbahaya ini!\u201d.", 
+        "line": 307, 
+        "range": [
+            15604, 
+            15717
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 308, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kejadian ini terjadi dengan cepat, semuanya juga stop mendaki.", 
+        "line": 309, 
+        "range": [
+            15719, 
+            15780
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 310, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah beberapa saat akhirnya kondisi kembali normal. Pendaki terluka akhirnya dibawa turun dan diselamatkan oleh tim medis.", 
+        "line": 311, 
+        "range": [
+            15782, 
+            15906
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 312, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Matahari sudah mulai menampakkan dirinya. Puncak masih terlihat jauh.", 
+        "line": 313, 
+        "range": [
+            15908, 
+            15976
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 314, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berulang kali saya menyemangati diri, mengingatkan diri pengorbananan udah bolos presentasi. Masih ada air juga.", 
+        "line": 315, 
+        "range": [
+            15978, 
+            16089
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 316, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya bertanya pada pendaki yang sudah turun, \u201cBerapa jauh lagi puncak?\u201d.", 
+        "line": 317, 
+        "range": [
+            16091, 
+            16166
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 318, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jawabannya masih sejam lagi. Padahal udah di depan mata. Semangat Vel, yang kuat.", 
+        "line": 319, 
+        "range": [
+            16168, 
+            16248
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 320, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiap kali saya bertanya berapa jauh lagi, jawabannya 30 menit lagi. Tanya lagi, sama lagi jawabannya.", 
+        "line": 321, 
+        "range": [
+            16250, 
+            16350
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 322, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya setelah terus melangkah terlihat Iky melambaikan tangannya.", 
+        "line": 323, 
+        "range": [
+            16352, 
+            16419
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 324, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya pun sampai di Puncak Mahameru, puncak tertinggi di Jawa.", 
+        "line": 325, 
+        "range": [
+            16421, 
+            16481
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 326, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya berbaring untuk beristirahat tapi Iky udah ngajakin foto aja. \u201cGila loe! Gue istirahat bentar donk\u201d.", 
+        "line": 327, 
+        "range": [
+            16483, 
+            16591
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    16530, 
+                    16545
+                ], 
+                "name": "Puncak Mahameru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    16567, 
+                    16571
+                ], 
+                "name": "Jawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 328, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rasanya senang, bangga, bersyukur, dan terharu bisa sampai ke puncak Gunung Semeru.", 
+        "line": 329, 
+        "range": [
+            16593, 
+            16675
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 330, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiba-tiba tanah bergetar seperti gempa bumi dan boom, terjadi letupan dari kawah.", 
+        "line": 331, 
+        "range": [
+            16677, 
+            16757
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 332, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wedus Gembel muncul! Tanpa berlama-lama saya langsung mengabadikan momen tersebut. Sampai puncak ya wajib foto-foto!", 
+        "line": 333, 
+        "range": [
+            16759, 
+            16874
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    16841, 
+                    16846
+                ], 
+                "name": "kawah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 334, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Turunnya tidak sesusah naik, jauh lebih cepat karena tinggal meluncur saja. Kayaknya tidak sampai sejam deh udah sampai Arcopodo.", 
+        "line": 335, 
+        "range": [
+            16876, 
+            17004
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 336, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sampai di Kalimati, packing, dan pulang langsung ke basecamp Ranu Pani.", 
+        "line": 337, 
+        "range": [
+            17006, 
+            17076
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 338, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Kalimati kami turun 12 jam karena dua teman cedera.", 
+        "line": 339, 
+        "range": [
+            17078, 
+            17133
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    17087, 
+                    17095
+                ], 
+                "name": "Arcopodo"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    17108, 
+                    17116
+                ], 
+                "name": "Kalimati"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 340, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Normalnya cuma butuh 5-7 jam saja. Perjalanan turun gunung tetap kami teruskan karena tidak ada waktu untuk nge-camp semalam lagi.", 
+        "line": 341, 
+        "range": [
+            17135, 
+            17264
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    17159, 
+                    17168
+                ], 
+                "name": "Ranu Pani"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    17176, 
+                    17184
+                ], 
+                "name": "Kalimati"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 342, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 4 subuh kami sampai di Ranu Pani, istirahat sebentar, langsung ke Malang dan pulang ke Jakarta.", 
+        "line": 343, 
+        "range": [
+            17266, 
+            17364
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    17281, 
+                    17287
+                ], 
+                "name": "gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 344, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendakian Gunung Semeru ini benar-benar bermakna. Banyak cerita, kenangan, usaha keras, dan lainnya.", 
+        "line": 345, 
+        "range": [
+            17366, 
+            17465
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    17388, 
+                    17397
+                ], 
+                "name": "Ranu Pani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    17431, 
+                    17437
+                ], 
+                "name": "Malang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    17452, 
+                    17459
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 346, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak lebay kalau mengatakan kalau Gunung Semeru itu wajib untuk para pendaki.", 
+        "line": 347, 
+        "range": [
+            17467, 
+            17544
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    17472, 
+                    17485
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 348, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu gunung terbaik di Indonesia juga untuk mendaki. Katanya kalau belum mendaki Gunung Semeru, belum bisa disebut pendaki, haha.", 
+        "line": 349, 
+        "range": [
+            17546, 
+            17680
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    17599, 
+                    17612
+                ], 
+                "name": "Gunung Semeru"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    17655, 
+                    17661
+                ], 
+                "name": "gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 350, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mudah-mudahan udah jelas ya, dari jalur pendakian Gunung Semeru, cara daftar online,  transportasi dan cara ke basecamp, simaksi, dan biaya pendakian! Hati-hati dan jaga keselamatan!", 
+        "line": 351, 
+        "range": [
+            17682, 
+            17863
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    17731, 
+                    17744
+                ], 
+                "name": "Gunung Semeru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    17831, 
+                    17844
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }
+]

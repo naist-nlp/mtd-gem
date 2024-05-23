@@ -1,0 +1,1249 @@
+[
+    {
+        "text": "May 31, 2021    Jalan-Jalan Ke Uluru Selama Tiga Hari", 
+        "line": 0, 
+        "range": [
+            1, 
+            53
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    31, 
+                    36
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selama saya roadtrip selama sebulan di Australia, saya tiba-tiba harus merubah rencana dan akhirnya berkesempatan untuk jalan-jalan ke Uluru selama tiga hari.", 
+        "line": 2, 
+        "range": [
+            55, 
+            212
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    94, 
+                    103
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    190, 
+                    195
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setiap kali saya bertemu dengan traveler yang sedang menjelajahi Australia,  pasti tidak ada dari mereka yang tidak bercerita tentag Red Center, atau pengalaman tentang roadtrip di outback.", 
+        "line": 4, 
+        "range": [
+            214, 
+            402
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    280, 
+                    289
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    348, 
+                    358
+                ], 
+                "name": "Red Center"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    396, 
+                    403
+                ], 
+                "name": "outback"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cerita klasik. Apa sih yang menarik dari Central Australia atau area outback? Ikon terkenalnya Australia apalagi kalau bukan Uluru. Batu alam besar ini pasti kelihatan fotonya di majalah, iklan, atau kalender.", 
+        "line": 6, 
+        "range": [
+            404, 
+            612
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    447, 
+                    464
+                ], 
+                "name": "Central Australia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    475, 
+                    482
+                ], 
+                "name": "outback"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    501, 
+                    510
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    531, 
+                    536
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak orang yang pasti langsung mengenali batu besar berwarna merah ini. Balik lagi ke pertanyaan, apa sih yang menarik?", 
+        "line": 8, 
+        "range": [
+            614, 
+            734
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sendiri tidak yakin. Apakaha Takdir atau hanya ego diri sendiri yang membawa saya ujung-ujungnya jalan-jalan ke Uluru.", 
+        "line": 10, 
+        "range": [
+            736, 
+            858
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah semua drama yang terjadi, saya tiba-tiba mengubah rute yang seharusnya ke Australia Barat malah jadi ke Northern Territory atau bagian utara.", 
+        "line": 12, 
+        "range": [
+            860, 
+            1008
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    947, 
+                    962
+                ], 
+                "name": "Australia Barat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    977, 
+                    995
+                ], 
+                "name": "Northern Territory"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa dibilang saya terjebak di pedalaman. Saya memutuskan untuk ikut rombongan tur ke Uluru. Walaupun saya orangnya kurang suka ikut tur tapi ya nikmati aja deh perjalanannya. Oh, dan juga panasnya!", 
+        "line": 14, 
+        "range": [
+            1010, 
+            1207
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1102, 
+                    1107
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari pertama: Uluru (Ayers Rock)", 
+        "line": 16, 
+        "range": [
+            1209, 
+            1240
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1230, 
+                    1235
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah mendengar cerita Uluru, pandangan saya terhadap tempat ini berubah. Ternyata Uluru bukanlah sekedar batu besar. Ada sesuatu dibalik keindahan alam ini yang memegang bagian penting di kehidupan para suku Aborigin.", 
+        "line": 18, 
+        "range": [
+            1242, 
+            1461
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1275, 
+                    1280
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1335, 
+                    1340
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Semakin dekat saya mellihat batu ini, saya menemukan setiap sisi Uluru sangatlah istimewa. Setiap liku, garis, dan tanda-tanda menarik untuk dilihat.", 
+        "line": 20, 
+        "range": [
+            1463, 
+            1611
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1537, 
+                    1542
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Momen paling istimewa ketika jalan-jalan ke Uluru adalah pemandangan sunrise dan sunset-nya. Langit cerah berwarna biru, tidak ada satupun awan yang terlihat.", 
+        "line": 22, 
+        "range": [
+            1613, 
+            1770
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1667, 
+                    1672
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Matahari terbenam menyiptakan lapisan warna yang berbeda, dan ketika batu berubah warna menjadi keemasan ketika cahaya matahari menghilang secara perlahan. Akhirnya saya menemukan jawaban betapa istimewanya Uluru.", 
+        "line": 24, 
+        "range": [
+            1772, 
+            1984
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cerita di balik Uluru", 
+        "line": 26, 
+        "range": [
+            1986, 
+            2006
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1990, 
+                    1995
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hal pertama yang kami lakukan ketika sampai di Uluru adalah mengunjungi pusat kebudayaan untuk mempelajari tentang Anangu (Suku Aborigin yang tinggal di gurun bagian barat).", 
+        "line": 28, 
+        "range": [
+            2008, 
+            2180
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2014, 
+                    2019
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2068, 
+                    2073
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2093, 
+                    2109
+                ], 
+                "name": "pusat kebudayaan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2174, 
+                    2179
+                ], 
+                "name": "gurun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain mempelajari tentang suku Anangu, di pusat kebudayaan ini juga bisa melihat kebudayaan mereka, cerita tentang tanah mereka, sejarah, dan lainnya.", 
+        "line": 30, 
+        "range": [
+            2182, 
+            2332
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2239, 
+                    2255
+                ], 
+                "name": "pusat kebudayaan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya cukup informatif. Tapu kalau dari baca aja agak susah untuk masuk ke otak. Pas guide saya menceritakan langsung baru deh lebih ngerti.", 
+        "line": 32, 
+        "range": [
+            2334, 
+            2478
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tjukurpa (cerita tradisi atau legenda) pertama yang diceritakan oleh si guide saya adalah tentang Kuniya, si ular sanca betina, dan Liru, ular beracun.", 
+        "line": 34, 
+        "range": [
+            2480, 
+            2630
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kuniya datang dari sebuah tempat yang sangat jauh ke Uluru untuk menetaskan anak-anaknya dengan membawa telur di leher.", 
+        "line": 36, 
+        "range": [
+            2632, 
+            2750
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2702, 
+                    2707
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Suatu hari dia mendengar tentang kematian keponakannya yang dibunuh oleh Liru. Kuniya sangat marah dan dengan cepat memanjat batu Mutijulu Waterhole untuk menghadapi Liru.", 
+        "line": 38, 
+        "range": [
+            2752, 
+            2922
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2900, 
+                    2918
+                ], 
+                "name": "Mutijulu Waterhole"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mereka pun berkelahi , Kuniya menggunakan wana atau sebuah tongkat dan memukul kepala Liru sampai mati.", 
+        "line": 40, 
+        "range": [
+            2924, 
+            3026
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bukti yang menceritakan tentang Kuniya", 
+        "line": 42, 
+        "range": [
+            3028, 
+            3065
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cerita Tjukurpa biasanya memiliki pelajaran moral yang bisa digunakan di keseharian. Cerita atau legenda diturunkan ke generasi muda untuk membentuk karakter mereka.", 
+        "line": 44, 
+        "range": [
+            3067, 
+            3231
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kisah-kisah ini juga merupakan bagian penting dari upacara adat, kadang disampaikan melalui lagu-lagu, atau karya seni.", 
+        "line": 46, 
+        "range": [
+            3233, 
+            3351
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dengan cara inilah, suku Aborigin bisa menjaga kebudayaan dan mengikatkan diri ke asal mereka.", 
+        "line": 48, 
+        "range": [
+            3353, 
+            3446
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu hal yang menarik bagi saya adalah tradisi Aborigin dimana laki-laki dan perempuan memiliki derajat yang sama.", 
+        "line": 50, 
+        "range": [
+            3448, 
+            3567
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mereka memiliki tanggung jawab masing-masing. Tidak diperbolehkan untuk mengganggu urusan orang lain. Laki-laki punya urusannya sendiri, begitu juga dengan perempuan.", 
+        "line": 52, 
+        "range": [
+            3569, 
+            3734
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Larangan untuk mendaki Uluru", 
+        "line": 54, 
+        "range": [
+            3736, 
+            3763
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Guide kami sangat tidak menganjurkan untuk mendaki Uluru. Pas saya kesana, mendaki Uluru sih tidak dilarang tapi sepertinya sekarang sudah ada larangan ketat untuk mendaki.", 
+        "line": 56, 
+        "range": [
+            3765, 
+            3936
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3785, 
+                    3790
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3843, 
+                    3848
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3875, 
+                    3880
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sendiri bisa melihat betapa bahayanya pendakian ini. Tidak sedikit turis yang mengalami kecelakaan, terluka, bahkan meninggal ketika mencoba mendaki tempat sakral ini.", 
+        "line": 58, 
+        "range": [
+            3938, 
+            4109
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hal-hal ini tentuanya tidak diinginkan Anangu, apalagi kalau sampai ada yang terluka di tanah mereka.", 
+        "line": 60, 
+        "range": [
+            4111, 
+            4211
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari kedua: Kata Tjuta (The Olgas)", 
+        "line": 62, 
+        "range": [
+            4213, 
+            4246
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kata Tjuta yang memiliki arti \u201cbanyak kepala\u201d terletak 46 km dari Uluru. Dari kejauhan, terlihat bentuk yang sangat beda terutama formasi bebatuan.", 
+        "line": 64, 
+        "range": [
+            4248, 
+            4398
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4255, 
+                    4265
+                ], 
+                "name": "Kata Tjuta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4267, 
+                    4276
+                ], 
+                "name": "The Olgas"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4279, 
+                    4289
+                ], 
+                "name": "Kata Tjuta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4345, 
+                    4350
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kata Tjuta mengingatkan saya pada planet Mars. Apalagi pas sunrise, bebatuannya berwarna merah semua.", 
+        "line": 66, 
+        "range": [
+            4400, 
+            4500
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4428, 
+                    4438
+                ], 
+                "name": "Kata Tjuta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4469, 
+                    4473
+                ], 
+                "name": "Mars"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur trekking yang kami lalui sejauh 7.4 km sampai ke Valley of the Wind. Di bagian tertentu jalanannya lumayan terjal dan berpasir.", 
+        "line": 68, 
+        "range": [
+            4502, 
+            4634
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4531, 
+                    4545
+                ], 
+                "name": "Jalur trekking"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4586, 
+                    4604
+                ], 
+                "name": "Valley of the Wind"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4625, 
+                    4635
+                ], 
+                "name": "jalanannya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ternyata Red Center tidaklah segersang yang saya pikirkan. Banyak juga bunga warna-warni yang mempercantik pemandangan keseluruhan.", 
+        "line": 70, 
+        "range": [
+            4636, 
+            4766
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4675, 
+                    4684
+                ], 
+                "name": "Red Cente"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di Valley of the Wind, tiba-tiba saya merasakan sesuatu yang aneh. Perasaan sangat tenang ketika duduk dan melihat pemandangan diantara kedua lembah.", 
+        "line": 72, 
+        "range": [
+            4768, 
+            4931
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4817, 
+                    4835
+                ], 
+                "name": "Valley of the Wind"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sejujurnya, pemandangannya bukan yang spektakuler banget. Tetapi tiuapan anginnya, ketenangan saat dudu disana memberikan saya kenyamanan yang sulit dijelaskan.", 
+        "line": 74, 
+        "range": [
+            4933, 
+            5092
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4956, 
+                    4962
+                ], 
+                "name": "lembah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari Ketiga: Wattarka National Park (Kings Canyon)", 
+        "line": 76, 
+        "range": [
+            5094, 
+            5143
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di hari ketiga, kami langsung mendatangi Kings Canyon di pagi hari agar bisa selesai sebelum suhunya meningkat di siang hari.", 
+        "line": 78, 
+        "range": [
+            5145, 
+            5269
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5164, 
+                    5176
+                ], 
+                "name": "Kings Canyon"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5220, 
+                    5232
+                ], 
+                "name": "Kings Canyon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jika suhu atau temperatur pada hari itu diprediksikan akan mencapai 36 derajat atau lebih, para pengunjung harus mulai sebelum jam 9 pagi karena gerbangnya akan ditutup setelah itu.", 
+        "line": 80, 
+        "range": [
+            5271, 
+            5451
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak ada cerita Tjukurpa tentang Kings Canyon. Guide kami membagikan fakta geologis tentang area ini.", 
+        "line": 82, 
+        "range": [
+            5453, 
+            5554
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5523, 
+                    5535
+                ], 
+                "name": "Kings Canyon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terlihat lembah dan ngarai di sekeliling area ini, sampai akhirnya sampai di sebuah oase kecil yang bernama Garden of Eden.", 
+        "line": 84, 
+        "range": [
+            5556, 
+            5678
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5602, 
+                    5608
+                ], 
+                "name": "lembah"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5613, 
+                    5619
+                ], 
+                "name": "ngarai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips jalan-jalan ke Uluru", 
+        "line": 86, 
+        "range": [
+            5680, 
+            5704
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bandara paling dekat untuk mengunjungi Uluru adalah Ayers Rock Airport. Beberapa kota besar di Australia memiliki penerbangan ke Ayers Rock. Opsi lain agar lebih murah bisa terbang ke Alice Spring.", 
+        "line": 88, 
+        "range": [
+            5706, 
+            5902
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5738, 
+                    5743
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5784, 
+                    5789
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5797, 
+                    5815
+                ], 
+                "name": "Ayers Rock Airport"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5826, 
+                    5830
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5840, 
+                    5849
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5874, 
+                    5884
+                ], 
+                "name": "Ayers Rock"
+            }
+        ]
+    }, 
+    {
+        "text": "Uluru sendiri terletak sekiat 5 jam jalur darat dari Alice Spring.", 
+        "line": 89, 
+        "range": [
+            5903, 
+            5968
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5929, 
+                    5941
+                ], 
+                "name": "Alice Spring"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5943, 
+                    5948
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "Jalanan menuju taman nasional cocok untuk kendaraan 2wd.", 
+        "line": 90, 
+        "range": [
+            5969, 
+            6024
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5979, 
+                    5990
+                ], 
+                "name": "jalur darat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5996, 
+                    6008
+                ], 
+                "name": "Alice Spring"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6010, 
+                    6017
+                ], 
+                "name": "Jalanan"
+            }
+        ]
+    }, 
+    {
+        "text": "Suhu di Uluru sangat panas, jadi siapkan sunscreen, topi, dan bawa air yang cukup.", 
+        "line": 91, 
+        "range": [
+            6025, 
+            6106
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6025, 
+                    6039
+                ], 
+                "name": "taman nasional"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6075, 
+                    6080
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "Saya ikutan tur dari Wayoutback selama 3 hari 2 malam. Harganya sekitar AUD 400 dan saya lumayan puas. Grupnya tidak terlalu banyak orang, dan saya dapat pengalaman seru tidur di swag, seperti sleeping bag di alam terbuka.", 
+        "line": 92, 
+        "range": [
+            6107, 
+            6328
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6171, 
+                    6181
+                ], 
+                "name": "Wayoutback"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Uluru yang menjadi icon-nya Australia adalah salah satu destinasi wisata yang tidak boleh terlewatkan. Kapan kamu mau liburan ke Uluru juga?", 
+        "line": 94, 
+        "range": [
+            6330, 
+            6469
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6374, 
+                    6379
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6402, 
+                    6411
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }
+]

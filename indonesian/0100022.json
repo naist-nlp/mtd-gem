@@ -1,0 +1,1268 @@
+[
+    {
+        "text": "August 3, 2021  Trekking Di Sapa Bersama Suku Hmong Di Vietnam", 
+        "line": 0, 
+        "range": [
+            1, 
+            62
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    28, 
+                    32
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    55, 
+                    62
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari semua tempat yang saya kunjungi di Vietnam, Sapa adalah tujuan yang menurut saya paling bagus dan berkesan. Sapa merupakan sebuah kota kecil di area pegunungan di sebelah barat laut Vietnam tepatnya di Provinsi Lao Cai.", 
+        "line": 2, 
+        "range": [
+            64, 
+            287
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    104, 
+                    111
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    113, 
+                    117
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    177, 
+                    181
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    199, 
+                    203
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    218, 
+                    228
+                ], 
+                "name": "pegunungan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    251, 
+                    258
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    271, 
+                    287
+                ], 
+                "name": "Provinsi Lao Cai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sapa dikenal dengan pemandangan barisan pegunungan dan juga hamparan sawah di kaki pegunungan. Yang lebih menariknya lagi, kamu bisa bertemu langsung dengan suku minoritas asli yaitu Suku Hmong.", 
+        "line": 4, 
+        "range": [
+            289, 
+            482
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    290, 
+                    294
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    330, 
+                    340
+                ], 
+                "name": "pegunungan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    359, 
+                    364
+                ], 
+                "name": "sawah"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    373, 
+                    383
+                ], 
+                "name": "pegunungan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Maka dari itu, ketika saya membuat itinerary liburan ke Vietnam, saya pun tidak melewati Sapa dalam checklist perjalanan saya.", 
+        "line": 6, 
+        "range": [
+            484, 
+            609
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    542, 
+                    549
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    575, 
+                    579
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara menuju Sapa menggunakan transportasi umum", 
+        "line": 8, 
+        "range": [
+            611, 
+            656
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    626, 
+                    630
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Hanoi ada dua cara untuk menuju Sapa yaitu dengan menggunakan kereta atau bus. Sapa berjarak sekitar 380 km dari Hanoi. Masing-masing cara tentunya ada kelebihan dan kekurangan.", 
+        "line": 10, 
+        "range": [
+            658, 
+            839
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    667, 
+                    672
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    699, 
+                    703
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    729, 
+                    735
+                ], 
+                "name": "kereta"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    744, 
+                    745
+                ], 
+                "name": "."
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    780, 
+                    785
+                ], 
+                "name": "Hanoi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sendiri memilih untuk naik sleeper bus dari Hanoi langsung ke Sapa, walaupun enggak terlalu nyaman tapi cara ini paling murah dan langsung sampai Sapa.", 
+        "line": 12, 
+        "range": [
+            841, 
+            996
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    886, 
+                    889
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    895, 
+                    900
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    913, 
+                    917
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Hanoi ke Sapa dengan Bus", 
+        "line": 14, 
+        "range": [
+            998, 
+            1026
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1009, 
+                    1014
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1018, 
+                    1022
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "Kalau kamu menggunakan bus langsung dari Hanoi ke Sapa, perjalanan kurang lebih memakan waktu sekitar 6 jam. Harga tiket berkisar antara VND 260,000 \u2013 450,000 tergantung servis dan kenyamanan bus. Jadwal bus dari Hanoi menuju Sapa biasaya ada jam 6.30 pagi, 12 siang, dan 10 malam. Kamu bisa booking tiket dari Hanoi ke Sapa di sini.", 
+        "line": 15, 
+        "range": [
+            1027, 
+            1361
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1030, 
+                    1033
+                ], 
+                "name": "Bus"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1057, 
+                    1060
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1075, 
+                    1080
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1084, 
+                    1088
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1226, 
+                    1229
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1238, 
+                    1241
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1247, 
+                    1252
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1260, 
+                    1264
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1345, 
+                    1350
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1354, 
+                    1358
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 16, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Hanoi ke Sapa dengan kereta api", 
+        "line": 17, 
+        "range": [
+            1363, 
+            1398
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1374, 
+                    1379
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1383, 
+                    1387
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "Dari Hanoi bisa juga naik kereta api sampai Lao Cai kemudian dilanjutkan dengan bus atau mobil sewaan ke Sapa. Perjalanan menggunakan kereta api kurang lebih memakan wakti 8 jam.", 
+        "line": 18, 
+        "range": [
+            1399, 
+            1576
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1411, 
+                    1416
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1432, 
+                    1442
+                ], 
+                "name": "kereta api"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1450, 
+                    1457
+                ], 
+                "name": "Lao Cai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1486, 
+                    1489
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1495, 
+                    1500
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1511, 
+                    1515
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1540, 
+                    1550
+                ], 
+                "name": "kereta api"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada dua operator kereta yaitu Vietnam Railways dan kereta turis yang lebih luxury. Vietnam Railways memiliki beberapa jenis tiket dari kursi biasa sampai gerbong dengan tempat tidur.", 
+        "line": 20, 
+        "range": [
+            1578, 
+            1759
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1603, 
+                    1609
+                ], 
+                "name": "kereta"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1616, 
+                    1632
+                ], 
+                "name": "Vietnam Railways"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1637, 
+                    1643
+                ], 
+                "name": "kereta"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1669, 
+                    1685
+                ], 
+                "name": "Vietnam Railways"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harganya berkisar antara VND 155,000 \u2013 400,000. Jadwal keberangkatan sekitar jam 8 malam dan 10 malam. Sesampainya di Lao Cai, kamu bisa naik bus ke Sapa dengan lama perjalanan 1 jam dengan harga tiket VND 100,000.", 
+        "line": 22, 
+        "range": [
+            1761, 
+            1976
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1888, 
+                    1895
+                ], 
+                "name": "Lao Cai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1912, 
+                    1915
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1919, 
+                    1923
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Waktu terbaik untuk berkunjung ke Sapa, Vietnam", 
+        "line": 24, 
+        "range": [
+            1978, 
+            2024
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2020, 
+                    2024
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya datang ke Sapa di bulan Mei. Pemandangan sawa dipenuhi dengan padi. Bulan Maret sampai Mei adalah musim untuk menanam padi dan memulai aktivitas bertani. Saran saya sih datang sekitar bulan ini.", 
+        "line": 26, 
+        "range": [
+            2026, 
+            2224
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2026, 
+                    2033
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2050, 
+                    2054
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2081, 
+                    2085
+                ], 
+                "name": "sawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "September sampai November adalah musim high season di Sapa. Jadi bakalan lebih ramai. Di saat musim dingin yang berlangsung dari bulan Desember sampai Januari bakalan dingin.", 
+        "line": 28, 
+        "range": [
+            2226, 
+            2399
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2290, 
+                    2294
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman trekking di Sapa, Vietnam dengan menggunakan tur", 
+        "line": 30, 
+        "range": [
+            2401, 
+            2459
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2435, 
+                    2439
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2441, 
+                    2448
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak banget sebenarnya operator tur yang menawarkan paket trekking, yang paling basic adalah trekking selama 2 hari 1 malam.", 
+        "line": 32, 
+        "range": [
+            2461, 
+            2586
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada juga paket-paket lain untuk lebih merasakan langsung pengalaman trekking di Sapa, khususnya ke desa-desa suku minoritas.", 
+        "line": 34, 
+        "range": [
+            2588, 
+            2711
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2681, 
+                    2685
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2700, 
+                    2709
+                ], 
+                "name": "desa-desa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Hanoi saya sudah booking paket tur 2 hari 1 malam untuk trekking ke Sapa. Harganya USD 50 dan termasuk akomodasi sharing sederhana di rumah lokal, makanan, dan juga pemandu berbahasa Inggris.", 
+        "line": 36, 
+        "range": [
+            2713, 
+            2906
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2730, 
+                    2735
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2798, 
+                    2802
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah menghabiskan semalaman di sleeper bus dari Hanoi menuju Sapa, akhirnya saya tiba di  kota kecil nan indah. Karena masih pagi, suhunya lumayan dingin juga.", 
+        "line": 38, 
+        "range": [
+            2908, 
+            3069
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2965, 
+                    2968
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2974, 
+                    2979
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2987, 
+                    2991
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3016, 
+                    3020
+                ], 
+                "name": "kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sambil menunggu turnya dimulai, saya membersihkan diri dan sarapan dulu di sebuah hotel yang memang sudah diarahkan ketika memesan paket tur ini.", 
+        "line": 40, 
+        "range": [
+            3071, 
+            3215
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3169, 
+                    3174
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sejam kemudian pemandu saya muncul, seorang gadis muda berpakaian hitam. Gadis ini adalah  gadis Hmong. Dengan Bahasa Inggris pas-pasan, dia menyapa kami dan menjelaskan tentang suku asli yang tinggal di sini.", 
+        "line": 42, 
+        "range": [
+            3217, 
+            3425
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Grup saya terdiri dari 5 orang. Saya mengikuti guide berjalan sepanjang jalan utama. Kemudian beberapa perempuan lokal dengan keranjang mengikuti kami dari belakang.", 
+        "line": 44, 
+        "range": [
+            3427, 
+            3591
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3517, 
+                    3522
+                ], 
+                "name": "jalan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di pikiran saya mungkin mereka mau pulang ke desa juga. Ternyata mereka mau jualan suvenir untuk turis.", 
+        "line": 46, 
+        "range": [
+            3593, 
+            3695
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3657, 
+                    3661
+                ], 
+                "name": "desa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perempuan Hmong ini, sebagian berumur lebih tua sangat ramah dan coba ngobrol sama turis. Awalnya saya tidak sadar, kirain mereka senang ketemu orang baru dan penasaran, jadinya pengen ngobrol.", 
+        "line": 48, 
+        "range": [
+            3697, 
+            3889
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ujung-ujungnya mereka coba jualan. Saya ngerti sih, mereka juga pengen cari duit. Saya pun membeli tiga gelang yang hanya seharga 1 dollar. Memang harganya tidak mahal. Tapi kalau 10 orang yang nawarin, kan jadinya agak mengganggu.", 
+        "line": 50, 
+        "range": [
+            3891, 
+            4121
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ya walaupun kejadian tersebut kurang mengenakkan bagi saya, tidak bisa dipungkiri kalau pemandangan sawah dan pegunungan di Sapa benar-benar bikin mata melotot. View-nya mirip dengan persawahan yang ada di Batad, Filipina.", 
+        "line": 52, 
+        "range": [
+            4123, 
+            4344
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4245, 
+                    4250
+                ], 
+                "name": "sawah"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4255, 
+                    4265
+                ], 
+                "name": "pegunungan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4269, 
+                    4273
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4328, 
+                    4338
+                ], 
+                "name": "persawahan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mengenal suku minoritas", 
+        "line": 54, 
+        "range": [
+            4346, 
+            4368
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4351, 
+                    4356
+                ], 
+                "name": "Batad"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4358, 
+                    4366
+                ], 
+                "name": "Filipina"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa suku minoritas yang tinggal di Sapa ada lima kelompok yaitu Hmong, Dao, Tay, Giay, dan Xa Pho. Yang paling banyak adalah Suku Hmong yang asal mulanya datang dari kawasan Sungai Kuning di Cina.", 
+        "line": 56, 
+        "range": [
+            4370, 
+            4570
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4434, 
+                    4438
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pada abad ke 18 terjadi migrasi besar-besaran Suku Hmong karena konflik yang terjadi. Sekarang Suku Hmong tersebar di area pegunungan Cina, Vietnam, Laos, dan juga Thailand.", 
+        "line": 58, 
+        "range": [
+            4572, 
+            4744
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4573, 
+                    4586
+                ], 
+                "name": "Sungai Kuning"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4590, 
+                    4594
+                ], 
+                "name": "Cina"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4720, 
+                    4730
+                ], 
+                "name": "pegunungan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4731, 
+                    4735
+                ], 
+                "name": "Cina"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4737, 
+                    4744
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Suku Hmong di Sapa dibagi menjadi beberapa kelompok kecil yaitu Black Hmong dan Red Hmong.", 
+        "line": 60, 
+        "range": [
+            4746, 
+            4835
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4746, 
+                    4750
+                ], 
+                "name": "Laos"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4761, 
+                    4769
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4786, 
+                    4790
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penduduk yang tinggal di Sapa sangat bergantung pada pertanian. Mereka sangatlah miskin bahkan dibawah standar pedesaan di Vietnam.", 
+        "line": 62, 
+        "range": [
+            4837, 
+            4967
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4889, 
+                    4893
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untungnya ada beberapa NGO yang mencoba mengembangkan kualitas penduduk melalui program volunteer dan juga pariwisata, mirip seperti kondisi di Bukit Lawang.", 
+        "line": 64, 
+        "range": [
+            4969, 
+            5125
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4987, 
+                    4994
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau saya punya waktu lebih pasti saya bakal stay lebih lama dan mungkin akan keliling area ini sendiri tanpa menggunakan tur.", 
+        "line": 66, 
+        "range": [
+            5127, 
+            5253
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5141, 
+                    5153
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Secara keseluruhan pengalaman trekking di Sapa sangat menyenangkan. Merasakan tinggal di rumah penduduk, mencoba makanan yang dimasak langsung orang lokal. Mudah-mudahan bisa kembali lagi ke Sapa.", 
+        "line": 68, 
+        "range": [
+            5255, 
+            5450
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5327, 
+                    5331
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }
+]

@@ -1,0 +1,5144 @@
+[
+    {
+        "text": "January 18, 2022    Pulau Wakatobi: Panduan Lengkap, Tips, Dan Cara Ke Sana", 
+        "line": 0, 
+        "range": [
+            1, 
+            75
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    20, 
+                    34
+                ], 
+                "name": "Pulau Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Panduan wisata lengkap bagi kamu yang ingin liburan ke Pulau Wakatobi \u2013 itinerary, jadwal kapal antar pulau, dan berapa biaya yang perlu dikeluarkan untuk mengunjungi kepualauan ini! ", 
+        "line": 2, 
+        "range": [
+            77, 
+            261
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    132, 
+                    146
+                ], 
+                "name": "Pulau Wakatobi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    167, 
+                    172
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    179, 
+                    184
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    244, 
+                    254
+                ], 
+                "name": "kepualauan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kepulauan Wakatobi merupakan gugusan pulau yang terletak di Sulawesi Tenggara dan terdiri dari 4 pulau utama yaitu Wangi Wangi, Kaledupa, Tomia, dan Binongko.", 
+        "line": 4, 
+        "range": [
+            263, 
+            420
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    299, 
+                    304
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    322, 
+                    339
+                ], 
+                "name": "Sulawesi Tenggara"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    359, 
+                    364
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    377, 
+                    388
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    390, 
+                    398
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    400, 
+                    405
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    411, 
+                    419
+                ], 
+                "name": "Binongko"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak diragukan lagi bahwa pulau ini memiliki surga bawah laut yang sangat menakjubkan.", 
+        "line": 6, 
+        "range": [
+            422, 
+            508
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    449, 
+                    454
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    480, 
+                    484
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Wakatobi menyandang status taman nasional yang memiliki ciri khas unik yaitu:", 
+        "line": 8, 
+        "range": [
+            510, 
+            592
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    511, 
+                    525
+                ], 
+                "name": "Pulau Wakatobi"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    544, 
+                    558
+                ], 
+                "name": "taman nasional"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Keberagaman hayati laut lebih dari 750 spesies terumbu karang dan sekitar 942 spesies ikan. Jumlah ini melebihi Laut Karibia (50 spesies) dan juga Laut Merah (300 spesies).", 
+        "line": 10, 
+        "range": [
+            594, 
+            765
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    615, 
+                    619
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    708, 
+                    720
+                ], 
+                "name": "Laut Karibia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    743, 
+                    753
+                ], 
+                "name": "Laut Merah"
+            }
+        ]
+    }, 
+    {
+        "text": "Dinding karang terbesar kedua di dunia setelah Australia dan juga karang atoll terpanjang di dunia (48 km).", 
+        "line": 11, 
+        "range": [
+            766, 
+            872
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    769, 
+                    783
+                ], 
+                "name": "Dinding karang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    816, 
+                    825
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    835, 
+                    847
+                ], 
+                "name": "karang atoll"
+            }
+        ]
+    }, 
+    {
+        "text": "Bagian dari Operation Wallacea, sebuah organisasi yang melakukan riset dan pelestarian margasatwa di berbagai lokasi.", 
+        "line": 12, 
+        "range": [
+            873, 
+            989
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sudah pernah traveling ke banyak pulau indah di Indonesia seperti Pulau Togean, Pulau Derawan, atau Raja Ampat.", 
+        "line": 14, 
+        "range": [
+            991, 
+            1106
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1034, 
+                    1039
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1049, 
+                    1058
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1067, 
+                    1079
+                ], 
+                "name": "Pulau Togean"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1081, 
+                    1094
+                ], 
+                "name": "Pulau Derawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Menurut saya, di antara semua pulau yang pernah saya kunjungi, Pulau Wakatobi memiliki terumbu karang yang paling indah.", 
+        "line": 16, 
+        "range": [
+            1108, 
+            1227
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akses menuju pulau ini tidaklah gampang, apalagi tidak banyak informasi tentang cara menuju Pulau Wakatobi.", 
+        "line": 18, 
+        "range": [
+            1229, 
+            1335
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1249, 
+                    1254
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Awalnya saya khawatir jadwal kapal tidak cocok sehingga bisa mengganggu rencana perjalanan.", 
+        "line": 20, 
+        "range": [
+            1337, 
+            1427
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1374, 
+                    1379
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi setelah kesana ternyata tidak sesulit yang saya bayangkan.", 
+        "line": 22, 
+        "range": [
+            1429, 
+            1491
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari pengalaman saya, naik kapal yang mana aja tetap bisa kekejar kok.", 
+        "line": 24, 
+        "range": [
+            1493, 
+            1562
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1530, 
+                    1535
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Contohnya, saya berencana dari Baubau ke Tomia terlebih dahulu baru dilanjutkan ke Kaledupa, Wangi Wangi dan kembali ke Baubau.", 
+        "line": 26, 
+        "range": [
+            1564, 
+            1690
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1606, 
+                    1612
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1616, 
+                    1621
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1658, 
+                    1666
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1668, 
+                    1679
+                ], 
+                "name": "Wangi Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Namun ketika saya sampai di Baubau, tidak ada kapal yang berangkat ke Tomia pada hari itu, yang ada malah ke Kaledupa.", 
+        "line": 28, 
+        "range": [
+            1692, 
+            1809
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1695, 
+                    1701
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1732, 
+                    1738
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1750, 
+                    1755
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1774, 
+                    1779
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadi saya harus merubah rencana untuk ke Kaledupa dulu, terus Tomia, baru yang terakhir adalah Wangi Wangi.", 
+        "line": 30, 
+        "range": [
+            1811, 
+            1917
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1813, 
+                    1821
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1865, 
+                    1873
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1886, 
+                    1891
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Intinya, tidak perlu khawatir dengan jadwal kapal karena naik kapal ke pulau mana aja masih bisa disesuaikan rutenya.", 
+        "line": 32, 
+        "range": [
+            1919, 
+            2035
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1919, 
+                    1930
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1977, 
+                    1982
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1995, 
+                    2000
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2004, 
+                    2009
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara ke Pulau Wakatobi", 
+        "line": 34, 
+        "range": [
+            2037, 
+            2058
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada dua cara yang paling umum untuk menuju ke Pulau Wakatobi yaitu melalui Baubau atau Kendari \u2013 setelah itu baru dilanjutkan menggunakan kapal menuju salah satu pulau yang ada.", 
+        "line": 36, 
+        "range": [
+            2060, 
+            2238
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2060, 
+                    2074
+                ], 
+                "name": "Pulau Wakatobi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2122, 
+                    2136
+                ], 
+                "name": "Pulau Wakatobi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2151, 
+                    2157
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2163, 
+                    2170
+                ], 
+                "name": "Kendari"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2214, 
+                    2219
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Kendari kamu juga bisa naik pesawat langsung ke Wangi Wangi namun biayanya pasti lebih mahal.", 
+        "line": 38, 
+        "range": [
+            2240, 
+            2337
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2260, 
+                    2267
+                ], 
+                "name": "Kendari"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2288, 
+                    2295
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2308, 
+                    2319
+                ], 
+                "name": "Wangi Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya memilih naik PELNI dari Makassar menuju Baubau biar sekalian jalan-jalan dan juga biayanya lebih murah.", 
+        "line": 40, 
+        "range": [
+            2339, 
+            2446
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2373, 
+                    2378
+                ], 
+                "name": "PELNI"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2384, 
+                    2392
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2400, 
+                    2406
+                ], 
+                "name": "Baubau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut adalah jadwal kapal untuk menuju ke Pulau Wakatobi, mudah-mudahan tidak ada perubahan:", 
+        "line": 42, 
+        "range": [
+            2448, 
+            2541
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2487, 
+                    2492
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2509, 
+                    2523
+                ], 
+                "name": "Pulau Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal dari Baubau ke Wangi Wangi", 
+        "line": 44, 
+        "range": [
+            2543, 
+            2574
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2561, 
+                    2566
+                ], 
+                "name": "Kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal umum/kayu:", 
+        "line": 46, 
+        "range": [
+            2576, 
+            2591
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Baubau (Pelabuhan Murhum) \u2013 Wangi Wangi (Pelabuhan Wanci): Setiap hari jam 9 malam dengan biaya Rp 105,000", 
+        "line": 47, 
+        "range": [
+            2592, 
+            2699
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2595, 
+                    2600
+                ], 
+                "name": "Kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2612, 
+                    2618
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2620, 
+                    2636
+                ], 
+                "name": "Pelabuhan Murhum"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2640, 
+                    2651
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2653, 
+                    2668
+                ], 
+                "name": "Pelabuhan Wanci"
+            }
+        ]
+    }, 
+    {
+        "text": "Wangi Wangi \u2013 Baubau: Setiap hari jam 9 malam dengan biaya Rp 105,000.", 
+        "line": 48, 
+        "range": [
+            2700, 
+            2771
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2719, 
+                    2730
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2733, 
+                    2739
+                ], 
+                "name": "Baubau"
+            }
+        ]
+    }, 
+    {
+        "text": "(Lama perjalanan kurang lebih 10 jam tergantung kondisi ombak.)", 
+        "line": 49, 
+        "range": [
+            2772, 
+            2834
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Speedboat/kapal cepat:", 
+        "line": 51, 
+        "range": [
+            2836, 
+            2857
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Baubau \u2013 Wangi Wangi: Hampir setiap hari (cek lagi di pelabuhan) jam 1 siang dengan biaya Rp 180,000.", 
+        "line": 52, 
+        "range": [
+            2858, 
+            2960
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2865, 
+                    2876
+                ], 
+                "name": "kapal cepat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2878, 
+                    2884
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2887, 
+                    2898
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2932, 
+                    2941
+                ], 
+                "name": "pelabuhan"
+            }
+        ]
+    }, 
+    {
+        "text": "Wangi Wangi \u2013 Baubau: Hampir setiap hari (cek lagi di pelabuhan) jam 8 pagi dengan biaya Rp 180,000.", 
+        "line": 53, 
+        "range": [
+            2961, 
+            3062
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2980, 
+                    2991
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2994, 
+                    3000
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3034, 
+                    3043
+                ], 
+                "name": "pelabuhan"
+            }
+        ]
+    }, 
+    {
+        "text": "(Lama perjalanan 3-4 jam).", 
+        "line": 54, 
+        "range": [
+            3063, 
+            3088
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal dari Kendari ke Wangi Wangi", 
+        "line": 56, 
+        "range": [
+            3090, 
+            3122
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3109, 
+                    3114
+                ], 
+                "name": "Kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal umum/kayu:", 
+        "line": 58, 
+        "range": [
+            3124, 
+            3139
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Kendari \u2013 Wangi Wangi: Senin, Selasa, Sabtu, Minggu jam 9 malam dengan biaya Rp 190,000.", 
+        "line": 59, 
+        "range": [
+            3140, 
+            3229
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3144, 
+                    3149
+                ], 
+                "name": "Kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3161, 
+                    3168
+                ], 
+                "name": "Kendari"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3171, 
+                    3182
+                ], 
+                "name": "Wangi Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "(Lama perjalanan kurang lebih 10 jam).", 
+        "line": 60, 
+        "range": [
+            3230, 
+            3267
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal dari Baubau ke Tomia", 
+        "line": 62, 
+        "range": [
+            3269, 
+            3294
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3290, 
+                    3295
+                ], 
+                "name": "Kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal umum/kayu:", 
+        "line": 64, 
+        "range": [
+            3296, 
+            3311
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3301, 
+                    3307
+                ], 
+                "name": "Baubau"
+            }
+        ]
+    }, 
+    {
+        "text": "Baubau (Pelabuhan Murhum) \u2013 Tomia (Pelabuhan Waha): Senin, Selasa, Rabu, Sabtu jam 9 malam dengan biaya Rp 130,000.", 
+        "line": 65, 
+        "range": [
+            3312, 
+            3428
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3318, 
+                    3323
+                ], 
+                "name": "Kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3335, 
+                    3341
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3343, 
+                    3359
+                ], 
+                "name": "Pelabuhan Murhum"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3363, 
+                    3368
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3370, 
+                    3384
+                ], 
+                "name": "Pelabuhan Waha"
+            }
+        ]
+    }, 
+    {
+        "text": "Tomia \u2013 Baubau: Sabtu, Minggu, Selasa, Kamis jam  9 pagi dengan biaya Rp 130,000.", 
+        "line": 66, 
+        "range": [
+            3429, 
+            3511
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3451, 
+                    3456
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3459, 
+                    3465
+                ], 
+                "name": "Baubau"
+            }
+        ]
+    }, 
+    {
+        "text": "(Lama perjalanan kurang lebih 12 jam tergantung kondisi ombak).", 
+        "line": 67, 
+        "range": [
+            3512, 
+            3574
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 68, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal dari Baubau ke Kaledupa", 
+        "line": 69, 
+        "range": [
+            3576, 
+            3604
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3598, 
+                    3603
+                ], 
+                "name": "Kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 70, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal umum/kayu:", 
+        "line": 71, 
+        "range": [
+            3606, 
+            3621
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3609, 
+                    3615
+                ], 
+                "name": "Baubau"
+            }
+        ]
+    }, 
+    {
+        "text": "Baubau (Pelabuhan Murhum) \u2013 Kaledupa (Pelabuhan Buranga). Harinya perlu dikonfirmasi lagi, jam 9 malam dengan biaya Rp 55,000.", 
+        "line": 72, 
+        "range": [
+            3622, 
+            3749
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3629, 
+                    3634
+                ], 
+                "name": "Kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3646, 
+                    3652
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3654, 
+                    3670
+                ], 
+                "name": "Pelabuhan Murhum"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3674, 
+                    3682
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3684, 
+                    3701
+                ], 
+                "name": "Pelabuhan Buranga"
+            }
+        ]
+    }, 
+    {
+        "text": "(Lama perjalanan sekitar 14 jam).", 
+        "line": 73, 
+        "range": [
+            3750, 
+            3782
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 74, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di salah satu pulau di Wakatobi, lebih gampang lagi untuk ke pulau sekitarnya.", 
+        "line": 75, 
+        "range": [
+            3784, 
+            3876
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3837, 
+                    3842
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3846, 
+                    3854
+                ], 
+                "name": "Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 76, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu bisa memilih rute Wangi Wangi \u2013 Kaledupa \u2013 Tomia atau sebaliknya.", 
+        "line": 77, 
+        "range": [
+            3878, 
+            3951
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3884, 
+                    3889
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3926, 
+                    3937
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3940, 
+                    3948
+                ], 
+                "name": "Kaledupa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 78, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jarak antara satu pulau ke pulau lain kurang lebih 2 jam.", 
+        "line": 79, 
+        "range": [
+            3953, 
+            4009
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3993, 
+                    3998
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4002, 
+                    4007
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 80, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Misalnya, kapal dari Wangi Wangi berangkat jam 9 pagi, sampai di Kaledupa (Pelabuhan Taw) jam 11 siang.", 
+        "line": 81, 
+        "range": [
+            4011, 
+            4113
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4044, 
+                    4049
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4055, 
+                    4066
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4099, 
+                    4107
+                ], 
+                "name": "Kaledupa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 82, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kemudian kapal ini akan lanjut lagi sampai Tomia, jadi akan sampai Tomia jam 2 atau 3 sore.", 
+        "line": 83, 
+        "range": [
+            4115, 
+            4205
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4148, 
+                    4153
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4182, 
+                    4187
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya kapal tidak akan berlabuh di Pelabuhan Taw, Kaledupa sehingga harus naik sampan kecil seharga Rp 10,000 untuk turun di Pelabuhan Taw.", 
+        "line": 85, 
+        "range": [
+            4207, 
+            4348
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4241, 
+                    4246
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4270, 
+                    4283
+                ], 
+                "name": "Pelabuhan Taw"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4314, 
+                    4320
+                ], 
+                "name": "sampan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sama juga dengan arah sebaliknya, kalau kapal berangkat dari Tomia jam 9 pagi, sampai di Kaledupa jam 11 pagi, kemudian sampai di Wangi Wangi sekitar jam 2.", 
+        "line": 87, 
+        "range": [
+            4350, 
+            4505
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4360, 
+                    4373
+                ], 
+                "name": "Pelabuhan Taw"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4416, 
+                    4421
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4437, 
+                    4442
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4465, 
+                    4473
+                ], 
+                "name": "Kaledupa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 88, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga kapal untuk satu pemberhentian adalah Rp 50,000, harga untuk dua pemberhentian adalah Rp 100,000.", 
+        "line": 89, 
+        "range": [
+            4507, 
+            4609
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4540, 
+                    4545
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 90, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada juga kapal cepat dari Wangi Wangi \u2013 Kaledupa seharga Rp 80,000 dan juga dari Wangi Wangi \u2013 Tomia seharga Rp 120,000.", 
+        "line": 91, 
+        "range": [
+            4611, 
+            4734
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4648, 
+                    4659
+                ], 
+                "name": "kapal cepat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4665, 
+                    4676
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4679, 
+                    4687
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4720, 
+                    4731
+                ], 
+                "name": "Wangi Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 92, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebaiknya naik kapal lambat saja karena kalau naik kapal cepat sampai Tomia berhentinya di Pelabuhan Usuku, sedangkan umumnya untuk diving atau snorkeling ada di dekat Pelabuhan Waha.", 
+        "line": 93, 
+        "range": [
+            4736, 
+            4918
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4776, 
+                    4781
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4812, 
+                    4823
+                ], 
+                "name": "kapal cepat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4831, 
+                    4836
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4852, 
+                    4867
+                ], 
+                "name": "Pelabuhan Usuku"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 94, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau-pulau di Wakatobi", 
+        "line": 95, 
+        "range": [
+            4920, 
+            4942
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4929, 
+                    4943
+                ], 
+                "name": "Pelabuhan Waha"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 96, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Seperti yang saya tulis sebelumnya, Wakatobi merupakan singkatan dari 4 pulau yaitu Wangi Wangi, Kaledupa, Tomia, dan Binongko.", 
+        "line": 97, 
+        "range": [
+            4944, 
+            5070
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4946, 
+                    4957
+                ], 
+                "name": "Pulau-pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4961, 
+                    4969
+                ], 
+                "name": "Wakatobi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5007, 
+                    5015
+                ], 
+                "name": "Wakatobi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5055, 
+                    5066
+                ], 
+                "name": "Wangi Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 98, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya mengunjungi tiga pulau kecuali Binongko.", 
+        "line": 99, 
+        "range": [
+            5072, 
+            5116
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5078, 
+                    5083
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5089, 
+                    5097
+                ], 
+                "name": "Binongko"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 100, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Pulau Hoga, Kaledupa", 
+        "line": 101, 
+        "range": [
+            5118, 
+            5140
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5122, 
+                    5127
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 102, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya Kaledupa bukan tujuan pertama dalam rencana saya.", 
+        "line": 103, 
+        "range": [
+            5142, 
+            5201
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5150, 
+                    5160
+                ], 
+                "name": "Pulau Hoga"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5162, 
+                    5170
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5183, 
+                    5191
+                ], 
+                "name": "Kaledupa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 104, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya orang-orang akan mulai dari Wangi Wangi \u2013 Kaledupa \u2013 Tomia, ataupun sebaliknya.", 
+        "line": 105, 
+        "range": [
+            5203, 
+            5294
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5271, 
+                    5282
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5285, 
+                    5293
+                ], 
+                "name": "Kaledupa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 106, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dikarenakan kondisi dan juga masalah waktu, jadinya lebih sesuai kalau berangkat ke Kaledupa dulu.", 
+        "line": 107, 
+        "range": [
+            5296, 
+            5393
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5296, 
+                    5301
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 108, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tujuan utama kami di Kaledupa adalah Pulau Hoga.", 
+        "line": 109, 
+        "range": [
+            5395, 
+            5442
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5408, 
+                    5416
+                ], 
+                "name": "Kaledupa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 110, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal dari Baubau berangkat jam 9 malam.", 
+        "line": 111, 
+        "range": [
+            5444, 
+            5483
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5445, 
+                    5453
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5461, 
+                    5471
+                ], 
+                "name": "Pulau Hoga"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5474, 
+                    5479
+                ], 
+                "name": "Kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 112, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Semua kapal kayu memiliki fasilitas yang sangat minim, hanya sebuah ada matras di deck kapal.", 
+        "line": 113, 
+        "range": [
+            5485, 
+            5577
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5485, 
+                    5491
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5522, 
+                    5527
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 114, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sesampainya di Kaledupa kami langsung menuju Pulau Hoga.", 
+        "line": 115, 
+        "range": [
+            5579, 
+            5634
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5603, 
+                    5608
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5626, 
+                    5634
+                ], 
+                "name": "Kaledupa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 116, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau ini mengingatkan saya pada Pulau Weh yang ada di Aceh.", 
+        "line": 117, 
+        "range": [
+            5636, 
+            5695
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5656, 
+                    5666
+                ], 
+                "name": "Pulau Hoga"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5669, 
+                    5674
+                ], 
+                "name": "Pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 118, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sayangnya cuaca mendung dan hujan pun turun, tapi walaupun hujan tetap tidak mengurungkan niat saya untuk merasakan snorkeling di Pulau Hoga.", 
+        "line": 119, 
+        "range": [
+            5697, 
+            5837
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5702, 
+                    5711
+                ], 
+                "name": "Pulau Weh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5724, 
+                    5728
+                ], 
+                "name": "Aceh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 120, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami langsung saja snorkeling di depan dermaga.", 
+        "line": 121, 
+        "range": [
+            5839, 
+            5885
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5861, 
+                    5871
+                ], 
+                "name": "Pulau Hoga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 122, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Visibility-nya kurang bagus karena hujan, namun saya masih bisa menikmati keindahan terumbu karang.", 
+        "line": 123, 
+        "range": [
+            5887, 
+            5985
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5913, 
+                    5920
+                ], 
+                "name": "dermaga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 124, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak ikan yang berenang, rasanya seperti berenang di akuarium yang besar.", 
+        "line": 125, 
+        "range": [
+            5987, 
+            6061
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 126, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertama kali saya melihat banyak sekali ikan yang berkeliaran.", 
+        "line": 127, 
+        "range": [
+            6063, 
+            6124
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6079, 
+                    6087
+                ], 
+                "name": "akuarium"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 128, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebagai seorang freediver, saya suka dengan wall atau tebing.", 
+        "line": 129, 
+        "range": [
+            6126, 
+            6186
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 130, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Pulau Hoga ada 22 spot diving yang bisa dicoba.", 
+        "line": 131, 
+        "range": [
+            6188, 
+            6237
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6219, 
+                    6225
+                ], 
+                "name": "tebing"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 132, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Bajo Sampela", 
+        "line": 133, 
+        "range": [
+            6239, 
+            6253
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 134, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami menyempatkan diri untuk berkunjung ke Desa Bajo Sampela yang terletak tidak jauh dari Pulau Kaledupa, Wakatobi.", 
+        "line": 135, 
+        "range": [
+            6255, 
+            6370
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6283, 
+                    6295
+                ], 
+                "name": "Bajo Sampela"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6340, 
+                    6357
+                ], 
+                "name": "Desa Bajo Sampela"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 136, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terlihat rumah-rumah kayu di atas air, rumah bagi penduduk asli Bajo.", 
+        "line": 137, 
+        "range": [
+            6372, 
+            6440
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6388, 
+                    6402
+                ], 
+                "name": "Pulau Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6404, 
+                    6412
+                ], 
+                "name": "Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 138, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Orang Bajo dikenal dengan cara hidup yang menyesuaikan dengan lingkungan perairan.", 
+        "line": 139, 
+        "range": [
+            6442, 
+            6523
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6479, 
+                    6483
+                ], 
+                "name": "Bajo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6492, 
+                    6496
+                ], 
+                "name": "Bajo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 140, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebagian besar dari mereka adalah nelayan yang menggunakan tombak untuk menangkap ikan.", 
+        "line": 141, 
+        "range": [
+            6525, 
+            6611
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6559, 
+                    6567
+                ], 
+                "name": "perairan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 142, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mereka bisa menyelam dan menahan nafas panjang karena sudah terbiasa hidup di laut.", 
+        "line": 143, 
+        "range": [
+            6613, 
+            6695
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 144, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bahkan beberapa orang Bajo sengaja memecahkan gendang telinga ketika masih muda agar lebih mudah menyelam dan juga berburu ikan di dalam laut.", 
+        "line": 145, 
+        "range": [
+            6697, 
+            6838
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6737, 
+                    6741
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6766, 
+                    6770
+                ], 
+                "name": "Bajo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 146, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Pulau Tomia", 
+        "line": 147, 
+        "range": [
+            6840, 
+            6853
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 148, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Puas bermain di Kaledupa, kami diantar ke Dermaga Ambeua.", 
+        "line": 149, 
+        "range": [
+            6855, 
+            6911
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6881, 
+                    6885
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6891, 
+                    6902
+                ], 
+                "name": "Pulau Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 150, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami harus mencari angkot lagi untuk menuju Dermaga Tau untuk mengejar kapal ke Pulau Tomia.", 
+        "line": 151, 
+        "range": [
+            6913, 
+            7004
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6920, 
+                    6928
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6946, 
+                    6960
+                ], 
+                "name": "Dermaga Ambeua"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6982, 
+                    6988
+                ], 
+                "name": "angkot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 152, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jarak antara Dermaga Ambeua ke Dermaga Tau sekitar 30 menit.", 
+        "line": 153, 
+        "range": [
+            7006, 
+            7065
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7007, 
+                    7018
+                ], 
+                "name": "Dermaga Tau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7034, 
+                    7039
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7043, 
+                    7054
+                ], 
+                "name": "Pulau Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 154, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya bisa naik ojek, tapi karena bertiga jadinya kami ke jalan besar dan ketemu pick up yang mau mengantarkan kami sampai ke Dermaga Tau.", 
+        "line": 155, 
+        "range": [
+            7067, 
+            7209
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7070, 
+                    7084
+                ], 
+                "name": "Dermaga Ambeua"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7088, 
+                    7099
+                ], 
+                "name": "Dermaga Tau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7140, 
+                    7144
+                ], 
+                "name": "ojek"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    7182, 
+                    7187
+                ], 
+                "name": "jalan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 156, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sampai di Dermaga Tau kami harus naik sampan kecil untuk pindah ke kapal dengan tujuan Tomia yang datang dari Wangi Wangi.", 
+        "line": 157, 
+        "range": [
+            7211, 
+            7332
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7250, 
+                    7261
+                ], 
+                "name": "Dermaga Tau"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7274, 
+                    7285
+                ], 
+                "name": "Dermaga Tau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7302, 
+                    7308
+                ], 
+                "name": "sampan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 158, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Satu kata untuk Pulau Tomia, WOW!", 
+        "line": 159, 
+        "range": [
+            7334, 
+            7366
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7351, 
+                    7356
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 160, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sejauh mata memandang isinya penuh terumbu karang semua.", 
+        "line": 161, 
+        "range": [
+            7368, 
+            7423
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7374, 
+                    7385
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7404, 
+                    7415
+                ], 
+                "name": "Pulau Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 162, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berbagai jenis terumbu karang dari soft coral sampai hard coral.", 
+        "line": 163, 
+        "range": [
+            7425, 
+            7488
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 164, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pilihan yang tepat untuk menghabiskan dua hari di Pulau Tomia. Cuacanya juga lagi bagus.", 
+        "line": 165, 
+        "range": [
+            7490, 
+            7577
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 166, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari pertama kami langsung coba discovery dive. Saya juga pertama kali coba diving.", 
+        "line": 167, 
+        "range": [
+            7579, 
+            7661
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7597, 
+                    7608
+                ], 
+                "name": "Pulau Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 168, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saking gugupnya sampai harus menyesuaikan diri selama 10 menit sebelum akhirnya turun ke bawah.", 
+        "line": 169, 
+        "range": [
+            7663, 
+            7757
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 170, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Spot favorit saya adalah Marimabuk, Fan Garden, Roma, Teluk Waitu, dan banyak lagi.", 
+        "line": 171, 
+        "range": [
+            7759, 
+            7841
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 172, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Visibility-nya perfect dan lagi-lagi saya suka snorkeling di bagian wall.", 
+        "line": 173, 
+        "range": [
+            7843, 
+            7915
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7844, 
+                    7853
+                ], 
+                "name": "Marimabuk"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7855, 
+                    7865
+                ], 
+                "name": "Fan Garden"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7867, 
+                    7871
+                ], 
+                "name": "Roma"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7873, 
+                    7884
+                ], 
+                "name": "Teluk Waitu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 174, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Langsung lihat foto-fotonya saja di bawah ini.", 
+        "line": 175, 
+        "range": [
+            7917, 
+            7962
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 176, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Tomia kami juga mengunjungi Puncak Kahianga dan Benteng Patuha.", 
+        "line": 177, 
+        "range": [
+            7964, 
+            8029
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7972, 
+                    7976
+                ], 
+                "name": "wall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 178, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemandangan dari atas Puncak Kahianga cukup bagus sedangkan di Benteng Patuha biasa saja menurut saya.", 
+        "line": 179, 
+        "range": [
+            8031, 
+            8132
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8058, 
+                    8073
+                ], 
+                "name": "Puncak Kahianga"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8078, 
+                    8092
+                ], 
+                "name": "Benteng Patuha"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8117, 
+                    8132
+                ], 
+                "name": "Puncak Kahianga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 180, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Wangi Wangi", 
+        "line": 181, 
+        "range": [
+            8134, 
+            8147
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 182, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tujuan terakhir kami adalah Pulau Wangi Wangi yang merupakan pusat dari Kepulauan Wakatobi.", 
+        "line": 183, 
+        "range": [
+            8149, 
+            8239
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8158, 
+                    8172
+                ], 
+                "name": "Benteng Patuha"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8202, 
+                    8213
+                ], 
+                "name": "Wangi Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 184, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami hanya ada waktu sehari saja karena malamnya harus naik kapal lagi kembali ke Baubau.", 
+        "line": 185, 
+        "range": [
+            8241, 
+            8329
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8243, 
+                    8260
+                ], 
+                "name": "Pulau Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8287, 
+                    8305
+                ], 
+                "name": "Kepulauan Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 186, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal dari Tomia membawa kami sampai ke Pelabuhan Mola dengan lama perjalanan sekitar 2.5jam.", 
+        "line": 187, 
+        "range": [
+            8331, 
+            8423
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8368, 
+                    8373
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8390, 
+                    8396
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8399, 
+                    8404
+                ], 
+                "name": "Kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8410, 
+                    8415
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 188, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami langsung mencari angkot untuk menuju ke Pantai Waha.", 
+        "line": 189, 
+        "range": [
+            8425, 
+            8481
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8439, 
+                    8453
+                ], 
+                "name": "Pelabuhan Mola"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 190, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya tidak memiliki ekspektasi banyak terhadap Wangi Wangi.", 
+        "line": 191, 
+        "range": [
+            8483, 
+            8541
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8516, 
+                    8522
+                ], 
+                "name": "angkot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 192, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari berbagai sumber yang saya baca, spot paling oke itu adanya di Pulau Hoga dan Tomia.", 
+        "line": 193, 
+        "range": [
+            8543, 
+            8630
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8600, 
+                    8611
+                ], 
+                "name": "Wangi Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 194, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak banyak yang menyebutkan tentang Wangi Wangi.", 
+        "line": 195, 
+        "range": [
+            8632, 
+            8681
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 196, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pas masuk ke air, jujur saya sangat kecewa karena tidak bagus sama sekali.", 
+        "line": 197, 
+        "range": [
+            8683, 
+            8756
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8696, 
+                    8701
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8742, 
+                    8753
+                ], 
+                "name": "Wangi Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 198, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi setelah semakin jauh berenang, akhirnya ketemu dengan wall.", 
+        "line": 199, 
+        "range": [
+            8758, 
+            8821
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 200, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Percaya atau tidak, terumbu karangnya cakep banget!", 
+        "line": 201, 
+        "range": [
+            8823, 
+            8873
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 202, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa dibilang spot ini merupakan spot favorit saya, lebih dari Hoga maupun Tomia.", 
+        "line": 203, 
+        "range": [
+            8875, 
+            8955
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8891, 
+                    8895
+                ], 
+                "name": "wall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 204, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wall-nya dalam dan penuh dengan terumbu karang, tidak kelihatan ujungnya.", 
+        "line": 205, 
+        "range": [
+            8957, 
+            9029
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9014, 
+                    9018
+                ], 
+                "name": "Hoga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 206, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mungkin ada ribuan ikan yang berenang di sini.", 
+        "line": 207, 
+        "range": [
+            9031, 
+            9076
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9034, 
+                    9038
+                ], 
+                "name": "Wall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 208, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya tidak akan lupa freediving menuruni wall sampai 10 meter dan berfoto bersama seafan, sponges, pengalaman paling berkesan deh!", 
+        "line": 209, 
+        "range": [
+            9078, 
+            9207
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9198, 
+                    9202
+                ], 
+                "name": "wall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 210, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terlihat juga ular laut yang berkeliaran di perairan Wakatobi.", 
+        "line": 211, 
+        "range": [
+            9209, 
+            9270
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 212, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ular laut ini sangat beracun tapi kalau tidak diganggu mereka tidak akan ganggu kamu juga.", 
+        "line": 213, 
+        "range": [
+            9272, 
+            9361
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9308, 
+                    9312
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9333, 
+                    9341
+                ], 
+                "name": "perairan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9342, 
+                    9350
+                ], 
+                "name": "Wakatobi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9358, 
+                    9362
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 214, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami snorkeling sampai sore kemudian kembali ke Pelabuhan Wanci.", 
+        "line": 215, 
+        "range": [
+            9363, 
+            9426
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 216, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di dekat pelabuhan ada sebuah pasar malam yang menjual makanan lokal dan juga buah-buahan.", 
+        "line": 217, 
+        "range": [
+            9428, 
+            9517
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9493, 
+                    9508
+                ], 
+                "name": "Pelabuhan Wanci"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 218, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itinerary liburan ke Pulau Wakatobi", 
+        "line": 219, 
+        "range": [
+            9519, 
+            9553
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9520, 
+                    9529
+                ], 
+                "name": "pelabuhan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9541, 
+                    9552
+                ], 
+                "name": "pasar malam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 220, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya akan membagikan itinerary liburan ke Wakatobi dengan total perjalanan selama tujuh hari.", 
+        "line": 221, 
+        "range": [
+            9555, 
+            9647
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9624, 
+                    9638
+                ], 
+                "name": "Pulau Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 222, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengennya sih lebih lama, sayangnya saya tidak punya waktu yang banyak.", 
+        "line": 223, 
+        "range": [
+            9649, 
+            9719
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9682, 
+                    9690
+                ], 
+                "name": "Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 224, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Silahkan baca itinerary di bawah ini sebagai contoh atau panduan untuk berwisata ke Pulau Wakatobi atau bisa scroll ke bawah untuk informasi masing-masing pulau.", 
+        "line": 225, 
+        "range": [
+            9721, 
+            9881
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 226, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari-1: Makassar \u2013 Baubau", 
+        "line": 227, 
+        "range": [
+            9883, 
+            9909
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9892, 
+                    9906
+                ], 
+                "name": "Pulau Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 228, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perjalanan saya dimulai dari Makassar menggunakan PELNI KM. Lambelu.", 
+        "line": 229, 
+        "range": [
+            9911, 
+            9978
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 230, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadwal keberangkatan harusnya jam 1 pagi tapi karena kapalnya datang terlambat jadinya berangkat jam 11 pagi.", 
+        "line": 231, 
+        "range": [
+            9980, 
+            10088
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9990, 
+                    9996
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10027, 
+                    10035
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    10048, 
+                    10065
+                ], 
+                "name": "PELNI KM. Lambelu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 232, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sampai di Baubau 14 jam setelahnya, tepatnya jam 2 malam.", 
+        "line": 233, 
+        "range": [
+            10090, 
+            10146
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    10121, 
+                    10129
+                ], 
+                "name": "kapalnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 234, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya dan kedua teman saya bermalam di sebuah kapal kayu yang sedang tidak beroperasi di pelabuhan.", 
+        "line": 235, 
+        "range": [
+            10148, 
+            10245
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10189, 
+                    10195
+                ], 
+                "name": "Baubau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 236, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengeluaran: PELNI ke Baubau (Rp 145,000/orang)", 
+        "line": 237, 
+        "range": [
+            10247, 
+            10293
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    10283, 
+                    10288
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 238, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari-2: Eksplor Baubau", 
+        "line": 239, 
+        "range": [
+            10295, 
+            10316
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 240, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dengan bantuan awak kapal kami dapat angkot sewaan bersama supir dan menjelajahi Baubau.", 
+        "line": 241, 
+        "range": [
+            10318, 
+            10405
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10326, 
+                    10335
+                ], 
+                "name": "pelabuhan"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    10351, 
+                    10356
+                ], 
+                "name": "PELNI"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10360, 
+                    10366
+                ], 
+                "name": "Baubau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 242, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mulai dari Pantai Nirwana, Gua Lakasa, benteng, dan juga air terjun Tirta Rimba.", 
+        "line": 243, 
+        "range": [
+            10407, 
+            10486
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    10448, 
+                    10454
+                ], 
+                "name": "angkot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 244, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari jam 9 pagi kami mulai keliling selesainya sekitar jam 1 siang.", 
+        "line": 245, 
+        "range": [
+            10488, 
+            10554
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10492, 
+                    10498
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10512, 
+                    10526
+                ], 
+                "name": "Pantai Nirwana"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10528, 
+                    10538
+                ], 
+                "name": "Gua Lakasa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10540, 
+                    10547
+                ], 
+                "name": "benteng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 246, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bersantai di KFC dekat Pantai Kamali sambil menunggu kapal ke Kaledupa yang berangkat jam 9 malam.", 
+        "line": 247, 
+        "range": [
+            10556, 
+            10653
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10558, 
+                    10580
+                ], 
+                "name": "air terjun Tirta Rimba"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 248, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengeluaran: Sewa angkot (Rp 180,000), tiket masuk Pantai Nirwana (Rp 5,000/orang), tiket kapal ke Kaledupa (Rp 55,000/orang).", 
+        "line": 249, 
+        "range": [
+            10655, 
+            10780
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    10665, 
+                    10668
+                ], 
+                "name": "KFC"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10675, 
+                    10688
+                ], 
+                "name": "Pantai Kamali"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    10705, 
+                    10710
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10714, 
+                    10722
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    10770, 
+                    10776
+                ], 
+                "name": "angkot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 250, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari-3: Kaledupa \u2013 Pulau Hoga", 
+        "line": 251, 
+        "range": [
+            10782, 
+            10812
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 252, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 11 pagi sampai di Kaledupa, kemudian naik kapal kecil ke Pulau Hoga sekitar 30 menit karena airnya surut.", 
+        "line": 253, 
+        "range": [
+            10814, 
+            10922
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    10842, 
+                    10847
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10851, 
+                    10859
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10888, 
+                    10896
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10899, 
+                    10909
+                ], 
+                "name": "Pulau Hoga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 254, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Check in ke penginapan dan snorkeling seharian di dekat dermaga Pulau Hoga.", 
+        "line": 255, 
+        "range": [
+            10924, 
+            10998
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10933, 
+                    10941
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    10957, 
+                    10962
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10972, 
+                    10982
+                ], 
+                "name": "Pulau Hoga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 256, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengeluaran: Kapal Kaledupa \u2013 Pulau Hoga (Rp 50,000), penginapan + makan malam di Pulau Hoga (Rp 200,000).", 
+        "line": 257, 
+        "range": [
+            11000, 
+            11107
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    11034, 
+                    11044
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    11078, 
+                    11085
+                ], 
+                "name": "dermaga"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11086, 
+                    11096
+                ], 
+                "name": "Pulau Hoga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 258, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari-4: Kaledupa \u2013 Tomia", 
+        "line": 259, 
+        "range": [
+            11109, 
+            11134
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11112, 
+                    11117
+                ], 
+                "name": "Kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11118, 
+                    11126
+                ], 
+                "name": "Kaledupa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 260, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kembali ke Kaledupa, dapat pickup yang mau antar sampai ke Pelabuhan Taw sekitar 20 menit berkendara dan sampai di Pelabuhan Taw jam 10 pagi.", 
+        "line": 261, 
+        "range": [
+            11136, 
+            11276
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    11153, 
+                    11163
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11181, 
+                    11191
+                ], 
+                "name": "Pulau Hoga"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11215, 
+                    11223
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11226, 
+                    11231
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11244, 
+                    11252
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11260, 
+                    11266
+                ], 
+                "name": "pickup"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 262, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal ke Tomia datang jam 12.30 siang, harus naik kapal kecil lagi untuk naik kapal ke Tomia.", 
+        "line": 263, 
+        "range": [
+            11278, 
+            11370
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    11292, 
+                    11305
+                ], 
+                "name": "Pelabuhan Taw"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    11348, 
+                    11361
+                ], 
+                "name": "Pelabuhan Taw"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 264, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 2.30 siang sampai di Tomia, ketemu dengan Pak Agus, makan siang, dan mencoba discovery dive sampai jam 6 sore.", 
+        "line": 265, 
+        "range": [
+            11372, 
+            11485
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11376, 
+                    11381
+                ], 
+                "name": "Kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11385, 
+                    11390
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11426, 
+                    11431
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11454, 
+                    11459
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11463, 
+                    11468
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 266, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengeluaran: Kapal Pulau Hoga \u2013 Kaledupa (Rp 50,000), pickup sampai Pelabuhan Taw (Rp 35,000), kapal kecil untuk naik kapal ke Tomia (Rp 10,000/orang), kapal Kaledupa \u2013 Tomia (Rp 50,000/orang), discovery dive (Rp 400,000/orang).", 
+        "line": 267, 
+        "range": [
+            11487, 
+            11718
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11496, 
+                    11501
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11600, 
+                    11605
+                ], 
+                "name": "Kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11606, 
+                    11616
+                ], 
+                "name": "Pulau Hoga"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11619, 
+                    11627
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11641, 
+                    11647
+                ], 
+                "name": "pickup"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    11655, 
+                    11668
+                ], 
+                "name": "Pelabuhan Taw"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11682, 
+                    11687
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11705, 
+                    11710
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11714, 
+                    11719
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 268, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari-5: Eksplor Tomia", 
+        "line": 269, 
+        "range": [
+            11720, 
+            11740
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 270, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Eksplor Tomia dari Pantai Huntete, Puncak Kahianga, Benteng Patuha sampai tengah hari terus lanjut snorkeling sampai matahari tenggelam.", 
+        "line": 271, 
+        "range": [
+            11742, 
+            11877
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11745, 
+                    11753
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11756, 
+                    11761
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11833, 
+                    11838
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11848, 
+                    11853
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11859, 
+                    11873
+                ], 
+                "name": "Pantai Huntete"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 272, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengeluaran: Sewa mobil dan supir untuk jelajah Tomia (Rp 150,000), sewa kapal untuk hopping island (Rp 300,000), homestay di Tomia (Rp 150,000 untuk 2 malam).", 
+        "line": 273, 
+        "range": [
+            11879, 
+            12037
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    11892, 
+                    11906
+                ], 
+                "name": "Benteng Patuha"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11996, 
+                    12001
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12026, 
+                    12031
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 274, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari-6: Tomia \u2013 Wangi Wangi \u2013 Baubau", 
+        "line": 275, 
+        "range": [
+            12039, 
+            12078
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12051, 
+                    12056
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12063, 
+                    12077
+                ], 
+                "name": "hopping island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 276, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 9 pagi naik kapal dari Tomia dan sampai di Wangi Wangi jam 1.30 siang. Kemudian naik angkot sampai Pantai Waha dan snorkeling sampai jam 5 sore.", 
+        "line": 277, 
+        "range": [
+            12080, 
+            12227
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    12092, 
+                    12100
+                ], 
+                "name": "homestay"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12104, 
+                    12109
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12147, 
+                    12152
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12155, 
+                    12166
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12169, 
+                    12175
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12193, 
+                    12198
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12204, 
+                    12209
+                ], 
+                "name": "Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 278, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kembali ke pelabuhan dengan angkot dan naik kapal dari Wangi Wangi ke Bau Bau jam 9 malam.", 
+        "line": 279, 
+        "range": [
+            12229, 
+            12318
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12266, 
+                    12272
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12280, 
+                    12291
+                ], 
+                "name": "Pantai Waha"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 280, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengeluaran: Tomia \u2013 Wangi Wangi (Rp 100,000/orang), angkot ke Pantai Waha (Rp 5,000/orang), sewa angkot ke Pelabuhan Wanci (Rp 25,000). Kapal Wangi-Wangi \u2013 Baubau (Rp 105,000/orang).", 
+        "line": 281, 
+        "range": [
+            12320, 
+            12506
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    12338, 
+                    12347
+                ], 
+                "name": "pelabuhan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12355, 
+                    12361
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12371, 
+                    12376
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12382, 
+                    12393
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12397, 
+                    12404
+                ], 
+                "name": "Bau Bau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12432, 
+                    12437
+                ], 
+                "name": "Tomia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12440, 
+                    12451
+                ], 
+                "name": "Wangi Wangi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12472, 
+                    12478
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12482, 
+                    12493
+                ], 
+                "name": "Pantai Waha"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 282, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari-7: Kembali ke Makassar", 
+        "line": 283, 
+        "range": [
+            12508, 
+            12534
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12517, 
+                    12523
+                ], 
+                "name": "angkot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 284, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiba di Baubau jam 6 pagi dan menunggu kapal PELNI yang berangkat jam 8 pagi. Sampai jumpa Baubau, tiba di Makassar jam 10 malam.", 
+        "line": 285, 
+        "range": [
+            12536, 
+            12664
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12556, 
+                    12561
+                ], 
+                "name": "Kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12562, 
+                    12573
+                ], 
+                "name": "Wangi-Wangi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12576, 
+                    12582
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12623, 
+                    12631
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12641, 
+                    12647
+                ], 
+                "name": "Baubau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 286, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengeluaran: PELNI Baubau \u2013 Makassar (Rp 150,000).", 
+        "line": 287, 
+        "range": [
+            12666, 
+            12717
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    12672, 
+                    12683
+                ], 
+                "name": "kapal PELNI"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 288, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, begitulah itinerary saya. Karena bertiga jadi beberapa biaya bisa dibagi.", 
+        "line": 289, 
+        "range": [
+            12719, 
+            12796
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12724, 
+                    12730
+                ], 
+                "name": "Baubau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12740, 
+                    12748
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    12777, 
+                    12782
+                ], 
+                "name": "PELNI"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12783, 
+                    12789
+                ], 
+                "name": "Baubau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 290, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya menghabiskan sekitar 1.5juta untuk semuanya termasuk makan, snorkeling, dan biaya pribadi lain.", 
+        "line": 291, 
+        "range": [
+            12798, 
+            12897
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 292, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak perlu mengeluarkan uang yang banyak kok untuk jalan-jalan ke Pulau Wakatobi. Lumayan gampang juga kalau mau solo travel karena ada kapal umum.", 
+        "line": 293, 
+        "range": [
+            12899, 
+            13046
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 294, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips liburan ke Pulau Wakatobi", 
+        "line": 295, 
+        "range": [
+            13048, 
+            13077
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 296, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya rangkum ya beberapa tips lengkap dengan rekomendasi penginapan, kira-kira berapa pengeluaran biayanya:", 
+        "line": 297, 
+        "range": [
+            13079, 
+            13185
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    13135, 
+                    13140
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13164, 
+                    13178
+                ], 
+                "name": "Pulau Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 298, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selalu bertanya untuk jadwal keberangkatan kapal karena terkadang bisa berubah.", 
+        "line": 299, 
+        "range": [
+            13187, 
+            13265
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    13237, 
+                    13247
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "Sediakan waktu dan energi yang cukup, perjalanan ke Pulau Wakatobi memang melelahkan tapi akan terbayar dengan keindahannya.", 
+        "line": 300, 
+        "range": [
+            13266, 
+            13389
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    13332, 
+                    13337
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "Hindari berkunjung ke Pulau Hoga di bulan Juni \u2013 Agustus karena pulau ini didatangi pelajar dari Eropa untuk melakukan riset.", 
+        "line": 301, 
+        "range": [
+            13390, 
+            13516
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13421, 
+                    13435
+                ], 
+                "name": "Pulau Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "Ada sekitar 200 bungalow di Pulau Hoga yang disewakan sebagai penginapan. Harganya Rp 50,000/malam. Untuk makanan harus bayar Rp 40,000 sekali makan. Hidangannya sangat memuaskan, ada ikan, kepiting, sayur, atau hidangan laut lainnya.", 
+        "line": 302, 
+        "range": [
+            13517, 
+            13750
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    13558, 
+                    13563
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13591, 
+                    13596
+                ], 
+                "name": "Eropa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    13636, 
+                    13644
+                ], 
+                "name": "bungalow"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13648, 
+                    13658
+                ], 
+                "name": "Pulau Hoga"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    13682, 
+                    13692
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "Bisa menghubungi Pak Jufry (085395303993), koordinator Pulau Hoga. Pak Jufry bisa mengurus kapal dari Kaledupa \u2013 Pulau Hoga, makan, diving, dan lainnya.", 
+        "line": 303, 
+        "range": [
+            13751, 
+            13904
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    13841, 
+                    13845
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "Harga diving di Pulau Wakatobi; Rp 350,000/dive (license) dan Rp 450,000/dive (non-license).", 
+        "line": 304, 
+        "range": [
+            13905, 
+            13996
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13910, 
+                    13920
+                ], 
+                "name": "Pulau Hoga"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    13946, 
+                    13951
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13957, 
+                    13965
+                ], 
+                "name": "Kaledupa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13968, 
+                    13978
+                ], 
+                "name": "Pulau Hoga"
+            }
+        ]
+    }, 
+    {
+        "text": "Di Pulau Tomia bisa mengubungi Pak Ade (081234767854 / 085341300675).", 
+        "line": 305, 
+        "range": [
+            13997, 
+            14065
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14024, 
+                    14038
+                ], 
+                "name": "Pulau Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "Di Pantai Waha bisa menghubungi Pak Sudirman (085241857674).", 
+        "line": 306, 
+        "range": [
+            14066, 
+            14125
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14104, 
+                    14115
+                ], 
+                "name": "Pulau Tomia"
+            }
+        ]
+    }, 
+    {
+        "text": "Harga paket snorkeling di Pantai Waha Rp 50,000/orang/90 menit dengan minimum 4 orang. Harga termasuk guide dan snorkeling set.", 
+        "line": 307, 
+        "range": [
+            14126, 
+            14252
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14174, 
+                    14185
+                ], 
+                "name": "Pantai Waha"
+            }
+        ]
+    }, 
+    {
+        "text": "Klik disini untuk penginapan di dekat Pantai Waha", 
+        "line": 308, 
+        "range": [
+            14253, 
+            14301
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14258, 
+                    14269
+                ], 
+                "name": "Pantai Waha"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 309, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itulah pengalaman saya liburan atau wisata ke Pulau Wakatobi, mulai dari cara ke sana nya, biaya pengeluaran, semoga informasinya bisa bermanfaat.", 
+        "line": 310, 
+        "range": [
+            14303, 
+            14448
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    14378, 
+                    14388
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14398, 
+                    14409
+                ], 
+                "name": "Pantai Waha"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 311, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau ada yang mau ditanyakan bisa langsung saja di kolom komentar ya.", 
+        "line": 312, 
+        "range": [
+            14450, 
+            14519
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14457, 
+                    14471
+                ], 
+                "name": "Pulau Wakatobi"
+            }
+        ]
+    }
+]

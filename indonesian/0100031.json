@@ -1,0 +1,2238 @@
+[
+    {
+        "text": "June 16, 2022   Tips Traveling Hemat Ala Backpacker Ke Pantai Ora", 
+        "line": 0, 
+        "range": [
+            1, 
+            65
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    55, 
+                    65
+                ], 
+                "name": "Pantai Ora"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai Ora, sebuah surga tersembunyi di Maluku Tengah. Pantai Ora terletak di Pulau Seram, tepatnya di ujung Barat Teluk Sawai di Desa Saleman dan Desa Sawai.", 
+        "line": 2, 
+        "range": [
+            67, 
+            224
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    67, 
+                    77
+                ], 
+                "name": "Pantai Ora"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    107, 
+                    120
+                ], 
+                "name": "Maluku Tengah"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    122, 
+                    132
+                ], 
+                "name": "Pantai Ora"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    145, 
+                    156
+                ], 
+                "name": "Pulau Seram"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    182, 
+                    193
+                ], 
+                "name": "Teluk Sawai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    197, 
+                    209
+                ], 
+                "name": "Desa Saleman"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    214, 
+                    224
+                ], 
+                "name": "Desa Sawai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk menuju wisata Pantai Ora tidaklah gampang.", 
+        "line": 4, 
+        "range": [
+            226, 
+            273
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    247, 
+                    257
+                ], 
+                "name": "Pantai Ora"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Aksesnya cukup sulit sehingga tidaklah murah untuk traveling ke Pantai Ora.", 
+        "line": 6, 
+        "range": [
+            275, 
+            349
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Maka dari itu, saya akan berbagi beberapa tips traveling hemat ala backpacker ke Pantai Ora yang berdasarkan pengalaman pribadi saya.", 
+        "line": 8, 
+        "range": [
+            351, 
+            483
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    435, 
+                    445
+                ], 
+                "name": "Pantai Ora"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pastinya sudah pernah kan ya melihat foto-foto yang telah beredar di internet.", 
+        "line": 10, 
+        "range": [
+            485, 
+            562
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu mungkin tidak menyangka kalau di Indonesia ada pulau atau pantai seindah ini.", 
+        "line": 12, 
+        "range": [
+            564, 
+            645
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    607, 
+                    616
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    621, 
+                    626
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    632, 
+                    638
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemandangan garis pantai dengan eco-resort di atas air laut dan dikelilingi dengan bukit karst raksasa.", 
+        "line": 14, 
+        "range": [
+            647, 
+            749
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    671, 
+                    677
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    685, 
+                    695
+                ], 
+                "name": "eco-resort"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    708, 
+                    712
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    736, 
+                    741
+                ], 
+                "name": "bukit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Apalagi terumbu karang di area depan resort yang masih terjaga. Jika air laut sedang surut, terumbu karang berwarna-warni kelihatan.", 
+        "line": 16, 
+        "range": [
+            751, 
+            882
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    795, 
+                    801
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    831, 
+                    835
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara Menuju ke Pantai Ora", 
+        "line": 18, 
+        "range": [
+            884, 
+            908
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk menuju ke wisata Pantai Ora kamu bisa menggunakan beberapa cara berikut:", 
+        "line": 20, 
+        "range": [
+            910, 
+            987
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    942, 
+                    952
+                ], 
+                "name": "Pantai Ora"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Penerbangan ke Ambon", 
+        "line": 22, 
+        "range": [
+            989, 
+            1011
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari kota asal kamu, ambil penerbangan menuju kota Ambon.", 
+        "line": 24, 
+        "range": [
+            1013, 
+            1069
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1017, 
+                    1022
+                ], 
+                "name": "Ambon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa kota besar seperti Jakarta, Surabaya, dan Makassar memiliki penerbangan langsung ke Ambon dengan menggunakan maskapai domestik seperti Garuda Indonesia, Batik Air, Sriwijaya Air, dll.", 
+        "line": 26, 
+        "range": [
+            1071, 
+            1262
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1111, 
+                    1118
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1120, 
+                    1128
+                ], 
+                "name": "Surabaya"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1134, 
+                    1142
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1176, 
+                    1181
+                ], 
+                "name": "Ambon"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1227, 
+                    1243
+                ], 
+                "name": "Garuda Indonesia"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1245, 
+                    1254
+                ], 
+                "name": "Batik Air"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Pelabuhan Tulehu \u2013 Pelabuhan Amahai (Masohi)", 
+        "line": 28, 
+        "range": [
+            1264, 
+            1312
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1280, 
+                    1296
+                ], 
+                "name": "Pelabuhan Tulehu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari bandara kamu bisa naik taksi ke Pelabuhan Tulehu (Rp 150,000).", 
+        "line": 30, 
+        "range": [
+            1314, 
+            1380
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1317, 
+                    1323
+                ], 
+                "name": "Masohi"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1331, 
+                    1338
+                ], 
+                "name": "bandara"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1354, 
+                    1359
+                ], 
+                "name": "taksi"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1363, 
+                    1379
+                ], 
+                "name": "Pelabuhan Tulehu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari pusat kota, bisa juga naik angkot tujuan Waii atau Tulehu (Rp 10,000) untuk melanjutkan perjalanan dengan kapal cepat ke Pelabuhan Amahai.", 
+        "line": 32, 
+        "range": [
+            1382, 
+            1524
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1406, 
+                    1410
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1427, 
+                    1433
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1441, 
+                    1445
+                ], 
+                "name": "Waii"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1451, 
+                    1457
+                ], 
+                "name": "Tulehu"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1506, 
+                    1517
+                ], 
+                "name": "kapal cepat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada dua jadwal keberangkatan yaitu jam 9 pagi dan 4 sore.", 
+        "line": 34, 
+        "range": [
+            1526, 
+            1582
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lama perjalanan menggunakan kapal kurang lebih sekitar 2 jam. Harga tiketnya adalah Rp 125,000.", 
+        "line": 36, 
+        "range": [
+            1584, 
+            1678
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1627, 
+                    1632
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Masohi \u2013 Sawai atau Saleman \u2013 Pantai Ora", 
+        "line": 38, 
+        "range": [
+            1680, 
+            1726
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1699, 
+                    1705
+                ], 
+                "name": "Masohi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1708, 
+                    1713
+                ], 
+                "name": "Sawai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1719, 
+                    1726
+                ], 
+                "name": "Saleman"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Belum ada transportasi dengan jadwal keberangkatan khusus untuk menuju Sawai.", 
+        "line": 40, 
+        "range": [
+            1728, 
+            1804
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1729, 
+                    1739
+                ], 
+                "name": "Pantai Ora"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pilihannya bisa charter mobil (Rp 800,000 sekali jalan).", 
+        "line": 42, 
+        "range": [
+            1806, 
+            1861
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1812, 
+                    1817
+                ], 
+                "name": "Sawai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1844, 
+                    1849
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pilihan lainnya adalah naik angkot (Rp 15,000) atau ojek (Rp 25,000) ke stasiun Binaiya.", 
+        "line": 44, 
+        "range": [
+            1863, 
+            1950
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1906, 
+                    1912
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1930, 
+                    1934
+                ], 
+                "name": "ojek"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu bisa tanya-tanya apakah ada mobil ke Saleman atau ke Sawai.", 
+        "line": 46, 
+        "range": [
+            1952, 
+            2015
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2001, 
+                    2006
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk langsung ke Pantai Ora, ambil mobil langsung ke Saleman (Rp 75,000 \u2013 Rp 100,000) dengan lama perjalanan kurang lebih 2,5 jam.", 
+        "line": 48, 
+        "range": [
+            2017, 
+            2149
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2026, 
+                    2031
+                ], 
+                "name": "Sawai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2052, 
+                    2062
+                ], 
+                "name": "Pantai Ora"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2070, 
+                    2075
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2088, 
+                    2095
+                ], 
+                "name": "Saleman"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Saleman tinggal naik kapal nelayan (Rp 50,000/orang) kurang lebih 10 menit. Kalau naik speed boat Rp 250,000/kapal untuk satu arah ke Pantai Ora.", 
+        "line": 50, 
+        "range": [
+            2151, 
+            2300
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2172, 
+                    2179
+                ], 
+                "name": "Saleman"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2193, 
+                    2198
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2259, 
+                    2269
+                ], 
+                "name": "speed boat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2281, 
+                    2286
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu mau ke Sawai dulu bisa naik mobil (Rp 100,000) dengan lama perjalanan 3,5 jam.", 
+        "line": 52, 
+        "range": [
+            2302, 
+            2390
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2306, 
+                    2316
+                ], 
+                "name": "Pantai Ora"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2337, 
+                    2342
+                ], 
+                "name": "Sawai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2358, 
+                    2363
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Sawai ke Pantai Orang bisa menggunakan kapal nelayan (Rp 50,000 \u2013 Rp 100,000).", 
+        "line": 54, 
+        "range": [
+            2392, 
+            2476
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2415, 
+                    2420
+                ], 
+                "name": "Sawai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2424, 
+                    2434
+                ], 
+                "name": "Pantai Ora"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2454, 
+                    2459
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya pribadi waktu itu pergi ke Amahai terlebih dahulu dan menginap semalam sebelum keesokan harinya naik mobil ke Sawai.", 
+        "line": 56, 
+        "range": [
+            2478, 
+            2598
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2527, 
+                    2533
+                ], 
+                "name": "Amahai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Supirnya menunggu sampai mobil penuh baru berangkat. Mobil umum saya berangkat jam 12 siang dan sampai di Sawai jam 4 sore.", 
+        "line": 58, 
+        "range": [
+            2600, 
+            2722
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2601, 
+                    2606
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2610, 
+                    2615
+                ], 
+                "name": "Sawai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2643, 
+                    2648
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2671, 
+                    2681
+                ], 
+                "name": "Mobil umum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sepanjang jalan saya bisa melihat kawasan hutan dengan pepohonan yang rindang.", 
+        "line": 60, 
+        "range": [
+            2724, 
+            2801
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2724, 
+                    2729
+                ], 
+                "name": "Sawai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2785, 
+                    2790
+                ], 
+                "name": "hutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rasanya senang karena masih banyak hutan yang terlindungi di Taman Nasional yang bernama Taman Nasional Manusela.", 
+        "line": 62, 
+        "range": [
+            2803, 
+            2915
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2858, 
+                    2863
+                ], 
+                "name": "hutan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2884, 
+                    2898
+                ], 
+                "name": "Taman Nasional"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rekomendasi Penginapan di Pantai Ora", 
+        "line": 64, 
+        "range": [
+            2917, 
+            2952
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa rekomendasi penginapan di Pantai Ora diantaranya adalah:", 
+        "line": 66, 
+        "range": [
+            2954, 
+            3018
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2964, 
+                    2974
+                ], 
+                "name": "Pantai Ora"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2997, 
+                    3007
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Menginap di Lisar Bahari", 
+        "line": 68, 
+        "range": [
+            3020, 
+            3046
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena tujuan saya adalah backpackeran ke Pantai Ora, saya memilih menginap di Sawai semalam karena lebih murah.", 
+        "line": 70, 
+        "range": [
+            3048, 
+            3159
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3058, 
+                    3070
+                ], 
+                "name": "Lisar Bahari"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3114, 
+                    3124
+                ], 
+                "name": "Pantai Ora"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3151, 
+                    3156
+                ], 
+                "name": "Sawai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya menginap di Lisar Bahari punyanya Pak Ali.", 
+        "line": 72, 
+        "range": [
+            3161, 
+            3207
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penginapan berupa cottage di atas air cukup sederhana terbuat dari kayu. Saya coba snorkeling di depan penginapan.", 
+        "line": 74, 
+        "range": [
+            3209, 
+            3322
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3253, 
+                    3260
+                ], 
+                "name": "cottage"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terumbu karangnya lumayan bagus hanya saja visibility nya kurang jelas saat itu.", 
+        "line": 76, 
+        "range": [
+            3324, 
+            3403
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk menginap di Lisar Bahari bisa menghubungi Pak Ali: 62 821-1181-137 atau melalui Airbnb.", 
+        "line": 78, 
+        "range": [
+            3405, 
+            3497
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3451, 
+                    3463
+                ], 
+                "name": "Lisar Bahari"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kelebihan menginap di Lisar Bahari: ", 
+        "line": 80, 
+        "range": [
+            3499, 
+            3534
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Harganya lebih murah. Kamar + 3x makan: Rp 300,000/orang", 
+        "line": 81, 
+        "range": [
+            3535, 
+            3590
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3550, 
+                    3562
+                ], 
+                "name": "Lisar Bahari"
+            }
+        ]
+    }, 
+    {
+        "text": "Makanannya enak dan porsinya besar", 
+        "line": 82, 
+        "range": [
+            3591, 
+            3624
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Lokasinya di area perkampungan jadi bisa main dengan penduduk lokal, anak kecil, dan juga trekking", 
+        "line": 83, 
+        "range": [
+            3625, 
+            3722
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3675, 
+                    3687
+                ], 
+                "name": "perkampungan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kekurang menginap di Lisar Bahari:", 
+        "line": 85, 
+        "range": [
+            3724, 
+            3757
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Terumbu karangnya kurang bagus", 
+        "line": 86, 
+        "range": [
+            3758, 
+            3787
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman yang kurang enak. Terjadi mis-komunikasi dengan Pak Ali pemilik penginapan mengenai harga. Awalnya saya mau ambil harga per kamar saja. Saya pikir harganya per kamar ternyata per orang. Alasannya karena saya ambil kamar yang lebih mahal dan termasuk makanan. Jadi next, pastikan harganya apakah per orang atau per kamar.", 
+        "line": 87, 
+        "range": [
+            3788, 
+            4118
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 88, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Menginap di Ora Beach Resort", 
+        "line": 89, 
+        "range": [
+            4120, 
+            4150
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 90, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari kedua saya pindah ke Ora Beach Resort dengan kapal nelayan sekitar 20 menit dari Sawai. Terlihat betapa indahnya bukit yang diselimuti hijaunya pepohonan.", 
+        "line": 91, 
+        "range": [
+            4152, 
+            4310
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4171, 
+                    4187
+                ], 
+                "name": "Ora Beach Resort"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4215, 
+                    4231
+                ], 
+                "name": "Ora Beach Resort"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4239, 
+                    4244
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4275, 
+                    4280
+                ], 
+                "name": "Sawai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 92, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertama sampai di Ora Beach, saya terkagum-kagum dengan beningnya permukaan air laut sehingga terumbu karangnya kelihatan dengan jelas.", 
+        "line": 93, 
+        "range": [
+            4312, 
+            4446
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4368, 
+                    4377
+                ], 
+                "name": "Ora Beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4430, 
+                    4434
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 94, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu laut terbening yang pernah saya lihat.", 
+        "line": 95, 
+        "range": [
+            4448, 
+            4496
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 96, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya tidak tahan lagi untuk snorkeling.", 
+        "line": 97, 
+        "range": [
+            4498, 
+            4536
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4498, 
+                    4502
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 98, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terumbu karangnya sehat, visibilitynya bagus, jauh lebih bagus dari Sawai.", 
+        "line": 99, 
+        "range": [
+            4538, 
+            4611
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 100, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak ikan-ikan kecil berenang. Terumbu karangnya didominasi dengan hard coral, ada sedikit soft coral juga.", 
+        "line": 101, 
+        "range": [
+            4613, 
+            4721
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4647, 
+                    4652
+                ], 
+                "name": "Sawai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 102, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kelebihan menginap di Ora Beach Resort:", 
+        "line": 103, 
+        "range": [
+            4723, 
+            4761
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Area resort yang tenang, bagus, dan dikelilingi dengan pemandangan luar biasa.", 
+        "line": 104, 
+        "range": [
+            4762, 
+            4839
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4788, 
+                    4804
+                ], 
+                "name": "Ora Beach Resort"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4811, 
+                    4817
+                ], 
+                "name": "resort"
+            }
+        ]
+    }, 
+    {
+        "text": "Terumbu karang yang terjaga dengan baik", 
+        "line": 105, 
+        "range": [
+            4840, 
+            4878
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 106, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kekurangan menginap di Ora Beach Resort:", 
+        "line": 107, 
+        "range": [
+            4880, 
+            4919
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Mahal. Terutama harga paket makanan Rp 250,000/orang (3x makan, 2x coffee break). Makanannya juga terbatas. Salah satu tamu tidak dapat piring dan tidak ada staff yang membantu di saat itu.", 
+        "line": 108, 
+        "range": [
+            4920, 
+            5108
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4949, 
+                    4965
+                ], 
+                "name": "Ora Beach Resort"
+            }
+        ]
+    }, 
+    {
+        "text": "Staffnya kurang ramah dan servisnya juga kurang.", 
+        "line": 109, 
+        "range": [
+            5109, 
+            5156
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Fasilitas kamar yang tidak terjaga dengan baik. Saya ambil kamar di darat. Pintu toilet tidak bisa dikunci, kipas angin jelek, dan showernya rusak.", 
+        "line": 110, 
+        "range": [
+            5157, 
+            5303
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penginapan Lainnya di Sekitar Pantai Ora", 
+        "line": 112, 
+        "range": [
+            5305, 
+            5344
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Kaka Tua Guest House (Cek Harga)", 
+        "line": 113, 
+        "range": [
+            5345, 
+            5376
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5355, 
+                    5365
+                ], 
+                "name": "Penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "Singkey Water Cottage (Cek Harga)", 
+        "line": 114, 
+        "range": [
+            5377, 
+            5409
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5385, 
+                    5395
+                ], 
+                "name": "Pantai Ora"
+            }
+        ]
+    }, 
+    {
+        "text": "Ora Sunrise View (Cek Harga)", 
+        "line": 115, 
+        "range": [
+            5410, 
+            5437
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Air Belanda Resort (Cek Harga)", 
+        "line": 116, 
+        "range": [
+            5438, 
+            5467
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kegiatan wisata di Sekitar Pantai Ora", 
+        "line": 118, 
+        "range": [
+            5469, 
+            5505
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Snorkeling di sekitar bukit tebing atau di Pulau Tujuh. Harga sewa kapal sekitar Rp 1,000,000 per hari dan muat untuk 10 orang.", 
+        "line": 119, 
+        "range": [
+            5506, 
+            5632
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5551, 
+                    5561
+                ], 
+                "name": "Pantai Ora"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5584, 
+                    5596
+                ], 
+                "name": "bukit tebing"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5605, 
+                    5616
+                ], 
+                "name": "Pulau Tujuh"
+            }
+        ]
+    }, 
+    {
+        "text": "Melihat kelelawar berterbangan saat matahari terbenam.", 
+        "line": 120, 
+        "range": [
+            5633, 
+            5686
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Birdwatching atau trekking di Taman Nasional Manusela.", 
+        "line": 121, 
+        "range": [
+            5687, 
+            5740
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Mengunjungi Air Belanda.", 
+        "line": 122, 
+        "range": [
+            5741, 
+            5764
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biaya Traveling ke Pantai Ora", 
+        "line": 124, 
+        "range": [
+            5766, 
+            5794
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya Pantai Ora ini tidak cocok untuk backpacker karena biayanya yang cukup tinggi.", 
+        "line": 126, 
+        "range": [
+            5796, 
+            5884
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5812, 
+                    5823
+                ], 
+                "name": "Air Belanda"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5845, 
+                    5855
+                ], 
+                "name": "Pantai Ora"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5868, 
+                    5878
+                ], 
+                "name": "Pantai Ora"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket ke Ambon saja sudah mahal. Belum lagi biaya penginapan dan lain-lain.", 
+        "line": 128, 
+        "range": [
+            5886, 
+            5966
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tetapi kamu tetap bisa coba menekan biaya perjalanan biar hemat. Coba kita hitung berapa total biaya yang kamu butuhkan:", 
+        "line": 130, 
+        "range": [
+            5968, 
+            6087
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6004, 
+                    6014
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 131, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiket pesawat PP: Coba cari tiket murah. Kalau dari Jakarta ke Ambon mungkin sekitar Rp 3jt pp. Biasanya kalau via Makassar mungkin lebih murah", 
+        "line": 132, 
+        "range": [
+            6089, 
+            6231
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6159, 
+                    6166
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6205, 
+                    6212
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6216, 
+                    6221
+                ], 
+                "name": "Ambon"
+            }
+        ]
+    }, 
+    {
+        "text": "Kapal cepat ke Tulehu PP: Rp 125,000 x 2", 
+        "line": 133, 
+        "range": [
+            6232, 
+            6271
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Mobil ke Saleman PP: Rp 100,000 x 2", 
+        "line": 134, 
+        "range": [
+            6272, 
+            6306
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal menyebrang ke Pantai Ora: Rp 50,000 x 2", 
+        "line": 135, 
+        "range": [
+            6307, 
+            6351
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6312, 
+                    6318
+                ], 
+                "name": "Tulehu"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6338, 
+                    6343
+                ], 
+                "name": "Mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "Penginapan Lisar Bahar 2 malam termasuk makan: Rp 300,000 x 2", 
+        "line": 136, 
+        "range": [
+            6352, 
+            6412
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6374, 
+                    6379
+                ], 
+                "name": "Kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6394, 
+                    6404
+                ], 
+                "name": "Pantai Ora"
+            }
+        ]
+    }, 
+    {
+        "text": "Biaya Lainnya: Rp 100,000", 
+        "line": 137, 
+        "range": [
+            6413, 
+            6437
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 138, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Total biaya liburan ke Pantai Ora, di luar pesawat sekitar Rp 1,250,000, kalau termasuk pesawat sekitar Rp 4,250,000.", 
+        "line": 139, 
+        "range": [
+            6439, 
+            6555
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6532, 
+                    6542
+                ], 
+                "name": "Pantai Ora"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 140, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ya budgetin aja sekitar Rp 5jt sama tiket pesawat kalau dari Jakarta.", 
+        "line": 141, 
+        "range": [
+            6557, 
+            6625
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6597, 
+                    6604
+                ], 
+                "name": "pesawat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 142, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mau benar-benar hemat atau ekstrim bisa naik PELNI tapi ya pastinya makan waktu lama.", 
+        "line": 143, 
+        "range": [
+            6627, 
+            6717
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6670, 
+                    6677
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6689, 
+                    6696
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 144, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk mengurangi pengeluaran bisa pergi dengan rombongan 4-6 orang jadinya bisa sewa mobil dan tidak usah nunggu mobil umum.", 
+        "line": 145, 
+        "range": [
+            6719, 
+            6842
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    6750, 
+                    6755
+                ], 
+                "name": "PELNI"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 146, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau harus menginap di Masohi, di depan Stasiun Binaiya ada penginapan murah bernama Raudatul.", 
+        "line": 147, 
+        "range": [
+            6844, 
+            6938
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6877, 
+                    6882
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6905, 
+                    6915
+                ], 
+                "name": "mobil umum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 148, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harganya Rp 75,000 semalam.", 
+        "line": 149, 
+        "range": [
+            6940, 
+            6966
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6942, 
+                    6948
+                ], 
+                "name": "Masohi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 150, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebaiknya booking penginapan sebelumnya, mungkin mereka bisa bantu masalah transportsai dari Masohi.", 
+        "line": 151, 
+        "range": [
+            6968, 
+            7067
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6979, 
+                    6989
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7004, 
+                    7012
+                ], 
+                "name": "Raudatul"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 152, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ingat selalu ketika snorkeling jangan menginjang terumbu karang.", 
+        "line": 153, 
+        "range": [
+            7069, 
+            7132
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 154, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sayangkan kalau terumbu karang yang indah ini rusak karena kelalaian pengunjung.", 
+        "line": 155, 
+        "range": [
+            7134, 
+            7213
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7137, 
+                    7143
+                ], 
+                "name": "Masohi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 156, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itulah beberapa tips hemat traveling atau liburan ke Pantai Ora.", 
+        "line": 157, 
+        "range": [
+            7215, 
+            7278
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 158, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu pernah kesana dan ada saran-saran lainnya bisa isi kolom komentar untuk membantu traveler lainnya. Happy traveling.", 
+        "line": 159, 
+        "range": [
+            7280, 
+            7405
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7347, 
+                    7357
+                ], 
+                "name": "Pantai Ora"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2017 @@
+[
+    {
+        "text": "May 29, 2022    Gunung Prau Via Patak Banteng, Pendakian Paling Santai!", 
+        "line": 0, 
+        "range": [
+            1, 
+            71
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    16, 
+                    27
+                ], 
+                "name": "Gunung Prau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    32, 
+                    45
+                ], 
+                "name": "Patak Banteng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Prau merupakan salah satu gunung yang terletak di Wonosobo, Jawa Tengah. Gunung Prau memiliki ketinggian 2,565 mdpl (meter di atas permukaan laut).", 
+        "line": 2, 
+        "range": [
+            73, 
+            226
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    73, 
+                    84
+                ], 
+                "name": "Gunung Prau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    106, 
+                    112
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    130, 
+                    138
+                ], 
+                "name": "Wonosobo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    140, 
+                    151
+                ], 
+                "name": "Jawa Tengah"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    153, 
+                    164
+                ], 
+                "name": "Gunung Prau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    221, 
+                    225
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa disebut Gunung Prau? Kalian pasti udah bisa nebak donk ya. Yep! Karena bentuknya seperti perahu.", 
+        "line": 4, 
+        "range": [
+            228, 
+            330
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    244, 
+                    255
+                ], 
+                "name": "Gunung Prau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    325, 
+                    331
+                ], 
+                "name": "perahu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Prau akhir-akhir ini sangat populer karena cukup gampang, cocok untuk pendaki pemula.", 
+        "line": 6, 
+        "range": [
+            332, 
+            423
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    334, 
+                    345
+                ], 
+                "name": "Gunung Prau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut catatan saya mendaki Gunung Prau via Patak Banteng.", 
+        "line": 8, 
+        "range": [
+            425, 
+            483
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    457, 
+                    468
+                ], 
+                "name": "Gunung Prau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara Menuju Gunung Prau dari Jakarta", 
+        "line": 10, 
+        "range": [
+            485, 
+            520
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    501, 
+                    512
+                ], 
+                "name": "Gunung Prau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Jakarta, ada dua cara untuk menuju jalur pendakian Gunung Prau.", 
+        "line": 12, 
+        "range": [
+            522, 
+            589
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    532, 
+                    539
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertama kamu bisa naik kereta api menuju Purwokerto kemudian dilanjutkan dengan bus.", 
+        "line": 14, 
+        "range": [
+            591, 
+            674
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    620, 
+                    630
+                ], 
+                "name": "kereta api"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    638, 
+                    648
+                ], 
+                "name": "Purwokerto"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara kedua adalah menggunakan bus langsung menuju Wonosobo. Kedua cara ini kurang lebih memakan waktu sekitar 12 jam.", 
+        "line": 16, 
+        "range": [
+            676, 
+            792
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    677, 
+                    680
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    713, 
+                    716
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    733, 
+                    741
+                ], 
+                "name": "Wonosobo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk biayanya sendiri yang pasti kereta lebih murah cuma mungkin lebih ribet karena harus transfer bus kecil lagi.", 
+        "line": 18, 
+        "range": [
+            794, 
+            908
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    836, 
+                    842
+                ], 
+                "name": "kereta"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    902, 
+                    905
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bus yang melayani rute Jakarta-Wonosobo ada PO Sinar Jaya yang berangkat dari Terminal Kampung Rambutan, Lebak Bulus, Rawamangun.", 
+        "line": 20, 
+        "range": [
+            910, 
+            1038
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    919, 
+                    922
+                ], 
+                "name": "Bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    942, 
+                    949
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    950, 
+                    958
+                ], 
+                "name": "Wonosobo"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    963, 
+                    976
+                ], 
+                "name": "PO Sinar Jaya"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    997, 
+                    1022
+                ], 
+                "name": "Terminal Kampung Rambutan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1024, 
+                    1035
+                ], 
+                "name": "Lebak Bulus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket bus sekali jalan sekitar Rp 120,000.", 
+        "line": 22, 
+        "range": [
+            1040, 
+            1087
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1062, 
+                    1065
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur Pendakian Gunung Prau", 
+        "line": 24, 
+        "range": [
+            1089, 
+            1115
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Menurut informasi terbaru, jalur pendakian Gunung Prau untuk pemula bisa melalui lima jalur pendakian yaitu:", 
+        "line": 26, 
+        "range": [
+            1117, 
+            1224
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1156, 
+                    1161
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1172, 
+                    1183
+                ], 
+                "name": "Gunung Prau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Jalur pendakian Gunung Prau via Patak Banteng", 
+        "line": 28, 
+        "range": [
+            1226, 
+            1273
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1242, 
+                    1247
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1258, 
+                    1269
+                ], 
+                "name": "Gunung Prau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur pendakian ini sangat populer karena rutenya tidak terlalu sulit dan juga cukup singkat.", 
+        "line": 30, 
+        "range": [
+            1275, 
+            1367
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1289, 
+                    1294
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lama pendakian Gunung Prau via Patak Banteng hanya memakan waktu sekitar 4 jam saja.", 
+        "line": 32, 
+        "range": [
+            1369, 
+            1452
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1399, 
+                    1410
+                ], 
+                "name": "Gunung Prau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1415, 
+                    1428
+                ], 
+                "name": "Patak Banteng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Starting point-nya juga terletak di pinggir jalan raya sehingga gampang diakses menggunakan bus.", 
+        "line": 34, 
+        "range": [
+            1454, 
+            1549
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1514, 
+                    1524
+                ], 
+                "name": "jalan raya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendaki bisa nge-camp di dekat puncak untuk menikmati keindahan matahari pada pagi hari.", 
+        "line": 36, 
+        "range": [
+            1551, 
+            1638
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1562, 
+                    1565
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pos yang dilewati melalui jalur Patak Banteng adalah: Sikut Dewo \u2013 Canggal Walangan \u2013 Cacingan \u2013 Plawangan.", 
+        "line": 38, 
+        "range": [
+            1640, 
+            1752
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1658, 
+                    1661
+                ], 
+                "name": "Pos"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1690, 
+                    1703
+                ], 
+                "name": "Patak Banteng"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1712, 
+                    1722
+                ], 
+                "name": "Sikut Dewo"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1725, 
+                    1741
+                ], 
+                "name": "Canggal Walangan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1744, 
+                    1752
+                ], 
+                "name": "Cacingan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Jalur pendakian via Kali Lembu", 
+        "line": 40, 
+        "range": [
+            1754, 
+            1786
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1755, 
+                    1764
+                ], 
+                "name": "Plawangan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1770, 
+                    1775
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Letak basecamp Kali Lembu tidak terlalu jauh dari Patak Banteng. Bisa dibilang jalurnya cukup landai.", 
+        "line": 42, 
+        "range": [
+            1788, 
+            1888
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1790, 
+                    1800
+                ], 
+                "name": "Kali Lembu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1817, 
+                    1827
+                ], 
+                "name": "Kali Lembu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1852, 
+                    1865
+                ], 
+                "name": "Patak Banteng"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1881, 
+                    1889
+                ], 
+                "name": "jalurnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendaki bisa mendirikan tenda di Bukit Teletubies. Pos yang dilewati adalah: Pelerenan \u2013 Ngetuk \u2013 Nganjir.", 
+        "line": 44, 
+        "range": [
+            1890, 
+            1999
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1938, 
+                    1954
+                ], 
+                "name": "Bukit Teletubies"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1956, 
+                    1959
+                ], 
+                "name": "Pos"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1982, 
+                    1991
+                ], 
+                "name": "Pelerenan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1994, 
+                    2000
+                ], 
+                "name": "Ngetuk"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Jalur pendakian via Dieng Wetan", 
+        "line": 46, 
+        "range": [
+            2001, 
+            2034
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2003, 
+                    2010
+                ], 
+                "name": "Nganjir"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2016, 
+                    2021
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur lain yang bisa kamu lalui untuk mendaki Gunung Prau adalah via Dieng Wetan yang terletak tidak jauh dari objek wisata Dieng.", 
+        "line": 48, 
+        "range": [
+            2036, 
+            2165
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2036, 
+                    2047
+                ], 
+                "name": "Dieng Wetan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2049, 
+                    2054
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2095, 
+                    2106
+                ], 
+                "name": "Gunung Prau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2118, 
+                    2129
+                ], 
+                "name": "Dieng Wetan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lama pendakian sekitar 3-4 jam dengan trek yang cukup landai.", 
+        "line": 50, 
+        "range": [
+            2167, 
+            2227
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2173, 
+                    2178
+                ], 
+                "name": "Dieng"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2219, 
+                    2223
+                ], 
+                "name": "trek"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pos yang dilalui adalah: Gemekan \u2013 Semendung \u2013 Nganjir \u2013  puncak gunung Prau.", 
+        "line": 52, 
+        "range": [
+            2229, 
+            2311
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2244, 
+                    2247
+                ], 
+                "name": "Pos"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2269, 
+                    2276
+                ], 
+                "name": "Gemekan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2279, 
+                    2288
+                ], 
+                "name": "Semendung"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2291, 
+                    2298
+                ], 
+                "name": "Nganjir"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Jalur pendakian via Dieng Kulon (Dwarawati)", 
+        "line": 54, 
+        "range": [
+            2313, 
+            2358
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2326, 
+                    2331
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2346, 
+                    2357
+                ], 
+                "name": "Dieng Kulon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lokasi untuk memulai pendakian terletak di dekat Candi Dwarawati.", 
+        "line": 56, 
+        "range": [
+            2360, 
+            2424
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pada awal pendakian, terlihat pemandangan hijaunya alam Dieng yang tampak mempesona.", 
+        "line": 58, 
+        "range": [
+            2426, 
+            2509
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2494, 
+                    2499
+                ], 
+                "name": "Dieng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sesekali terlihat Gunung Sindoro dan Gunung Sumbing dari kejauhan.", 
+        "line": 60, 
+        "range": [
+            2511, 
+            2576
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2542, 
+                    2556
+                ], 
+                "name": "Gunung Sindoro"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2561, 
+                    2575
+                ], 
+                "name": "Gunung Sumbing"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Jalur pendakian via Wates", 
+        "line": 62, 
+        "range": [
+            2578, 
+            2605
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2595, 
+                    2600
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur pendakian Gunung Prau via Wates dimulai dari Dusun Wates. Jalur ini berada di ketinggian 1.896 mdpl dan berada sejauh 4.7 km dari Puncak Prau.  ditempuh dalam waktu sekitar 3-4 jam.", 
+        "line": 64, 
+        "range": [
+            2607, 
+            2793
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2615, 
+                    2620
+                ], 
+                "name": "Wates"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2622, 
+                    2627
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2638, 
+                    2649
+                ], 
+                "name": "Gunung Prau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2654, 
+                    2659
+                ], 
+                "name": "Wates"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2673, 
+                    2684
+                ], 
+                "name": "Dusun Wates"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2686, 
+                    2691
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2758, 
+                    2769
+                ], 
+                "name": "Puncak Prau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemandangan sepanjang jalur yang bisa dinikmati seperti hutan cemara dan air terjun Sigendang. Pos yang dilewati adalah: Blumbang Kodok, Cemaran, hingga sampai area untuk camping.", 
+        "line": 66, 
+        "range": [
+            2795, 
+            2973
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2833, 
+                    2838
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2867, 
+                    2879
+                ], 
+                "name": "hutan cemara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2884, 
+                    2904
+                ], 
+                "name": "air terjun Sigendang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2906, 
+                    2909
+                ], 
+                "name": "Pos"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2932, 
+                    2946
+                ], 
+                "name": "Blumbang Kodok"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2948, 
+                    2955
+                ], 
+                "name": "Cemaran"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pilih yang mana? Kalau ingin sekalian berwisata ke Dieng bisa memilih jalur pendakian via Dieng Wetan atau Dieng Kulon.", 
+        "line": 68, 
+        "range": [
+            2975, 
+            3093
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3043, 
+                    3048
+                ], 
+                "name": "Dieng"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3082, 
+                    3093
+                ], 
+                "name": "Dieng Wetan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur ini berdekatan dengan objek wisata Dieng.", 
+        "line": 70, 
+        "range": [
+            3095, 
+            3141
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3099, 
+                    3110
+                ], 
+                "name": "Dieng Kulon"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3113, 
+                    3118
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur pendakian Kali Lembu lebih lebih landai. Jalur pendakian Gunung Prau via Patak Banteng juga sangat populer karena langsung terletak di tepi jalan raya Wonosobo \u2013 Banjarnegara.", 
+        "line": 72, 
+        "range": [
+            3143, 
+            3325
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3154, 
+                    3159
+                ], 
+                "name": "Dieng"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3162, 
+                    3167
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3178, 
+                    3188
+                ], 
+                "name": "Kali Lembu"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3209, 
+                    3214
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3225, 
+                    3236
+                ], 
+                "name": "Gunung Prau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3241, 
+                    3254
+                ], 
+                "name": "Patak Banteng"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3309, 
+                    3318
+                ], 
+                "name": "alan raya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itinerary Pendakian Gunung Prau via Patak Banteng", 
+        "line": 74, 
+        "range": [
+            3327, 
+            3375
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3330, 
+                    3342
+                ], 
+                "name": "Banjarnegara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3365, 
+                    3376
+                ], 
+                "name": "Gunung Prau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebelumnya saya memang sudah pernah ke Dieng. Keindahan alamnya, hijaunya sekitar, apalagi Mie Ongklok membuat saya ingin kembali lagi ke kawasan ini.", 
+        "line": 76, 
+        "range": [
+            3377, 
+            3526
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3381, 
+                    3394
+                ], 
+                "name": "Patak Banteng"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3435, 
+                    3440
+                ], 
+                "name": "Dieng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kebetulan teman hiking saya, Bang Coco tiba-tiba sms. \u201cYuk ke Gunung Prau\u201d.", 
+        "line": 78, 
+        "range": [
+            3528, 
+            3606
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tanpa pikir panjang saya langsung iyain. Langsung deh saya packing carrier dan menyiapkan diri untuk naik gunung.", 
+        "line": 80, 
+        "range": [
+            3608, 
+            3720
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3610, 
+                    3621
+                ], 
+                "name": "Gunung Prau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: Cikarang \u2013 Wonosobo", 
+        "line": 82, 
+        "range": [
+            3722, 
+            3749
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3731, 
+                    3737
+                ], 
+                "name": "gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Cikarang saya menuju terminal Cibitung. Pas banget lagi Hari Raya, jadi saya dan teman-teman harus susah payah mendapatkan tiket bus.", 
+        "line": 84, 
+        "range": [
+            3751, 
+            3888
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3758, 
+                    3766
+                ], 
+                "name": "Wonosobo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3773, 
+                    3781
+                ], 
+                "name": "Cikarang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3794, 
+                    3811
+                ], 
+                "name": "terminal Cibitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasa, pada pengen mudik. Tiket biasanya beli di loket, ini kita harus rebutan buat naik bus nya dulu.", 
+        "line": 86, 
+        "range": [
+            3890, 
+            3991
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3902, 
+                    3905
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Siapa cepat dia dapat. Akhirnya setelah 3 jam kami bisa naik bus Sinar Jaya menuju Wonosobo.", 
+        "line": 88, 
+        "range": [
+            3993, 
+            4084
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3997, 
+                    4000
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: Wonosobo \u2013 Patak Banteng \u2013 Puncak Gunung Prau", 
+        "line": 90, 
+        "range": [
+            4086, 
+            4141
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4095, 
+                    4103
+                ], 
+                "name": "Wonosobo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4113, 
+                    4121
+                ], 
+                "name": "Wonosobo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4124, 
+                    4137
+                ], 
+                "name": "Patak Banteng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perjalanan memakan waktu kurang lebih 10 jam. Esoknya jam 4 pagi kami sampai di terminal Wonosobo.", 
+        "line": 92, 
+        "range": [
+            4143, 
+            4240
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami sudah ditunggu sama Bang Cacing, temannya Bang Coco.", 
+        "line": 94, 
+        "range": [
+            4242, 
+            4298
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dulunya kami barengan ke Gunung Sindoro juga.", 
+        "line": 96, 
+        "range": [
+            4300, 
+            4344
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah beristirihat sebentar, kami langsung ke kawasan Dieng menggunakan angkot.", 
+        "line": 98, 
+        "range": [
+            4346, 
+            4426
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4422, 
+                    4427
+                ], 
+                "name": "Dieng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak lama kemudian angkotnya berhenti di pinggir jalan. Jalur yang kami lalui adalah via Patak Banteng.", 
+        "line": 100, 
+        "range": [
+            4428, 
+            4531
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4440, 
+                    4446
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4469, 
+                    4478
+                ], 
+                "name": "angkotnya"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4499, 
+                    4504
+                ], 
+                "name": "jalan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4506, 
+                    4511
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekitar jam 4 sore kami mulai mendaki. Bercanda ria, menikmati misteriusnya kabut yang menutupi perbukitan.", 
+        "line": 102, 
+        "range": [
+            4533, 
+            4639
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4539, 
+                    4552
+                ], 
+                "name": "Patak Banteng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendakian tidaklah sulit, cocok bagi pemula.", 
+        "line": 104, 
+        "range": [
+            4641, 
+            4684
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4651, 
+                    4661
+                ], 
+                "name": "perbukitan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk sekitaran Jakarta mungkin bisa juga naik Gunung Papandayan kalau mau yang jalurnya gampang namun viewnya bagus.", 
+        "line": 106, 
+        "range": [
+            4686, 
+            4802
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4726, 
+                    4733
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4757, 
+                    4774
+                ], 
+                "name": "Gunung Papandayan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari makin gelap dan udara mulai mendingin.", 
+        "line": 108, 
+        "range": [
+            4804, 
+            4846
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya setelah kurang lebih 2 jam kami sampai di puncak.", 
+        "line": 110, 
+        "range": [
+            4848, 
+            4905
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah itu buka tenda, masak-masak dan menikmati alunan musik reggae. Langit cerah bertaburan bintang. Bulan pun bersinar terang.", 
+        "line": 112, 
+        "range": [
+            4907, 
+            5036
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3: Puncak Gunung Prau \u2013 Wonosobo", 
+        "line": 114, 
+        "range": [
+            5038, 
+            5075
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "\u201cBangun! Bangun! Matahari sudah mulai keluar.\u201d Perlahan saya membuka mata dan keluar dari tenda. Terlihat sedikit cahaya bersembunyi di sela-sela tumpukan awan.", 
+        "line": 116, 
+        "range": [
+            5077, 
+            5240
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5094, 
+                    5102
+                ], 
+                "name": "Wonosobo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendaki lainnya terlihat santai, bergaya dengan kamera di tangan. Tentu saja saya juga siap-siap mengabadikan foto sunrise.", 
+        "line": 118, 
+        "range": [
+            5242, 
+            5364
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Sindoro dan Sumbing berdiri gagah. Agak kejauhan Gunung Merapi, Merbabu, dan Slamet juga kelihatan.", 
+        "line": 120, 
+        "range": [
+            5366, 
+            5471
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5391, 
+                    5405
+                ], 
+                "name": "Gunung Sindoro"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5410, 
+                    5417
+                ], 
+                "name": "Sumbing"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5447, 
+                    5460
+                ], 
+                "name": "Gunung Merapi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5462, 
+                    5469
+                ], 
+                "name": "Merbabu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untungnya cuaca lagi bagus. Saya sempat khawatir karena lagi musim hujan. Pemandangan kompleks Dieng lagi-lagi membuat saya terpesona.", 
+        "line": 122, 
+        "range": [
+            5473, 
+            5606
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5475, 
+                    5481
+                ], 
+                "name": "Slamet"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5594, 
+                    5599
+                ], 
+                "name": "Dieng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, itulah pengalaman saya mendaki Gunung Prau via Patak Banteng. Pernah ke Gunung Prau?", 
+        "line": 124, 
+        "range": [
+            5608, 
+            5696
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5671, 
+                    5682
+                ], 
+                "name": "Gunung Prau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Share pengalaman kamu di kolom komentar agar teman-teman yang lain bisa tau juga. Jangan lupa di share ya! Baca juga catatan perjalanan saya mendaki Gunung Ciremai.", 
+        "line": 126, 
+        "range": [
+            5698, 
+            5861
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5712, 
+                    5723
+                ], 
+                "name": "Gunung Prau"
+            }
+        ]
+    }
+]

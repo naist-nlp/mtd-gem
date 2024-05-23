@@ -1,0 +1,725 @@
+[
+    {
+        "text": "July 14, 2021   Pengalaman Langka Melihat Paus Bungkuk Secara Langsung Di Sydney", 
+        "line": 0, 
+        "range": [
+            1, 
+            80
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    74, 
+                    80
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bermula dari obrolan saya dan teman kerja saya, sebuah pagi yang sama di cafe tempat kerja kami di Sydney. Memang biasanya kamu punya banyak waktu untuk ngobrol. Teman saya bercerita tentang liburan akhir pekannya secara menggebu-gebu yaitu pengalaman melihat paus bungkuk.", 
+        "line": 2, 
+        "range": [
+            82, 
+            354
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    155, 
+                    159
+                ], 
+                "name": "cafe"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    181, 
+                    187
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Memesan tur untuk melihat paus bungkuk di Sydney", 
+        "line": 4, 
+        "range": [
+            356, 
+            403
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di pergantian musim tertentu paus bungkuk melakukan migrasi dari belahan bumi bagian utara ke selatan maupun sebaliknya. Nah, beruntung sekali mereka akan melewati perairan di dekat Sydney.", 
+        "line": 6, 
+        "range": [
+            405, 
+            593
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    571, 
+                    579
+                ], 
+                "name": "perairan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya pulang kerja sambil memikirkan kembali cerita teman saya. Di satu sisi saya sangat tertarik karena saya sendiri belum pernah melihat paus bungkuk bermigrasi secara langsung. Di sisi lain, saya tidak mau mengeluarkan duit, haha.", 
+        "line": 8, 
+        "range": [
+            595, 
+            826
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya tidak terlalu mahal sih, saya cari di internet tentang informasi pake tur melihat paus bungkuk. Pertama saya langsung mengecek Groupon, yaitu sebuah situs yang biasanya banyak promo atau diskon.", 
+        "line": 10, 
+        "range": [
+            828, 
+            1032
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada beberapa perusahaan yang menyediakan jasa tur melihat paus bungkuk di Sydney. Setelah baca-baca review, akhirnya pilihan saya jatuh ke Oz Whale Watching. Harga promonya saat itu adalah AUD 39.", 
+        "line": 12, 
+        "range": [
+            1034, 
+            1229
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1113, 
+                    1119
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dengan teliti saya merencanakan semuanya karena tidak ingin melewati kesempatan melihat paus bungkuk. Dari kapan waktu terbaik, cuaca, dan kondisi lainnya yang mungkin bisa mempengaruhi apakah paus bungkuk akan muncul atau tidak.", 
+        "line": 14, 
+        "range": [
+            1231, 
+            1459
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya perusahaannya sih menjamin pasti bisa melihat paus bungkuk. Jika tidak, perusahaan akan memberi tur gratis setelahnya jika tidak melihat satupun paus pada hari itu juga.", 
+        "line": 16, 
+        "range": [
+            1461, 
+            1640
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cuaca di Sydney akhir-akhir ini juga tidak terlalu bagus, sering banget hujan. Ya, saya berdoa saja semoga dilancarkan semuanya.", 
+        "line": 18, 
+        "range": [
+            1642, 
+            1769
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1659, 
+                    1665
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saatnya ikutan tur melihat paus bungkuk", 
+        "line": 20, 
+        "range": [
+            1771, 
+            1809
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Oke, jasa tur sudah dipesan untuk saya dan seorang teman lain. Kami sudah siap sedia untuk mengikuti tur hari ini. Meeting point-nya di Darling Harbour dimana kami berkumpul dan naik ke kapal.", 
+        "line": 22, 
+        "range": [
+            1811, 
+            2002
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1957, 
+                    1972
+                ], 
+                "name": "Darling Harbour"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beruntung cuacanya cukup bagus, walaupun agak dingin. Setelah naik ke kapal saya mencari tempat duduk yang pas. Kapalnya lumayan besar dengan tempat duduk di area dalam maupun luar.", 
+        "line": 24, 
+        "range": [
+            2004, 
+            2184
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2007, 
+                    2012
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2085, 
+                    2090
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2127, 
+                    2135
+                ], 
+                "name": "Kapalnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perlahan kapal bergerak dan meninggalkan pelabuhan. Kami melewati Sydney Opera House dan Harbor Bridge, indahnya pemandangan. Kemudian kami menikmati sarapan yang sudah termasuk dalam paket tur, beberapa roti, sosis, dan telur. Mayannn..", 
+        "line": 26, 
+        "range": [
+            2186, 
+            2422
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2207, 
+                    2212
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2239, 
+                    2248
+                ], 
+                "name": "pelabuhan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2264, 
+                    2282
+                ], 
+                "name": "Sydney Opera House"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2287, 
+                    2300
+                ], 
+                "name": "Harbor Bridge"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pausnya muncul !", 
+        "line": 28, 
+        "range": [
+            2424, 
+            2439
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Arus ombak cukup kuat, angin nya bikin bete sedikit sih, tapi syukur banget langitnya cerah. Tidak lama setelah berlayar, sekitar 15 menit, terlihat sebuah objek di kejauhan. Ternyata ikan paus bungkuk baru saja naik ke permukaan.", 
+        "line": 30, 
+        "range": [
+            2441, 
+            2670
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wah, tidak disangka bisa melihat hewan mamalia satu ini secepat itu. Semua peserta tur langsung menuju bagian depan kapal. Saya bisa melihat sebuah bayangan di dalam air diikuti dengan ekor sebelum menghilang ke dalam laut.", 
+        "line": 32, 
+        "range": [
+            2672, 
+            2894
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2803, 
+                    2808
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terdengar penjelasan dari tur guide melalui pengeras suara. Ternyata yang kami lihat adalah paus bungkuk yang memang sebagian besar sering ditemukan bermigrasi dari Antartika ke perairan sekitar Australia dimana suhunya lebih hangat.", 
+        "line": 34, 
+        "range": [
+            2896, 
+            3128
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2905, 
+                    2909
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3077, 
+                    3086
+                ], 
+                "name": "Antartika"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3107, 
+                    3116
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada sebuah jarak waktu atau interval dimana kami harus menunggu sekitar 10 \u2013 15 menit sampai ikan paus muncul di permukaan lagi. Sebagian peserta tur masih berdiri di bagian depan dek kapal sedangkan beberapa dari mereka masuk dan duduk di dalam, mungkin enggak tahan dengan anginnya yang menusuk dan juga kapal yang bergoyang dengan kuat.", 
+        "line": 36, 
+        "range": [
+            3130, 
+            3470
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3331, 
+                    3336
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3453, 
+                    3458
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapten kapal dan guide sangat berpengalaman untuk mengikuti jejak dari ikan paus bungkuk. Yang lucunya sih ketika kami lari dari satu sisi kapal ke sisi lainnya dengan kondisi kapal yang bergoyang untuk melihat ikan paus bungkuk lebih jelas. Enggak tanggung-tanggung, hampir tidak mungkin bisa berdiri tanpa memegang sesuatu, saking kencangnya kapal bergoyang.", 
+        "line": 38, 
+        "range": [
+            3472, 
+            3831
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3495, 
+                    3500
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3627, 
+                    3632
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3664, 
+                    3669
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Matahari semakin tinggi, semakin banyak kapal lain yang berdatangan. Saya pribadi sudah cukup senang melihat ikan paus bungkuk beberapa kali datang ke permukaan. Terlihat seekor paus bungkuk betina dengan anak paus, bergerak secara anggun tanpa mempedulikan kapal sekitar.", 
+        "line": 40, 
+        "range": [
+            3833, 
+            4104
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3890, 
+                    3895
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiba-tiba paus muda pun meloncat dan menghantam air dengan tubuhnya yang besar. Perilaku ini disebut dengan \u201cbreaching\u201c. Spontan semua yang melihat termasuk saya berseru kegirangan, tidak percaya dengan apa yang kami lihat.", 
+        "line": 42, 
+        "range": [
+            4106, 
+            4332
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4108, 
+                    4113
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa tips yang perlu diketahui untuk melihat paus bungkuk di Sydney", 
+        "line": 44, 
+        "range": [
+            4334, 
+            4404
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setidaknya beberapa persiapan bisa dilakukan untuk menambah kesempatan melihat ikan paus bungkuk. Terutama paus merupakan salah satu margasatwa liar. Beberapa informasi yang mungkin bisa membantu adalah:", 
+        "line": 46, 
+        "range": [
+            4406, 
+            4608
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4414, 
+                    4420
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biaya yang diperlukan untuk ikutan tur melihat paus bungkuk di Sydney adalah sekitar AUD 94. Saya mendapat promo dari groupun jadi hanya perlu membayar AUD 39 termasuk 1x makan. Turnya cukup memuaskan.", 
+        "line": 48, 
+        "range": [
+            4610, 
+            4810
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4690, 
+                    4696
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "Bulan terbaik untuk melihat ikan paus bungkuk di Sydney adalah bulan Mei sampai November.", 
+        "line": 49, 
+        "range": [
+            4811, 
+            4899
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4878, 
+                    4884
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "Cek perkiraan cuaca sebelum memesan tur.", 
+        "line": 50, 
+        "range": [
+            4900, 
+            4939
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Ikutan tur pagi maupun siang tidak terlalu berpengaruh terhadap kemunculan ikan paus bungkuk.", 
+        "line": 51, 
+        "range": [
+            4940, 
+            5032
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Bawalah jaket, topi, kacamata hitam, kamera, atau obat biar tidak mabuk laut.", 
+        "line": 52, 
+        "range": [
+            5033, 
+            5109
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Jangan makan terlalu banyak agar tidak mabuk laut.", 
+        "line": 53, 
+        "range": [
+            5110, 
+            5159
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5126, 
+                    5130
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "Spot favorit saya adalah dek bagian depan.", 
+        "line": 54, 
+        "range": [
+            5160, 
+            5201
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5177, 
+                    5181
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "Selamat menikmati!", 
+        "line": 55, 
+        "range": [
+            5202, 
+            5219
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 56, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, pengalaman melihat paus di Sydney sangat menyenangkan. Baca juga itinerary liburan ke Sydney mungkin bisa membantu kamu kalau berencana ke Sydney.", 
+        "line": 57, 
+        "range": [
+            5221, 
+            5371
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5278, 
+                    5284
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5337, 
+                    5343
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }
+]

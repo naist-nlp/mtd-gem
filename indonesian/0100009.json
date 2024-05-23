@@ -1,0 +1,1655 @@
+[
+    {
+        "text": "March 22, 2021  8 Tempat Wisata Di Daegu, Seru Untuk Dikunjungi!", 
+        "line": 0, 
+        "range": [
+            1, 
+            64
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    18, 
+                    31
+                ], 
+                "name": "Tempat Wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    35, 
+                    40
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Daegu mungkin merupakan sebuah kota di Korea Selatan yang mungkin tidak sepopuler tempat wisata di Busan ataupun Seoul.", 
+        "line": 2, 
+        "range": [
+            66, 
+            184
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    66, 
+                    71
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    97, 
+                    101
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    105, 
+                    118
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    148, 
+                    161
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    165, 
+                    170
+                ], 
+                "name": "Busan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    179, 
+                    184
+                ], 
+                "name": "Seoul"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi ternyata, banyak sekali tempat wisata atau hal yang bisa dilakukan di Daegu.", 
+        "line": 4, 
+        "range": [
+            186, 
+            266
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    216, 
+                    229
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    262, 
+                    267
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, jadi apa yang membuat saya tertarik untuk berkunjung ke Daegu? Kebetulan saya memang memiliki seorang teman yang tinggal dan kerja sebagai guru di Daegu.", 
+        "line": 6, 
+        "range": [
+            268, 
+            425
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    331, 
+                    336
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya alasan utama saya liburan ke Korea Selatan karena memang ingin menjumpai teman tersebut.", 
+        "line": 8, 
+        "range": [
+            427, 
+            525
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    470, 
+                    483
+                ], 
+                "name": "Korea Selatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena sekalian udah mampir, saya memutuskan untuk tinggal hampir seminggu di Daegu.", 
+        "line": 10, 
+        "range": [
+            527, 
+            610
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Teman saya juga berbaik hati membiarkan saya tinggal gratis di apartemennya. Lumayan bisa menghemat biaya.", 
+        "line": 12, 
+        "range": [
+            612, 
+            717
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    680, 
+                    692
+                ], 
+                "name": "apartemennya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau nginep di penginapan pasti lebih mahal.", 
+        "line": 14, 
+        "range": [
+            719, 
+            763
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    741, 
+                    751
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lokasi Daegu juga pas bagi saya karena saya memang berencana untuk melakukan day trip ke kota lain di sekitar Daegu, yaitu Gyeongju dan mendaki Jirisan.", 
+        "line": 16, 
+        "range": [
+            765, 
+            916
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    779, 
+                    784
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    861, 
+                    865
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    882, 
+                    887
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    895, 
+                    903
+                ], 
+                "name": "Gyeongju"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ternyata Daegu melebihi ekspektasi saya.", 
+        "line": 18, 
+        "range": [
+            918, 
+            957
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    935, 
+                    940
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di bayangan saya kota Daegu hanyalah sebuah kota besar yang tidak memiliki tempat wisata yang menarik.", 
+        "line": 20, 
+        "range": [
+            959, 
+            1060
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    985, 
+                    995
+                ], 
+                "name": "kota Daegu"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1012, 
+                    1016
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1043, 
+                    1056
+                ], 
+                "name": "tempat wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ternyata banyak sekali hal yang bisa dilakukan di Daegu, baik yang secara sengaja saya temui maupun tidak sengaja.", 
+        "line": 22, 
+        "range": [
+            1062, 
+            1175
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1122, 
+                    1127
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut adalah tempat wisata di Daegu yang bisa kamu kunjungi!", 
+        "line": 24, 
+        "range": [
+            1177, 
+            1238
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1220, 
+                    1225
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Duryu Park", 
+        "line": 26, 
+        "range": [
+            1240, 
+            1252
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah saya bertemu dengan teman saya dan meletakkan barang di apartemen, dia harus segera kembali bekerja sehingga saya ditinggal sendirian.", 
+        "line": 28, 
+        "range": [
+            1254, 
+            1395
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1255, 
+                    1265
+                ], 
+                "name": "Duryu Park"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1331, 
+                    1340
+                ], 
+                "name": "apartemen"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena tidak ingin menghabiskan waktu seharian cuma duduk-duduk di apartemen saja, maka saya memutuskan untuk berkeliling area sekitar.", 
+        "line": 30, 
+        "range": [
+            1397, 
+            1531
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1478, 
+                    1487
+                ], 
+                "name": "apartemen"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Entah darimana energi ini muncul. Saya mengecek google maps dan ketemulah sebuah taman yang tidak jauh dari apartemen. Taman ini bernama Duryu Park.", 
+        "line": 32, 
+        "range": [
+            1533, 
+            1680
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1629, 
+                    1634
+                ], 
+                "name": "taman"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1656, 
+                    1665
+                ], 
+                "name": "apartemen"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1667, 
+                    1672
+                ], 
+                "name": "Taman"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Waktu menunjukkan pukul 2 siang tapi tidak panas sama sekali. Cahaya matahari yang lembut, angin semilir yang sejuk karena memang saya datangnya pas musim gugur.", 
+        "line": 34, 
+        "range": [
+            1682, 
+            1842
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1685, 
+                    1695
+                ], 
+                "name": "Duryu Park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya berjalan di trotar sesekali mengambil foto pepohonan yang daunnya telah berubah warna. Saya masih tidak percaya kalau saya merasakan musim gugur, musim kesukaan saya.", 
+        "line": 36, 
+        "range": [
+            1844, 
+            2014
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di tengah taman ada sebuah danau kecil dan jujur, saya benar-benar terpukau dengan pemandangan yang indah.", 
+        "line": 38, 
+        "range": [
+            2016, 
+            2121
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2061, 
+                    2066
+                ], 
+                "name": "danau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kelihatan kan pantulan pemandangan sekitar di air danau? Air danau yang tenang menimbulkan bayangan yang sangat jelas.", 
+        "line": 40, 
+        "range": [
+            2123, 
+            2240
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2192, 
+                    2197
+                ], 
+                "name": "danau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2203, 
+                    2208
+                ], 
+                "name": "danau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya berkeliling Duryu Park, banyak lansia yang sedang menghabiskan waktu bersama teman seusia, bermain catur, ngobrol, bahkan menari.", 
+        "line": 42, 
+        "range": [
+            2242, 
+            2375
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2279, 
+                    2289
+                ], 
+                "name": "Duryu Park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rasanya tenang sekali. Saya duduk sebentar untuk melihat hp, ternyata di tengah taman pun ada wifi gratis.", 
+        "line": 44, 
+        "range": [
+            2377, 
+            2482
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2478, 
+                    2483
+                ], 
+                "name": "taman"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Teman saya merekomendasikan saya untuk coba hiking ke bukit di belakang taman. Saya pun pergi dan benar sekali pemandangan dari atas bukit sangat indah.", 
+        "line": 46, 
+        "range": [
+            2484, 
+            2635
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2560, 
+                    2565
+                ], 
+                "name": "bukit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Duryu Park sangat besar, orang-orang pada jalan santai, jogging, ramai tapi menenangkan.", 
+        "line": 48, 
+        "range": [
+            2637, 
+            2724
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2639, 
+                    2644
+                ], 
+                "name": "bukit"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2660, 
+                    2670
+                ], 
+                "name": "Duryu Park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Gyeongsang-gamyeong Park", 
+        "line": 50, 
+        "range": [
+            2726, 
+            2752
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Keesokan harinya saya menggunakan metro atau subway ke Stasiun Jungangno yang terletak di pusat kota.", 
+        "line": 52, 
+        "range": [
+            2754, 
+            2854
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2813, 
+                    2818
+                ], 
+                "name": "metro"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2824, 
+                    2830
+                ], 
+                "name": "subway"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2834, 
+                    2851
+                ], 
+                "name": "Stasiun Jungangno"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya berjalan ke tempat wisata sekitar Daegu yang berdekatan, dimulai dengan Gyeongsang-gamyeong Park.", 
+        "line": 54, 
+        "range": [
+            2856, 
+            2957
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2875, 
+                    2879
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2899, 
+                    2912
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2921, 
+                    2926
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di taman ini banyak peninggalan sejarah dan kebudayaan yang bisa dilihat. Dulunya area ini merupakan kantor gubernur atau pemerintahan provinsi.", 
+        "line": 56, 
+        "range": [
+            2959, 
+            3102
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2959, 
+                    2983
+                ], 
+                "name": "Gyeongsang-gamyeong Park"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2989, 
+                    2994
+                ], 
+                "name": "taman"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3087, 
+                    3102
+                ], 
+                "name": "kantor gubernur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terlihat bangunan dengan khas dan warna yang kental dengan kebudayaan Korea Selatan.", 
+        "line": 58, 
+        "range": [
+            3104, 
+            3187
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Daegu Modern History Museum", 
+        "line": 60, 
+        "range": [
+            3189, 
+            3218
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3202, 
+                    3215
+                ], 
+                "name": "Korea Selatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mau mengenal tentang sejarah dan kebudayaan Korea Selatan bisa juga mengunjungi Daegu Modern History Museum.", 
+        "line": 62, 
+        "range": [
+            3220, 
+            3333
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3221, 
+                    3248
+                ], 
+                "name": "Daegu Modern History Museum"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3300, 
+                    3313
+                ], 
+                "name": "Korea Selatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lokasinya juga sangat berdekatan dengan Gyeongsang-gamyeong Park.", 
+        "line": 64, 
+        "range": [
+            3335, 
+            3399
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3336, 
+                    3363
+                ], 
+                "name": "Daegu Modern History Museum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa pameran yang bisa dilihat yaitu tentang kehidupan masyarakat lokal Daegu, sejarah akhir abad 19 dan awal abad ke 20.", 
+        "line": 66, 
+        "range": [
+            3401, 
+            3525
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3406, 
+                    3430
+                ], 
+                "name": "Gyeongsang-gamyeong Park"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3509, 
+                    3514
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, disini bisa juga ikutan kelas seperti kelas menjahit, dan lain-lain.", 
+        "line": 68, 
+        "range": [
+            3527, 
+            3599
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Yangnyeongsi Oriental Museum", 
+        "line": 70, 
+        "range": [
+            3601, 
+            3631
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Museum yang satu ini lumayan seru juga karena disini kamu bisa merasakan pengalaman dan belajar tentang obat-obatan Korea Selatan, jenis rempah yang mereka gunakan, dan juga mencoba obat herbal mereka.", 
+        "line": 72, 
+        "range": [
+            3633, 
+            3833
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3638, 
+                    3666
+                ], 
+                "name": "Yangnyeongsi Oriental Museum"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3668, 
+                    3674
+                ], 
+                "name": "Museum"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3784, 
+                    3797
+                ], 
+                "name": "Korea Selatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain itu, di Yangnyeongsi Oriental Museum juga ada aktifitas lainnya seperti mencoba memakai pakaian tradisional Korea yang berna hanbok, membuat batang sabun dari rempah-rempah, dan lain-lain.", 
+        "line": 74, 
+        "range": [
+            3835, 
+            4029
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3886, 
+                    3914
+                ], 
+                "name": "Yangnyeongsi Oriental Museum"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3986, 
+                    3991
+                ], 
+                "name": "Korea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Gyesan-dong Church and Cathedral", 
+        "line": 76, 
+        "range": [
+            4031, 
+            4065
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gereja ini saya lewati ketika sedang menuju area Dongseongnon. Gyesan-dong Church ini telah berusia lebih dari 100 tahun.", 
+        "line": 78, 
+        "range": [
+            4067, 
+            4187
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4071, 
+                    4102
+                ], 
+                "name": "Gyesan-dong Church and Cathedra"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4105, 
+                    4111
+                ], 
+                "name": "Gereja"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4154, 
+                    4166
+                ], 
+                "name": "Dongseongnon"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4168, 
+                    4186
+                ], 
+                "name": "Gyesan-dong Church"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gaya bangunannya mengikuti style Roman tapi juga memiliki sedikit elemen Gothic.", 
+        "line": 80, 
+        "range": [
+            4189, 
+            4268
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "6. Dongseongnon Shopping District", 
+        "line": 82, 
+        "range": [
+            4270, 
+            4302
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Area ini merupakan area paling sibuk di Daegu. Banyak pusat perbelanjaan, toko-toko yang berjejeran dan menjual berbagai jenis pakaian dan juga perhiasan. Kalau mau belanja bisa datang ke Dongseongnon.", 
+        "line": 84, 
+        "range": [
+            4304, 
+            4504
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4313, 
+                    4343
+                ], 
+                "name": "Dongseongnon Shopping District"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4385, 
+                    4390
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4399, 
+                    4417
+                ], 
+                "name": "pusat perbelanjaan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4419, 
+                    4428
+                ], 
+                "name": "toko-toko"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "7. Dalseong Park", 
+        "line": 86, 
+        "range": [
+            4506, 
+            4521
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Taman lain yang bisa ditemukan ketika adalah Dalseong Park.", 
+        "line": 88, 
+        "range": [
+            4523, 
+            4581
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4533, 
+                    4545
+                ], 
+                "name": "Dongseongnon"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4551, 
+                    4563
+                ], 
+                "name": "Dalseong Par"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4566, 
+                    4571
+                ], 
+                "name": "Taman"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di dalam taman ada sebuah kebun binatang kecil, ada binatang seperti rusa bahkan gorilla. Tapi sepertinya binatang disini kondisinya terlihat kurang baik.", 
+        "line": 90, 
+        "range": [
+            4583, 
+            4736
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4611, 
+                    4624
+                ], 
+                "name": "Dalseong Park"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4636, 
+                    4641
+                ], 
+                "name": "taman"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4653, 
+                    4667
+                ], 
+                "name": "kebun binatang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "8. Palgongsan Mountain", 
+        "line": 92, 
+        "range": [
+            4738, 
+            4759
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau suka dengan kegiatan alam atau hiking, bisa mengunjungi Palgongsan Mountain.", 
+        "line": 94, 
+        "range": [
+            4761, 
+            4842
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4786, 
+                    4805
+                ], 
+                "name": "Palgongsan Mountain"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung wisata Daegu ini terletak sekitar 20 km dari Kota Daegu. Sebaiknya sih menyediakan waktu seharian kalau memang mau main kesini.", 
+        "line": 96, 
+        "range": [
+            4844, 
+            4977
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4869, 
+                    4888
+                ], 
+                "name": "Palgongsan Mountain"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4891, 
+                    4897
+                ], 
+                "name": "Gunung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4905, 
+                    4910
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4943, 
+                    4953
+                ], 
+                "name": "Kota Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Palgongsan Mountain ada beberapa trail atau jalur yang cocok untuk hiking. Kalau memang pengennya nyantai bisa naik menggunakan cable car.", 
+        "line": 98, 
+        "range": [
+            4979, 
+            5119
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5030, 
+                    5049
+                ], 
+                "name": "Palgongsan Mountain"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5063, 
+                    5068
+                ], 
+                "name": "trail"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5074, 
+                    5079
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Waktu paling baik untuk mengunjungi gunung ini adalah musim semi, ketika bunga warna warni bermekaran, dan juga musim gugur, ketika daun-daunnya berubah warna keemasan dan merah.", 
+        "line": 100, 
+        "range": [
+            5121, 
+            5298
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5158, 
+                    5167
+                ], 
+                "name": "cable car"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5206, 
+                    5212
+                ], 
+                "name": "gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak kuil-kuil agama di sekitar gunung yang bisa dikunjungi.", 
+        "line": 102, 
+        "range": [
+            5300, 
+            5361
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Diantaranya yang populer, Gatbawi Rock dan Donghwasa Temple.", 
+        "line": 104, 
+        "range": [
+            5363, 
+            5422
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5384, 
+                    5390
+                ], 
+                "name": "gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sayang saya tidak sempat mengunjungi Palgongsan Mountain karena cuacanya yang kurang baik. Jalan-jalan ke Daegu merupakan pengalaman yang seru bagi saya.", 
+        "line": 106, 
+        "range": [
+            5424, 
+            5576
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5440, 
+                    5452
+                ], 
+                "name": "Gatbawi Rock"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5457, 
+                    5473
+                ], 
+                "name": "Donghwasa Temple"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5513, 
+                    5532
+                ], 
+                "name": "Palgongsan Mountain"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertama kalinya saya mencoba Korean BBQ dan memanggang dagingnya sendiri, mencoba Makgeolli yaitu sejenis tuak atau minuman alkohol yang terbuat dari beras.", 
+        "line": 108, 
+        "range": [
+            5578, 
+            5733
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5582, 
+                    5587
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya juga merasakan pengalaman khas ala Korea seperti menonton opera, membuat sabun dari herbal, dan juga memakai hanbok.", 
+        "line": 110, 
+        "range": [
+            5735, 
+            5855
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5829, 
+                    5834
+                ], 
+                "name": "Korea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ah, saya juga nyobain noribang, yaitu karaoke ala Korea. Seru! Jangan lupa sebelum ke Daegu cek dulu cara apply visa Korea Selatan. ", 
+        "line": 112, 
+        "range": [
+            5857, 
+            5988
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5962, 
+                    5967
+                ], 
+                "name": "Korea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itulah beberapa tempat wisata di Daegu di Korea Selatan yang bisa kamu kunjungi. Mau ke mana?", 
+        "line": 114, 
+        "range": [
+            5990, 
+            6082
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5998, 
+                    6003
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6029, 
+                    6042
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6062, 
+                    6075
+                ], 
+                "name": "tempat wisata"
+            }
+        ]
+    }
+]

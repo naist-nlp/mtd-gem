@@ -1,0 +1,4156 @@
+[
+    {
+        "text": "December 28, 2022   Cerita Seru Liburan Ke Australia Ala Roadtrip, Tips Dan Itinerary!", 
+        "line": 0, 
+        "range": [
+            1, 
+            86
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    43, 
+                    52
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengen nyobain liburan dengan cara road trip di Australia? Baca pengalaman saya liburan ke Australia selama sebulan lengkap dengan itinerary, spot-spot yang dikunjungi, serta hal yang perlu kamu persiapkan untuk perjalanan road trip ini.", 
+        "line": 2, 
+        "range": [
+            88, 
+            324
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    136, 
+                    145
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    179, 
+                    188
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hampir setahun saya banting tulang sebagai pejuang WHV di Australia untuk nyari dolar.", 
+        "line": 4, 
+        "range": [
+            326, 
+            411
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    385, 
+                    394
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnnya di bulan terakhir sebelum visa saya berakhir, saya memutuskan untuk menjelajahi Australia.", 
+        "line": 6, 
+        "range": [
+            413, 
+            512
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak yang datang ke Australia (khususnya bule) dengan menggunakan working holiday visa untuk traveling.", 
+        "line": 8, 
+        "range": [
+            514, 
+            618
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    539, 
+                    548
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi mungkin kebanyakan teman-teman termasuk saya yang datang ke Australia dengan tujuan yang berbeda, yaitu \u2013 kerja keras untuk mencari uang.", 
+        "line": 10, 
+        "range": [
+            620, 
+            763
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    689, 
+                    698
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kadang traveler lain pada heran \u2013 kenapa saya cuma stay di satu kota aja? Tidak coba kerja di farm, atau pindah ke kota lain?", 
+        "line": 12, 
+        "range": [
+            765, 
+            891
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    832, 
+                    836
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    883, 
+                    887
+                ], 
+                "name": "kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mungkin kedengarannya agak sombong sih, tapi jujur alasan saya tidak melakukan apa yang orang lain lakukan cuma satu \u2013 saya kurang tertarik.", 
+        "line": 14, 
+        "range": [
+            893, 
+            1034
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Australia tidak pernah ada di bucket list saya.", 
+        "line": 16, 
+        "range": [
+            1036, 
+            1082
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1037, 
+                    1046
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Alasan utama saya datang ke Australia karena sebagai warga negara Indonesia, saya cuma bisa mendapatkan working holiday visa di Australia aja.", 
+        "line": 18, 
+        "range": [
+            1084, 
+            1225
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1114, 
+                    1123
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1152, 
+                    1161
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1214, 
+                    1223
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dan sayangnya pas saya ke sana cuma bisa setahun aja (sekarang infonya bahkan bisa perpanjang sampai tahun ketiga).", 
+        "line": 20, 
+        "range": [
+            1227, 
+            1341
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau soal biaya, traveling atau liburan ke Australia pastinya gimana pun tidak murah.", 
+        "line": 22, 
+        "range": [
+            1343, 
+            1428
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1391, 
+                    1400
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Guidebooks seperti Lonely Planet biasanya menyebutkan paling tidak harus menghabiskan $100 per hari kalau mau traveling di Australia.", 
+        "line": 24, 
+        "range": [
+            1430, 
+            1562
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya pun berpikir, kenapa saya harus mengeluarkan uang sebanyak ini tapi saya sendiri tidak tertarik dengan negara ini.", 
+        "line": 26, 
+        "range": [
+            1564, 
+            1682
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Satu bulan di Australia mungkin sama dengan 3-4 bulan traveling di negara-negara Asia.", 
+        "line": 28, 
+        "range": [
+            1684, 
+            1769
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1705, 
+                    1714
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi, muncul lagi pikiran lain \u2013 saya punya style traveling yang cukup berbeda.", 
+        "line": 30, 
+        "range": [
+            1771, 
+            1851
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1772, 
+                    1776
+                ], 
+                "name": "Asia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya tidak pernah merasa \u2013 Oke, saya di Bangkok berarti saya sudah pernah ke Thailand, atau, oke, saya di Sydney, berarti saya sudah pernah ke Australia.", 
+        "line": 32, 
+        "range": [
+            1853, 
+            2007
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1900, 
+                    1907
+                ], 
+                "name": "Bangkok"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1937, 
+                    1945
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1966, 
+                    1972
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya lebih senang menjelajahi sebuah negara dan benar-benar merasakan kebudayaan negara tersebut.", 
+        "line": 34, 
+        "range": [
+            2009, 
+            2105
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2052, 
+                    2058
+                ], 
+                "name": "negara"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2096, 
+                    2102
+                ], 
+                "name": "negara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya percaya bahwa traveling bukan sekedar tujuan, tetapi pengalamannya.", 
+        "line": 36, 
+        "range": [
+            2107, 
+            2178
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena itu, saya akhirnya memutuskan untuk explore Australia, mumpung saya masih disini.", 
+        "line": 38, 
+        "range": [
+            2180, 
+            2267
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2239, 
+                    2248
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pasti kalau sudah meninggalkan negara ini, saya tidak akan kembali lagi.", 
+        "line": 40, 
+        "range": [
+            2269, 
+            2340
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2309, 
+                    2315
+                ], 
+                "name": "negara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rencana saya adalah tidak terlalu memiliki banyak rencana.", 
+        "line": 42, 
+        "range": [
+            2342, 
+            2399
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya mengamankan tiga penerbangan yaitu Sydney \u2013 Hobart, Launceston \u2013 Melbourne, dan Perth \u2013 Indonesia.", 
+        "line": 44, 
+        "range": [
+            2401, 
+            2509
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2452, 
+                    2458
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2461, 
+                    2467
+                ], 
+                "name": "Hobart"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2469, 
+                    2479
+                ], 
+                "name": "Launceston"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2482, 
+                    2491
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2497, 
+                    2502
+                ], 
+                "name": "Perth"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sisanya saya harus mencari cara sendiri gimana bisa sampai ke Perth dari Melbourne tanpa harus menggunakan pesawat.", 
+        "line": 46, 
+        "range": [
+            2511, 
+            2625
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2579, 
+                    2584
+                ], 
+                "name": "Perth"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2590, 
+                    2599
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jawabannya adalah road trip.", 
+        "line": 48, 
+        "range": [
+            2627, 
+            2654
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi saya enggak punya mobil, gimana donk?", 
+        "line": 50, 
+        "range": [
+            2656, 
+            2697
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2687, 
+                    2692
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, inilah tantangannya. Next, saya akan sharing tentang pegalaman saya liburan ke Australia dengan cara road trip selama sebulan.", 
+        "line": 52, 
+        "range": [
+            2699, 
+            2829
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2792, 
+                    2801
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ohya, kalau memang cuma pengen ke Sydney saja bisa baca itinerary jalan-jalan ke Sydney selama 5 hari ya.", 
+        "line": 54, 
+        "range": [
+            2831, 
+            2935
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2875, 
+                    2881
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2922, 
+                    2928
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itinerary liburan ke Australia ala Roadtrip", 
+        "line": 56, 
+        "range": [
+            2937, 
+            2979
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2969, 
+                    2978
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu bisa contek itinerary liburan ke Australia saya, saya pergi ke beberapa kota besar seperti Tasmania, Melbourne, Adelaide, dan Darwin.", 
+        "line": 58, 
+        "range": [
+            2981, 
+            3118
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3031, 
+                    3040
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3070, 
+                    3074
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3089, 
+                    3097
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3099, 
+                    3108
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3110, 
+                    3118
+                ], 
+                "name": "Adelaide"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Spot-spot atau tempat wisata mana yang saya datangi? Baca terus ya.", 
+        "line": 60, 
+        "range": [
+            3120, 
+            3186
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3124, 
+                    3130
+                ], 
+                "name": "Darwin"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3148, 
+                    3161
+                ], 
+                "name": "tempat wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Minggu pertama: Tasmania", 
+        "line": 62, 
+        "range": [
+            3188, 
+            3211
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tasmania memiliki reputasi yang cukup bagus di kalangan traveler.", 
+        "line": 64, 
+        "range": [
+            3213, 
+            3277
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3218, 
+                    3226
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3228, 
+                    3236
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak yang bilang kalau Tasmania itu seperti versi kecilnya New Zealand.", 
+        "line": 66, 
+        "range": [
+            3279, 
+            3351
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3320, 
+                    3328
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagian kecil dari Australia ini dikenal dengan keindahan alamnya yang luarnya.", 
+        "line": 68, 
+        "range": [
+            3353, 
+            3430
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3356, 
+                    3367
+                ], 
+                "name": "New Zealand"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3388, 
+                    3397
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Fakta lainnya, Tasmania merupakan satu-satunya bagian negara dari Australia yang berbentuk sebuah pulau.", 
+        "line": 70, 
+        "range": [
+            3432, 
+            3535
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3465, 
+                    3473
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3504, 
+                    3510
+                ], 
+                "name": "negara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3516, 
+                    3525
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Sydney saya terbang ke Hobart.", 
+        "line": 72, 
+        "range": [
+            3537, 
+            3571
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3548, 
+                    3553
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3561, 
+                    3567
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selama tiga hari saya menjelajahi Hobart sambil menunggu Maria, seorang gadis dari Kanada yang juga memiliki rencana yang sama untuk road trip di Tasmania.", 
+        "line": 74, 
+        "range": [
+            3573, 
+            3727
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3584, 
+                    3590
+                ], 
+                "name": "Hobart"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3627, 
+                    3633
+                ], 
+                "name": "Hobart"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3676, 
+                    3682
+                ], 
+                "name": "Kanada"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah bertemu dengan Maria, akhirnya road trip di Tasmania pun dimulai dengan mobil sewaan. Rute yang kami lalui adalah:", 
+        "line": 76, 
+        "range": [
+            3729, 
+            3850
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3739, 
+                    3747
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3802, 
+                    3810
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3830, 
+                    3835
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hobart", 
+        "line": 78, 
+        "range": [
+            3852, 
+            3857
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Wineglass Bay", 
+        "line": 79, 
+        "range": [
+            3858, 
+            3870
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Ross", 
+        "line": 80, 
+        "range": [
+            3871, 
+            3874
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Cradle Mountain", 
+        "line": 81, 
+        "range": [
+            3875, 
+            3889
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Marrawah", 
+        "line": 82, 
+        "range": [
+            3890, 
+            3897
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Devonport", 
+        "line": 83, 
+        "range": [
+            3898, 
+            3906
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Launceston", 
+        "line": 84, 
+        "range": [
+            3907, 
+            3916
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Menyetir di Tasmania cukup asik. Tasmania tidak terlalu besar jadi sehari maksimum cuma 3 jam nyetir.", 
+        "line": 86, 
+        "range": [
+            3918, 
+            4018
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3925, 
+                    3934
+                ], 
+                "name": "Devonport"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3935, 
+                    3945
+                ], 
+                "name": "Launceston"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3959, 
+                    3967
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3980, 
+                    3988
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "View-nya kurang lebih dataran luas hijau dengan gerombolan domba atau sapi.", 
+        "line": 88, 
+        "range": [
+            4020, 
+            4094
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya pribadi suka dengan Tasmania yang damai dan tenang, walaupun terkadang terlalu sepi sih.", 
+        "line": 90, 
+        "range": [
+            4096, 
+            4188
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4152, 
+                    4160
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selama road trip di Tasmania, sebagian besar kami camping walaupun terkadang ketika memang lagi butuh mandi atau terlalu dingin untuk camping, kami satu atau dua kali tinggal di penginapan.", 
+        "line": 92, 
+        "range": [
+            4190, 
+            4378
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4242, 
+                    4250
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika stay di Hobart, beruntung hostel yang kami tempati meminjamkan peralatan untuk camping gratis.", 
+        "line": 94, 
+        "range": [
+            4380, 
+            4480
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4400, 
+                    4410
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4428, 
+                    4434
+                ], 
+                "name": "Hobart"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4446, 
+                    4452
+                ], 
+                "name": "hostel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada juga pengalaman pas di Devonport, kami check-in di penginapan yang ada pub-nya.", 
+        "line": 96, 
+        "range": [
+            4482, 
+            4564
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4543, 
+                    4552
+                ], 
+                "name": "Devonport"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya baru pertama kali saya tinggal di penginapan seperti ini, jadinya kebanyang kalau ada laki yang macem-macem.", 
+        "line": 98, 
+        "range": [
+            4566, 
+            4684
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4571, 
+                    4581
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4591, 
+                    4594
+                ], 
+                "name": "pub"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4646, 
+                    4656
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cuma imajinasi aja sih, ternyata tempat ini enggak seburuk yang dibayangkan.", 
+        "line": 100, 
+        "range": [
+            4686, 
+            4761
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah seminggu mengunjungi tempat-tempat seru di Tasmania bersama Maria, akhirnya saya harus meninggalkan Maria dan Tasmania.", 
+        "line": 102, 
+        "range": [
+            4763, 
+            4889
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4851, 
+                    4859
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Maria melanjutkan perjalanannya sendiri di Tasmania, dan saya di drop di Launceston untuk terbang ke Melbourne.", 
+        "line": 104, 
+        "range": [
+            4891, 
+            5001
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4918, 
+                    4926
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4972, 
+                    4980
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Minggu kedua dan ketiga: Melbourne \u2013 Adelaide", 
+        "line": 106, 
+        "range": [
+            5003, 
+            5049
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5030, 
+                    5039
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tasmania sangat menyenangkan. Tapi setelah seminggu disana kangen juga sih dengan kota besar.", 
+        "line": 108, 
+        "range": [
+            5051, 
+            5143
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5067, 
+                    5076
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5079, 
+                    5087
+                ], 
+                "name": "Adelaide"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5089, 
+                    5097
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pas sampai di Melbourne rasanya benar-benar happy. Tidak sabar rasanya untuk melihat apa yang bisa ditawarkan kota ini.", 
+        "line": 110, 
+        "range": [
+            5145, 
+            5263
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5171, 
+                    5175
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5198, 
+                    5207
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Melbourne saya sudah janjian dengan teman saya, Vivi.", 
+        "line": 112, 
+        "range": [
+            5265, 
+            5320
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5294, 
+                    5298
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5308, 
+                    5317
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selama 4 hari kami jalan-jalan di Melbourne \u2013 dari Old Raliway Station, sampai State Library, menikmati keindahan gereja-gereja tua di kota, tidak lupa juga selfie di lorong-lorong kecil penuh dengan lukisan dan cat yang ada di Melbourne.", 
+        "line": 114, 
+        "range": [
+            5322, 
+            5561
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5397, 
+                    5406
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5414, 
+                    5433
+                ], 
+                "name": "Old Raliway Station"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5442, 
+                    5455
+                ], 
+                "name": "State Library"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5477, 
+                    5490
+                ], 
+                "name": "gereja-gereja"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5498, 
+                    5502
+                ], 
+                "name": "kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Seru banget! Semakin saya menjelajahi Melbourne, semakin saya jatuh cinta dengan kota ini.", 
+        "line": 116, 
+        "range": [
+            5563, 
+            5652
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5591, 
+                    5600
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5641, 
+                    5650
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bangunan bernuansa seperti di Eropa, pepohonan hijau sebagai kanopi alami di jalanan, cafe-cafe lucu disepanjang lorong kecil.", 
+        "line": 118, 
+        "range": [
+            5654, 
+            5779
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5684, 
+                    5688
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5725, 
+                    5730
+                ], 
+                "name": "Eropa"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5772, 
+                    5779
+                ], 
+                "name": "jalanan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terbesit keinginan untuk tinggal di Melbourne.", 
+        "line": 120, 
+        "range": [
+            5781, 
+            5826
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5781, 
+                    5790
+                ], 
+                "name": "cafe-cafe"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya ketemu dengan seorang teman dari Belgia namanya Jef.", 
+        "line": 122, 
+        "range": [
+            5828, 
+            5884
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5859, 
+                    5868
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dia berencana untuk road trip sampai Adelaide dan berhenti di beberapa spot tertentu.", 
+        "line": 124, 
+        "range": [
+            5886, 
+            5970
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5909, 
+                    5915
+                ], 
+                "name": "Belgia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nebeng deh saya walaupun saya enggak tau bakalan kemana aja, ikutan sharing cost dan gantian nyetir juga.", 
+        "line": 126, 
+        "range": [
+            5972, 
+            6076
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah tempat yang kami kunjungi di sepanjang jalan dari Melbourne sampai Adelaide adalah:", 
+        "line": 128, 
+        "range": [
+            6078, 
+            6164
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Phillip Island", 
+        "line": 130, 
+        "range": [
+            6166, 
+            6179
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Wilsons Promontory", 
+        "line": 131, 
+        "range": [
+            6180, 
+            6197
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Great Ocean Road", 
+        "line": 132, 
+        "range": [
+            6198, 
+            6213
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Grampians", 
+        "line": 133, 
+        "range": [
+            6214, 
+            6222
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 134, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terakhir sampai di Adelaide. Bukan cuma berdua tapi ada beberapa teman lain juga yang ikutan nebeng.", 
+        "line": 135, 
+        "range": [
+            6224, 
+            6323
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6228, 
+                    6246
+                ], 
+                "name": "Wilsons Promontory"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    6247, 
+                    6263
+                ], 
+                "name": "Great Ocean Road"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6264, 
+                    6273
+                ], 
+                "name": "Grampians"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6294, 
+                    6302
+                ], 
+                "name": "Adelaide"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 136, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dipikir-pikir menarik juga bagaimana kami bisa traveling hemat sama-sama dan saling berkenalan bermula dari facebook aja.", 
+        "line": 137, 
+        "range": [
+            6325, 
+            6445
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 138, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di minggu ini berasa banget road trip-nya. Selama perjalanan kami camping dan masak sendiri untuk menekan biaya.", 
+        "line": 139, 
+        "range": [
+            6447, 
+            6558
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 140, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Minggu keempat: Adelaide \u2013 Darwin", 
+        "line": 141, 
+        "range": [
+            6560, 
+            6594
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 142, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selama perjalanan ke Adelaide saya terus-terusan mengecek sosmed dan website untuk mencari tebengan ke Perth, tapi enggak ketemu.", 
+        "line": 143, 
+        "range": [
+            6596, 
+            6724
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6630, 
+                    6638
+                ], 
+                "name": "Adelaide"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6641, 
+                    6647
+                ], 
+                "name": "Darwin"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6670, 
+                    6678
+                ], 
+                "name": "Adelaide"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 144, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari sini mulai berantakan deh. Di satu sisi saya merasa aneh, road trip saya selama ini terlalu mulus seperti jalanan sutera.", 
+        "line": 145, 
+        "range": [
+            6726, 
+            6851
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6752, 
+                    6757
+                ], 
+                "name": "Perth"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 146, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya kepentok juga deh dengan halangan.", 
+        "line": 147, 
+        "range": [
+            6853, 
+            6895
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 148, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Adelaide saya dapat host dari couchsurfing.", 
+        "line": 149, 
+        "range": [
+            6897, 
+            6942
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 150, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebagai jaga-jaga aja kalau harus stay lebih lama sampai dapat tebengan ke Perth. Worst case, saya terbang ke Perth dengan harga tiket $200.", 
+        "line": 151, 
+        "range": [
+            6944, 
+            7083
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6956, 
+                    6964
+                ], 
+                "name": "Adelaide"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7076, 
+                    7081
+                ], 
+                "name": "Perth"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 152, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiba-tiba saya punya ide lain. Gimana kalau saya ke Darwin aja dan terbang pulang ke Indonesia dari Darwin.", 
+        "line": 153, 
+        "range": [
+            7085, 
+            7191
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7111, 
+                    7116
+                ], 
+                "name": "Perth"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 154, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket pesawat dari Darwin juga sama, $200. At least, saya bisa explore daerah outback.", 
+        "line": 155, 
+        "range": [
+            7193, 
+            7284
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7195, 
+                    7201
+                ], 
+                "name": "Darwin"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7228, 
+                    7237
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7243, 
+                    7249
+                ], 
+                "name": "Darwin"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7264, 
+                    7271
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7277, 
+                    7283
+                ], 
+                "name": "Darwin"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 156, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya dapat dua tebengan. Adelaide sampai Alice Spring dan Alice Spring sampai Darwin.", 
+        "line": 157, 
+        "range": [
+            7286, 
+            7370
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 158, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya saya memutuskan untuk ke Darwin aja dan menghanguskan tiket saya dari Perth.", 
+        "line": 159, 
+        "range": [
+            7372, 
+            7456
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7387, 
+                    7399
+                ], 
+                "name": "Alice Spring"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7404, 
+                    7416
+                ], 
+                "name": "Alice Spring"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7424, 
+                    7430
+                ], 
+                "name": "Darwin"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 160, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perjalanan dari Adelaide sampai Alice Spring benar-benar gila.", 
+        "line": 161, 
+        "range": [
+            7458, 
+            7519
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7467, 
+                    7473
+                ], 
+                "name": "Darwin"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7512, 
+                    7517
+                ], 
+                "name": "Perth"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 162, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya ganti-gantian nyetir sama yang punya mobil 1532 km selama 16 jam non-stop.", 
+        "line": 163, 
+        "range": [
+            7521, 
+            7599
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7536, 
+                    7544
+                ], 
+                "name": "Adelaide"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7552, 
+                    7564
+                ], 
+                "name": "Alice Spring"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 164, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Benar-benar deh pantat udah enggak berasa lagi. Yang bikin lebih sakit hati lagi, ada pesan yang masuk di inbox saya dan ada yang nawarin tebengan di hari yang sama, beberapa jam setelah saya meninggalkan Adelaide.", 
+        "line": 165, 
+        "range": [
+            7601, 
+            7814
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 166, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wah, rasanya dipermainkan oleh hidup. Coba aja saya stay agak lamaan di Adelaide.", 
+        "line": 167, 
+        "range": [
+            7816, 
+            7896
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7870, 
+                    7878
+                ], 
+                "name": "Adelaide"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 168, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Datang lagi masalah lain. Jadi saya udah janjian sama traveler lain untuk ke Darwin.", 
+        "line": 169, 
+        "range": [
+            7898, 
+            7981
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7953, 
+                    7961
+                ], 
+                "name": "Adelaide"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 170, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kirain Uluru, tempat wisata yang saya mau kunjungi itu sejalan dengan perjalanan dari Alice Spring ke Darwin.", 
+        "line": 171, 
+        "range": [
+            7983, 
+            8091
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8041, 
+                    8047
+                ], 
+                "name": "Darwin"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8057, 
+                    8062
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 172, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ternyata Uluru dan Kings Canyon letaknya sebelum Alice Spring.", 
+        "line": 173, 
+        "range": [
+            8093, 
+            8154
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8136, 
+                    8148
+                ], 
+                "name": "Alice Spring"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 174, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadinya saya harus balik lagi deh kalau mau ke Uluru.", 
+        "line": 175, 
+        "range": [
+            8156, 
+            8208
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8170, 
+                    8175
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8180, 
+                    8192
+                ], 
+                "name": "Kings Canyon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 176, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bodohnya saya, saya tidak tanya ke mas ini apakah dia mau main ke Uluru.", 
+        "line": 177, 
+        "range": [
+            8210, 
+            8281
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8210, 
+                    8222
+                ], 
+                "name": "Alice Spring"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8272, 
+                    8277
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 178, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika udah ketemu baru deh dia bilang kalau udah ke Uluru dan sekarang mau lanjut ke utara ke arah Darwin.", 
+        "line": 179, 
+        "range": [
+            8283, 
+            8389
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8346, 
+                    8351
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 180, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dengan pertimbangan yang matang, saya membatalkan tebengan ke Darwin dan coba nyari tebengan ke Uluru.", 
+        "line": 181, 
+        "range": [
+            8391, 
+            8492
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8407, 
+                    8412
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8454, 
+                    8460
+                ], 
+                "name": "Darwin"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 182, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya bertekad tidak akan meninggalkan ke Australia sebelum main ke Uluru. Tanggung soalnya udah dekat banget.", 
+        "line": 183, 
+        "range": [
+            8494, 
+            8602
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8525, 
+                    8531
+                ], 
+                "name": "Darwin"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8559, 
+                    8564
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 184, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya coba nyari ada enggak yang mau ke Uluru. Ketemu sih tapi pada mau langsung turun ke Alice Spring.", 
+        "line": 185, 
+        "range": [
+            8604, 
+            8705
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8608, 
+                    8617
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8634, 
+                    8639
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 186, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dengan berat hati saya ikutan tur selama tiga hari di Uluru.", 
+        "line": 187, 
+        "range": [
+            8707, 
+            8766
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8717, 
+                    8722
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 188, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sedih sih, soalnya saya tidak terlalu suka tur, dan biaya yang dikeluarkan tiba-tiba ngelonjak karena ikutan tur jadinya lebih mahal.", 
+        "line": 189, 
+        "range": [
+            8768, 
+            8900
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8836, 
+                    8841
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 190, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nasi telah jadi bubur, coba untuk enjoy aja deh. Uluru, Kata Tjuta, dan Kings Canyon benar-benar luar biasa dengan khasnya masing-masing.", 
+        "line": 191, 
+        "range": [
+            8902, 
+            9038
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9028, 
+                    9033
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 192, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya jadinya lebih mengerti tentang Suku Aborigin di Australia apalagi ketika tur guidenya langsung yang jelasin.", 
+        "line": 193, 
+        "range": [
+            9040, 
+            9152
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9051, 
+                    9063
+                ], 
+                "name": "Kings Canyon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 194, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu pengalaman road trip di Australia berbeda yang saya dapatkan adalah tidur di swag.", 
+        "line": 195, 
+        "range": [
+            9154, 
+            9246
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9171, 
+                    9180
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 196, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bentuk swag seperti sleeping bag, cuma lebih tebal dan besar.", 
+        "line": 197, 
+        "range": [
+            9248, 
+            9308
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9268, 
+                    9277
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 198, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pas ikutan tur kami tidur di dalam swag aja di atas tanah, udara terbuka, dan langit berbintang sebagai atap.", 
+        "line": 199, 
+        "range": [
+            9310, 
+            9418
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 200, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Semoga tidak ada serangga atau laba-laba yang masuk.", 
+        "line": 201, 
+        "range": [
+            9420, 
+            9471
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 202, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pada malam terakhir, kami membuat api unggun dan si mas guide memasak makanan khas Australia.", 
+        "line": 203, 
+        "range": [
+            9473, 
+            9565
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 204, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rebusan daging kangguru dan biskuit khas yang dipanggang di atas kayu bakar.", 
+        "line": 205, 
+        "range": [
+            9567, 
+            9642
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 206, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya harus stay beberapa hari lagi di Alice Spring sampai saya dapat tebengan ke Darwin. Seorang gadis Jerman bernama Suzy.", 
+        "line": 207, 
+        "range": [
+            9644, 
+            9766
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 208, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami berdua nyetir sampai Darwin. Singkat sih, cuma dua hari aja tapi selama perjalanan kami berbagi banyak cerita.", 
+        "line": 209, 
+        "range": [
+            9768, 
+            9882
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9810, 
+                    9816
+                ], 
+                "name": "Darwin"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9832, 
+                    9838
+                ], 
+                "name": "Jerman"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 210, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak banyak hal yang saya lakukan di Darwin.", 
+        "line": 211, 
+        "range": [
+            9884, 
+            9928
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 212, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lima menit keluar aja saya udah keringatan seperti arus sungai. Suhu pada saat itu 34 derajat dengan kelembaban 100%. Gimana bisa tahan coba.", 
+        "line": 213, 
+        "range": [
+            9930, 
+            10070
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10009, 
+                    10015
+                ], 
+                "name": "Darwin"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 214, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang berkesan dari road trip di Australia", 
+        "line": 215, 
+        "range": [
+            10072, 
+            10112
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    10074, 
+                    10080
+                ], 
+                "name": "sungai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 216, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang berkesan bagi saya dari pengalaman road trip atau liburan ke Australia ini adalah pengalaman camping, masak-masak, ketemu teman baru, bushwalking, dan juga melihat binatang liar.", 
+        "line": 217, 
+        "range": [
+            10114, 
+            10296
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10193, 
+                    10202
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10270, 
+                    10279
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 218, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selama trip ini saya melihat burung-burung yang tidak pernah saya lihat sebelumnya, binatang seperti wallaby, kangguru, koala, emi, bahkan paus liar.", 
+        "line": 219, 
+        "range": [
+            10298, 
+            10446
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 220, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa tempat yang benar-benar bikin saya takjub adalah Cradle Mountain.", 
+        "line": 221, 
+        "range": [
+            10448, 
+            10521
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 222, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bentuk gunung dengan puncaknya yang unik. Ross, sebuah kota kecil yang memikat hati saya. Twelve Apostles, aslinya jauh lebih besar dari gambar.", 
+        "line": 223, 
+        "range": [
+            10523, 
+            10666
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10598, 
+                    10613
+                ], 
+                "name": "Cradle Mountain"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10623, 
+                    10629
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10658, 
+                    10662
+                ], 
+                "name": "Ross"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 224, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemandangannya juga sangat luar biasa. Uluru, tidak heran kenapa banyak yang ingin kesana.", 
+        "line": 225, 
+        "range": [
+            10668, 
+            10757
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10671, 
+                    10675
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10706, 
+                    10721
+                ], 
+                "name": "Twelve Apostles"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 226, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sunset di Uluru benar-benar indah, apalagi ceritanya yang juga membuka mata.", 
+        "line": 227, 
+        "range": [
+            10759, 
+            10834
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10801, 
+                    10806
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 228, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terakhir Valley of the Wind di Kata Tjuta, ada sesuatu yang bisa perasaan nyaman, sulit untuk dijelaskan dengan kata-kata.", 
+        "line": 229, 
+        "range": [
+            10836, 
+            10957
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10864, 
+                    10869
+                ], 
+                "name": "Uluru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 230, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips yang perlu kamu ketahui dan persiapkan untuk road trip di Australia", 
+        "line": 231, 
+        "range": [
+            10959, 
+            11030
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10963, 
+                    10973
+                ], 
+                "name": "Kata Tjuta"
+            }
+        ]
+    }, 
+    {
+        "text": "Ini ada beberapa tips yang mungkin bisa membantu kamu merencanakan perjalanan atau liburan ke Australia dengan gaya road trip:", 
+        "line": 232, 
+        "range": [
+            11031, 
+            11156
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11119, 
+                    11128
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 233, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Beli/sewa mobil atau campervan", 
+        "line": 234, 
+        "range": [
+            11158, 
+            11190
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 235, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk mulai road trip di Australia pastinya kamu butuh kendaraan.", 
+        "line": 236, 
+        "range": [
+            11192, 
+            11256
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11223, 
+                    11232
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 237, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa pilih mobil atau cuma sewa campervan aja. Kamu bisa coba cari traveler/backpacker lain yang ingin menjual mobil bekas mereka.", 
+        "line": 238, 
+        "range": [
+            11258, 
+            11387
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11270, 
+                    11275
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11281, 
+                    11290
+                ], 
+                "name": "campervan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11317, 
+                    11326
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11370, 
+                    11375
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 239, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kisaran harga untuk beli mobil bekas beragam, dari $1,500 \u2013 $7,000.", 
+        "line": 240, 
+        "range": [
+            11389, 
+            11457
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11391, 
+                    11400
+                ], 
+                "name": "campervan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 241, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya mobil yang dipakai traveler ini sudah dimodifikasi, jadi ada tempat tidur, peralatan masak, dan peralatan camping.", 
+        "line": 242, 
+        "range": [
+            11459, 
+            11581
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11470, 
+                    11475
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11516, 
+                    11521
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11569, 
+                    11574
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 243, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pastikan untuk memeriksa kilometer, rego (semacam STNK), dan kondisi mobil. Enggak mau kan, tiba-tiba mobilnya berhenti di tengah jalan, apalagi pas di daerah pedalaman.", 
+        "line": 244, 
+        "range": [
+            11583, 
+            11751
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 245, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cek facebook groups seperti: Australia Backpackers, Sydney Backpackers, dan lainnya untuk mencari info jual beli mobil.", 
+        "line": 246, 
+        "range": [
+            11753, 
+            11871
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11754, 
+                    11759
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11787, 
+                    11795
+                ], 
+                "name": "mobilnya"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    11815, 
+                    11820
+                ], 
+                "name": "jalan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 247, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Menyewa mobil adalah cara lain yang lebih oke karena kamu enggak perlu pusing untuk menjualnya kembali.", 
+        "line": 248, 
+        "range": [
+            11873, 
+            11975
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11969, 
+                    11974
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 249, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa jasa sewa mobil memperbolehkan kamu untuk mengembalikan mobil di lokasi yang berbeda.", 
+        "line": 250, 
+        "range": [
+            11977, 
+            12070
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11985, 
+                    11990
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 251, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa perusahaan yang menyediakan jasa sewa mobil diantaranya adalah Wicked Campers, Jucy, Britz, dan Maui.", 
+        "line": 252, 
+        "range": [
+            12072, 
+            12181
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12101, 
+                    12106
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12147, 
+                    12152
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 253, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada sebuah situs yang menarik bernama imoova dimana kamu bisa menggunakan mobil hanya $1 aja, tapi harus mengembalikan mobil tersebut ke tujuan yang sudah ditentukan.", 
+        "line": 254, 
+        "range": [
+            12183, 
+            12348
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12225, 
+                    12230
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 255, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu nyetir, harus tau jarak dan lokasi tempat pengisian bensin.", 
+        "line": 256, 
+        "range": [
+            12350, 
+            12419
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12364, 
+                    12369
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12409, 
+                    12414
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 257, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Download aplikasi Fuel Map untuk informasi offline tempat isi bensin dan juga harganya di seluruh wilayah Australia.", 
+        "line": 258, 
+        "range": [
+            12421, 
+            12536
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    12504, 
+                    12527
+                ], 
+                "name": "tempat pengisian bensin"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 259, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Cari tebengan", 
+        "line": 260, 
+        "range": [
+            12538, 
+            12553
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 261, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu tidak bisa nyetir, atau solo traveler seperti saya kamu bisa coba untuk mencari tebengan sama seperti yang saya lakukan selama pengalaman road trip di Australia.", 
+        "line": 262, 
+        "range": [
+            12555, 
+            12726
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12636, 
+                    12645
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 263, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gampang kok, yang penting kamu harus fleksibel dan mau share cost.", 
+        "line": 264, 
+        "range": [
+            12728, 
+            12793
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 265, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu bisa mencari tebengan melalui grup backpacker di Facebook, forum seperti Gumtree, dan juga situs Coseats.", 
+        "line": 266, 
+        "range": [
+            12795, 
+            12904
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12828, 
+                    12837
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 267, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Cari tempat untuk camping", 
+        "line": 268, 
+        "range": [
+            12906, 
+            12933
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 269, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Australia banyak lokasi camping yang bisa kamu gunakan untuk beristirahat.", 
+        "line": 270, 
+        "range": [
+            12935, 
+            13011
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 271, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak boleh camping sembarangan. Kalau ketahuan bisa kena denda.", 
+        "line": 272, 
+        "range": [
+            13013, 
+            13076
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13053, 
+                    13062
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 273, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Download aplikasi bernama Wikicamps.", 
+        "line": 274, 
+        "range": [
+            13078, 
+            13113
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 275, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Aplikasi ini akan menunjukkan lokasi campsites baik yang gratis atau berbayar.", 
+        "line": 276, 
+        "range": [
+            13115, 
+            13192
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 277, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya kalau gratis tidak ada fasilitas, sebaliknya yang berbayar disediakan fasilitas seperti area mandi, laundry, dan kitchen.", 
+        "line": 278, 
+        "range": [
+            13194, 
+            13323
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    13270, 
+                    13279
+                ], 
+                "name": "campsites"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 279, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya untuk campsite berbayar dikenakan biaya sekitar $30 \u2013 $60 per mobil semalamnya.", 
+        "line": 280, 
+        "range": [
+            13325, 
+            13414
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 281, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Biaya liburan ke Australia ", 
+        "line": 282, 
+        "range": [
+            13416, 
+            13445
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 283, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau soal biaya, kembali lagi ke pribadi masing-masing. Biasanya untuk tinggal di dorm hostel, harga semalam sekitar $10 \u2013 $20.", 
+        "line": 284, 
+        "range": [
+            13447, 
+            13576
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    13516, 
+                    13521
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13555, 
+                    13564
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 285, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga bensin kurang lebih $1.25 per liter.", 
+        "line": 286, 
+        "range": [
+            13578, 
+            13619
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 287, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk paket tur biasa seharinya $100. Makan di luar pastinya lebih mahal. Jadi kalau mau hemat harus masak. Budgetin aja sehari $70 \u2013 $100.", 
+        "line": 288, 
+        "range": [
+            13621, 
+            13761
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    13650, 
+                    13661
+                ], 
+                "name": "dorm hostel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 289, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setidaknya untuk tempat wisata khususnya alam banyak yang gratis. Jadi pengeluaran terbesar ketika road trip di Australia adalah sewa mobil dan makan.", 
+        "line": 290, 
+        "range": [
+            13763, 
+            13912
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    13899, 
+                    13912
+                ], 
+                "name": "tempat wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 291, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Kondisi jalan dan cuaca", 
+        "line": 292, 
+        "range": [
+            13914, 
+            13939
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 293, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kondisi jalan di Australia cukup bagus dan aman. Pakai mobil biasa aja cukup kok tidak perlu pake mobil 4wd kecuali kalau memang mau adventurous banget ke area pedalaman. Setirnya sama seperti naik mobil di Indonesia.", 
+        "line": 294, 
+        "range": [
+            13941, 
+            14157
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13994, 
+                    14003
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    14016, 
+                    14021
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14079, 
+                    14088
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    14117, 
+                    14122
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 295, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nyetir malam hari harus lebih berhati-hati karena banyak binatang liar seperti kangguru.", 
+        "line": 296, 
+        "range": [
+            14159, 
+            14246
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    14160, 
+                    14165
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 297, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari pengalaman road trip di Australia, saya banyak banget ngelihat kangguru yang mati di tengah jalan dan bisa berbahaya juga.", 
+        "line": 298, 
+        "range": [
+            14248, 
+            14374
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    14260, 
+                    14265
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14269, 
+                    14278
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 299, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tanda-tanda untuk berkendara di Australia jelas, seperti batas kecepatan, dan juga tanda dimana kamu boleh memotong.", 
+        "line": 300, 
+        "range": [
+            14376, 
+            14491
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14400, 
+                    14409
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    14468, 
+                    14473
+                ], 
+                "name": "jalan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 301, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rest area untuk beristirahat juga banyak. Pengendara mobil di Australia baik-baik semua.", 
+        "line": 302, 
+        "range": [
+            14493, 
+            14580
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14532, 
+                    14541
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 303, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mereka biasanya ngasih tanda lampu sen artinya aman untuk memotong jalur.", 
+        "line": 304, 
+        "range": [
+            14582, 
+            14654
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    14618, 
+                    14627
+                ], 
+                "name": "Rest area"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 305, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cuaca di Australia berbeda tergantung dengan lokasinya. Musim di Australia terbalik dengan negara Eropa.", 
+        "line": 306, 
+        "range": [
+            14656, 
+            14759
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    14671, 
+                    14676
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14680, 
+                    14689
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 307, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Musim panasnya di bulan Desember \u2013 Februari dan musim dinginnya di bulan Juni \u2013 Agustus.", 
+        "line": 308, 
+        "range": [
+            14761, 
+            14852
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    14775, 
+                    14780
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14792, 
+                    14801
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 309, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di bagian selatan seperti Tasmania atau Melbourne bisa dingin banget, tapi kalau udah sampai ke Northern Territory seperti Alice Spring atau Darwin cuacanya panas.", 
+        "line": 310, 
+        "range": [
+            14854, 
+            15016
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    14881, 
+                    14886
+                ], 
+                "name": "Eropa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    15005, 
+                    15013
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 311, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selalu periksa perkiraan cuaca dan temperaturnya. Bawa juga baju yang cocok sesuai musim.", 
+        "line": 312, 
+        "range": [
+            15018, 
+            15106
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    15019, 
+                    15028
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    15075, 
+                    15093
+                ], 
+                "name": "Northern Territory"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 313, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bawalah air yang cukup apalagi di area seperti Uluru.", 
+        "line": 314, 
+        "range": [
+            15108, 
+            15160
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    15120, 
+                    15126
+                ], 
+                "name": "Darwin"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 315, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itulah itinerary dan juga cerita pengalaman saya liburan ke Australia dengan cara nebeng atau road trip.", 
+        "line": 316, 
+        "range": [
+            15162, 
+            15265
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 317, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Seru banget sih, dan berkesan juga. Kalau ada yang mau kamu tanyakan boleh langsung komen ya!", 
+        "line": 318, 
+        "range": [
+            15267, 
+            15359
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    15282, 
+                    15287
+                ], 
+                "name": "Uluru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    15350, 
+                    15359
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }
+]

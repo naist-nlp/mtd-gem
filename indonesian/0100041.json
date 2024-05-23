@@ -1,0 +1,2007 @@
+[
+    {
+        "text": "November 25, 2022  Panduan Dan Tips Wisata Pulau Komodo, Serunya Live On Board!", 
+        "line": 0, 
+        "range": [
+            1, 
+            79
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    43, 
+                    55
+                ], 
+                "name": "Pulau Komodo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhir-akhir ini lagi nge-trend banget wisata Pulau Komodo. Yep, bisa dibilang Pulau Komodo adalah salah satu destinasi wisata yang sangat populer di Indonesia. ", 
+        "line": 2, 
+        "range": [
+            81, 
+            240
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    126, 
+                    138
+                ], 
+                "name": "Pulau Komodo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    159, 
+                    171
+                ], 
+                "name": "Pulau Komodo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    230, 
+                    239
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Satu-satunya tempat untuk melihat habitat asli hewan langka yaitu Komodo Dragon.", 
+        "line": 4, 
+        "range": [
+            242, 
+            321
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain memiliki kekayaan satwa liarnya, Pulau Komodo juga menawarkan pantai eksotis.", 
+        "line": 6, 
+        "range": [
+            323, 
+            406
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    365, 
+                    377
+                ], 
+                "name": "Pulau Komodo"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    394, 
+                    400
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ditambah lagi keindahan bawah lautnya, cocok untuk diving atau snorkeling.", 
+        "line": 8, 
+        "range": [
+            408, 
+            481
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    441, 
+                    448
+                ], 
+                "name": "lautnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya akan berbagi pengalaman saya jalan jalan ke Pulau Komodo, lengkap dengan tips dan panduan untuk wisata ke Pulau Komodo.", 
+        "line": 10, 
+        "range": [
+            483, 
+            606
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    536, 
+                    548
+                ], 
+                "name": "Pulau Komodo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perkenalan singkat tentang wisata Pulau Komodo", 
+        "line": 12, 
+        "range": [
+            608, 
+            653
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Komodo yang juga dikenal sebagai Taman Nasional Komodo berada di provinsi Nusa Tenggara Timur.", 
+        "line": 14, 
+        "range": [
+            655, 
+            754
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    661, 
+                    673
+                ], 
+                "name": "Pulau Komodo"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    700, 
+                    721
+                ], 
+                "name": "Taman Nasional Komodo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya untuk berkunjung ke Pulau Komodo, titik mulainya adalah Labuan Bajo.", 
+        "line": 16, 
+        "range": [
+            756, 
+            832
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    792, 
+                    804
+                ], 
+                "name": "Pulau Komodo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Taman Nasional Komodo terdiri dari 3 pulau utama yaitu: Pualu Rinca (Loh Buaya), Pulau Komodo (Loh Liang), dan Pulau Padar.", 
+        "line": 18, 
+        "range": [
+            834, 
+            956
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    842, 
+                    863
+                ], 
+                "name": "Taman Nasional Komodo"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    879, 
+                    884
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    898, 
+                    909
+                ], 
+                "name": "Pualu Rinca"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    911, 
+                    920
+                ], 
+                "name": "Loh Buaya"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    923, 
+                    935
+                ], 
+                "name": "Pulau Komodo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    937, 
+                    946
+                ], 
+                "name": "Loh Liang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Komodo dinobatkan sebagai salah satu dari 7 keajaiban dunia versi New7Wonders pada tahun 2012.", 
+        "line": 20, 
+        "range": [
+            958, 
+            1057
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    967, 
+                    979
+                ], 
+                "name": "Pulau Komodo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Binatang Komodo sendiri adalah salah satu spesies langka yang hampir punah, karena itulah Komodo ditetapkan sebagai Situs Warisan Dunia dan Cagar Biosfer oleh UNESCO.", 
+        "line": 22, 
+        "range": [
+            1059, 
+            1224
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Populasi Komodo saat ini berjumlah lebih dari 3,000 ekor. Jika kamu melihat Komodo secara langsung pasti mengira kalau hewan langka ini lambat. Ternyata seekor Komodo bisa bergerak 20 \u2013 30 km/jam.", 
+        "line": 24, 
+        "range": [
+            1226, 
+            1423
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Komodo memiliki indra penciuman yang sangat baik, selain itu kadal raksasa ini hidup secara mandiri dan berburu mangsa secara mandiri.", 
+        "line": 26, 
+        "range": [
+            1425, 
+            1558
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika akan bertelur, Komodo akan menggali banyak lubang. Hanya satu lubang yang digunakan sebagai tempat menyimpan telur. Lubang yang lain hanya untuk mengecoh pemangsa.", 
+        "line": 28, 
+        "range": [
+            1560, 
+            1729
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika bayi Komodo lahir, mereka akan memanjat pohon untuk melindungi diri. Persentase telur menetas sebesar 95% tetapi persentase bayi-bayi ini untuk bertahan hanya 15-20%.", 
+        "line": 30, 
+        "range": [
+            1731, 
+            1903
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara menuju ke Pulau Komodo", 
+        "line": 32, 
+        "range": [
+            1905, 
+            1931
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pintu masuk Taman Nasional Komodo adalah Labuan Bajo.", 
+        "line": 34, 
+        "range": [
+            1933, 
+            1985
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1933, 
+                    1945
+                ], 
+                "name": "Pulau Komodo"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1959, 
+                    1980
+                ], 
+                "name": "Taman Nasional Komodo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu bisa mengambil penerbangan langsung dari Jakarta ke Labuan Bajo. Kalau mau lebih murah bisa cek tiket pesawat transit di Bali dulu, baru lanjut ke Labuan Bajo.", 
+        "line": 36, 
+        "range": [
+            1987, 
+            2150
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1988, 
+                    1999
+                ], 
+                "name": "Labuan Bajo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2048, 
+                    2055
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2059, 
+                    2070
+                ], 
+                "name": "Labuan Bajo"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2109, 
+                    2116
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2128, 
+                    2132
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, sampai Labuan Bajo baru deh ikutan Live on Board Tour.", 
+        "line": 38, 
+        "range": [
+            2152, 
+            2210
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2154, 
+                    2165
+                ], 
+                "name": "Labuan Bajo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2180, 
+                    2191
+                ], 
+                "name": "Labuan Bajo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu bakal berlayar di kapal selama beberapa hari (2D1N/3D2N) dan mengunjungi pulau-pulau lain seperti Pulau Kelor, Pulau Komodo, Pulau Rinca, Pink Beach, Pulau Kanawa, Pulau Padar, tergantung itinerary.", 
+        "line": 40, 
+        "range": [
+            2212, 
+            2414
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2252, 
+                    2257
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2307, 
+                    2318
+                ], 
+                "name": "pulau-pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2332, 
+                    2343
+                ], 
+                "name": "Pulau Kelor"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2345, 
+                    2357
+                ], 
+                "name": "Pulau Komodo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2359, 
+                    2370
+                ], 
+                "name": "Pulau Rinca"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2372, 
+                    2382
+                ], 
+                "name": "Pink Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2384, 
+                    2396
+                ], 
+                "name": "Pulau Kanawa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2398, 
+                    2409
+                ], 
+                "name": "Pulau Padar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa juga ikutan Live on Board selama 4 hari, biasanya start Lombok finish Labuan Bajo, atau sebaliknya, start Labuan Bajo dan finish di Lombok.", 
+        "line": 42, 
+        "range": [
+            2416, 
+            2559
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2495, 
+                    2501
+                ], 
+                "name": "Lombok"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2509, 
+                    2520
+                ], 
+                "name": "Labuan Bajo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2545, 
+                    2556
+                ], 
+                "name": "Labuan Bajo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada kapal yang menyediakan kabin atau tempat tidur, ada juga kapal yang menyediakan area tidur bersama di deck kapal. Harganya pasti berbeda. Bisa coba cek paket 3D2N live on board dari Klook, harganya start dari RP 2jtan.", 
+        "line": 44, 
+        "range": [
+            2561, 
+            2782
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2571, 
+                    2577
+                ], 
+                "name": "Lombok"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2584, 
+                    2589
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2641, 
+                    2646
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2691, 
+                    2696
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk paket tur one-day trip  bisa coba langsung cari on the spot, biayanya kalau tidak salah di sekitar Rp 500,000 \u2013 Rp 700,000 per orangnya.", 
+        "line": 46, 
+        "range": [
+            2784, 
+            2927
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya paket wisata Pulau Komodo dengan cara Live on Board ini sudah termasuk penjemputan ke pelabuhan, makanan, guide, alat snorkeling, dan juga tidur di kapal.", 
+        "line": 48, 
+        "range": [
+            2929, 
+            3091
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2970, 
+                    2982
+                ], 
+                "name": "Pulau Komodo"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3043, 
+                    3052
+                ], 
+                "name": "pelabuhan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hanya saja biayanya tidak termasuk tiket masuk Taman Nasional.", 
+        "line": 50, 
+        "range": [
+            3093, 
+            3154
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3105, 
+                    3110
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biaya tiket masuk Taman Nasional Komodo", 
+        "line": 52, 
+        "range": [
+            3156, 
+            3194
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3160, 
+                    3174
+                ], 
+                "name": "Taman Nasional"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain tiket masuk Taman Nasional Komodo, ada juga biaya retribusi lain yang harus dibayarkan.", 
+        "line": 54, 
+        "range": [
+            3196, 
+            3289
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3237, 
+                    3258
+                ], 
+                "name": "Taman Nasional Komodo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau ditotal expect aja untuk membayar tiket masuk sekitar Rp 150,000 untuk WNI dan Rp 400,000 untuk WNA.", 
+        "line": 56, 
+        "range": [
+            3291, 
+            3396
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Update Juli 2020: Saat ini di era new normal, wisatawan yang ingin berkunjung ke Pulau Komodo harus melakukan registrasi atau pendaftaran online di situs https://booking.labuanbajoflores.id. ", 
+        "line": 58, 
+        "range": [
+            3398, 
+            3588
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3503, 
+                    3515
+                ], 
+                "name": "Pulau Komodo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saat registrasi online, calon wisatawan diminta untuk mempersiapkan dokumen untuk divalidasi seperti surat keterangan dari e-HAC, bukti asuransi, dan identitas calon wisatawan seperti NIK atau paspor.", 
+        "line": 60, 
+        "range": [
+            3590, 
+            3789
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman saya liburan ke Pulau Komodo dan Itinerary-nya", 
+        "line": 62, 
+        "range": [
+            3791, 
+            3847
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya beruntung dapat trip gratis karena menang lomba dari Kementrian Pariwisata Indonesia dalam rangka mempromosikan wisata Pulau Komodo.", 
+        "line": 64, 
+        "range": [
+            3849, 
+            3985
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: Penerbangan ke Bali", 
+        "line": 66, 
+        "range": [
+            3987, 
+            4012
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4000, 
+                    4012
+                ], 
+                "name": "Pulau Komodo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Jakarta kami terbang ke Bali dan langsung menginap di Mercure Hotel. Fasilitas yang diberikan oke banget.", 
+        "line": 68, 
+        "range": [
+            4014, 
+            4123
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4037, 
+                    4041
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4048, 
+                    4055
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4072, 
+                    4076
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4102, 
+                    4115
+                ], 
+                "name": "Mercure Hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya pikir 1 kamar sharing, diisi 2 orang ternyata 1 kamar untuk 1 orang.", 
+        "line": 70, 
+        "range": [
+            4125, 
+            4197
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Koordinator trip ngasih tau saya kalau boleh pesan apa saja di resto hotel untuk makan siang. Wow, mewah banget. Beda dengan pas saya traveling yang selalu on budget.", 
+        "line": 72, 
+        "range": [
+            4199, 
+            4364
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4299, 
+                    4304
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Bali tidak terlalu banyak acara, hanya free time saja karena memang untuk transit dan istirahat semalam.", 
+        "line": 74, 
+        "range": [
+            4366, 
+            4472
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4401, 
+                    4405
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: Labuan Bajo \u2013 Pulau Rinca \u2013 Pulau Kanawa", 
+        "line": 76, 
+        "range": [
+            4474, 
+            4524
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4514, 
+                    4525
+                ], 
+                "name": "Labuan Bajo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di hari kedua kami terbang ke Labuan Bajo. Dari pesawat terlihat view Gunung Rinjani dan Gunung Tambora yang terlihat mempesona.", 
+        "line": 78, 
+        "range": [
+            4526, 
+            4653
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4528, 
+                    4539
+                ], 
+                "name": "Pulau Rinca"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4542, 
+                    4554
+                ], 
+                "name": "Pulau Kanawa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4586, 
+                    4597
+                ], 
+                "name": "Labuan Bajo"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4604, 
+                    4611
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4626, 
+                    4640
+                ], 
+                "name": "Gunung Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "\u201cKapan ya bisa mendaki Gunung Rinjani lagi?\u201d, pertanyaan tersebut terbesit di pikiran saya.", 
+        "line": 80, 
+        "range": [
+            4655, 
+            4749
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4709, 
+                    4723
+                ], 
+                "name": "Gunung Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Satu kata yang cocok untuk Labuan Bajo, PANAS! Terik matahari dan panasnya sih benar-benar harus ditahan. Gapapa la ya, sekalian tanning.", 
+        "line": 82, 
+        "range": [
+            4751, 
+            4887
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4806, 
+                    4817
+                ], 
+                "name": "Labuan Bajo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rombongan kami disambut dengan penduduk yang menggunakan baju tradisional. Saya dikasih sebuah selendang khas dari kain tenun lokal.", 
+        "line": 84, 
+        "range": [
+            4889, 
+            5020
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari bandara kami langsung ke pelabuhan dengan bus dan langsung naik speedboat ke Pulau Rinca.", 
+        "line": 86, 
+        "range": [
+            5022, 
+            5115
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5057, 
+                    5064
+                ], 
+                "name": "bandara"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5082, 
+                    5091
+                ], 
+                "name": "pelabuhan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5099, 
+                    5102
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekitar 45 menit kemudian kami sampai di Pulau Rinca dan langsung trekking.", 
+        "line": 88, 
+        "range": [
+            5117, 
+            5191
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5121, 
+                    5130
+                ], 
+                "name": "speedboat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5134, 
+                    5145
+                ], 
+                "name": "Pulau Rinca"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ranger menuntun kami sambil menjelaskan tentang Komodo. Beruntung kami bisa melihat 3 ekor Komodo yang sedang aktif memangsa babi liar.", 
+        "line": 90, 
+        "range": [
+            5193, 
+            5327
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rasanya beda melihat hewan langsung di habitat langsung dengan melihatnya di kebun binatang.", 
+        "line": 92, 
+        "range": [
+            5329, 
+            5420
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain di Pulau Komodo saya pernah juga melihat orang utan di Bukit Lawang dan juga berkunjung ke Pulau Peucang di Taman Nasional Ujung Kulon yang masih liar dan alami.", 
+        "line": 94, 
+        "range": [
+            5422, 
+            5589
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5439, 
+                    5453
+                ], 
+                "name": "kebun binatang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5466, 
+                    5478
+                ], 
+                "name": "Pulau Komodo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5518, 
+                    5530
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5554, 
+                    5567
+                ], 
+                "name": "Pulau Peucang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah selesai trekking, kami menuju ke pulau selanjutnya yaitu Pulau Kanawa. Pantai pasir putih dan juga bukit yang sangat eksotis, jarang-jarang bisa melihat pemandangan seperti ini.", 
+        "line": 96, 
+        "range": [
+            5591, 
+            5775
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5667, 
+                    5672
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5691, 
+                    5703
+                ], 
+                "name": "Pulau Kanawa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5705, 
+                    5711
+                ], 
+                "name": "Pantai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5733, 
+                    5738
+                ], 
+                "name": "bukit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saatnya snorkeling! Ternyata bawah laut di sini masih sehat dan bagus. Terumbu karangnya banyak. Di bawah dermaga ada gerombolan ikan, rasanya puas deh snorkeling di sini.", 
+        "line": 98, 
+        "range": [
+            5777, 
+            5947
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5848, 
+                    5852
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5919, 
+                    5926
+                ], 
+                "name": "dermaga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3: Pulau Komodo \u2013 Pink Beach", 
+        "line": 100, 
+        "range": [
+            5949, 
+            5982
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 5 pagi saya bangun. Capek sih, kurang tidur. Tapi saya tetap semangat untuk menjalankan kegiatan hari ini.", 
+        "line": 102, 
+        "range": [
+            5984, 
+            6093
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5993, 
+                    6005
+                ], 
+                "name": "Pulau Komodo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6008, 
+                    6018
+                ], 
+                "name": "Pink Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sarapan, kami ke pelabuhan lagi dan naik kapal yang sama. Tujuan hari ini adalah Pulau Komodo dan Pink Beach.", 
+        "line": 104, 
+        "range": [
+            6095, 
+            6211
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6157, 
+                    6166
+                ], 
+                "name": "pelabuhan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6181, 
+                    6186
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Seperti biasa, saya turun duluan untuk langsung foto-foto di pintu masuk Pulau Komodo sebelum diserbu yang lain.", 
+        "line": 106, 
+        "range": [
+            6213, 
+            6324
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6221, 
+                    6233
+                ], 
+                "name": "Pulau Komodo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6238, 
+                    6248
+                ], 
+                "name": "Pink Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gerbang masuknya terbuat dari batu-batu dengan patung Komodo.", 
+        "line": 108, 
+        "range": [
+            6326, 
+            6386
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lagi-lagi trekking. Di sini hanya ada pondok sebagai tempat tinggal ranger.", 
+        "line": 110, 
+        "range": [
+            6388, 
+            6462
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Para ranger ini gantian jaga menggunakan sistem giliran, 10 hari kerja 10 hari istirahat.", 
+        "line": 112, 
+        "range": [
+            6464, 
+            6552
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu ranger bilang ke saya kalau dia lebih suka tinggal di Pulau Komodo daripada Labuan Bajo.", 
+        "line": 114, 
+        "range": [
+            6554, 
+            6652
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Katanya juga sekarang wisatawan domestik makin meningkat. Dulunya lebih banyak wisatawan asing.", 
+        "line": 116, 
+        "range": [
+            6654, 
+            6748
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6661, 
+                    6673
+                ], 
+                "name": "Pulau Komodo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6683, 
+                    6694
+                ], 
+                "name": "Labuan Bajo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di siang hari komodo-komodo ini tiduran saja, bersantai. Memang Komodo adalah hewan yang lebih aktif di malam hari.", 
+        "line": 118, 
+        "range": [
+            6750, 
+            6864
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami sampai di sebuah mata air yang sengaja di buat untuk menarik hewan lain seperti rusa, babi hutan, dan kerbau.", 
+        "line": 120, 
+        "range": [
+            6866, 
+            6979
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6933, 
+                    6941
+                ], 
+                "name": "mata air"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya kaget pas ngelihat 5 ekor komodo berkumpul di satu titik. Ukurannya lebih besar daripada Komodo di Pulau Rinca.", 
+        "line": 122, 
+        "range": [
+            6981, 
+            7096
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Walaupun agak takut, saya tetap berfoto bersama mereka dri kejauhan. Setelah itu trekking selama 1.5 jam.", 
+        "line": 124, 
+        "range": [
+            7098, 
+            7202
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7131, 
+                    7142
+                ], 
+                "name": "Pulau Rinca"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tujuan selanjutnya adalah Pink Beach yang terletak di sisi lain Pulau Komodo.", 
+        "line": 126, 
+        "range": [
+            7204, 
+            7280
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantainya benar-benar berwarna pink! Tidak semuanya pink tapi bisa terlihat gradasi warna pinknya.", 
+        "line": 128, 
+        "range": [
+            7282, 
+            7379
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7316, 
+                    7328
+                ], 
+                "name": "Pulau Komodo"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7331, 
+                    7340
+                ], 
+                "name": "Pantainya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak ada teori pasti yang menjelaskan kenapa pasirnya bisa berwarna pink. Katanya sih karena sisa terumbu karang yang sudah hancur.", 
+        "line": 130, 
+        "range": [
+            7381, 
+            7512
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 131, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah makan siang dan menunggu makanan tercerna, saya lompat lagi ke dalam air dan snorkeling.", 
+        "line": 132, 
+        "range": [
+            7514, 
+            7609
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 133, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terumbu karang di sini lebih bagus dibandingkan Pulau Kanawa!", 
+        "line": 134, 
+        "range": [
+            7611, 
+            7671
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 135, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya kami kembali ke hotel di Labuan Bajo. Ngantuk ,capek. Saya mandi kemudian duduk di balkon untuk melihat matahari tenggelam.", 
+        "line": 136, 
+        "range": [
+            7673, 
+            7804
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7711, 
+                    7723
+                ], 
+                "name": "Pulau Kanawa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7751, 
+                    7756
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7760, 
+                    7771
+                ], 
+                "name": "Labuan Bajo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 137, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagus banget, matahari bulat merah perlahan-lahan menghilang, hari pun berganti malam.", 
+        "line": 138, 
+        "range": [
+            7806, 
+            7891
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 139, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena hari terakhir, kami disuguhi makan malam mewah disamping kolam.", 
+        "line": 140, 
+        "range": [
+            7893, 
+            7962
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 141, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami bernyanyi, menari, dan merayakan hari terakhir sebelum berpisah.", 
+        "line": 142, 
+        "range": [
+            7964, 
+            8032
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 143, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terima kasih kepada Indonesia.Travel yang sudah melaksanakan kegiatan ini.", 
+        "line": 144, 
+        "range": [
+            8034, 
+            8107
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 145, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terima kasih kepada koordinator acara kami. Terima kasih juga kepada para pemenang yang telah meramaikan trip ini.", 
+        "line": 146, 
+        "range": [
+            8109, 
+            8222
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 147, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips liburan ke Pulau Komodo ", 
+        "line": 148, 
+        "range": [
+            8224, 
+            8252
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 149, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saran saya coba ikutan open trip saja karena kalau sewa kapal sendiri mahal, kecuali kalau kamu membawa rombongan.", 
+        "line": 150, 
+        "range": [
+            8254, 
+            8367
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8299, 
+                    8311
+                ], 
+                "name": "Pulau Komodo"
+            }
+        ]
+    }, 
+    {
+        "text": "Bawa pakaian tipis, topi, kacamata, dan sunblock karena panas banget di sana.", 
+        "line": 151, 
+        "range": [
+            8368, 
+            8444
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8370, 
+                    8375
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "Jaga jarak dengan Komodo. Jangan terlalu dekat, jangan sampai terpisah dengan rombongan, dan ikuti kata ranger.", 
+        "line": 152, 
+        "range": [
+            8445, 
+            8555
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagi perempuan yang menstruasi, bilang sama guide atau ranger.", 
+        "line": 153, 
+        "range": [
+            8556, 
+            8617
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Bawa air yang cukup, jangan sampai dehidrasi.", 
+        "line": 154, 
+        "range": [
+            8618, 
+            8662
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 155, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Walaupun saya perginya gratis, tapi saya sudah merangkum panduan wisata Pulau Komodo dan juga tips nya dari berbagai sumber.  Sayangnya saya tidak ke Pulau Padar. Kalau ada kesempatan lagi mudah-mudahan saya bisa main ke Pulau Padar juga, doain ya!", 
+        "line": 156, 
+        "range": [
+            8664, 
+            8911
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8801, 
+                    8813
+                ], 
+                "name": "Pulau Komodo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8879, 
+                    8890
+                ], 
+                "name": "Pulau Padar"
+            }
+        ]
+    }
+]

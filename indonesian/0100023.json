@@ -1,0 +1,1325 @@
+[
+    {
+        "text": "December 23, 2021  Hahoe Folk Village: Desa Tradisional Korea Yang Masih Terjaga Dengan Baik", 
+        "line": 0, 
+        "range": [
+            1, 
+            92
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    19, 
+                    37
+                ], 
+                "name": "Hahoe Folk Village"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    39, 
+                    43
+                ], 
+                "name": "Desa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    56, 
+                    61
+                ], 
+                "name": "Korea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hahoe Folk Village adalah sebuah desa tradisional di Korea Selatan, tepatnya di daerah Andong yang masih terjaga dengan baik. Hahoe Folk Village juga merupakan salah satu situs warisan dunia yang dilindungi.", 
+        "line": 2, 
+        "range": [
+            94, 
+            300
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    94, 
+                    112
+                ], 
+                "name": "Hahoe Folk Village"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    127, 
+                    131
+                ], 
+                "name": "desa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    147, 
+                    160
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    181, 
+                    187
+                ], 
+                "name": "Andong"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    220, 
+                    238
+                ], 
+                "name": "Hahoe Folk Village"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah mengunjungi salah satu kota bersejarah di Korea Selatan yaitu Gyeongju, saya melanjutkan perjalanan ke Andong dimana sebuah desa tradisional yang bernama Hahoe Folk Village menanti.", 
+        "line": 4, 
+        "range": [
+            302, 
+            490
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    334, 
+                    338
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    353, 
+                    366
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    373, 
+                    381
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    414, 
+                    420
+                ], 
+                "name": "Andong"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    435, 
+                    439
+                ], 
+                "name": "desa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    465, 
+                    483
+                ], 
+                "name": "Hahoe Folk Village"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kota Andong terletak sekitar 2 jam berkendara dari Busan dan sekitar 3 jam berkendara dari ibukota Korea Selatan, Seoul.", 
+        "line": 6, 
+        "range": [
+            492, 
+            611
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    494, 
+                    505
+                ], 
+                "name": "Kota Andong"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    545, 
+                    550
+                ], 
+                "name": "Busan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    585, 
+                    592
+                ], 
+                "name": "ibukota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    593, 
+                    606
+                ], 
+                "name": "Korea Selatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Desa tradisional Hahoe sangat menarik karena pemandangan alamnya yang sangat menarik dan juga perumahan bergaya tradisional.", 
+        "line": 8, 
+        "range": [
+            613, 
+            736
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    616, 
+                    620
+                ], 
+                "name": "Desa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    633, 
+                    638
+                ], 
+                "name": "Hahoe"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebelum ke Korea Selatan, jangan lupa untuk apply visa Korea dulu ya!", 
+        "line": 10, 
+        "range": [
+            738, 
+            806
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    753, 
+                    766
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    797, 
+                    802
+                ], 
+                "name": "Korea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sejarah Hahoe Folk Village", 
+        "line": 12, 
+        "range": [
+            808, 
+            833
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hahoe Folk Village atau desa tradisional Hahoe merupakan sebuah desa tradisional yang sudah ada sejak zaman Kerajaan Joseon. Posisi desa ini terletak diantara Gunung Namsan dan Tebing Buyongdae.", 
+        "line": 14, 
+        "range": [
+            835, 
+            1028
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    841, 
+                    859
+                ], 
+                "name": "Hahoe Folk Village"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    865, 
+                    869
+                ], 
+                "name": "desa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    882, 
+                    887
+                ], 
+                "name": "Hahoe"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    905, 
+                    909
+                ], 
+                "name": "desa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    973, 
+                    977
+                ], 
+                "name": "desa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1000, 
+                    1013
+                ], 
+                "name": "Gunung Namsan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Desa tradisional Hahoe masih menjaga tradisi dan kebudayaan Korea lama sehingga ketika memasuki Hahoe, saya langsung merasa seperti kembali ke masa lalu.", 
+        "line": 16, 
+        "range": [
+            1030, 
+            1182
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1037, 
+                    1041
+                ], 
+                "name": "Desa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1054, 
+                    1059
+                ], 
+                "name": "Hahoe"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1097, 
+                    1102
+                ], 
+                "name": "Korea"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1133, 
+                    1138
+                ], 
+                "name": "Hahoe"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hahoe Folk Village merupakan tempat kelahiran dari dua sosok sejarah yang sangat terkenal yaitu Ryu Unrong dan Ryu Seongryong.", 
+        "line": 18, 
+        "range": [
+            1184, 
+            1309
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1192, 
+                    1210
+                ], 
+                "name": "Hahoe Folk Village"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Keduanya diberkati dengan talenta yang sangat luar biasa, satunya adalah orang terpelajar ketika zaman Kerajaan Joseon, yang satunya lagi adalah perdana menteri disaat masa penjajahan Jepang.", 
+        "line": 20, 
+        "range": [
+            1311, 
+            1501
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nama Hahoe memiliki arti belokan sungai karena lokasinya yang terletak di likuan sungai Nakdong yang berbentuk seperti huruf S.", 
+        "line": 22, 
+        "range": [
+            1503, 
+            1629
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1518, 
+                    1523
+                ], 
+                "name": "Hahoe"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1546, 
+                    1552
+                ], 
+                "name": "sungai"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1594, 
+                    1608
+                ], 
+                "name": "sungai Nakdong"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di bagian timur desa ini, ada juga sebuah gunung yang bernama Gunung Hwa dengan ketinggian 271 meter.", 
+        "line": 24, 
+        "range": [
+            1631, 
+            1731
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1658, 
+                    1662
+                ], 
+                "name": "desa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1684, 
+                    1690
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1704, 
+                    1714
+                ], 
+                "name": "Gunung Hwa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara menuju Hahoe Folk Village", 
+        "line": 26, 
+        "range": [
+            1733, 
+            1762
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu bisa naik bus dari kota lain menuju Terminal Bus Andong. Sesampainya disana, tinggal naik bus dengan nomor 46 menuju Hahoe Folk Village.", 
+        "line": 28, 
+        "range": [
+            1764, 
+            1904
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1792, 
+                    1795
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1801, 
+                    1805
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1818, 
+                    1837
+                ], 
+                "name": "Terminal Bus Andong"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1872, 
+                    1891
+                ], 
+                "name": "bus dengan nomor 46"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perjalanan kurang lebih memakan waktu sekitar 30-45 menit dengan harga tike bus 1,200 won.", 
+        "line": 30, 
+        "range": [
+            1906, 
+            1995
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Hahoe Folk Village", 
+        "line": 32, 
+        "range": [
+            1997, 
+            2032
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk untuk mengunjungi Hahoe Folk Village adalah 5,000 won untuk orang dewasa, 2,500 won untuk remaja, dan 1,500 won untuk anak-anak.", 
+        "line": 34, 
+        "range": [
+            2034, 
+            2179
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2086, 
+                    2104
+                ], 
+                "name": "Hahoe Folk Village"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiket masuk untuk mask museum adalah 2,000 won. Menyebrangi sungai dengan kapal harganya 3,000 won pulang pergi.", 
+        "line": 36, 
+        "range": [
+            2181, 
+            2292
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2216, 
+                    2227
+                ], 
+                "name": "mask museum"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2258, 
+                    2264
+                ], 
+                "name": "sungai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2272, 
+                    2277
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman saya mengunjungi Desa Tradisional Hahoe", 
+        "line": 38, 
+        "range": [
+            2294, 
+            2343
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Daegu saya naik bus menuju Andong dan dilanjutkan ke Desa Tradisional Hahoe. Rencana saya memang hanya mengunjungi Hahoe sehari, jadi pergi dan pulangnya kembali ke Daegu di hari yang sama.", 
+        "line": 40, 
+        "range": [
+            2345, 
+            2538
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2369, 
+                    2374
+                ], 
+                "name": "Daegu"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2385, 
+                    2388
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2396, 
+                    2402
+                ], 
+                "name": "Andong"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2422, 
+                    2444
+                ], 
+                "name": "Desa Tradisional Hahoe"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2484, 
+                    2489
+                ], 
+                "name": "Hahoe"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2534, 
+                    2539
+                ], 
+                "name": "Daegu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di saat saya menginjakkan kaki di situs warisan dunia ini, langit terlihat mendung dan kabut pun menyelimuti desa ini.", 
+        "line": 42, 
+        "range": [
+            2540, 
+            2657
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terkadang hujan rintik-rintik turun, kemudian berhenti, dan turun lagi.", 
+        "line": 44, 
+        "range": [
+            2659, 
+            2729
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2669, 
+                    2673
+                ], 
+                "name": "desa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemandangan diselimuti kabut", 
+        "line": 46, 
+        "range": [
+            2731, 
+            2758
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya saya paling bete dengan hujan. Apalagi ketika sedang jalan-jalan kesuatu tempat. Tapi ternyata hujan yang turun menciptakan suasana sendu dan warna khas tersendiri di Hahoe.", 
+        "line": 48, 
+        "range": [
+            2760, 
+            2941
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Suasana desa dipadu dengan lahan sawah di lereng gunung sangatlah menyegarkan mata.", 
+        "line": 50, 
+        "range": [
+            2943, 
+            3025
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2959, 
+                    2964
+                ], 
+                "name": "Hahoe"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2975, 
+                    2979
+                ], 
+                "name": "desa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3000, 
+                    3005
+                ], 
+                "name": "sawah"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3016, 
+                    3022
+                ], 
+                "name": "gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Langsung saja saya menaiki kapal kecil dan menyebrangi Sungai Nakdonggang. Dari sisi yang satunya, saya naik ke Tebing Buyongdae untuk melihat view Desa Tradisional Hahoe yang menakjubkan dari atas.", 
+        "line": 52, 
+        "range": [
+            3027, 
+            3224
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3079, 
+                    3084
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    3107, 
+                    3125
+                ], 
+                "name": "Sungai Nakdonggang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3164, 
+                    3180
+                ], 
+                "name": "Tebing Buyongdae"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3200, 
+                    3222
+                ], 
+                "name": "Desa Tradisional Hahoe"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Keluarga Pungsan Ryu yang membangun desa ini merupakan salah satu dari lima keluarga yang memiliki kedudukan yang kuat di daerah Andong.", 
+        "line": 54, 
+        "range": [
+            3226, 
+            3361
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3288, 
+                    3292
+                ], 
+                "name": "desa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Keluarga ini juga menghasilkan beberapa orang terpelajar dan politisi ternama.", 
+        "line": 56, 
+        "range": [
+            3363, 
+            3440
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3381, 
+                    3387
+                ], 
+                "name": "Andong"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rumah-rumah para bangsawan Yangban di Desa Hahoe dibangun menggunakan kayu dan atap dari ubin.", 
+        "line": 58, 
+        "range": [
+            3442, 
+            3535
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3508, 
+                    3518
+                ], 
+                "name": "Desa Hahoe"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sedangkan rumah orang biasa dibangun menggunakan lumpur yang melapisi kerangka yang terbuat dari kayu dan atapnya yang terbuat dari jerami.", 
+        "line": 60, 
+        "range": [
+            3537, 
+            3675
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertunjukkan tarian topeng", 
+        "line": 62, 
+        "range": [
+            3677, 
+            3702
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebelum meninggalkan desa, saya menyempatkan diri untuk menonton pertunjukkan yang terkenal yaitu Hahoe Mask Performance.", 
+        "line": 64, 
+        "range": [
+            3704, 
+            3824
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3756, 
+                    3760
+                ], 
+                "name": "desa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertunjukkan ini menggabungkan tarian dan kisah cerita dimana semua pemain menggunakan topeng.", 
+        "line": 66, 
+        "range": [
+            3826, 
+            3919
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertunjukkan ini telah dilakukan sesuai tradisi selama hampir 800 tahun. Tarian topeng ini menceritakan kisah kehidupan sehari-hari dan juga sengketa yang terjadi di antara rakyat biasa dan bangsawan.", 
+        "line": 68, 
+        "range": [
+            3921, 
+            4120
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa pertunjukkan topeng digunakan pada upacara, tarian ritual, dan juga pertunjukkan teater lainnya.", 
+        "line": 70, 
+        "range": [
+            4122, 
+            4226
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di kebudayaan Korea ada banyak macam topeng yang berjumlah lebih dari 250 jenis dan bentuknya mirip dengan muka manusia.", 
+        "line": 72, 
+        "range": [
+            4228, 
+            4347
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4277, 
+                    4282
+                ], 
+                "name": "Korea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak jauh dari Andong Hahoe Village, ada museum topeng yang memperlihatkan koleksi topeng dari seluruh dunia.", 
+        "line": 74, 
+        "range": [
+            4349, 
+            4458
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4401, 
+                    4407
+                ], 
+                "name": "Andong"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4408, 
+                    4421
+                ], 
+                "name": "Hahoe Village"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4427, 
+                    4440
+                ], 
+                "name": "museum topeng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips berkunjung ke Hahoe Folk Village", 
+        "line": 76, 
+        "range": [
+            4460, 
+            4496
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadwal untuk menonton pertunjukkan tarian topeng di Desa Hahoe adalah: Hari Sabtu dan Minggu jam 2 \u2013 3 sore pada bulan Januari-Februari. Untuk bulan Maret sampai Desember di jam yang sama, pertunjukkan dilangsungkan setiap hari Rabu, Jumat, Sabtu, dan Minggu. Pertunjukkan topeng ini gratis.", 
+        "line": 77, 
+        "range": [
+            4497, 
+            4789
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4516, 
+                    4534
+                ], 
+                "name": "Hahoe Folk Village"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4587, 
+                    4597
+                ], 
+                "name": "Desa Hahoe"
+            }
+        ]
+    }, 
+    {
+        "text": "Beberapa rumah dibuka sebagai penginapan, sebutannya adalah \u201chanok stay\u201c. Kamu bisa merasakan menginap di rumah tradisional Korea. Harganya berkisar antara 30,000 \u2013 60,000 won. Bisa cek disini untuk penginapan yang tersedia.", 
+        "line": 78, 
+        "range": [
+            4790, 
+            5019
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4857, 
+                    4867
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4888, 
+                    4898
+                ], 
+                "name": "hanok stay"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4951, 
+                    4956
+                ], 
+                "name": "Korea"
+            }
+        ]
+    }, 
+    {
+        "text": "Di bulan Oktober ada sebuah festival topeng besar yang bernama \u201cInternational Mask Dance Festival\u201d yang diselenggarakan di Hahoe.", 
+        "line": 79, 
+        "range": [
+            5020, 
+            5152
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5026, 
+                    5036
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "Beberapa atraksi lain yang terletak di Andong adalah: Woryeonggyo Bridge, Kuil Bongjeongsa, dan sekolah Konfusianisme.", 
+        "line": 80, 
+        "range": [
+            5153, 
+            5270
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5175, 
+                    5180
+                ], 
+                "name": "Hahoe"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5221, 
+                    5227
+                ], 
+                "name": "Andong"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5236, 
+                    5254
+                ], 
+                "name": "Woryeonggyo Bridge"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau main ke Korea Selatan, saya sarankan sih menyempatkan diri untuk jalan-jalan ke desa traditional Korea yang bernama Hahoe Folk Village ini!", 
+        "line": 82, 
+        "range": [
+            5272, 
+            5416
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5278, 
+                    5299
+                ], 
+                "name": "sekolah Konfusianisme"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5316, 
+                    5329
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5388, 
+                    5392
+                ], 
+                "name": "desa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5405, 
+                    5410
+                ], 
+                "name": "Korea"
+            }
+        ]
+    }
+]

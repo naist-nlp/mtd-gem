@@ -1,0 +1,2334 @@
+[
+    {
+        "text": "November 2, 2022    18 Tempat Wisata Di Melbourne Gratis Yang Wajib Kamu Kunjungi", 
+        "line": 0, 
+        "range": [
+            1, 
+            81
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    23, 
+                    36
+                ], 
+                "name": "Tempat Wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    40, 
+                    49
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cek 18 tempat wisata di Melbourne gratis yang wajib kamu kunjungi jika liburan ke kota ini!", 
+        "line": 2, 
+        "range": [
+            83, 
+            173
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    90, 
+                    103
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    107, 
+                    116
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    165, 
+                    169
+                ], 
+                "name": "kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang terbayang di pikiran saya ketika mendengar nama Melbourne adalah bangunan ala Victorian / Eropa, jalanan yang artistik, dan cafe-cafe seru buat nongkrong.", 
+        "line": 4, 
+        "range": [
+            175, 
+            333
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    229, 
+                    238
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    246, 
+                    268
+                ], 
+                "name": "bangunan ala Victorian"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    271, 
+                    276
+                ], 
+                "name": "Eropa"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    278, 
+                    285
+                ], 
+                "name": "jalanan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    305, 
+                    314
+                ], 
+                "name": "cafe-cafe"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebagai kota terbesar kedua di Australia, Melbourne memiliki image yang berbeda (tidak seperti kota besar lainnya) \u2013 yaitu lebih santai dan suasana hipsternya lebih kental.", 
+        "line": 6, 
+        "range": [
+            335, 
+            508
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    345, 
+                    349
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    368, 
+                    377
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    379, 
+                    388
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    432, 
+                    436
+                ], 
+                "name": "kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sendiri jatuh cinta setelah mengunjungi Melbourne.", 
+        "line": 8, 
+        "range": [
+            510, 
+            564
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    556, 
+                    565
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ya, walaupun cuacanya rada labil \u2013 kadang hujan kadang cerah.", 
+        "line": 10, 
+        "range": [
+            566, 
+            628
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau berkunjung ke Melbourne kamu wajib mengecek 18 tempat wisata di Melbourne ini.", 
+        "line": 12, 
+        "range": [
+            630, 
+            713
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    651, 
+                    660
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    684, 
+                    697
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    701, 
+                    710
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gratis! Dijamin tidak akan bikin kantong bolong deh!", 
+        "line": 14, 
+        "range": [
+            715, 
+            766
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Flinders Street Railway Station", 
+        "line": 16, 
+        "range": [
+            768, 
+            801
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu bangunan yang paling iconic di Melbourne adalah Flinders Street Railway Station.", 
+        "line": 18, 
+        "range": [
+            803, 
+            893
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    849, 
+                    858
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Stasiun kereta apa yang berada di persimpangan antara Flinders Street dan Swanston Street ini merupakan stasiun kereta paling tua di Australia.", 
+        "line": 20, 
+        "range": [
+            895, 
+            1037
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    900, 
+                    914
+                ], 
+                "name": "Stasiun kereta"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    934, 
+                    946
+                ], 
+                "name": "persimpangan"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    954, 
+                    969
+                ], 
+                "name": "Flinders Street"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    974, 
+                    989
+                ], 
+                "name": "Swanston Street"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1004, 
+                    1018
+                ], 
+                "name": "stasiun kereta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terletak di pusat kota Melbourne, stasiun ini sangat ramai dimana seharinya ada sekitar 100,000 orang yang menggunakan stasiun ini.", 
+        "line": 22, 
+        "range": [
+            1039, 
+            1169
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1063, 
+                    1067
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1068, 
+                    1077
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1079, 
+                    1086
+                ], 
+                "name": "stasiun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. St Paul Cathedral, Melbourne", 
+        "line": 24, 
+        "range": [
+            1171, 
+            1201
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1181, 
+                    1198
+                ], 
+                "name": "St Paul Cathedral"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tepat di seberang Stasiun Kereta Api Flinders Street, sebuah katredal dengan dekorasi dan karya seni bersejarah terpampang megah di tengah persimpangan.", 
+        "line": 26, 
+        "range": [
+            1203, 
+            1354
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1229, 
+                    1263
+                ], 
+                "name": "Stasiun Kereta Api Flinders Street"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1272, 
+                    1280
+                ], 
+                "name": "katredal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "St. Paul Cathedral merupakan salah satu tempat wisata di Melbourne yang terkenal.", 
+        "line": 28, 
+        "range": [
+            1356, 
+            1436
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1365, 
+                    1383
+                ], 
+                "name": "St. Paul Cathedral"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1405, 
+                    1418
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1422, 
+                    1431
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di dalamnya, kamu bisa melihat ubin lantai dan dinding dengan pola yang indah.", 
+        "line": 30, 
+        "range": [
+            1438, 
+            1515
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saat berkunjung jangan terlalu berisik ya. Hormati tamu lain yang sedang beribadah di katedral ini.", 
+        "line": 32, 
+        "range": [
+            1517, 
+            1615
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Federation Square", 
+        "line": 34, 
+        "range": [
+            1617, 
+            1636
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terletak di jantung kota Melbourne, Federation Square merupakan tempat wisata di Melbourne dengan restoran dan bar di sekitarnya.", 
+        "line": 36, 
+        "range": [
+            1638, 
+            1766
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1671, 
+                    1685
+                ], 
+                "name": "kota Melbourne"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1687, 
+                    1704
+                ], 
+                "name": "Federation Square"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1715, 
+                    1728
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1732, 
+                    1741
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1749, 
+                    1757
+                ], 
+                "name": "restoran"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1762, 
+                    1765
+                ], 
+                "name": "bar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya di sini para penduduk lokal Melbourne sering ketemu dan hang out bareng.", 
+        "line": 38, 
+        "range": [
+            1768, 
+            1848
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1819, 
+                    1828
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Disini juga sering digelar acara-acara seperti festival, pop-up market, dan juga sport event.", 
+        "line": 40, 
+        "range": [
+            1850, 
+            1942
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Hosier Lane", 
+        "line": 42, 
+        "range": [
+            1944, 
+            1957
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mungkin kamu sudah sering melihat penampakan Hosier \u2013 salah satu gang kecil paling keren deh di Melbourne \u2013 cocok untuk para instagrammer.", 
+        "line": 44, 
+        "range": [
+            1959, 
+            2100
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1963, 
+                    1974
+                ], 
+                "name": "Hosier Lane"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    2021, 
+                    2027
+                ], 
+                "name": "Hosier"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2041, 
+                    2051
+                ], 
+                "name": "gang kecil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2072, 
+                    2081
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dindingnya dihiasi dengan grafiti di mana setiap sudutnya bisa jadi tempat spot foto.", 
+        "line": 46, 
+        "range": [
+            2102, 
+            2186
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Disini kamu bisa jalan-jalan dan melihat lukisan grafiti yang unik.", 
+        "line": 48, 
+        "range": [
+            2188, 
+            2254
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. State Library of Victoria", 
+        "line": 50, 
+        "range": [
+            2256, 
+            2283
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Walaupun bukan student, kamu tetap bisa berkunjung ke perpustakaan ini kok.", 
+        "line": 52, 
+        "range": [
+            2285, 
+            2359
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang bikin keren dari perpustakaan ini adalah desain interiornya.", 
+        "line": 54, 
+        "range": [
+            2361, 
+            2425
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2401, 
+                    2413
+                ], 
+                "name": "perpustakaan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Langit-langit bangunannya berbentuk seperti kubah dengan posisi meja yang bebentuk oktagonal atau segi delapan.", 
+        "line": 56, 
+        "range": [
+            2427, 
+            2537
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "6. Queen Victoria Market, Melbourne", 
+        "line": 58, 
+        "range": [
+            2539, 
+            2573
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ingin merasakan pengalaman authentic seperti orang lokal di Melbourne? Datanglah ke Queen Victoria Market.", 
+        "line": 60, 
+        "range": [
+            2575, 
+            2680
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2585, 
+                    2594
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2656, 
+                    2665
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Disini kamu bisa shopping dan belanja oleh-oleh untuk diri sendiri ataupun untuk keluarga.", 
+        "line": 62, 
+        "range": [
+            2682, 
+            2771
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pasar ini cukup luas, jadi mungkin bikin pegel. Disini, kamu bisa mencoba produk lokal yang segar.", 
+        "line": 64, 
+        "range": [
+            2773, 
+            2870
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2796, 
+                    2801
+                ], 
+                "name": "Pasar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau datangnya pas musim panas atau summer, pasar ini dibuka sampai malam.", 
+        "line": 66, 
+        "range": [
+            2872, 
+            2946
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2941, 
+                    2946
+                ], 
+                "name": "pasar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "7. China Town, Melbourne", 
+        "line": 68, 
+        "range": [
+            2948, 
+            2971
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kangen makanan Asia datang aja ke China Town.", 
+        "line": 70, 
+        "range": [
+            2973, 
+            3023
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2976, 
+                    2986
+                ], 
+                "name": "China Town"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2988, 
+                    2997
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3020, 
+                    3024
+                ], 
+                "name": "Asia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mau makanan Korea, Vietnam, ataupun Chinese food, semuanya ada.", 
+        "line": 72, 
+        "range": [
+            3025, 
+            3087
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3039, 
+                    3049
+                ], 
+                "name": "China Town"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3064, 
+                    3069
+                ], 
+                "name": "Korea"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3071, 
+                    3078
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "China Town di Melbourne ini sudah ada sejak tahun 1850an ketika para imigran dari China tiba.", 
+        "line": 74, 
+        "range": [
+            3089, 
+            3181
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3117, 
+                    3127
+                ], 
+                "name": "China Town"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3131, 
+                    3140
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Seperti China Town di kota lainnya, kamu bisa menemukan lampion merah dan juga gapura berwarna merah dengan tulisan mandarin.", 
+        "line": 76, 
+        "range": [
+            3183, 
+            3307
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3199, 
+                    3204
+                ], 
+                "name": "China"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3220, 
+                    3230
+                ], 
+                "name": "China Town"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3234, 
+                    3238
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3291, 
+                    3297
+                ], 
+                "name": "gapura"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "8. Melbourne Shopping Center", 
+        "line": 78, 
+        "range": [
+            3309, 
+            3336
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tempat wisata di Melbourne lainnya yang gratis adalah Melbourne Central.", 
+        "line": 80, 
+        "range": [
+            3338, 
+            3409
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3342, 
+                    3367
+                ], 
+                "name": "Melbourne Shopping Center"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3369, 
+                    3382
+                ], 
+                "name": "Tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3386, 
+                    3395
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Melbourne Central adalah kompleks perbelanjaan, perkantoran, dan juga transport hub di kota.", 
+        "line": 82, 
+        "range": [
+            3411, 
+            3502
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3423, 
+                    3440
+                ], 
+                "name": "Melbourne Central"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3443, 
+                    3460
+                ], 
+                "name": "Melbourne Central"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3468, 
+                    3476
+                ], 
+                "name": "kompleks"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebanyak 200 toko yang bisa kamu datangi, gak bakal habis deh.", 
+        "line": 84, 
+        "range": [
+            3504, 
+            3565
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3530, 
+                    3534
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3550, 
+                    3554
+                ], 
+                "name": "toko"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karakteristik bangunan ini adalah langit-langit kaca yang berbentuk seperti kerucut setinggi gedung berlantai 20 dan beratnya 490 ton!", 
+        "line": 86, 
+        "range": [
+            3567, 
+            3700
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "9. Docklands", 
+        "line": 88, 
+        "range": [
+            3702, 
+            3713
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Area pelabuhan atau dermaga dimana restoran mewah berjejer \u2013 cocok untuk makan malam romantis.", 
+        "line": 90, 
+        "range": [
+            3715, 
+            3810
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3740, 
+                    3749
+                ], 
+                "name": "Docklands"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3756, 
+                    3765
+                ], 
+                "name": "pelabuhan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3771, 
+                    3778
+                ], 
+                "name": "dermaga"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3786, 
+                    3794
+                ], 
+                "name": "restoran"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu juga bisa berjalan-jalan di Harbour Town Shopping Centre.", 
+        "line": 92, 
+        "range": [
+            3812, 
+            3873
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Anak-anak pasti suka dengan bianglala observation wheel dengan pemandangan 360 derajat kota Melbourne.", 
+        "line": 94, 
+        "range": [
+            3875, 
+            3976
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3880, 
+                    3908
+                ], 
+                "name": "Harbour Town Shopping Centre"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3939, 
+                    3966
+                ], 
+                "name": "bianglala observation wheel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "10. St. Patrick Cathedral", 
+        "line": 96, 
+        "range": [
+            3978, 
+            4002
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Katedral lain di Melbourne yang wajib kamu kunjungi adalah St. Patrick Cathedral.", 
+        "line": 98, 
+        "range": [
+            4004, 
+            4084
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4019, 
+                    4040
+                ], 
+                "name": "St. Patrick Cathedral"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4042, 
+                    4050
+                ], 
+                "name": "Katedral"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4059, 
+                    4068
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Katedral ini merupakan gereja terbesar di Australia.", 
+        "line": 100, 
+        "range": [
+            4086, 
+            4137
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4101, 
+                    4122
+                ], 
+                "name": "St. Patrick Cathedral"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4125, 
+                    4133
+                ], 
+                "name": "Katedral"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di dalamnya ada banyak lonceng besar, sebuah organ dengan 4500 pipa, dan juga chapel yang sangat indah.", 
+        "line": 102, 
+        "range": [
+            4139, 
+            4241
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4148, 
+                    4154
+                ], 
+                "name": "gereja"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4167, 
+                    4176
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "11. Carlton Garden", 
+        "line": 104, 
+        "range": [
+            4243, 
+            4260
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tempat yang cocok untuk menghabiskan waktu di bawah pepohonan rindang.", 
+        "line": 106, 
+        "range": [
+            4262, 
+            4331
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4288, 
+                    4302
+                ], 
+                "name": "Carlton Garden"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yep, Carlton Garden merupakan tempat wisata di Melbourne yang menjadi tempat piknik favorit untuk para pengunjung.", 
+        "line": 108, 
+        "range": [
+            4333, 
+            4446
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4381, 
+                    4395
+                ], 
+                "name": "Carlton Garden"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4406, 
+                    4419
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4423, 
+                    4432
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di area ini ada juga objek wisata lainnya seperti Royal Exhibition Building, Melbourne Musem, dan Imax Cinema.", 
+        "line": 110, 
+        "range": [
+            4448, 
+            4557
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4513, 
+                    4525
+                ], 
+                "name": "objek wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "12. Parliement House, Melbourne", 
+        "line": 112, 
+        "range": [
+            4559, 
+            4589
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4569, 
+                    4584
+                ], 
+                "name": "Melbourne Musem"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terletak di jalan Spring di sebelah timur kota Melbourne, Parliament House telah menjadi gedung parlemen negara bagian Victoria sejak tahun 1855.", 
+        "line": 114, 
+        "range": [
+            4591, 
+            4735
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4608, 
+                    4624
+                ], 
+                "name": "Parliement House"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4626, 
+                    4635
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    4649, 
+                    4661
+                ], 
+                "name": "jalan Spring"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4679, 
+                    4693
+                ], 
+                "name": "kota Melbourne"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4695, 
+                    4711
+                ], 
+                "name": "Parliament House"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gedung parlemen ini dibuka untuk umum.", 
+        "line": 116, 
+        "range": [
+            4737, 
+            4774
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4756, 
+                    4764
+                ], 
+                "name": "Victoria"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setiap hari Senin \u2013 Jumat, ada tur gratis setiap jam 9.30 pagi dan 4 sore, ketika tidak ada anggota parlemen yang sedang rapat.", 
+        "line": 118, 
+        "range": [
+            4776, 
+            4904
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4784, 
+                    4799
+                ], 
+                "name": "Gedung parlemen"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "13. National Gallery of Victoria", 
+        "line": 120, 
+        "range": [
+            4906, 
+            4937
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Buat kamu yang suka sejarah dan seni, pergilah ke National Gallery of Victoria.", 
+        "line": 122, 
+        "range": [
+            4939, 
+            5017
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4957, 
+                    4985
+                ], 
+                "name": "National Gallery of Victoria"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak koleksi sejarah dari jaman dahulu kala sampai moderen. Terkadang aja juga pameran spesial di museum ini.", 
+        "line": 124, 
+        "range": [
+            5019, 
+            5129
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5037, 
+                    5065
+                ], 
+                "name": "National Gallery of Victoria"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "14. Shrine of Remembrance", 
+        "line": 126, 
+        "range": [
+            5131, 
+            5155
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tempat ini adalah tempat penghormatan bagi tentara Australia yang berkontribusi dalam perang dunia pertama.", 
+        "line": 128, 
+        "range": [
+            5157, 
+            5263
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5168, 
+                    5174
+                ], 
+                "name": "museum"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5185, 
+                    5206
+                ], 
+                "name": "Shrine of Remembrance"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di dalamnya terdapat ruangan dengan informasi dan video-video saat itu. Sekitar jam 4-5 sore ada upacara bendera di halamannya.", 
+        "line": 130, 
+        "range": [
+            5265, 
+            5391
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 131, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "15. St. Kilda", 
+        "line": 132, 
+        "range": [
+            5393, 
+            5405
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 133, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "St. Kilda adalah tempat wisata gratis di Melbourne yang bisa kamu kunjungi. Cocoknya jalan-jalan di sore hari di tepi pantai.", 
+        "line": 134, 
+        "range": [
+            5407, 
+            5531
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5450, 
+                    5459
+                ], 
+                "name": "St. Kilda"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5461, 
+                    5470
+                ], 
+                "name": "St. Kilda"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5478, 
+                    5491
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5502, 
+                    5511
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 135, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak kafe dan restoran di sepanjang pantai. Kapal-kapal bersandar di pelabuhan.", 
+        "line": 136, 
+        "range": [
+            5533, 
+            5613
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5579, 
+                    5585
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5595, 
+                    5599
+                ], 
+                "name": "kafe"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5604, 
+                    5612
+                ], 
+                "name": "restoran"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 137, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau beruntung, kamu juga bisa melihat pinguin di St. Kilda.", 
+        "line": 138, 
+        "range": [
+            5615, 
+            5675
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5626, 
+                    5632
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5634, 
+                    5645
+                ], 
+                "name": "Kapal-kapal"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5659, 
+                    5668
+                ], 
+                "name": "pelabuhan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 139, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "16. Royal Botanic Garden", 
+        "line": 140, 
+        "range": [
+            5677, 
+            5700
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 141, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Senang melihat bunga atau tanaman? Main aja ke Botanical Garden.", 
+        "line": 142, 
+        "range": [
+            5702, 
+            5765
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5722, 
+                    5731
+                ], 
+                "name": "St. Kilda"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5738, 
+                    5758
+                ], 
+                "name": "Royal Botanic Garden"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 143, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak tanaman seperti kaktus, jamur, dan bunga-bunga lainnya tersebar di taman ini. Kamu akan merasakan udara yang segar ketika berjalan-jalan di taman yang hijau ini.", 
+        "line": 144, 
+        "range": [
+            5767, 
+            5934
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5807, 
+                    5823
+                ], 
+                "name": "Botanical Garden"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 145, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "17. Yarra River", 
+        "line": 146, 
+        "range": [
+            5936, 
+            5950
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 147, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yarra River merupakan tempat piknik yang menyediakan fasilitas barbecue.", 
+        "line": 148, 
+        "range": [
+            5952, 
+            6023
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5973, 
+                    5978
+                ], 
+                "name": "taman"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    6000, 
+                    6011
+                ], 
+                "name": "Yarra River"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    6013, 
+                    6024
+                ], 
+                "name": "Yarra River"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 149, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada juga jalur khusus bagi pengendara sepeda, pejalan kaki, dan untuk jogging.", 
+        "line": 150, 
+        "range": [
+            6025, 
+            6102
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6035, 
+                    6048
+                ], 
+                "name": "tempat piknik"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6096, 
+                    6101
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 151, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagi suku asli aboriginal, Yarr River merupakan sumber kehidupan penting bagi mereka.", 
+        "line": 152, 
+        "range": [
+            6104, 
+            6188
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6125, 
+                    6131
+                ], 
+                "name": "sepeda"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 153, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "18. Brighton Beach", 
+        "line": 154, 
+        "range": [
+            6190, 
+            6207
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    6194, 
+                    6204
+                ], 
+                "name": "Yarr River"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 155, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tempat wisata di Melbourne yang terakhir adalah Brighton Beach. Lokasinya agak jauh dari pusat kota, sekitar 11 km.", 
+        "line": 156, 
+        "range": [
+            6209, 
+            6323
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6258, 
+                    6272
+                ], 
+                "name": "Brighton Beach"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6274, 
+                    6287
+                ], 
+                "name": "Tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6291, 
+                    6300
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 157, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai ini sangat disukai pengunjung karena deretan rumah kayu berwarna warni yang menarik untuk berfoto. Wajib deh kesini kalau pengen foto-foto.", 
+        "line": 158, 
+        "range": [
+            6325, 
+            6470
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6369, 
+                    6373
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6391, 
+                    6397
+                ], 
+                "name": "Pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 159, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau sudah sampai di Melbourne jangan lupa untuk liburan ke Tasmania juga.", 
+        "line": 160, 
+        "range": [
+            6472, 
+            6546
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 161, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak tempat menarik yang asik untuk dikunjungi. Selama saya di Australia saya menggunakan working holiday visa jadi bisa stay lama.", 
+        "line": 162, 
+        "range": [
+            6548, 
+            6680
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6561, 
+                    6570
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6600, 
+                    6608
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 163, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah itulah 18 tempat wisata di Melbourne gratis untuk dikunjungi.", 
+        "line": 164, 
+        "range": [
+            6682, 
+            6746
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 165, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mau pergi ke yang mana? Kalau ada tambahan lain boleh tulis di komen ya.", 
+        "line": 166, 
+        "range": [
+            6748, 
+            6819
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6765, 
+                    6778
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6782, 
+                    6791
+                ], 
+                "name": "Melbourne"
+            }
+        ]
+    }
+]

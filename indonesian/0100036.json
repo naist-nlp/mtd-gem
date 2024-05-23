@@ -1,0 +1,1901 @@
+[
+    {
+        "text": "October 11, 2022    Panduan Lengkap Cara Menuju Pulau Weh, Sabang", 
+        "line": 0, 
+        "range": [
+            1, 
+            65
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    48, 
+                    57
+                ], 
+                "name": "Pulau Weh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    59, 
+                    65
+                ], 
+                "name": "Sabang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagaimana cara ke Pulau Weh (Sabang) dari Banda Aceh? Kira-kira berapa biaya yang harus dikeluarkan? Baca pengalaman saya liburan ke Pulau Weh atau Sabang selama 3 hari 2 malam di sini!", 
+        "line": 2, 
+        "range": [
+            67, 
+            251
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    85, 
+                    94
+                ], 
+                "name": "Pulau Weh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    96, 
+                    102
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    109, 
+                    119
+                ], 
+                "name": "Banda Aceh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    200, 
+                    209
+                ], 
+                "name": "Pulau Weh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    215, 
+                    221
+                ], 
+                "name": "Sabang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sabang atau juga dikenal dengan sebutan Pulau Weh merupakan pulau bagian terluar di sebelah Barat Indonesia.", 
+        "line": 4, 
+        "range": [
+            253, 
+            360
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    254, 
+                    260
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    294, 
+                    303
+                ], 
+                "name": "Pulau Weh"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    314, 
+                    319
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    352, 
+                    361
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak yang mengira bahwa pulau dengan pantai dan bawah laut yang paling indah hanya ada di bagian Timur Indonesia.", 
+        "line": 6, 
+        "range": [
+            362, 
+            476
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    390, 
+                    395
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    403, 
+                    409
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    420, 
+                    424
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah besar!", 
+        "line": 8, 
+        "range": [
+            478, 
+            489
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Weh tidak kalah indah dengan pulau-pulau lain di bagian Timur Indonesia.", 
+        "line": 10, 
+        "range": [
+            491, 
+            568
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    495, 
+                    504
+                ], 
+                "name": "Pulau Weh"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    530, 
+                    541
+                ], 
+                "name": "pulau-pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu ingin liburan ke Pulau Weh, baca dulu panduan lengkap dan cara menuju ke Pulau Weh atau Sabang.", 
+        "line": 12, 
+        "range": [
+            570, 
+            675
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    603, 
+                    612
+                ], 
+                "name": "Pulau Weh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    659, 
+                    668
+                ], 
+                "name": "Pulau Weh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara Menuju ke Sabang Atau Pulau Weh", 
+        "line": 14, 
+        "range": [
+            677, 
+            712
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    698, 
+                    704
+                ], 
+                "name": "Sabang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tentu saja starting point yang paling dekat adalah Banda Aceh.", 
+        "line": 16, 
+        "range": [
+            714, 
+            775
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di Bandara, kamu bisa naik DAMRI,  menyewa mobil atau becak motor untuk menuju ke Pelabuhan Ulee Lheu.", 
+        "line": 18, 
+        "range": [
+            777, 
+            893
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    803, 
+                    810
+                ], 
+                "name": "Bandara"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    827, 
+                    832
+                ], 
+                "name": "DAMRI"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    843, 
+                    848
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    854, 
+                    865
+                ], 
+                "name": "becak motor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut perkiraan biaya yang diperlukan untuk menyewa kendaraan dari bandara ataupun stasiun bus ke Pelabuhan Ulee Lheu:", 
+        "line": 20, 
+        "range": [
+            895, 
+            1014
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    973, 
+                    980
+                ], 
+                "name": "bandara"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    989, 
+                    1000
+                ], 
+                "name": "stasiun bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bandara (Banda Aceh) menuju Pelabuhan Ulee Lheu: Rp 100,000/mobil atau Rp 70,000/becak motor.", 
+        "line": 22, 
+        "range": [
+            1016, 
+            1108
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1026, 
+                    1033
+                ], 
+                "name": "Bandara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1035, 
+                    1045
+                ], 
+                "name": "Banda Aceh"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1054, 
+                    1073
+                ], 
+                "name": "Pelabuhan Ulee Lheu"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1086, 
+                    1091
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "Stasiun bus menuju Pelabuhan Ulee Lheu: Rp 60,000/mobil atau Rp 30,000/becak motor.", 
+        "line": 23, 
+        "range": [
+            1109, 
+            1191
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1120, 
+                    1131
+                ], 
+                "name": "Stasiun bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1139, 
+                    1158
+                ], 
+                "name": "Pelabuhan Ulee Lheu"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1170, 
+                    1175
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "Dari Bandara kamu bisa menuju kota dengan menggunakan bus Damri seharga Rp 25,000 kemudian dilanjutkan dengan becak motor atau ojek.", 
+        "line": 24, 
+        "range": [
+            1192, 
+            1323
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1209, 
+                    1216
+                ], 
+                "name": "Bandara"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1234, 
+                    1238
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1258, 
+                    1267
+                ], 
+                "name": "bus Damri"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Pelabuhan Ulee Lheu inilah tempat penyebrangan menuju Sabang.", 
+        "line": 26, 
+        "range": [
+            1325, 
+            1388
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1331, 
+                    1335
+                ], 
+                "name": "ojek"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1341, 
+                    1360
+                ], 
+                "name": "Pelabuhan Ulee Lheu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terdapat dua cara untuk menuju Pulau Weh dari Banda Aceh yaitu dengan menggunakan kapal cepat dan feri.", 
+        "line": 28, 
+        "range": [
+            1390, 
+            1492
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1395, 
+                    1401
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1435, 
+                    1444
+                ], 
+                "name": "Pulau Weh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1450, 
+                    1460
+                ], 
+                "name": "Banda Aceh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut jadwal dan harga kapal menuju dari Banda Aceh menuju Pulau Weh:", 
+        "line": 30, 
+        "range": [
+            1494, 
+            1564
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1502, 
+                    1506
+                ], 
+                "name": "feri"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1534, 
+                    1539
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1552, 
+                    1562
+                ], 
+                "name": "Banda Aceh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal cepat dari Pelabuhan Ulee Lheu (Banda Aceh) menuju Pelabuhan Balohan (Sabang/Pulau Weh). Waktu tempuh kurang lebih 45 menit dan harga tiket Rp 85,000 sekali jalan. Jadwal keberangkatan pukul 10.00 dan 16.00.", 
+        "line": 32, 
+        "range": [
+            1566, 
+            1778
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1570, 
+                    1579
+                ], 
+                "name": "Pulau Weh"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1582, 
+                    1593
+                ], 
+                "name": "Kapal cepat"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1599, 
+                    1618
+                ], 
+                "name": "Pelabuhan Ulee Lheu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1620, 
+                    1630
+                ], 
+                "name": "Banda Aceh"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1639, 
+                    1656
+                ], 
+                "name": "Pelabuhan Balohan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1658, 
+                    1664
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1665, 
+                    1674
+                ], 
+                "name": "Pulau Weh"
+            }
+        ]
+    }, 
+    {
+        "text": "Sebaliknya dari Sabang menuju Banda Aceh, jadwal keberangkatan kapal cepat adalah pukul 10.00 dan 14.30.", 
+        "line": 33, 
+        "range": [
+            1779, 
+            1882
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1812, 
+                    1818
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1826, 
+                    1836
+                ], 
+                "name": "Banda Aceh"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1859, 
+                    1870
+                ], 
+                "name": "kapal cepat"
+            }
+        ]
+    }, 
+    {
+        "text": "Kapal lambat atau feri dari Pelabuhan Ulee Lheu (Banda Aceh) menuju Pelabuhan Balohan (Sabang/Pulau Weh). Waktu tempuh kurang lebih 90 menit dan harga tiket Rp 25,000.  Jadwal keberangkatan pukul 7.30, 10.00, dan 14.30.", 
+        "line": 34, 
+        "range": [
+            1883, 
+            2101
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1901, 
+                    1913
+                ], 
+                "name": "Kapal lambat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1919, 
+                    1923
+                ], 
+                "name": "feri"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1929, 
+                    1948
+                ], 
+                "name": "Pelabuhan Ulee Lheu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1950, 
+                    1960
+                ], 
+                "name": "Banda Aceh"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1969, 
+                    1986
+                ], 
+                "name": "Pelabuhan Balohan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1988, 
+                    1994
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1995, 
+                    2004
+                ], 
+                "name": "Pulau Weh"
+            }
+        ]
+    }, 
+    {
+        "text": "Sebaliknya dar Sabang menuju Banda Aceh, jadwal keberangkatan kapal lambat adalah pukul 8.00, 10.00, dan 14.30.", 
+        "line": 35, 
+        "range": [
+            2102, 
+            2212
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2136, 
+                    2142
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2150, 
+                    2160
+                ], 
+                "name": "Banda Aceh"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2183, 
+                    2195
+                ], 
+                "name": "kapal lambat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 36, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa biaya lainnya:", 
+        "line": 37, 
+        "range": [
+            2214, 
+            2236
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 38, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Balohan \u2013 Iboih: Rp 50,000", 
+        "line": 39, 
+        "range": [
+            2238, 
+            2265
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2259, 
+                    2266
+                ], 
+                "name": "Balohan"
+            }
+        ]
+    }, 
+    {
+        "text": "Balohan \u2013 Pantai Sumur Tiga: Rp 25,000 \u2013 30,000", 
+        "line": 40, 
+        "range": [
+            2266, 
+            2316
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2269, 
+                    2274
+                ], 
+                "name": "Iboih"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2286, 
+                    2293
+                ], 
+                "name": "Balohan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2296, 
+                    2313
+                ], 
+                "name": "Pantai Sumur Tiga"
+            }
+        ]
+    }, 
+    {
+        "text": "Sewa motor: Rp 60,000 \u2013 100,000/hari", 
+        "line": 41, 
+        "range": [
+            2317, 
+            2354
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2339, 
+                    2344
+                ], 
+                "name": "motor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 42, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rekomendasi Penginapan di Pulau Weh", 
+        "line": 43, 
+        "range": [
+            2356, 
+            2390
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 44, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya dan teman-temang menginap di Iboih Inn.", 
+        "line": 45, 
+        "range": [
+            2392, 
+            2435
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2398, 
+                    2407
+                ], 
+                "name": "Pulau Weh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tempatnya bagus dengan pemandangan yang indah.", 
+        "line": 47, 
+        "range": [
+            2437, 
+            2482
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2443, 
+                    2452
+                ], 
+                "name": "Iboih Inn"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di setiap bungalow ada hammock untuk bersantai. Kamarnya bersih dan nyaman.", 
+        "line": 49, 
+        "range": [
+            2484, 
+            2558
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu bisa hang out juga dekat dermaga. Terkadang ada kawanan monyet berlari di atas pohon. Sarapannya juga enak.", 
+        "line": 51, 
+        "range": [
+            2560, 
+            2671
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2610, 
+                    2617
+                ], 
+                "name": "dermaga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain Iboih Inn ada juga homestay di sekitar tetapi saya kurang tau kondisinya bagaimana.", 
+        "line": 53, 
+        "range": [
+            2673, 
+            2762
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2701, 
+                    2710
+                ], 
+                "name": "Iboih Inn"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2720, 
+                    2728
+                ], 
+                "name": "homestay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 54, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu mau menginap di Pantai Sumur Tiga, coba cek:  Freddies atau Casa Nemo Resort and Spa melalui beberapa aplikasi hotel seperti Traveloka atau Booking.com.", 
+        "line": 55, 
+        "range": [
+            2764, 
+            2926
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2813, 
+                    2830
+                ], 
+                "name": "Pantai Sumur Tiga"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2843, 
+                    2851
+                ], 
+                "name": "Freddies"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2857, 
+                    2881
+                ], 
+                "name": "Casa Nemo Resort and Spa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2908, 
+                    2913
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 56, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu mau diving bisa juga menggunakan operator seperti Rubiah Tirta Divers dan Lumba-Lumba.", 
+        "line": 57, 
+        "range": [
+            2928, 
+            3024
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 58, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itinerary liburan ke Sabang/Pulau Weh", 
+        "line": 59, 
+        "range": [
+            3026, 
+            3062
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 60, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Totalnya saya dan rombongan menghabiskan 3 hari 2 malam untuk trip Sabang atau Pulau Weh. ", 
+        "line": 61, 
+        "range": [
+            3064, 
+            3153
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3071, 
+                    3077
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3078, 
+                    3087
+                ], 
+                "name": "Pulau Weh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 62, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Silahkan dibaca itinerary-nya mungkin bisa jadi contoh.", 
+        "line": 63, 
+        "range": [
+            3155, 
+            3209
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3156, 
+                    3162
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3168, 
+                    3178
+                ], 
+                "name": "Pulau Weh."
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 64, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: Banda Aceh \u2013 Pulau Weh", 
+        "line": 65, 
+        "range": [
+            3211, 
+            3241
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 66, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya tiba di Banda Aceh dengan menggunakan bus dari Medan.", 
+        "line": 67, 
+        "range": [
+            3243, 
+            3300
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3245, 
+                    3255
+                ], 
+                "name": "Banda Aceh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3258, 
+                    3267
+                ], 
+                "name": "Pulau Weh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3282, 
+                    3292
+                ], 
+                "name": "Banda Aceh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 68, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tetapi, saya masih harus menunggu teman-teman yang berangkat menggunakan pesawat dari Jakarta.", 
+        "line": 69, 
+        "range": [
+            3302, 
+            3395
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3312, 
+                    3315
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3321, 
+                    3326
+                ], 
+                "name": "Medan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 70, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Waktu sampai mereka mepet sekali dengan jam keberangkatan kapal. Kami buru-buru menuju pelabuhan dengan mobil sewaan, untung kekejar.", 
+        "line": 71, 
+        "range": [
+            3397, 
+            3529
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3402, 
+                    3409
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3415, 
+                    3422
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3483, 
+                    3488
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3512, 
+                    3521
+                ], 
+                "name": "pelabuhan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 72, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Walaupun menjadi penumpang terakhir setidaknya kami tidak ketinggalan kapal.", 
+        "line": 73, 
+        "range": [
+            3531, 
+            3606
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 74, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selama 45 menit perjalanan dengan kapal, akhirnya sampai deh di Pelabuhan Balohan.", 
+        "line": 75, 
+        "range": [
+            3608, 
+            3689
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3630, 
+                    3635
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3672, 
+                    3677
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 76, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cuacanya agak mendung. Matahari pun tidak terlihat.", 
+        "line": 77, 
+        "range": [
+            3691, 
+            3741
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3702, 
+                    3719
+                ], 
+                "name": "Pelabuhan Balohan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 78, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami masih harus menggunakan mobil selama 45 menit untuk sampai di Pantai Iboih.", 
+        "line": 79, 
+        "range": [
+            3743, 
+            3822
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3804, 
+                    3809
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 80, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hujan pun akhirnya menetes. Jalur yang berliku membuat saya sedikit mabuk.", 
+        "line": 81, 
+        "range": [
+            3824, 
+            3897
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3842, 
+                    3854
+                ], 
+                "name": "Pantai Iboih"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3885, 
+                    3890
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 82, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya sampai juga ke tempat penginapan, Iboih Inn.", 
+        "line": 83, 
+        "range": [
+            3899, 
+            3951
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari ini cuma bersantai dan beristirahat.", 
+        "line": 85, 
+        "range": [
+            3953, 
+            3993
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3957, 
+                    3974
+                ], 
+                "name": "tempat penginapan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3976, 
+                    3985
+                ], 
+                "name": "Iboih Inn"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mudah-mudahan cuaca besok cerah. ", 
+        "line": 87, 
+        "range": [
+            3995, 
+            4027
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 88, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: Snorkeling di Pulau Rubiah", 
+        "line": 89, 
+        "range": [
+            4029, 
+            4061
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 90, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hal pertama yang saya lakukan setelah bangun adalah melihat keluar jendela.", 
+        "line": 91, 
+        "range": [
+            4063, 
+            4137
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4087, 
+                    4099
+                ], 
+                "name": "Pulau Rubiah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 92, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yah..Masih mendung. Dengan malasnya saya mandi, sarapan, dan mempersiapkan alat snorkeling sambil menunggu teman yang lain.", 
+        "line": 93, 
+        "range": [
+            4139, 
+            4261
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 94, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Acara hari ini adalah snorkeling, asik.", 
+        "line": 95, 
+        "range": [
+            4263, 
+            4301
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 96, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami menyebrang ke Pulau Rubiah. Hanya 5 menit sudah sampai.", 
+        "line": 97, 
+        "range": [
+            4303, 
+            4362
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 98, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saat itu cuacanya langsung berubah 180 derajat!", 
+        "line": 99, 
+        "range": [
+            4364, 
+            4410
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 100, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiba-tiba mataharinya keluar dan cerah sekali. Rasanya senang sekali.", 
+        "line": 101, 
+        "range": [
+            4412, 
+            4480
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 102, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya langsung nyemplung ke dalam air dan berenang di sekitar dermaga.", 
+        "line": 103, 
+        "range": [
+            4482, 
+            4550
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 104, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hanya saja saya tidak melihat banyak karang.", 
+        "line": 105, 
+        "range": [
+            4552, 
+            4595
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4587, 
+                    4594
+                ], 
+                "name": "dermaga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 106, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mungkin snorkeling spotnya salah atau mungkin kalau ke Pulau Weh lebih baik diving.", 
+        "line": 107, 
+        "range": [
+            4597, 
+            4679
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 108, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah asik snorkeling, kami membersihkan diri dan makan siang.", 
+        "line": 109, 
+        "range": [
+            4681, 
+            4744
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4698, 
+                    4707
+                ], 
+                "name": "Pulau Weh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 110, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kemudian kami mengunjungi spot wisata di sekitar seperti: ", 
+        "line": 111, 
+        "range": [
+            4746, 
+            4803
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Tugu 0 kilometer di Sabang", 
+        "line": 112, 
+        "range": [
+            4804, 
+            4829
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai Gapang", 
+        "line": 113, 
+        "range": [
+            4830, 
+            4842
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai Sumur Tiga", 
+        "line": 114, 
+        "range": [
+            4843, 
+            4859
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Danau Aneuk Laot", 
+        "line": 115, 
+        "range": [
+            4860, 
+            4875
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": " ", 
+        "line": 116, 
+        "range": [
+            4876, 
+            4876
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3: Kembali ke Banda Aceh", 
+        "line": 117, 
+        "range": [
+            4877, 
+            4904
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4880, 
+                    4893
+                ], 
+                "name": "Pantai Gapang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 118, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saatnya kembali ke Banda Aceh. Sebelum mengakhiri trip kami menyempatkan diri untuk keliling di kota Banda Aceh.", 
+        "line": 119, 
+        "range": [
+            4906, 
+            5017
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4912, 
+                    4928
+                ], 
+                "name": "Danau Aneuk Laot"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4949, 
+                    4959
+                ], 
+                "name": "Banda Aceh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4980, 
+                    4990
+                ], 
+                "name": "Banda Aceh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 120, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk postingan kemana aja di Banda Aceh, ditunggu ya.", 
+        "line": 121, 
+        "range": [
+            5019, 
+            5072
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5057, 
+                    5072
+                ], 
+                "name": "kota Banda Aceh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 122, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, di atas sudah saya jelaskan bagaimana cara menuju ke Pulau Weh (Sabang) dari Banda Aceh dan juga itinerary perjalanan saya selama 3 hari 2 malam. ", 
+        "line": 123, 
+        "range": [
+            5074, 
+            5224
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5105, 
+                    5115
+                ], 
+                "name": "Banda Aceh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5189, 
+                    5198
+                ], 
+                "name": "Pulau Weh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5200, 
+                    5206
+                ], 
+                "name": "Sabang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5213, 
+                    5223
+                ], 
+                "name": "Banda Aceh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 124, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Semoga panduan lengkap menuju Pulau Weh atau Sabang ini dapat bermanfaat bagi kamu dan teman-teman.", 
+        "line": 125, 
+        "range": [
+            5226, 
+            5324
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5314, 
+                    5323
+                ], 
+                "name": "Pulau Weh"
+            }
+        ]
+    }
+]

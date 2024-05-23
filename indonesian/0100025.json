@@ -1,0 +1,2674 @@
+[
+    {
+        "text": "March 23, 2022  Contoh Itinerary Liburan Ke Penang (4 Hari 3 Malam)", 
+        "line": 0, 
+        "range": [
+            1, 
+            67
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    44, 
+                    50
+                ], 
+                "name": "Penang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Liburan telah tiba! Ke mana ya enaknya? Dulu saya pernah baca di blog orang lain tentang Penang. Kelihatannya sangat menarik. Akhirnya saya memutuskan untuk liburan ke Penang, Malaysia. Totalnya selama 4 hari 3 malam, berikut itinerary-nya!", 
+        "line": 2, 
+        "range": [
+            69, 
+            308
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    158, 
+                    164
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    237, 
+                    243
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    245, 
+                    253
+                ], 
+                "name": "Malaysia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, saya juga cukup beruntung karena menemukan promosi dari maskapai Airasia.", 
+        "line": 4, 
+        "range": [
+            310, 
+            387
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    381, 
+                    388
+                ], 
+                "name": "Airasia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Paket yang terdiri dari tiket pesawat promo Jakarta \u2013 Penang PP ditambah dengan hotel selama 3 malam, harganya cuma Rp 1,4juta saja!", 
+        "line": 6, 
+        "range": [
+            389, 
+            522
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    421, 
+                    428
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    435, 
+                    442
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    445, 
+                    451
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    471, 
+                    476
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Murah sih ini, teman kampus saya juga pengen ikutan saking murahnya.", 
+        "line": 8, 
+        "range": [
+            524, 
+            591
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadi, saya yang biasanya backpackeran solo kali ini berlibur bersama tiga orang teman lain.", 
+        "line": 10, 
+        "range": [
+            593, 
+            683
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya bisa sih menghemat biaya liburan, tapi karena teman-teman saya tidak mau menginap di hostel, ya jadinya pilih nginep di hotel deh.", 
+        "line": 12, 
+        "range": [
+            685, 
+            825
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    784, 
+                    790
+                ], 
+                "name": "hostel"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    819, 
+                    824
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mengenal tentang Penang", 
+        "line": 14, 
+        "range": [
+            827, 
+            849
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebelum masuk ke bagian itinerary, ada baiknya kalau kita mengenal Penang terlebih dahulu. Penang itu di mana sih?", 
+        "line": 16, 
+        "range": [
+            851, 
+            964
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    923, 
+                    929
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    947, 
+                    953
+                ], 
+                "name": "Penang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penang adalah sebuah bagian federasi dari Malaysia yang terletak di sebelah Barat Laut semenanjug Malaysia. ", 
+        "line": 18, 
+        "range": [
+            966, 
+            1073
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    972, 
+                    978
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1014, 
+                    1022
+                ], 
+                "name": "Malaysia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penang dibagi lagi menjadi 2 bagian, yaitu bagian daratan yang bernama Seberang Perai dan bagian pulau.", 
+        "line": 20, 
+        "range": [
+            1075, 
+            1177
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1082, 
+                    1088
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1153, 
+                    1167
+                ], 
+                "name": "Seberang Perai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, ibu kota Penang bernama Georgetown, yang terletak di bagian pulau.", 
+        "line": 22, 
+        "range": [
+            1179, 
+            1249
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1179, 
+                    1184
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1192, 
+                    1200
+                ], 
+                "name": "ibu kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1201, 
+                    1207
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1216, 
+                    1226
+                ], 
+                "name": "Georgetown"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tempat wisata yang terkenal di Penang kebanyakan di Georgetown-nya atau di bagian pulau.", 
+        "line": 24, 
+        "range": [
+            1251, 
+            1338
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1252, 
+                    1257
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1260, 
+                    1273
+                ], 
+                "name": "Tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1291, 
+                    1297
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1312, 
+                    1322
+                ], 
+                "name": "Georgetown"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bahkan, kalau kamu naik pesawat langung ke Penang bakal mendarat di bandara Georgetown.", 
+        "line": 26, 
+        "range": [
+            1340, 
+            1426
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1342, 
+                    1347
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1374, 
+                    1381
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1393, 
+                    1399
+                ], 
+                "name": "Penang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penang itu seperti titik kumpulnya berbagai kebudayaan karena dulunya merupakan pusat perdagangan yang penting.", 
+        "line": 28, 
+        "range": [
+            1428, 
+            1538
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1439, 
+                    1445
+                ], 
+                "name": "Penang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu bisa merasakan kebudayaan India, Chinese, Malaysia, Peranakan, Thailand, bahkan Eropa.", 
+        "line": 30, 
+        "range": [
+            1540, 
+            1630
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1583, 
+                    1588
+                ], 
+                "name": "India"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1590, 
+                    1597
+                ], 
+                "name": "Chinese"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1599, 
+                    1607
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1620, 
+                    1628
+                ], 
+                "name": "Thailand"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Contoh itinerary Penang 4 hari 3 malam", 
+        "line": 32, 
+        "range": [
+            1632, 
+            1669
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1637, 
+                    1642
+                ], 
+                "name": "Eropa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1662, 
+                    1668
+                ], 
+                "name": "Penang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Penang enaknya ngapain aja ya? Kamu bisa coba ikutin itinerary saya liburan ke Penang selama 4 hari 3 malam.", 
+        "line": 34, 
+        "range": [
+            1671, 
+            1781
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1688, 
+                    1694
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1767, 
+                    1773
+                ], 
+                "name": "Penang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: Tiba di Penang", 
+        "line": 36, 
+        "range": [
+            1783, 
+            1803
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Highlight:", 
+        "line": 38, 
+        "range": [
+            1805, 
+            1814
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Little India", 
+        "line": 39, 
+        "range": [
+            1815, 
+            1826
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Han Jiang Ancestral Temple", 
+        "line": 40, 
+        "range": [
+            1827, 
+            1852
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1832, 
+                    1844
+                ], 
+                "name": "Little India"
+            }
+        ]
+    }, 
+    {
+        "text": "Sri Mahamariamman Temple", 
+        "line": 41, 
+        "range": [
+            1853, 
+            1876
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 42, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari yang ditunggu telah tiba.", 
+        "line": 43, 
+        "range": [
+            1878, 
+            1907
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 44, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saatnya berangkat ke Penang. Karena jadwal penerbangan kami berangkatnya jam 5.30 pagi, kami pun memutuskan untuk bermalam di Bandara Soekarno Hatta.", 
+        "line": 45, 
+        "range": [
+            1909, 
+            2057
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1951, 
+                    1957
+                ], 
+                "name": "Penang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penerbangan dari Jakarta ke Penang memakan waktu sekitar 2 jam. Sampai di Bandara Georgetown kok banyak orang yang pakai kursi roda ya.", 
+        "line": 47, 
+        "range": [
+            2059, 
+            2193
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2098, 
+                    2105
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2109, 
+                    2115
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2155, 
+                    2173
+                ], 
+                "name": "Bandara Georgetown"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya baru ingat kalau Penang adalah tujuan populer untuk berobat juga termasuk kanker.", 
+        "line": 49, 
+        "range": [
+            2195, 
+            2280
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2240, 
+                    2246
+                ], 
+                "name": "Penang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari bandara kami naik bus nomor 401E tujuan Komtar (20 menit) karena hotel kami berlokasi di area tersebut.", 
+        "line": 51, 
+        "range": [
+            2282, 
+            2389
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2311, 
+                    2318
+                ], 
+                "name": "bandara"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2329, 
+                    2343
+                ], 
+                "name": "bus nomor 401E"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2351, 
+                    2357
+                ], 
+                "name": "Komtar"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2376, 
+                    2381
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai, terlihat sebuah bangunan tinggi dengan nama Continental. Itu pasti hotelnya.", 
+        "line": 53, 
+        "range": [
+            2391, 
+            2482
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 54, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya dan teman-teman menggeret koper sampai ke bangunan tersebut, ternyata salah hotel.", 
+        "line": 55, 
+        "range": [
+            2484, 
+            2570
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2499, 
+                    2507
+                ], 
+                "name": "hotelnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 56, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nama hotel tersebut Hotel Grand Continental sedangkan hotel kami bernama Hotel Continental.", 
+        "line": 57, 
+        "range": [
+            2572, 
+            2662
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2591, 
+                    2596
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2604, 
+                    2609
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2619, 
+                    2642
+                ], 
+                "name": "Hotel Grand Continental"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2653, 
+                    2658
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 58, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalan lagi deh, panas lagi. Akhirnya setelah tanya sana sini sampai juga di hotel yang benar.", 
+        "line": 59, 
+        "range": [
+            2664, 
+            2756
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2672, 
+                    2689
+                ], 
+                "name": "Hotel Continental"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 60, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah mengurus check-in kami beristirahat sejenak. Baru deh mulai keliling Georgetown.", 
+        "line": 61, 
+        "range": [
+            2758, 
+            2845
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2768, 
+                    2773
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 62, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami mengunjungi daerah Little India dan beberapa kuil di sekitaran yaitu Han Jiang Ancestral Temple dan Sri Mahamariamman Temple.", 
+        "line": 63, 
+        "range": [
+            2847, 
+            2976
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2864, 
+                    2874
+                ], 
+                "name": "Georgetown"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2901, 
+                    2913
+                ], 
+                "name": "Little India"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2927, 
+                    2931
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2951, 
+                    2977
+                ], 
+                "name": "Han Jiang Ancestral Temple"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 64, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cukup gampang untuk ke mana-mana soalnya areanya tidak terlalu luas, jalan kaki juga bisa.", 
+        "line": 65, 
+        "range": [
+            2978, 
+            3067
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2982, 
+                    3006
+                ], 
+                "name": "Sri Mahamariamman Temple"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 66, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk makan malam kami nyobain makanan India dan Chinese, ada Ghee Tosai, Roti Canai, Wan Tan Mee, dan Lo Mie.", 
+        "line": 67, 
+        "range": [
+            3069, 
+            3178
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 68, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: Keliling area kota tua di Georgetown", 
+        "line": 69, 
+        "range": [
+            3180, 
+            3222
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 70, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Highlight:", 
+        "line": 71, 
+        "range": [
+            3224, 
+            3233
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Cheong Fatt Tze Mansion", 
+        "line": 72, 
+        "range": [
+            3234, 
+            3256
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3234, 
+                    3242
+                ], 
+                "name": "kota tua"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3246, 
+                    3256
+                ], 
+                "name": "Georgetown"
+            }
+        ]
+    }, 
+    {
+        "text": "Penang State of Museum", 
+        "line": 73, 
+        "range": [
+            3257, 
+            3278
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Church of Assumption", 
+        "line": 74, 
+        "range": [
+            3279, 
+            3298
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "St. George Church", 
+        "line": 75, 
+        "range": [
+            3299, 
+            3315
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "City Hall", 
+        "line": 76, 
+        "range": [
+            3316, 
+            3324
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Fort Cornwallis", 
+        "line": 77, 
+        "range": [
+            3325, 
+            3339
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 78, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rencana kami di hari kedua adalah mengunjungi tempat wisata bersejarah di area kota tua Georgetown. Enaknya di Georgetown bus gratis yang disebut dengan Central Area Transit (CAT) bus untuk keliling kota.", 
+        "line": 79, 
+        "range": [
+            3341, 
+            3544
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3355, 
+                    3364
+                ], 
+                "name": "City Hall"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3365, 
+                    3380
+                ], 
+                "name": "Fort Cornwallis"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3428, 
+                    3441
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3461, 
+                    3469
+                ], 
+                "name": "kota tua"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3470, 
+                    3480
+                ], 
+                "name": "Georgetown"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3493, 
+                    3503
+                ], 
+                "name": "Georgetown"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3504, 
+                    3507
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 80, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tujuan pertama kami adalah Cheong Fatt Tze Mansion. Letaknya pas di belakang hotel kami. Mansion ini dulunya adalah rumah dari seorang tokoh berpengaruh di masa abad-19.", 
+        "line": 81, 
+        "range": [
+            3546, 
+            3714
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3562, 
+                    3565
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3581, 
+                    3585
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3615, 
+                    3638
+                ], 
+                "name": "Cheong Fatt Tze Mansion"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3665, 
+                    3670
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3677, 
+                    3684
+                ], 
+                "name": "Mansion"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 82, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ciri khas dari mansion ini adalah warna bangunan yang didominasi dengan warna biru.", 
+        "line": 83, 
+        "range": [
+            3716, 
+            3798
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3774, 
+                    3781
+                ], 
+                "name": "mansion"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cheong Fatt Tze Mansion memiliki gaya arsitektur dan desain interior kebudayaan Cina. Furniturnya juga sebagian besar dikirim langsung dari Cina.", 
+        "line": 85, 
+        "range": [
+            3800, 
+            3944
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3844, 
+                    3867
+                ], 
+                "name": "Cheong Fatt Tze Mansion"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3924, 
+                    3928
+                ], 
+                "name": "Cina"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekarang Cheong Fatt Tze Mansion dijadikan sebagai butik hotel namun tetap bisa dikunjungi pada jam-jam tertentu.", 
+        "line": 87, 
+        "range": [
+            3946, 
+            4058
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3984, 
+                    3988
+                ], 
+                "name": "Cina"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4000, 
+                    4023
+                ], 
+                "name": "Cheong Fatt Tze Mansion"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4048, 
+                    4053
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 88, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu bisa ikutan tur di jam 11 dan 2 siang dengan harga RM 25/orang (beli tiket).", 
+        "line": 89, 
+        "range": [
+            4060, 
+            4140
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 90, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selanjutnya kami berjalan ke area kota tua dengan gedung-gedung kolonial. Yang pertama kami temukan adalah Penang State of Museum yang dibuka setiap hari kecuali hari Jumat dan libur nasional.", 
+        "line": 91, 
+        "range": [
+            4142, 
+            4333
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4223, 
+                    4231
+                ], 
+                "name": "kota tua"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4239, 
+                    4261
+                ], 
+                "name": "gedung-gedung kolonial"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4296, 
+                    4318
+                ], 
+                "name": "Penang State of Museum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 92, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuknya murah cuma RM 1 saja. Di museum ini kamu bisa mempelajari sejarah Penang mulai dari zaman ketika Bangsa Kolonial Inggris memerintah, sampai penjajahan Jepang pada Perang Dunia II.", 
+        "line": 93, 
+        "range": [
+            4335, 
+            4534
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4429, 
+                    4435
+                ], 
+                "name": "museum"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4470, 
+                    4476
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4517, 
+                    4524
+                ], 
+                "name": "Inggris"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 94, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Next, ada Court Building atau tempat pengadilan yang sudah ada dari tahun 1808. Kemudian Church of Assumption \u2013 St. George Church \u2013 City Hall. Kami cuma foto-foto di luar saja.", 
+        "line": 95, 
+        "range": [
+            4536, 
+            4715
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4555, 
+                    4561
+                ], 
+                "name": "Jepang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4595, 
+                    4609
+                ], 
+                "name": "Court Building"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4674, 
+                    4694
+                ], 
+                "name": "Church of Assumption"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4697, 
+                    4714
+                ], 
+                "name": "St. George Church"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 96, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tujuan terakhir di area kota tua adalah Fort Cornwallis yang merupakan benteng pertahanan yang bertujuan untuk melawan bajak laut, tentara dari Kedah, dan juga Prancis di masa perang Napoleonic.", 
+        "line": 97, 
+        "range": [
+            4717, 
+            4910
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4717, 
+                    4726
+                ], 
+                "name": "City Hall"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4787, 
+                    4795
+                ], 
+                "name": "kota tua"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4803, 
+                    4818
+                ], 
+                "name": "Fort Cornwallis"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 98, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dulu ketika kami ke sana harga tiket masuknya masih murah cuma RM 2, sekarang saya cek lagi harga tiket sudah naik menjadi RM 20 (tahun 2020).", 
+        "line": 99, 
+        "range": [
+            4912, 
+            5053
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4923, 
+                    4930
+                ], 
+                "name": "Prancis"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 100, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sore hari kami cuma jalan-jalan ke Queens Bay Mall sambil menuju view point untuk melihat teluk dan Jembatan Butterworth dari kejauhan.", 
+        "line": 101, 
+        "range": [
+            5055, 
+            5189
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5138, 
+                    5153
+                ], 
+                "name": "Queens Bay Mall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 102, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3: Pantai Batu Feringghi \u2013 Kuil Kek Lok Si", 
+        "line": 103, 
+        "range": [
+            5191, 
+            5238
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5193, 
+                    5198
+                ], 
+                "name": "teluk"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5203, 
+                    5223
+                ], 
+                "name": "Jembatan Butterworth"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 104, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk destinasi yang agak jauh, biasanya bus berangkat dari Terminal Komtar. Awalnya kami berencana ke Botanical Garden terlebih dahulu tapi setelah hampir menungu sejam busnya tidak datang-datang.", 
+        "line": 105, 
+        "range": [
+            5240, 
+            5436
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5247, 
+                    5268
+                ], 
+                "name": "Pantai Batu Feringghi"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5271, 
+                    5286
+                ], 
+                "name": "Kuil Kek Lok Si"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5329, 
+                    5332
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5348, 
+                    5363
+                ], 
+                "name": "Terminal Komtar"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5391, 
+                    5407
+                ], 
+                "name": "Botanical Garden"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 106, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadinya kami memutuskan untuk pergi ke Pantai Batu Feringghi dengan menggunakan bus nomor 101. Lama perjalanan kurang lebih 30 menit saja.", 
+        "line": 107, 
+        "range": [
+            5438, 
+            5575
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5458, 
+                    5464
+                ], 
+                "name": "busnya"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5526, 
+                    5547
+                ], 
+                "name": "Pantai Batu Feringghi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 108, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cukup kecewa ketika sampai, cuacanya agak mendung. Pantainya tidak terlalu ramai karena kami datangnya kepagian. Kata penjaga pantai biasanya ramai pas malam. Di sini juga bisa main jetski dan banana boat.", 
+        "line": 109, 
+        "range": [
+            5577, 
+            5781
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5678, 
+                    5687
+                ], 
+                "name": "Pantainya"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5753, 
+                    5759
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 110, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak terlalu lama di pantai, kami naik bus ke Stesen Tanjung Bungah untuk ngambil bus ke Kuil Kek Lok Si.", 
+        "line": 111, 
+        "range": [
+            5783, 
+            5888
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5809, 
+                    5815
+                ], 
+                "name": "jetski"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5820, 
+                    5831
+                ], 
+                "name": "banana boat"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5856, 
+                    5862
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5874, 
+                    5877
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 112, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ternyata salah! Google Maps nyebutin bisa ke Kek Lok Si dengan bus nomor 501 dari Stasiun Tanjung Bungah.", 
+        "line": 113, 
+        "range": [
+            5890, 
+            5994
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5917, 
+                    5920
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5924, 
+                    5939
+                ], 
+                "name": "Kuil Kek Lok Si"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 114, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di sana ternyata bus nya salah, harus naik bus nomor 502 dan bukan dari Tanjung Bungah. Kami harus naik bus menuju Balik Pulau dan busnya berasa kayak naik roller coaster.", 
+        "line": 115, 
+        "range": [
+            5996, 
+            6181
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    6005, 
+                    6018
+                ], 
+                "name": "bus nomor 501"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6024, 
+                    6046
+                ], 
+                "name": "Stasiun Tanjung Bungah"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6081, 
+                    6084
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    6107, 
+                    6120
+                ], 
+                "name": "bus nomor 502"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6136, 
+                    6150
+                ], 
+                "name": "Tanjung Bungah"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6168, 
+                    6171
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 116, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bus melaju kencang di jalanan yang berkelok-kelok. Hanya 15 menit tapi berasa seperti sejam, kalau lebih lama saya bisa muntah kali.", 
+        "line": 117, 
+        "range": [
+            6183, 
+            6314
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6195, 
+                    6201
+                ], 
+                "name": "busnya"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6220, 
+                    6234
+                ], 
+                "name": "roller coaster"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6237, 
+                    6240
+                ], 
+                "name": "Bus"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6259, 
+                    6266
+                ], 
+                "name": "jalanan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 118, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sampai di Stasiun Balik Pulau, kami naik bus no 502 ke Kuil Kek Lok Si yang terletak di area Air Itam.", 
+        "line": 119, 
+        "range": [
+            6316, 
+            6417
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6381, 
+                    6400
+                ], 
+                "name": "Stasiun Balik Pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 120, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak sia-sia kami mengalami perjalanan yang sulit, Kuil Kek Lok Si benar-benar wow!", 
+        "line": 121, 
+        "range": [
+            6419, 
+            6502
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6426, 
+                    6441
+                ], 
+                "name": "Kuil Kek Lok Si"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6464, 
+                    6472
+                ], 
+                "name": "Air Itam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 122, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari pintu masuk harus naik tangga yang melewati toko-toko suvenir untuk menuju ke kuil utama. Harus dilanjutkan lagi dengan semacam lift seharga RM 2 (satu arah) untuk menuju bagian atas kuil.", 
+        "line": 123, 
+        "range": [
+            6504, 
+            6696
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6527, 
+                    6542
+                ], 
+                "name": "Kuil Kek Lok Si"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6610, 
+                    6619
+                ], 
+                "name": "toko-toko"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6644, 
+                    6648
+                ], 
+                "name": "kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 124, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kompleks kuil Buddhist ini memiliki beberapa ruang berdoa, biara, dan juga taman. Di area paling tinggi ada Patung Dewi Kwan Im raksasa.", 
+        "line": 125, 
+        "range": [
+            6698, 
+            6833
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6749, 
+                    6753
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6765, 
+                    6769
+                ], 
+                "name": "kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 126, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Puas mengelilingi Kuil Kek Lok Si, kami kembali ke Komtar dengan menggunakan bus nomor 101.", 
+        "line": 127, 
+        "range": [
+            6835, 
+            6925
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 128, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 4: Pinang Peranakan Mansion", 
+        "line": 129, 
+        "range": [
+            6927, 
+            6957
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6945, 
+                    6951
+                ], 
+                "name": "Komtar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 130, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di hari terakhir kami masih punya cukup banyak waktu karena pesawat pulang ke Jakarta berangkatnya malam hari.", 
+        "line": 131, 
+        "range": [
+            6959, 
+            7068
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    6971, 
+                    6984
+                ], 
+                "name": "bus nomor 101"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6994, 
+                    7018
+                ], 
+                "name": "Pinang Peranakan Mansion"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 132, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadinya kamu masih sempat berkunjung ke Pinang Peranakan Mansion.", 
+        "line": 133, 
+        "range": [
+            7070, 
+            7134
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7080, 
+                    7087
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7098, 
+                    7105
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 134, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Istilah \u201cPeranakan\u201d diberikan kepada keturunan yang memiliki darah campuran Cina dan Melayu. Sebutan lainnya adalah Baba \u2013 Nyonya.", 
+        "line": 135, 
+        "range": [
+            7136, 
+            7271
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7172, 
+                    7196
+                ], 
+                "name": "Pinang Peranakan Mansion"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 136, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saat ini Pinang Peranakan Mansion merupakan sebuah museum dengan koleksi peninggalan lebih dari 1,000 benda seperti perhiasan, perabotan kayu, dan juga barang pecah belah yang diimpor dari Eropa.", 
+        "line": 137, 
+        "range": [
+            7273, 
+            7467
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7275, 
+                    7279
+                ], 
+                "name": "Cina"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7340, 
+                    7364
+                ], 
+                "name": "Pinang Peranakan Mansion"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7382, 
+                    7388
+                ], 
+                "name": "museum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 138, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Pinang Peranakan Mansion adalah RM 20. Untuk kesini kamu bisa bus gratis. Jujur saya terpesona dengan barang-barang antik dan mewah yang dipajang di museum ini.", 
+        "line": 139, 
+        "range": [
+            7469, 
+            7646
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7520, 
+                    7525
+                ], 
+                "name": "Eropa"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7546, 
+                    7570
+                ], 
+                "name": "Pinang Peranakan Mansion"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7608, 
+                    7611
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 140, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips liburan ke Penang", 
+        "line": 141, 
+        "range": [
+            7648, 
+            7669
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 142, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa tips yang mungkin membantu kamu jika ingin berlibur ke Penang.", 
+        "line": 143, 
+        "range": [
+            7671, 
+            7741
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7695, 
+                    7701
+                ], 
+                "name": "museum"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7724, 
+                    7730
+                ], 
+                "name": "Penang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 144, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sarankan menginap di area Komtar agar lebih gampang ke mana-mana. Cara menuju area Komtar dari bandara adalah dengan menggunakan bus no 401, 401A and 401E (1 jam).", 
+        "line": 145, 
+        "range": [
+            7743, 
+            7910
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7796, 
+                    7802
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7836, 
+                    7842
+                ], 
+                "name": "Komtar"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7893, 
+                    7899
+                ], 
+                "name": "Komtar"
+            }
+        ]
+    }, 
+    {
+        "text": "Di airport ada peta dan panduan tentang tempat wisata populer di Penang. Ambil saja karena ada informasi rute bus juga jadi sangat membantu.", 
+        "line": 146, 
+        "range": [
+            7911, 
+            8050
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    7939, 
+                    7949
+                ], 
+                "name": "bus no 401"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    7951, 
+                    7955
+                ], 
+                "name": "401A"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    7960, 
+                    7964
+                ], 
+                "name": "401E"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7977, 
+                    7984
+                ], 
+                "name": "airport"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8039, 
+                    8045
+                ], 
+                "name": "Penang"
+            }
+        ]
+    }, 
+    {
+        "text": "Kamu bisa beli kartu SIM dengan kuota 15 GB dengan masa berlaku selama 7 hari yang bisa diambil di bandara. Harganya cuma RM 25 saja. Klik di sini untuk membeli kartu SIM.", 
+        "line": 147, 
+        "range": [
+            8051, 
+            8221
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8084, 
+                    8087
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8214, 
+                    8221
+                ], 
+                "name": "bandara"
+            }
+        ]
+    }, 
+    {
+        "text": "Di sekitar Kota Tua Georgetown kamu bisa naik bus gratis yang bernama CAT bus. Bus ini beroperasi dari jam 6 pagi \u2013 11.40 malam dengan frekuensi setiap 20 \u2013 30 menit.", 
+        "line": 148, 
+        "range": [
+            8222, 
+            8391
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8298, 
+                    8306
+                ], 
+                "name": "Kota Tua"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8307, 
+                    8317
+                ], 
+                "name": "Georgetown"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8333, 
+                    8336
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    8357, 
+                    8364
+                ], 
+                "name": "CAT bus"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8366, 
+                    8369
+                ], 
+                "name": "Bus"
+            }
+        ]
+    }, 
+    {
+        "text": "Harga tiket rapid bus untuk tujuan seperti Batu Feringghi atau Kuil Kek Lok Si berkisar antara RM 1.4 \u2013 RM 2.7.", 
+        "line": 149, 
+        "range": [
+            8392, 
+            8504
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8466, 
+                    8475
+                ], 
+                "name": "rapid bus"
+            }
+        ]
+    }, 
+    {
+        "text": "Untuk menuju Kuil Kek Lok Si sebaiknya menggunakan bus nomor 203 atau 204 dari Komtar, kecuali kalau mau naik roller coaster seperti saya, hehe.", 
+        "line": 150, 
+        "range": [
+            8505, 
+            8648
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8517, 
+                    8532
+                ], 
+                "name": "Kuil Kek Lok Si"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8579, 
+                    8594
+                ], 
+                "name": "Kuil Kek Lok Si"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    8617, 
+                    8630
+                ], 
+                "name": "bus nomor 203"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    8636, 
+                    8639
+                ], 
+                "name": "204"
+            }
+        ]
+    }, 
+    {
+        "text": "Ada juga tempat wisata lain bernama Penang Hill. Saya dan teman-teman tidak ke sana. Di sini kamu bisa melihat pemandangan kota dari atas bukit.", 
+        "line": 151, 
+        "range": [
+            8649, 
+            8792
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8676, 
+                    8690
+                ], 
+                "name": "roller coaster"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8747, 
+                    8758
+                ], 
+                "name": "Penang Hill"
+            }
+        ]
+    }, 
+    {
+        "text": "Kunjungi juga Penang Art Street untuk berfoto bersama mural-mural lucu.", 
+        "line": 152, 
+        "range": [
+            8793, 
+            8863
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8834, 
+                    8838
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8849, 
+                    8854
+                ], 
+                "name": "bukit"
+            }
+        ]
+    }, 
+    {
+        "text": "Penang terkenal dengan makanannya yang enak-enak. Kamu bisa nyari makan di sekitar Jalan Lebuh Chulia. Banyak makanan India dan Chinese food.", 
+        "line": 153, 
+        "range": [
+            8864, 
+            9004
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    8870, 
+                    8887
+                ], 
+                "name": "Penang Art Street"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8928, 
+                    8934
+                ], 
+                "name": "Penang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 154, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau sekalian mau main ke Kuala Lumpur juga kamu bisa baca itinerary liburan ke Kuala Lumpur selama 3 hari 2 malam dan juga rekomendasi tempat wisata di Kuala Lumpur yang bisa kamu kunjungi.", 
+        "line": 155, 
+        "range": [
+            9006, 
+            9196
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    9011, 
+                    9029
+                ], 
+                "name": "Jalan Lebuh Chulia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9098, 
+                    9110
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9152, 
+                    9164
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 156, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Punya contoh itinerary liburan ke Penang yang berbeda? Boleh tinggalkan di kolom komentar ya.", 
+        "line": 157, 
+        "range": [
+            9198, 
+            9290
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9208, 
+                    9221
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9225, 
+                    9237
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }
+]

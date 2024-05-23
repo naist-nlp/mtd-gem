@@ -1,0 +1,2479 @@
+[
+    {
+        "text": "July 1, 2021   Panduan Lengkap Dan Tips Jalan-Jalan Ke Pulau Derawan", 
+        "line": 0, 
+        "range": [
+            1, 
+            68
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    55, 
+                    68
+                ], 
+                "name": "Pulau Derawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sudah lama saya ingin jalan-jalan ke Pulau Derawan. Kepulauan yang terletak di Kalimantan Timur ini dikenal memiliki pantai dan juga spot diving yang sangat indah. Beberapa pulau yang sering dikunjungi adalah Pulau Derawan, Maratua, Sangalaki, dan Kakaban.", 
+        "line": 2, 
+        "range": [
+            70, 
+            325
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    107, 
+                    120
+                ], 
+                "name": "Pulau Derawan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    122, 
+                    131
+                ], 
+                "name": "Kepulauan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    149, 
+                    165
+                ], 
+                "name": "Kalimantan Timur"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    187, 
+                    193
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    243, 
+                    248
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    279, 
+                    292
+                ], 
+                "name": "Pulau Derawan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    294, 
+                    301
+                ], 
+                "name": "Maratua"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    303, 
+                    312
+                ], 
+                "name": "Sangalaki"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    318, 
+                    325
+                ], 
+                "name": "Kakaban"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara ke Pulau Derawan", 
+        "line": 4, 
+        "range": [
+            327, 
+            347
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada 2 cara untuk menuju ke Pulau Derawan yaitu via Tarakan atau Berau.", 
+        "line": 6, 
+        "range": [
+            349, 
+            418
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    378, 
+                    391
+                ], 
+                "name": "Pulau Derawan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    402, 
+                    409
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu bisa terbang terlebih dahulu ke Balikpapan, kemudian dilanjutkan lagi menggunakan pesawat ke Tarakan atau Berau.", 
+        "line": 8, 
+        "range": [
+            420, 
+            536
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    460, 
+                    470
+                ], 
+                "name": "Balikpapan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    510, 
+                    517
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    521, 
+                    528
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Ke Pulau Derawan via Tarakan", 
+        "line": 10, 
+        "range": [
+            538, 
+            568
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    548, 
+                    561
+                ], 
+                "name": "Pulau Derawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pintu masuk pertama ke Pulau Derawan bisa via Tarakan.", 
+        "line": 12, 
+        "range": [
+            570, 
+            623
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    598, 
+                    611
+                ], 
+                "name": "Pulau Derawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiket pesawat dari Balikpapan ke Tarakan biasanya lebih murah dibanding dari Balikpapan ke Berau.", 
+        "line": 14, 
+        "range": [
+            625, 
+            721
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    637, 
+                    644
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    650, 
+                    660
+                ], 
+                "name": "Balikpapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    664, 
+                    671
+                ], 
+                "name": "Tarakan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    708, 
+                    718
+                ], 
+                "name": "Balikpapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Tarakan harus naik speed boat dengan lama perjalanan 3 jam sampai ke Pulau Derawan.", 
+        "line": 16, 
+        "range": [
+            723, 
+            810
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    735, 
+                    742
+                ], 
+                "name": "Tarakan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    754, 
+                    764
+                ], 
+                "name": "speed boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sewa speed boat cukup mahal, untuk kapasitas 15 orang bisa kena Rp 11juta untuk 3 malam, sekalian hopping island juga.", 
+        "line": 18, 
+        "range": [
+            812, 
+            929
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    825, 
+                    835
+                ], 
+                "name": "speed boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebaiknya kalau mau lewat Tarakan lebih baik ikut open trip saja.", 
+        "line": 20, 
+        "range": [
+            931, 
+            995
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    966, 
+                    973
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga open trip ke Pulau Derawan selama 3 hari 2 malam biasanya sekitar Rp 1.7jt per orangnya sudah all-in termasuk penginapan dan makan.", 
+        "line": 22, 
+        "range": [
+            997, 
+            1133
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1026, 
+                    1039
+                ], 
+                "name": "Pulau Derawan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1123, 
+                    1133
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Ke Pulau Derawan via Berau", 
+        "line": 24, 
+        "range": [
+            1135, 
+            1163
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara menuju ke Pulau Derawan yang kedua adalah lewat Berau.", 
+        "line": 26, 
+        "range": [
+            1165, 
+            1223
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1170, 
+                    1175
+                ], 
+                "name": "Berau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1192, 
+                    1205
+                ], 
+                "name": "Pulau Derawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pilihan ini lebih cocok untuk kamu yang ingin backpacker-an sendiri tanpa ikutan tur.", 
+        "line": 28, 
+        "range": [
+            1225, 
+            1309
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1230, 
+                    1235
+                ], 
+                "name": "Berau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Bandara Berau kamu bisa cari mobil travel menuju dermaga Tanjung Batu.", 
+        "line": 30, 
+        "range": [
+            1311, 
+            1385
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1330, 
+                    1343
+                ], 
+                "name": "Bandara Berau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1359, 
+                    1364
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perjalanan jalur darat ini memakan waktu kurang lebih 2 jam, harganya tergantung jumlah penumpang.", 
+        "line": 32, 
+        "range": [
+            1387, 
+            1484
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau full kurang lebih Rp 75,000 per orang, kalau kurang penumpangnya harus bayar lebih.", 
+        "line": 34, 
+        "range": [
+            1486, 
+            1574
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di dermaga Tanjung Batu, baru deh naik speed boat umum dengan lama perjalanan 45 menit dan harganya Rp 50,000.", 
+        "line": 36, 
+        "range": [
+            1576, 
+            1700
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1611, 
+                    1631
+                ], 
+                "name": "dermaga Tanjung Batu"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1647, 
+                    1657
+                ], 
+                "name": "speed boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Enaknya lewat Berau bisa mampir dulu ke Labuan Cermin.", 
+        "line": 38, 
+        "range": [
+            1702, 
+            1755
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1734, 
+                    1739
+                ], 
+                "name": "Berau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya beruntung karena dapat tiket promo dari Jakarta \u2013 Balikpapan menggunakan Citilink dengan harga tiket pulang pergi sebesar Rp 158,000 saja!", 
+        "line": 40, 
+        "range": [
+            1757, 
+            1901
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1760, 
+                    1773
+                ], 
+                "name": "Labuan Cermin"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1821, 
+                    1828
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1831, 
+                    1841
+                ], 
+                "name": "Balikpapan"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1854, 
+                    1862
+                ], 
+                "name": "Citilink"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Belinya bulan Maret untuk keberangkatan Agustus. Jadinya masih bisa rencanain mau via Tarakan atau Berau.", 
+        "line": 42, 
+        "range": [
+            1903, 
+            2007
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertimbangan saya adalah tiket pesawat ke Tarakan lebih murah, tapi karena saya sendiri lebih baik lewat Berau saja.", 
+        "line": 44, 
+        "range": [
+            2009, 
+            2124
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2020, 
+                    2025
+                ], 
+                "name": "Berau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2059, 
+                    2066
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2070, 
+                    2077
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa sih lewat Tarakan tapi harus ikut open trip biar murah.", 
+        "line": 46, 
+        "range": [
+            2126, 
+            2185
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2133, 
+                    2138
+                ], 
+                "name": "Berau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2161, 
+                    2168
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya saya coba nyari open trip ke Pulau Derawan. Banyak juga tawaran open trip dari Tarakan.", 
+        "line": 48, 
+        "range": [
+            2187, 
+            2282
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2246, 
+                    2259
+                ], 
+                "name": "Pulau Derawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket paling murah dari Balikpapan ke Tarakan pulang pergi dapatnya Rp 786,000. Itupun karena hari raya jadinya lebih mahal.", 
+        "line": 50, 
+        "range": [
+            2284, 
+            2413
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2296, 
+                    2303
+                ], 
+                "name": "Tarakan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2336, 
+                    2346
+                ], 
+                "name": "Balikpapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2350, 
+                    2357
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah mencocokkan semua jadwal akhirnya dapatlah sebuah trip organizer yang berangkat di tanggal yang saya inginkan.", 
+        "line": 52, 
+        "range": [
+            2415, 
+            2532
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "GRATIS! Kok bisa gratis? Coba deh artikel saya tentang tips traveling hemat. Saya ada share gimana caranya dapat tiket pesawat promo dan ikutan tur gratis.", 
+        "line": 54, 
+        "range": [
+            2534, 
+            2688
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2677, 
+                    2684
+                ], 
+                "name": "pesawat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itinerary jalan-jalan ke Pulau Derawan", 
+        "line": 56, 
+        "range": [
+            2690, 
+            2727
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yes! Hari yang ditunggu-tunggu sudah tiba. Maklum, sudah lama rasanya ingin liburan ke Pulau Derawan, akhirnya kesampaian juga.", 
+        "line": 58, 
+        "range": [
+            2729, 
+            2855
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2740, 
+                    2753
+                ], 
+                "name": "Pulau Derawan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2842, 
+                    2855
+                ], 
+                "name": "Pulau Derawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut itinerary saya ikut open tip ke Pulau Derawan selama 3 hari 2 malam:", 
+        "line": 60, 
+        "range": [
+            2857, 
+            2932
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: Jakarta \u2013 Tarakan", 
+        "line": 62, 
+        "range": [
+            2934, 
+            2959
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Belum apa-apa udah drama aja. Jam 10.30 pagi saya sampai di Bandara Soekarno Hatta.", 
+        "line": 64, 
+        "range": [
+            2961, 
+            3043
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2969, 
+                    2976
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2979, 
+                    2986
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena penerbangan Jakarta \u2013 Balikpapan masih jam 2 siang, saya santai aja sambil nyari makan dulu.", 
+        "line": 66, 
+        "range": [
+            3045, 
+            3145
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3048, 
+                    3070
+                ], 
+                "name": "Bandara Soekarno Hatta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3092, 
+                    3099
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3102, 
+                    3112
+                ], 
+                "name": "Balikpapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah makan, saya cek papan informasi penerbangan. Kok tidak ada pesawat saya ya. Adanya penerbangan jam 11 pagi dan 5 sore.", 
+        "line": 68, 
+        "range": [
+            3147, 
+            3272
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3241, 
+                    3248
+                ], 
+                "name": "pesawat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Langsung saja saya lari ke kaunter Citilink. Ternyata flight saya di re-schedule ke jam 5 sore.", 
+        "line": 70, 
+        "range": [
+            3274, 
+            3368
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3329, 
+                    3336
+                ], 
+                "name": "kaunter"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    3337, 
+                    3345
+                ], 
+                "name": "Citilink"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya mulai panik, soalnya di hari yang sama penerbangan saya dari Balikpapan ke Tarakan berangkat jam 6.30 sore, mana bisa terkejar.", 
+        "line": 72, 
+        "range": [
+            3370, 
+            3501
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3465, 
+                    3475
+                ], 
+                "name": "Balikpapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3479, 
+                    3486
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya menjelaskan situasi saya ke staff Citilink.", 
+        "line": 74, 
+        "range": [
+            3503, 
+            3550
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beruntung pesawat jam 11 di delay ke jam 12 siang, masih ada slot juga buat saya. Akhirnya saya bisa ikut penerbangan yang pagi.", 
+        "line": 76, 
+        "range": [
+            3552, 
+            3679
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    3572, 
+                    3580
+                ], 
+                "name": "Citilink"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3593, 
+                    3600
+                ], 
+                "name": "pesawat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hampir saja batal ke Pulau Derawan.", 
+        "line": 78, 
+        "range": [
+            3681, 
+            3715
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 3 sore saya sampai di Balikpapan. Biar aman saya tanya ke kaunter lagi, tiket pulang saya di re-schedule kah.", 
+        "line": 80, 
+        "range": [
+            3717, 
+            3829
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3734, 
+                    3747
+                ], 
+                "name": "Pulau Derawan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3776, 
+                    3786
+                ], 
+                "name": "Balikpapan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3812, 
+                    3819
+                ], 
+                "name": "kaunter"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Benar saja tiket pulang saya ke Jakarta di re-schedule ke jam 8.30 malam. Bagus juga sih, bisa lamaan di Balikpapan.", 
+        "line": 82, 
+        "range": [
+            3831, 
+            3946
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3897, 
+                    3904
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 6.30 sore terbang lagi ke Tarakan. Sekitar 1 jam kemudian mendarat di Bandara Juwata di Tarakan.", 
+        "line": 84, 
+        "range": [
+            3948, 
+            4047
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3970, 
+                    3980
+                ], 
+                "name": "Balikpapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4013, 
+                    4020
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya menginap di rumah teman, besoknya trip ke Pulau Derawan akan dimulai.", 
+        "line": 86, 
+        "range": [
+            4049, 
+            4122
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4057, 
+                    4071
+                ], 
+                "name": "Bandara Juwata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4075, 
+                    4082
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: Tarakan \u2013 Pulau Derawan", 
+        "line": 88, 
+        "range": [
+            4124, 
+            4155
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4132, 
+                    4145
+                ], 
+                "name": "Pulau Derawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Semua peserta berkumpul di Pelabuhan SDF. Pas pergi air laut lagi surut jadi kadang speed boat kami stuck di pasir.", 
+        "line": 90, 
+        "range": [
+            4157, 
+            4271
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4168, 
+                    4175
+                ], 
+                "name": "Tarakan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4178, 
+                    4191
+                ], 
+                "name": "Pulau Derawan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4220, 
+                    4233
+                ], 
+                "name": "Pelabuhan SDF"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Peserta trip rata-rata masih muda, selama 3 jam kami bercanda ria, seru deh!", 
+        "line": 92, 
+        "range": [
+            4273, 
+            4348
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4277, 
+                    4287
+                ], 
+                "name": "speed boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekitar jam 4 sore akhirnya sampai di Pulau Derawan. Airnya bening sekali mirip seperti Pantai Ora di Maluku,  sampai kelihatan dasarnya!", 
+        "line": 94, 
+        "range": [
+            4350, 
+            4486
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4426, 
+                    4439
+                ], 
+                "name": "Pulau Derawan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4476, 
+                    4486
+                ], 
+                "name": "Pantai Ora"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Seekor penyu dengan santainya berenang di bawah jembatan dermaga.", 
+        "line": 96, 
+        "range": [
+            4488, 
+            4552
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4490, 
+                    4496
+                ], 
+                "name": "Maluku"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah menaruh barang di penginapan kami mulai jalan-jalan sore aja mengitari pulau.", 
+        "line": 98, 
+        "range": [
+            4554, 
+            4638
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4575, 
+                    4583
+                ], 
+                "name": "jembatan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4584, 
+                    4591
+                ], 
+                "name": "dermaga"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4620, 
+                    4630
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantainya kurang cakep, terumbu karang di sekitar pulau juga sudah lumayan rusak.", 
+        "line": 100, 
+        "range": [
+            4640, 
+            4720
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4673, 
+                    4678
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4681, 
+                    4690
+                ], 
+                "name": "Pantainya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Malamnya kami pergi ke pantai untuk melepas anak penyu atau yang disebut tukik ke laut.", 
+        "line": 102, 
+        "range": [
+            4722, 
+            4808
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4731, 
+                    4736
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4787, 
+                    4793
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Kepulauan Derawan memang ada penangkaran penyu yang terletak di Pulau Sangalaki.", 
+        "line": 104, 
+        "range": [
+            4810, 
+            4892
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4846, 
+                    4850
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4856, 
+                    4873
+                ], 
+                "name": "Kepulauan Derawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beruntung ada seekor penyu yang sedang bertelur. Pertama kali saya melihat proses penyu bertelur.", 
+        "line": 106, 
+        "range": [
+            4894, 
+            4990
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4920, 
+                    4935
+                ], 
+                "name": "Pulau Sangalaki"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Telur-telur kecil yang berbentuk seperti bola ping pong berwarna putih keluar satu persatu dari bagian tubuh penyu.", 
+        "line": 108, 
+        "range": [
+            4992, 
+            5106
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3: Hopping island", 
+        "line": 110, 
+        "range": [
+            5108, 
+            5128
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pagi-pagi saya sudah bangun untuk melihat sunrise. Cuma 3 orang saja yang mau melihat sunrise termasuk saya.", 
+        "line": 112, 
+        "range": [
+            5130, 
+            5237
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5161, 
+                    5175
+                ], 
+                "name": "Hopping island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang lain pada asik ketiduran, mungkin karena capek juga. Tepat jam 6 pagi matahari kemerahan muncul di garis cakrawala.", 
+        "line": 114, 
+        "range": [
+            5239, 
+            5358
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Maratua, beningnya air laut mirip kayak Maldives!", 
+        "line": 116, 
+        "range": [
+            5360, 
+            5414
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saatnya hopping island! Pas baru berangkat langitnya kelihatan agak mendung. Dalam hati saya berdoa biar tidak hujan.", 
+        "line": 118, 
+        "range": [
+            5416, 
+            5532
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5438, 
+                    5442
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5455, 
+                    5463
+                ], 
+                "name": "Maldives"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5474, 
+                    5488
+                ], 
+                "name": "hopping island"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tujuan pertama kami adalah Pulau Maratua, sekitar 1 jam perjalanan kapal dari Pulau Derawan.", 
+        "line": 120, 
+        "range": [
+            5534, 
+            5625
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5612, 
+                    5625
+                ], 
+                "name": "Pulau Maratua"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ternyata Tuhan mendengarkan doa saya. Langit mulai cerah, matahari pun muncul dan bersinar terik.", 
+        "line": 122, 
+        "range": [
+            5627, 
+            5723
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5652, 
+                    5657
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5663, 
+                    5676
+                ], 
+                "name": "Pulau Derawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Speed boat yang kami naiki mulai mendekati dermaga di Pulau Maratua.", 
+        "line": 124, 
+        "range": [
+            5725, 
+            5792
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5778, 
+                    5788
+                ], 
+                "name": "Speed boat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "WOW! Airnya benar-benar bening seperti kristal. Saya sudah sering ke pulau-pulau di Indonesia tapi menurut saya air laut dan pantai di Pulau Maratua paling cakep!", 
+        "line": 126, 
+        "range": [
+            5794, 
+            5955
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5821, 
+                    5828
+                ], 
+                "name": "dermaga"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5832, 
+                    5845
+                ], 
+                "name": "Pulau Maratua"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5917, 
+                    5928
+                ], 
+                "name": "pulau-pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5932, 
+                    5941
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari jauh terlihat birunya laut. Benar-benar biru, sampai malamnya pas mau tidur masih kebayang betapa birunya air laut di pulau ini.", 
+        "line": 128, 
+        "range": [
+            5957, 
+            6089
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5964, 
+                    5968
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5973, 
+                    5979
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5983, 
+                    5996
+                ], 
+                "name": "Pulau Maratua"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6039, 
+                    6043
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terlihat cottage kayu berdiri di atas air yang bening. Tidak perlu jauh-jauh ke Maldives.", 
+        "line": 130, 
+        "range": [
+            6091, 
+            6179
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6127, 
+                    6131
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6135, 
+                    6140
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6156, 
+                    6163
+                ], 
+                "name": "cottage"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 131, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di dekat Pulau Maratua ada juga sebuah pulau yang bernama Pulau Nabucco.", 
+        "line": 132, 
+        "range": [
+            6181, 
+            6252
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6227, 
+                    6235
+                ], 
+                "name": "Maldives"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 133, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di pulau ini ada resort asing, katanya bagus juga.", 
+        "line": 134, 
+        "range": [
+            6254, 
+            6303
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6277, 
+                    6282
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 135, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena tidak termasuk di paket tur, jadinya kami tidak mengunjungi Pulau Nabucco.", 
+        "line": 136, 
+        "range": [
+            6305, 
+            6385
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6315, 
+                    6320
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6329, 
+                    6335
+                ], 
+                "name": "resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 137, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Kakaban, melihat ubur-ubur tanpa sengat ", 
+        "line": 138, 
+        "range": [
+            6387, 
+            6432
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 139, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selanjutnya kami pindah ke Pulau Kakaban yang tidak terlalu jauh dari Pulau Maratua. Ombaknya agak tinggi, lumayan serem.", 
+        "line": 140, 
+        "range": [
+            6434, 
+            6554
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6447, 
+                    6460
+                ], 
+                "name": "Pulau Kakaban"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6522, 
+                    6535
+                ], 
+                "name": "Pulau Kakaban"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 141, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Kakaban sangat menarik karena sebagian besar bagian pulau ini merupakan danau.", 
+        "line": 142, 
+        "range": [
+            6556, 
+            6639
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6565, 
+                    6578
+                ], 
+                "name": "Pulau Maratua"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6618, 
+                    6631
+                ], 
+                "name": "Pulau Kakaban"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 143, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Danau ini berasal dari rembesan air laut dan air hujan, sehingga airnya tidak terlalu asin lagi.", 
+        "line": 144, 
+        "range": [
+            6641, 
+            6736
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6676, 
+                    6681
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6696, 
+                    6701
+                ], 
+                "name": "danau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6704, 
+                    6709
+                ], 
+                "name": "Danau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 145, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Daya tarik dari Pulau Kakaban adalah ubur-ubur lucu tanpa sengat.", 
+        "line": 146, 
+        "range": [
+            6738, 
+            6802
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6740, 
+                    6744
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 147, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Indonesia hanya ada sedikit tempat untuk melihat jenis ubur-ubur ini yaitu di Raja Ampat dan Pulau Togean.", 
+        "line": 148, 
+        "range": [
+            6804, 
+            6912
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6818, 
+                    6831
+                ], 
+                "name": "Pulau Kakaban"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6872, 
+                    6881
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 149, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ubur-ubur ini kehilangan sengat karena tidak adanya predator.", 
+        "line": 150, 
+        "range": [
+            6914, 
+            6974
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6950, 
+                    6960
+                ], 
+                "name": "Raja Ampat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 151, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Snorkeling boleh, asalkan jangan menyentuh ubur-ubur yang rapuh ini. Di sekitar dermaga Pulau Kakaban ada spot snorkeling juga.", 
+        "line": 152, 
+        "range": [
+            6976, 
+            7102
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 153, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Sangalaki, spot untuk melihat pari manta", 
+        "line": 154, 
+        "range": [
+            7104, 
+            7149
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7123, 
+                    7130
+                ], 
+                "name": "dermaga"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7131, 
+                    7144
+                ], 
+                "name": "Pulau Kakaban"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 155, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Spot terakhir adalah Pulau Sangalaki. Kabarnya bisa melihat pari manta di sekitar pulau ini, tapi sayangnya tidak ketemu satupun. Mungkin karena spot-nya juga salah.", 
+        "line": 156, 
+        "range": [
+            7151, 
+            7315
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7172, 
+                    7187
+                ], 
+                "name": "Pulau Sangalaki"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7241, 
+                    7256
+                ], 
+                "name": "Pulau Sangalaki"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7302, 
+                    7307
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 157, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami cuma sempat snorkeling sebentar saja di salah satu spot. Karangnya lumayan, tapi tidak seindah karang di Pulau Wakatobi. Saya sempat kesal sama guide-nya karena tidak turun di Pulau Sangalaki.", 
+        "line": 158, 
+        "range": [
+            7317, 
+            7513
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7497, 
+                    7511
+                ], 
+                "name": "Pulau Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 159, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Alasannya karena waktu tidak cukup, padahal menurut saya sempat-sempat saja.", 
+        "line": 160, 
+        "range": [
+            7515, 
+            7590
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7568, 
+                    7583
+                ], 
+                "name": "Pulau Sangalaki"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 161, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sempat iri sama teman saya yang juga salah satu peserta trip yang extend satu hari lagi dan ketemu pari manta dan spot snorkeling lebih cakep.", 
+        "line": 162, 
+        "range": [
+            7592, 
+            7738
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 163, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 4: Kembali ke Tarakan", 
+        "line": 164, 
+        "range": [
+            7740, 
+            7764
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 165, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sedih rasanya harus meninggalkan surga ini. Overall, tripnya seru, teman-temannya juga asik.", 
+        "line": 166, 
+        "range": [
+            7766, 
+            7857
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7831, 
+                    7838
+                ], 
+                "name": "Tarakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 167, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau diajakin jalan-jalan ke Pulau Derawan, saya pasti mau lagi. Kalau coba diving mungkin lebih seru lagi.", 
+        "line": 168, 
+        "range": [
+            7859, 
+            7966
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 169, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Tarakan kami sempat mengunjungi Kawasan Konservasi Mangrove dan Bekantan.", 
+        "line": 170, 
+        "range": [
+            7968, 
+            8043
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 171, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertama kali juga saya melihat bekantan, monyet hidung panjang dengan rambut cokelat kemerahan, ekornya juga panjang.", 
+        "line": 172, 
+        "range": [
+            8045, 
+            8161
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8047, 
+                    8054
+                ], 
+                "name": "Tarakan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8079, 
+                    8119
+                ], 
+                "name": "Kawasan Konservasi Mangrove dan Bekantan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 173, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perjalanan saya di Kalimantan belum selesai. Sampai di Balikpapan saya masih lanjut lagi ke Desa Adat Pampang dan Samarinda.", 
+        "line": 174, 
+        "range": [
+            8163, 
+            8286
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8260, 
+                    8270
+                ], 
+                "name": "Kalimantan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 175, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Share juga pengalaman kamu jalan-jalan ke Pulau Derawan!", 
+        "line": 176, 
+        "range": [
+            8288, 
+            8343
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8296, 
+                    8306
+                ], 
+                "name": "Balikpapan"
+            }
+        ]
+    }
+]

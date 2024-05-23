@@ -1,0 +1,917 @@
+[
+    {
+        "text": "June 4, 2021    Wat Pho: Kuil Indah Dengan Buddha Terbaring Di Bangkok", 
+        "line": 0, 
+        "range": [
+            1, 
+            70
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    16, 
+                    23
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    25, 
+                    29
+                ], 
+                "name": "Kuil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    63, 
+                    70
+                ], 
+                "name": "Bangkok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Thailand adalah negara dengan populasi agama Buddha terbesar di dunia. Di Thailand sendiri ada lebih dari 40,000 kuil. Ketika berkunjung ke Thailand, baik di kota besar atau pedesaan pasti terlihat beberapa kuil berdekatan. Salah satu kuil di Bangkok yang bisa kamu kunjungi adalah Wat Pho.", 
+        "line": 2, 
+        "range": [
+            72, 
+            361
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    72, 
+                    80
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    136, 
+                    141
+                ], 
+                "name": "dunia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    146, 
+                    154
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    185, 
+                    189
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    212, 
+                    220
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    230, 
+                    234
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    246, 
+                    254
+                ], 
+                "name": "pedesaan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    279, 
+                    283
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    307, 
+                    311
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    315, 
+                    322
+                ], 
+                "name": "Bangkok"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    354, 
+                    361
+                ], 
+                "name": "Wat Pho"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mengenal Wat Pho, Kuil Terkenal di Bangkok", 
+        "line": 4, 
+        "range": [
+            363, 
+            404
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    373, 
+                    380
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    382, 
+                    386
+                ], 
+                "name": "Kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Thailand, kuil yang disebut juga dengan \u201cwat\u201d biasanya terdiri dari sebuah kompleks dengan bangunan kuil yang berjumlah lebih dari satu.", 
+        "line": 6, 
+        "range": [
+            406, 
+            548
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    411, 
+                    419
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    421, 
+                    425
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    452, 
+                    455
+                ], 
+                "name": "wat"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    486, 
+                    494
+                ], 
+                "name": "kompleks"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    511, 
+                    515
+                ], 
+                "name": "kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Arsitekturnya juga megah dengan atap-atap yang mengusung kebudayaan Thailand.  Stupa berbentuk segitiga menghiasi sudut kompleks kuil.", 
+        "line": 8, 
+        "range": [
+            550, 
+            683
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    617, 
+                    625
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    628, 
+                    633
+                ], 
+                "name": "Stupa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    678, 
+                    682
+                ], 
+                "name": "kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu kuil terbesar dan tertua di Bangkok adalah Wat Pho, yang dikenal juga sebagai Temple of Reclining Buddha (Kuil dengan Buddha Terbaring).", 
+        "line": 10, 
+        "range": [
+            685, 
+            831
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    696, 
+                    700
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    724, 
+                    731
+                ], 
+                "name": "Bangkok"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    739, 
+                    746
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    774, 
+                    800
+                ], 
+                "name": "Temple of Reclining Buddha"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    802, 
+                    830
+                ], 
+                "name": "Kuil dengan Buddha Terbaring"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wat Pho dibangun pada abad ke 17 ketika kerajaan Thailand masih berada di Ayutthaya, yang berarti kuil ini lebih tua dari kota Bangkok!", 
+        "line": 12, 
+        "range": [
+            833, 
+            967
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    834, 
+                    841
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    883, 
+                    891
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    908, 
+                    917
+                ], 
+                "name": "Ayutthaya"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    932, 
+                    936
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    961, 
+                    968
+                ], 
+                "name": "Bangkok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wat Pho adalah salah satu objek wisata di Thailand yang ramai dikunjungi. Letaknya dekat dengan objek wisata lainnya seperti Grand Palace, Temple of Emerald Buddha, dan City Pillar of Shrine.", 
+        "line": 14, 
+        "range": [
+            969, 
+            1159
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    971, 
+                    978
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    997, 
+                    1009
+                ], 
+                "name": "objek wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1013, 
+                    1021
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1067, 
+                    1079
+                ], 
+                "name": "objek wisata"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1096, 
+                    1108
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1110, 
+                    1134
+                ], 
+                "name": "Temple of Emerald Buddha"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kuil ini sangat spesial karena  merupakan salah satu kuil dengan status tertinggi yang diberikan langsung oleh Kerajaan Thailand. Kuil ini juga merupakan rumah bagi lebih dari 1,000 patung Buddha.", 
+        "line": 16, 
+        "range": [
+            1161, 
+            1356
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1164, 
+                    1168
+                ], 
+                "name": "Kuil"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1217, 
+                    1221
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1284, 
+                    1292
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1294, 
+                    1298
+                ], 
+                "name": "Kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Area kuil terbagi dengan beberapa spot seperti halaman utama suci untuk ritual-ritual keagamaan. Kemudian ada area dengen stupa-stupa atau yang disebut juga dengan \u201cchedi\u201c.", 
+        "line": 18, 
+        "range": [
+            1358, 
+            1533
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1367, 
+                    1371
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1484, 
+                    1495
+                ], 
+                "name": "stupa-stupa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1527, 
+                    1532
+                ], 
+                "name": "chedi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dan spot yang paling berkesan adalah kuil dengan patung Buddha yang terbaring.", 
+        "line": 20, 
+        "range": [
+            1535, 
+            1612
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1573, 
+                    1577
+                ], 
+                "name": "kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Patung Buddha terbaring menggambarkan sejarah atau kisah saat sang Buddha sakit dan akan menuju ke Nirvana.", 
+        "line": 22, 
+        "range": [
+            1614, 
+            1720
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk mengenang sang Buddha, para pengikutnya membangan sebuah patung dengan posisi terbaring.", 
+        "line": 24, 
+        "range": [
+            1722, 
+            1815
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Patung Buddha berwarna keemasan ini memiliki tinggi 15 meter dan panjang 46 meter.", 
+        "line": 26, 
+        "range": [
+            1817, 
+            1898
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Disekeliling lorong terdapat 108 wadah berbentuk mangkok dimana pengunjung bisa memberikan uang untuk bersedekah dan berdoa untuk nasib baik.", 
+        "line": 28, 
+        "range": [
+            1900, 
+            2040
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di bagian luar bangunan utama, terdapat 71 stupa atau chedi kecil yang berisi abu dari keluarga kerajaan. Setiap chedi memiliki motif yang menarik.", 
+        "line": 30, 
+        "range": [
+            2042, 
+            2188
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2091, 
+                    2096
+                ], 
+                "name": "stupa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2102, 
+                    2107
+                ], 
+                "name": "chedi"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2161, 
+                    2166
+                ], 
+                "name": "chedi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain itu, banyak pepohonan dan tanaman lain di area kuil Wat, sehingga membuat area ini nyaman untuk dikunjungi.", 
+        "line": 32, 
+        "range": [
+            2190, 
+            2303
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2251, 
+                    2259
+                ], 
+                "name": "kuil Wat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara Menuju ke Wat Pho", 
+        "line": 34, 
+        "range": [
+            2305, 
+            2326
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kuil ini terbuka untuk pengunjung tiap hari dari jam 8 pagi sampai 6.30 sore dengan waktu istirahat dari jam 12 \u2013 1 siang.", 
+        "line": 36, 
+        "range": [
+            2328, 
+            2451
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2328, 
+                    2335
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2337, 
+                    2341
+                ], 
+                "name": "Kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara menuju Wat Pho cukup gampang, hanya sekitar 10 menit berjalan kaki. Kamu juga bisa menggunakan Chao Phraya River Express sampai dermaga Tha Thien.", 
+        "line": 38, 
+        "range": [
+            2453, 
+            2603
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2473, 
+                    2480
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2561, 
+                    2586
+                ], 
+                "name": "Chao Phraya River Express"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga Tiket Masuk Wat Pho", 
+        "line": 40, 
+        "range": [
+            2605, 
+            2629
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Wat Pho adalah 100 baht, atau sekitar 50,000 rupiah. Gunakan pakaian yang tertutup dan sopan ketika berkunjung ke kuil ini.", 
+        "line": 42, 
+        "range": [
+            2631, 
+            2771
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2632, 
+                    2639
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2659, 
+                    2666
+                ], 
+                "name": "Wat Pho"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Disini kamu juga bisa mencoba Thai Massage seharga 480 baht untuk sejam.", 
+        "line": 44, 
+        "range": [
+            2773, 
+            2844
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2773, 
+                    2777
+                ], 
+                "name": "kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penutup", 
+        "line": 46, 
+        "range": [
+            2846, 
+            2852
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jangan lupa jika main ke Bangkok kunjungi juga Kuil Wat Pho sekalian bersama destinasi wisata lainnya. Itulah tips singkat seperti harga tiket masuk, cara ke sana, dan juga beberapa wisata sekitar kuil ini yang bisa Anda kunjungi.", 
+        "line": 48, 
+        "range": [
+            2854, 
+            3083
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2892, 
+                    2899
+                ], 
+                "name": "Bangkok"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2914, 
+                    2926
+                ], 
+                "name": "Kuil Wat Pho"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3064, 
+                    3068
+                ], 
+                "name": "kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau sempat bisa juga berkunjung ke kuil-kuil yang ada di Chiang Mai dan Chiang Rai.", 
+        "line": 50, 
+        "range": [
+            3085, 
+            3169
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3136, 
+                    3145
+                ], 
+                "name": "kuil-kuil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3158, 
+                    3168
+                ], 
+                "name": "Chiang Mai"
+            }
+        ]
+    }
+]

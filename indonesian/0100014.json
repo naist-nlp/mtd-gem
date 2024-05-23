@@ -1,0 +1,3633 @@
+[
+    {
+        "text": "May 11, 2021    11 Pantai Terindah Di Bali, Beberapa Masih Tersembunyi!", 
+        "line": 0, 
+        "range": [
+            1, 
+            71
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    19, 
+                    25
+                ], 
+                "name": "Pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    38, 
+                    42
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Semua orang tau kalau Bali memang terkenal dengan pantainya yang indah. Tapi pertanyaannya, dari semua pantai di Bali, yang mana sih yang paling bagus, tidak terlalu ramai, dan enak untuk berenang?", 
+        "line": 2, 
+        "range": [
+            73, 
+            269
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    95, 
+                    99
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    123, 
+                    132
+                ], 
+                "name": "pantainya"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    176, 
+                    182
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    186, 
+                    190
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari pengalaman saya yang pernah tinggal setahun di Bali, ada beberapa pantai favorit yang mau saya rekomendasikan ke kamu. Pantai apa saja?", 
+        "line": 4, 
+        "range": [
+            271, 
+            410
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    324, 
+                    328
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    343, 
+                    349
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    396, 
+                    402
+                ], 
+                "name": "Pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cek 11 pantai terindah di Bali, bahkan beberapa masih tersembunyi!", 
+        "line": 6, 
+        "range": [
+            412, 
+            477
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    421, 
+                    427
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    440, 
+                    444
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Pantai Balangan, Pantai Pasir Putih di Bali dengan Air Turquoise", 
+        "line": 8, 
+        "range": [
+            479, 
+            545
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    485, 
+                    500
+                ], 
+                "name": "Pantai Balangan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    502, 
+                    520
+                ], 
+                "name": "Pantai Pasir Putih"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    524, 
+                    528
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai ini terletak di bawah bukit karang, cukup terkenal bagi kalangan peselancar.", 
+        "line": 10, 
+        "range": [
+            547, 
+            629
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    551, 
+                    557
+                ], 
+                "name": "Pantai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    580, 
+                    592
+                ], 
+                "name": "bukit karang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu bisa bersantai di pantai menikmati suara deburan ombak.", 
+        "line": 12, 
+        "range": [
+            631, 
+            690
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    659, 
+                    665
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya lebih suka jemuran di sisi kanan pantai. Ombaknya lebih tenang sehingga lebih cocok untuk berenang.", 
+        "line": 14, 
+        "range": [
+            692, 
+            795
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    736, 
+                    742
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Warna airnya biru kehijauan, indah sekali.", 
+        "line": 16, 
+        "range": [
+            797, 
+            838
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika saya kesana ada beberapa pasangan yang melakukan foto pre-wedding.", 
+        "line": 18, 
+        "range": [
+            840, 
+            912
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sepertinya lumayan terkenal juga sebagai spot romantis untuk berfoto.", 
+        "line": 20, 
+        "range": [
+            914, 
+            982
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dimana? Barat Daya Bali", 
+        "line": 22, 
+        "range": [
+            984, 
+            1006
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa saya suka? Pas kesana asik aja untuk berenang.", 
+        "line": 24, 
+        "range": [
+            1008, 
+            1060
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1013, 
+                    1017
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Pantai Tegal Wangi, Dinding Karangnya Cakep!", 
+        "line": 26, 
+        "range": [
+            1062, 
+            1108
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1077, 
+                    1095
+                ], 
+                "name": "Pantai Tegal Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai Tegal Wangi adalah salah satu pantai di Bali yang tidak banyak diketahui oleh orang-orang.", 
+        "line": 28, 
+        "range": [
+            1110, 
+            1206
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1123, 
+                    1141
+                ], 
+                "name": "Pantai Tegal Wangi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1160, 
+                    1166
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1170, 
+                    1174
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika saya kesana pantai ini sepi, jumlah pengunjungnya bisa dihitung dengan jari.", 
+        "line": 30, 
+        "range": [
+            1208, 
+            1290
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1241, 
+                    1247
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagian unik dari pantai ini adalah batu dinding karangnya yang memanjakan mata. Kadang-kadang gulungan ombak menghantam tepian karang.", 
+        "line": 32, 
+        "range": [
+            1292, 
+            1425
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1324, 
+                    1330
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1347, 
+                    1364
+                ], 
+                "name": "dinding karangnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sayangnya Pantai Tegal Wangi agak sulit diakses ketika airnya lagi pasang. Jadi kalau pas kamu datang airnya surut, berarti kamu beruntung.", 
+        "line": 34, 
+        "range": [
+            1427, 
+            1565
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1453, 
+                    1471
+                ], 
+                "name": "Pantai Tegal Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perhatikan kadang-kadang muncul jacuzzi alami. Ada juga bagian seperti gua di sepanjang pinggir pantai.", 
+        "line": 36, 
+        "range": [
+            1567, 
+            1669
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1655, 
+                    1658
+                ], 
+                "name": "gua"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebagai inspirasi, kamu bisa cari aja di instagram dengan hashtag Tegal Wangi.", 
+        "line": 38, 
+        "range": [
+            1671, 
+            1748
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1680, 
+                    1686
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak foto-foto bagus yang akan muncul. Sebaiknya berkunjung sekarang sebelum makin ramai.", 
+        "line": 40, 
+        "range": [
+            1750, 
+            1840
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1755, 
+                    1766
+                ], 
+                "name": "Tegal Wangi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dimana? Barat Daya Bali", 
+        "line": 42, 
+        "range": [
+            1842, 
+            1864
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa saya suka? Bentuk batu karangnya yang unik.", 
+        "line": 44, 
+        "range": [
+            1866, 
+            1915
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1881, 
+                    1885
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Pantai Melasti, Cocok Buat Santai-Santai", 
+        "line": 46, 
+        "range": [
+            1917, 
+            1959
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1942, 
+                    1956
+                ], 
+                "name": "Pantai Melasti"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari semua pantai di bagian Selatan Bali yang saya sebutkan di sini, mungkin Pantai Melasti adalah yang paling ramai dikunjungi.", 
+        "line": 48, 
+        "range": [
+            1961, 
+            2088
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1995, 
+                    2001
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2020, 
+                    2024
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2061, 
+                    2075
+                ], 
+                "name": "Pantai Melasti"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Masih oke sih kalau dibandingkan dengan pantai lain seperti Pantai Pandawa.", 
+        "line": 50, 
+        "range": [
+            2090, 
+            2164
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2154, 
+                    2160
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kilauan air lautnya menggoda, walaupun tidak seindah beningnya pantai di Pulau Maratua, tapi bikin mau lompat rasanya.", 
+        "line": 52, 
+        "range": [
+            2166, 
+            2283
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2174, 
+                    2188
+                ], 
+                "name": "Pantai Pandawa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2254, 
+                    2260
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2264, 
+                    2277
+                ], 
+                "name": "Pulau Maratua"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemandangan dari atas tebing melihat hamparan laut yang luas, ditambah dengan titik warna warni yang berupa payung pantai, memukau siapa saja!", 
+        "line": 54, 
+        "range": [
+            2285, 
+            2426
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2333, 
+                    2339
+                ], 
+                "name": "tebing"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2357, 
+                    2361
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai Melasti siap menjadi objek wisata pantai di Bali selanjutnya.", 
+        "line": 56, 
+        "range": [
+            2428, 
+            2495
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2455, 
+                    2469
+                ], 
+                "name": "Pantai Melasti"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2483, 
+                    2495
+                ], 
+                "name": "objek wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalannya sudah dibangun dengan memotong bagian tebing.", 
+        "line": 58, 
+        "range": [
+            2497, 
+            2550
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2506, 
+                    2510
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2525, 
+                    2533
+                ], 
+                "name": "Jalannya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jangan kaget ketika berpapasan dengan calon pengantin yang berfoto dengan mobil vintage.", 
+        "line": 60, 
+        "range": [
+            2552, 
+            2639
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2572, 
+                    2578
+                ], 
+                "name": "tebing"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagaimana pun, saya tetap suka mengajak teman saya main ke Pantai Melasti.", 
+        "line": 62, 
+        "range": [
+            2641, 
+            2714
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2655, 
+                    2660
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dimana? Tenggara Bali", 
+        "line": 64, 
+        "range": [
+            2716, 
+            2736
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa saya suka? Warna air lautnya yang bening dan biru, juga pemandangan dari atas.", 
+        "line": 66, 
+        "range": [
+            2738, 
+            2822
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2764, 
+                    2768
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Pantai Pura Geger, Pantai di Bali yang Sepi Ga Banyak Orang", 
+        "line": 68, 
+        "range": [
+            2824, 
+            2885
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2860, 
+                    2877
+                ], 
+                "name": "Pantai Pura Geger"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2879, 
+                    2885
+                ], 
+                "name": "Pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai favorit saya selanjutnya adalah Pantai Pura Geger.", 
+        "line": 70, 
+        "range": [
+            2887, 
+            2943
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2889, 
+                    2893
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau lagi malas motoran jauh ke pantai di bagian selatan, saya stop di Pantai Pura Geger saja.", 
+        "line": 72, 
+        "range": [
+            2945, 
+            3039
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2960, 
+                    2977
+                ], 
+                "name": "Pantai Pura Geger"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2997, 
+                    3004
+                ], 
+                "name": "motoran"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3013, 
+                    3019
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Letaknya masih di sekitar area Nusa Dua.", 
+        "line": 74, 
+        "range": [
+            3041, 
+            3080
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3052, 
+                    3069
+                ], 
+                "name": "Pantai Pura Geger"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yep, pada tau kan kalau Nusa Dua itu lebih ke area resort mewah.", 
+        "line": 76, 
+        "range": [
+            3082, 
+            3145
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3108, 
+                    3116
+                ], 
+                "name": "Nusa Dua"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi pas sampai di pantai ini, tidak ada restoran mewah maupun kursi untuk berjemur.", 
+        "line": 78, 
+        "range": [
+            3147, 
+            3230
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3170, 
+                    3176
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3204, 
+                    3210
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai Pura Geger hampir sama sekali tidak tersentuh.", 
+        "line": 80, 
+        "range": [
+            3232, 
+            3284
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya turis mengunjungi Pantai Geger yang terletak masih di satu garis pantai tapi berbeda.", 
+        "line": 82, 
+        "range": [
+            3286, 
+            3379
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3353, 
+                    3365
+                ], 
+                "name": "Pantai Geger"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai Pura Geger lebih tersembunyi, makanya tidak banyak yang datang kesini.", 
+        "line": 84, 
+        "range": [
+            3381, 
+            3457
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3400, 
+                    3406
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3422, 
+                    3439
+                ], 
+                "name": "Pantai Pura Geger"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara datang ke sini, bisa cari aja di google maps dan masukkan tujuan Pura Geger (tanpa kata pantai).", 
+        "line": 86, 
+        "range": [
+            3459, 
+            3559
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, di sini memang ada puranya juga. Jadi kalau mau cari pantai di Bali yang sepi, ke Pura Geger aja!", 
+        "line": 88, 
+        "range": [
+            3561, 
+            3662
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3571, 
+                    3581
+                ], 
+                "name": "Pura Geger"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3594, 
+                    3600
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3628, 
+                    3635
+                ], 
+                "name": "puranya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dimana? Tenggara Bali", 
+        "line": 90, 
+        "range": [
+            3664, 
+            3684
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3672, 
+                    3676
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa saya suka? Pantai pasir putih yang tidak jauh dari pusat wisata Bali.", 
+        "line": 92, 
+        "range": [
+            3686, 
+            3761
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3691, 
+                    3701
+                ], 
+                "name": "Pura Geger"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3725, 
+                    3729
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3749, 
+                    3755
+                ], 
+                "name": "Pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Pantai Green Bowl, Pantai Alami di Bali Bisa Berteduh di Gua!", 
+        "line": 94, 
+        "range": [
+            3763, 
+            3826
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3802, 
+                    3806
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebuah pantai kecil yang tersembunyi, Pantai Green Bowl kurang cocok sebagai tujuan turis ramai karena untuk mencapai pantai ini, kamu harus menuruni tangga yang cukup terjal.", 
+        "line": 96, 
+        "range": [
+            3828, 
+            4002
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3831, 
+                    3837
+                ], 
+                "name": "Pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3847, 
+                    3851
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3869, 
+                    3872
+                ], 
+                "name": "Gua"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3882, 
+                    3888
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3913, 
+                    3930
+                ], 
+                "name": "Pantai Green Bowl"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3993, 
+                    3999
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya yang tidak fit pasti akan ngos-ngosan menaiki tangga pas pulangnya.", 
+        "line": 98, 
+        "range": [
+            4004, 
+            4079
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada juga yang suka karena jalurnya lebih menantang.", 
+        "line": 100, 
+        "range": [
+            4081, 
+            4131
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantainya berpasir putih, namun tekstur pasirnya agak kasar.", 
+        "line": 102, 
+        "range": [
+            4133, 
+            4192
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4156, 
+                    4164
+                ], 
+                "name": "jalurnya"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4183, 
+                    4192
+                ], 
+                "name": "Pantainya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Air lautnya biru cakep, cocok untuk berenang.", 
+        "line": 104, 
+        "range": [
+            4194, 
+            4238
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Pantai Green Bowl tidak perlu lagi sewa payung mahal-mahal, soalnya ada goa alami untuk tempat berteduh.", 
+        "line": 106, 
+        "range": [
+            4240, 
+            4346
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4295, 
+                    4312
+                ], 
+                "name": "Pantai Green Bowl"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Satu hal yang kurang mengenakkan di pantai ini, ada ibu-ibu yang menjual gelang atau menawarkan jasa pijat.", 
+        "line": 108, 
+        "range": [
+            4348, 
+            4454
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4367, 
+                    4370
+                ], 
+                "name": "goa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4437, 
+                    4443
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kadang mereka bisa sedikit maksa.", 
+        "line": 110, 
+        "range": [
+            4456, 
+            4488
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saran saya, cuekkin saja kalau memang tidak perlu.", 
+        "line": 112, 
+        "range": [
+            4490, 
+            4539
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nikmati keindahan pantai ini dan seru-seruan berenang.", 
+        "line": 114, 
+        "range": [
+            4541, 
+            4594
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dimana? Tenggara Bali", 
+        "line": 116, 
+        "range": [
+            4596, 
+            4616
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa saya suka? Pantainya masih alami, ada juga goa untuk berteduh.", 
+        "line": 118, 
+        "range": [
+            4618, 
+            4686
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4670, 
+                    4674
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "6. Pantai Nyang Nyang, Pantai di Bali yang Masih Liar!", 
+        "line": 120, 
+        "range": [
+            4688, 
+            4741
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4694, 
+                    4703
+                ], 
+                "name": "Pantainya"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4726, 
+                    4729
+                ], 
+                "name": "goa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mudah-mudahan pantai ini tetap sama seperti sekarang.", 
+        "line": 122, 
+        "range": [
+            4743, 
+            4795
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4750, 
+                    4768
+                ], 
+                "name": "Pantai Nyang Nyang"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4770, 
+                    4776
+                ], 
+                "name": "Pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4780, 
+                    4784
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai Nyang Nyang mungkin adalah satu-satunya pantai di Bali bagian Selatan yang masih terasa liar dan terpencil.", 
+        "line": 124, 
+        "range": [
+            4797, 
+            4910
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4817, 
+                    4823
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4858, 
+                    4876
+                ], 
+                "name": "Pantai Nyang Nyang"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4905, 
+                    4911
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu harus berjalan menuruni bukit yang masih dikelilingi pohon-pohon seperti di hutan.", 
+        "line": 126, 
+        "range": [
+            4912, 
+            4998
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4915, 
+                    4919
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lamanya sekitar 20 menit untuk sampai ke Pantai Nyang Nyang.", 
+        "line": 128, 
+        "range": [
+            5000, 
+            5059
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5003, 
+                    5008
+                ], 
+                "name": "bukit"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5055, 
+                    5060
+                ], 
+                "name": "hutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Garis pantai yang panjang akan menyambut kamu.", 
+        "line": 130, 
+        "range": [
+            5061, 
+            5106
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 131, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena pantainya luas, kamu tidak perlu berdesak-desakkan dengan orang lain.", 
+        "line": 132, 
+        "range": [
+            5108, 
+            5183
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5131, 
+                    5137
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 133, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cukup cari spot yang enak dan duduk bersama teman-teman kamu saja.", 
+        "line": 134, 
+        "range": [
+            5185, 
+            5250
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 135, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang menarik perhatian lagi, ada sebuah kapal yang sudah rusak di tepi pantai dan dicat dengan lukisan grafiti.", 
+        "line": 136, 
+        "range": [
+            5252, 
+            5362
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 137, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu memang mau nyari pantai yang tersembunyi dan sepi, wajib datang ke Pantai Nyang Nyang.", 
+        "line": 138, 
+        "range": [
+            5364, 
+            5460
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5390, 
+                    5396
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 139, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Oh ya, baca juga artikel saya tentang air terjun terindah di Bali yang recommended untuk kamu kunjungi ketika berada di Bali.", 
+        "line": 140, 
+        "range": [
+            5462, 
+            5586
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5510, 
+                    5528
+                ], 
+                "name": "Pantai Nyang Nyang"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5569, 
+                    5579
+                ], 
+                "name": "air terjun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 141, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dimana? Tenggara Bali", 
+        "line": 142, 
+        "range": [
+            5588, 
+            5608
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5592, 
+                    5596
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 143, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa saya suka? Garis pantai yang panjang dan terpencil.", 
+        "line": 144, 
+        "range": [
+            5610, 
+            5667
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5651, 
+                    5655
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 145, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "7. Pantai Sanur, Seru Buat Lihat Matahari Terbit!", 
+        "line": 146, 
+        "range": [
+            5669, 
+            5717
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5675, 
+                    5679
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5705, 
+                    5711
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 147, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dulunya Pantai Sanur memang terkenal sebagai objek wisata yang sangat terkenal di Bali.", 
+        "line": 148, 
+        "range": [
+            5719, 
+            5805
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5744, 
+                    5756
+                ], 
+                "name": "Pantai Sanur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 149, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekarang trend-nya sudah berubah.", 
+        "line": 150, 
+        "range": [
+            5807, 
+            5839
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 151, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pada lari ke Pantai Seminyak atau Canggu.", 
+        "line": 152, 
+        "range": [
+            5841, 
+            5881
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5874, 
+                    5878
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 153, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang liburan ke Pantai Sanur biasanya lebih ke wisatawan asing yang berumur atau penduduk lokal Bali.", 
+        "line": 154, 
+        "range": [
+            5883, 
+            5983
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5929, 
+                    5944
+                ], 
+                "name": "Pantai Seminyak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5950, 
+                    5956
+                ], 
+                "name": "Canggu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 155, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebagai morning person, saya suka dengan Pantai Sanur.", 
+        "line": 156, 
+        "range": [
+            5985, 
+            6038
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 157, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Matahari terbit dari sini bagus sekali.", 
+        "line": 158, 
+        "range": [
+            6040, 
+            6078
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6055, 
+                    6059
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 159, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pas cerah bisa lihat Gunung Agung dari jauh. Ombaknya juga sangat menenangkan.", 
+        "line": 160, 
+        "range": [
+            6080, 
+            6157
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6103, 
+                    6115
+                ], 
+                "name": "Pantai Sanur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 161, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lebih tepatnya saya suka dengan Pantai Karang.", 
+        "line": 162, 
+        "range": [
+            6159, 
+            6204
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6180, 
+                    6192
+                ], 
+                "name": "Gunung Agung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 163, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setiap jam 7.30 pagi saya ikutan yoga di pantai yang gratis! Di hari-hari tertentu kamu bisa melihat nelayan dengan topi runcingnya berdiri di laut ketika air sedang surut.", 
+        "line": 164, 
+        "range": [
+            6206, 
+            6377
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6271, 
+                    6284
+                ], 
+                "name": "Pantai Karang"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6328, 
+                    6334
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 165, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dengan santainya mereka menunggu sampai dapat menangkap ikan.", 
+        "line": 166, 
+        "range": [
+            6379, 
+            6439
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6430, 
+                    6434
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 167, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Pantai Sanur juga ada jalur bagi pejalan kaki. Dimulai dari Pantai Matahari Terbit melewati beberapa pantai lain sampai ujungnya di Pantai Mertasari.", 
+        "line": 168, 
+        "range": [
+            6441, 
+            6592
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6527, 
+                    6539
+                ], 
+                "name": "Pantai Sanur"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6549, 
+                    6554
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 169, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Totalnya 6 km, mirip seperti salah satu destinasi wisata di Sydney yang bernama Bondi \u2013 Coogee Walk.", 
+        "line": 170, 
+        "range": [
+            6594, 
+            6695
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6628, 
+                    6634
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6659, 
+                    6675
+                ], 
+                "name": "Pantai Mertasari"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 171, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ohya, di Pantai Sanur biasanya ada yang jualan jajanan lumpia goreng, favorit saya.", 
+        "line": 172, 
+        "range": [
+            6697, 
+            6779
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6738, 
+                    6744
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6758, 
+                    6777
+                ], 
+                "name": "Bondi \u2013 Coogee Walk"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 173, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dimana? Timur Bali", 
+        "line": 174, 
+        "range": [
+            6781, 
+            6798
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 175, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa saya suka? Jalur pejalan kaki di sepanjang pantai, pemandangan Gunung Agung di pagi hari dan juga suasana pantai yang tenang.", 
+        "line": 176, 
+        "range": [
+            6800, 
+            6931
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6879, 
+                    6883
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6903, 
+                    6908
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 177, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "8. Pantai Kelingking, Pantai di Nusa Penida Bali Unik Sekali!", 
+        "line": 178, 
+        "range": [
+            6933, 
+            6993
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6935, 
+                    6941
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6955, 
+                    6967
+                ], 
+                "name": "Gunung Agung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 179, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemandangan yang luar biasa dari atas bukit, serta formasi batu yang sangat unik, Pantai Kelingking akhir-akhir sering kelihatan di media sosial.", 
+        "line": 180, 
+        "range": [
+            6995, 
+            7139
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6998, 
+                    7004
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7022, 
+                    7039
+                ], 
+                "name": "Pantai Kelingking"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7041, 
+                    7047
+                ], 
+                "name": "Pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7051, 
+                    7062
+                ], 
+                "name": "Nusa Penida"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7063, 
+                    7067
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7120, 
+                    7125
+                ], 
+                "name": "bukit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 181, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai ini memiliki karakter yang unik, sekali lihat gambar pasti pada tau kalau pantai ini adalah Pantai Kelingking yang terletak di Nusa Penida.", 
+        "line": 182, 
+        "range": [
+            7141, 
+            7286
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7164, 
+                    7181
+                ], 
+                "name": "Pantai Kelingking"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7229, 
+                    7235
+                ], 
+                "name": "Pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 183, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Turun kebawah harus hati-hati karena jalurnya cukup terjal dan menantang.", 
+        "line": 184, 
+        "range": [
+            7288, 
+            7360
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7310, 
+                    7316
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7328, 
+                    7345
+                ], 
+                "name": "Pantai Kelingking"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 185, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di pantai, kamu akan disambut dengan pasir putih yang indah, benar-benar salah satu pantai terindah di Bali kalau menurut saya.", 
+        "line": 186, 
+        "range": [
+            7362, 
+            7503
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7363, 
+                    7374
+                ], 
+                "name": "Nusa Penida"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    7414, 
+                    7422
+                ], 
+                "name": "jalurnya"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7470, 
+                    7476
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 187, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk mengunjungi Nusa Penida, kamu bisa naik kapal dari Sanur menuju Nusa Penida, bisa beli tiketnya di sini.", 
+        "line": 188, 
+        "range": [
+            7505, 
+            7614
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7551, 
+                    7557
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7570, 
+                    7574
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 189, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Atau bisa juga ikutan day tour dari Bali.", 
+        "line": 190, 
+        "range": [
+            7616, 
+            7656
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7642, 
+                    7647
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 191, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dimana? Pulau Nusa Penida", 
+        "line": 192, 
+        "range": [
+            7658, 
+            7682
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7666, 
+                    7677
+                ], 
+                "name": "Nusa Penida"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 193, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa saya suka? Pemandangan yang luar biasa dan unik.", 
+        "line": 194, 
+        "range": [
+            7684, 
+            7738
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 195, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "9. Pantai Bias Tugel, Pantai Anti-Mainstream di Timur Bali", 
+        "line": 196, 
+        "range": [
+            7740, 
+            7797
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7744, 
+                    7748
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7759, 
+                    7776
+                ], 
+                "name": "Pulau Nusa Penida"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 197, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya tidak sengaja ketemu Pantai Bias Tugel ketika sedang dalam perjalanan menuju Amed.", 
+        "line": 198, 
+        "range": [
+            7799, 
+            7885
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7838, 
+                    7855
+                ], 
+                "name": "Pantai Bias Tugel"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7857, 
+                    7863
+                ], 
+                "name": "Pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 199, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa dibilang pantai di Bali ini cukup terpencil.", 
+        "line": 200, 
+        "range": [
+            7887, 
+            7935
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7889, 
+                    7893
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 201, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya memang tidak berencana, bahkan tidak tau tentang Pantai Bias Tugel.", 
+        "line": 202, 
+        "range": [
+            7937, 
+            8008
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7977, 
+                    7981
+                ], 
+                "name": "Amed"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7998, 
+                    8004
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 203, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketemunya dari Google Maps.", 
+        "line": 204, 
+        "range": [
+            8010, 
+            8036
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 205, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya langsung terpesona dengan pantai ini.", 
+        "line": 206, 
+        "range": [
+            8038, 
+            8079
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 207, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pasirnya yang sehalus tepung berpadu sempurna dengan birunya air laut.", 
+        "line": 208, 
+        "range": [
+            8081, 
+            8150
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8089, 
+                    8106
+                ], 
+                "name": "Pantai Bias Tugel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 209, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sampai tidak percaya kalau saya belum pernah mendengar tentang pantai ini.", 
+        "line": 210, 
+        "range": [
+            8152, 
+            8230
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8169, 
+                    8175
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 211, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di sepanjang pantai ada warung yang berjualan.", 
+        "line": 212, 
+        "range": [
+            8232, 
+            8277
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 213, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Menariknya lagi, pantai ini letaknya tidak jauh dari Pelabuhan Padang Bai.", 
+        "line": 214, 
+        "range": [
+            8279, 
+            8352
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8322, 
+                    8328
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 215, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sesekali terlihat kapal yang berangkat maupun berlabuh.", 
+        "line": 216, 
+        "range": [
+            8354, 
+            8408
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8359, 
+                    8365
+                ], 
+                "name": "warung"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8400, 
+                    8406
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 217, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Walaupun dekat pelabuhan pantai ini bersih sekali. Airnya juga bening, membuat saya makin kaget.", 
+        "line": 218, 
+        "range": [
+            8410, 
+            8505
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8436, 
+                    8456
+                ], 
+                "name": "Pelabuhan Padang Bai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8477, 
+                    8482
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 219, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berenang di Pantai Bias Tugel juga asik, tapi hati-hati saja semakin sore ombaknya semakin gede.", 
+        "line": 220, 
+        "range": [
+            8507, 
+            8602
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8531, 
+                    8540
+                ], 
+                "name": "pelabuhan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8541, 
+                    8547
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 221, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dimana? Timur Laut Bali", 
+        "line": 222, 
+        "range": [
+            8604, 
+            8626
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 223, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa saya suka? Rasanya senang tiba-tiba menemukan pantai yang indah.", 
+        "line": 224, 
+        "range": [
+            8628, 
+            8698
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 225, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "10. Pantai Berawa, Pantai di Bali Buat Belajar Surfing", 
+        "line": 226, 
+        "range": [
+            8700, 
+            8753
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8731, 
+                    8735
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 227, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai Berawa terletak di area yang bernama Canggu, mungkin tidak asing lagi ya dengan nama ini.", 
+        "line": 228, 
+        "range": [
+            8755, 
+            8850
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8790, 
+                    8796
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8814, 
+                    8827
+                ], 
+                "name": "Pantai Berawa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8829, 
+                    8835
+                ], 
+                "name": "Pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8839, 
+                    8843
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 229, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ya, Canggu adalah salah satu area yang semakin hits di Bali.", 
+        "line": 230, 
+        "range": [
+            8852, 
+            8911
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8866, 
+                    8879
+                ], 
+                "name": "Pantai Berawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 231, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak anak muda, terutama turis asing yang menyebut diri mereka sebagai digital nomad  tinggal di Canggu.", 
+        "line": 232, 
+        "range": [
+            8913, 
+            9018
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8968, 
+                    8974
+                ], 
+                "name": "Canggu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 233, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nyari apa aja pasti ada di sini, dari papan selancar, healthy bowl, sawah, dan kehidupan malam.", 
+        "line": 234, 
+        "range": [
+            9020, 
+            9114
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 235, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dibandingkan dengan Kuta atau Seminyak, biaya hidupnya mungkin lebih murah di Canggu.", 
+        "line": 236, 
+        "range": [
+            9116, 
+            9200
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9125, 
+                    9131
+                ], 
+                "name": "Canggu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 237, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Suasananya juga asik.", 
+        "line": 238, 
+        "range": [
+            9202, 
+            9222
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 239, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya pantai yang saya suka bernama \u201cHidden Beach\u201d. Pantai tersembunyi ini berada di antara Pantai Berawa dan Pantai Perancak.", 
+        "line": 240, 
+        "range": [
+            9224, 
+            9358
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9251, 
+                    9255
+                ], 
+                "name": "Kuta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9261, 
+                    9269
+                ], 
+                "name": "Seminyak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9309, 
+                    9315
+                ], 
+                "name": "Canggu"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9352, 
+                    9358
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 241, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiap Minggu pasti saya datang, duduk di salah satu bar yang menghadap langsung ke laut, pesan kelapa seharga 25ribu, kemudian leyeh-leyeh di bean bag. Hidup itu indah!", 
+        "line": 242, 
+        "range": [
+            9360, 
+            9526
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9383, 
+                    9395
+                ], 
+                "name": "Hidden Beach"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9398, 
+                    9404
+                ], 
+                "name": "Pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9438, 
+                    9451
+                ], 
+                "name": "Pantai Berawa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9456, 
+                    9471
+                ], 
+                "name": "Pantai Perancak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 243, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi sayangnya terakhir saya ke sana lagi ada konstruksi.", 
+        "line": 244, 
+        "range": [
+            9528, 
+            9584
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9556, 
+                    9560
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 245, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa bar juga sudah tutup, mungkin mau dibangun beach club atau vila, saya kurang tau.", 
+        "line": 246, 
+        "range": [
+            9586, 
+            9675
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 247, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dimana? Barat Bali", 
+        "line": 248, 
+        "range": [
+            9677, 
+            9694
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 249, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa saya suka? Bisa santai di bean bag gratis hanya dengan memesan bir atau air kelapa murah.", 
+        "line": 250, 
+        "range": [
+            9696, 
+            9791
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9711, 
+                    9714
+                ], 
+                "name": "bar"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9754, 
+                    9764
+                ], 
+                "name": "beach club"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9770, 
+                    9774
+                ], 
+                "name": "vila"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 251, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "11. Pantai Batu Belig, Nongkrong Sambil Lihat Sunset!", 
+        "line": 252, 
+        "range": [
+            9793, 
+            9845
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9808, 
+                    9812
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 253, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai Batu Belig mungkin adalah pantai di Bali yang paling sering saya datangi.", 
+        "line": 254, 
+        "range": [
+            9847, 
+            9926
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 255, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ini lebih ke favorit pribadi saya karena sebenarnya pantainya biasa saja.", 
+        "line": 256, 
+        "range": [
+            9928, 
+            10000
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9967, 
+                    9984
+                ], 
+                "name": "Pantai Batu Belig"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 257, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pasirnya hitam juga tidak terlalu bersih. Tapi yang paling saya suka adalah matahari terbenamnya.", 
+        "line": 258, 
+        "range": [
+            10002, 
+            10098
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10010, 
+                    10014
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 259, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya suka datang sore hari ke bar yang bernama 707 Beach Berm, duduk di bean bag dan menunggu matahari terbenam sambil mendengar musik techno.", 
+        "line": 260, 
+        "range": [
+            10100, 
+            10241
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10101, 
+                    10110
+                ], 
+                "name": "pantainya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 261, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika langit berubah keemasan, kadang berwarna merah muda, perlahan matahari turun, saat itulah semua warna menyatu dengan gulungan ombak membuat saya makin bersyukur dengan ciptaan Tuhan.", 
+        "line": 262, 
+        "range": [
+            10243, 
+            10431
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10253, 
+                    10256
+                ], 
+                "name": "bar"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    10270, 
+                    10284
+                ], 
+                "name": "707 Beach Berm"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 263, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari Minggu adalah hari favorit saya datang ke Pantai Batu Belig. Ada DJ, lagunya asik.", 
+        "line": 264, 
+        "range": [
+            10433, 
+            10519
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 265, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika matahari hilang dan langit sudah gelap, ada beberapa orang yang tetap menari di dance floor kecil di bar.", 
+        "line": 266, 
+        "range": [
+            10521, 
+            10632
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10605, 
+                    10622
+                ], 
+                "name": "Pantai Batu Belig"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 267, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dimana? Barat Bali", 
+        "line": 268, 
+        "range": [
+            10634, 
+            10651
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 269, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa saya suka? Sunset-nya yang indah, good vibes, harga minuman murah, di Hari Minggu musiknya asik.", 
+        "line": 270, 
+        "range": [
+            10653, 
+            10755
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 271, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itulah 11 rekomendasi pantai terindah di Bali favorit saya. Sudah pernah ke pantai yang saya sebutkan?", 
+        "line": 272, 
+        "range": [
+            10757, 
+            10858
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10775, 
+                    10779
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 273, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Atau ada pantai lain yang kamu suka yang bisa direkomendasiin? Comment ya di bawah!", 
+        "line": 274, 
+        "range": [
+            10860, 
+            10942
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10908, 
+                    10914
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10927, 
+                    10931
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }
+]

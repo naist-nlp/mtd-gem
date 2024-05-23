@@ -1,0 +1,1458 @@
+[
+    {
+        "text": "March 2, 2021   Panduan Melihat Orang Utan Di Bukit Lawang, Sumatra Utara", 
+        "line": 0, 
+        "range": [
+            1, 
+            73
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    46, 
+                    58
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    60, 
+                    73
+                ], 
+                "name": "Sumatra Utara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bertemu dengan hewan liar di habitat aslinya tanpa terkurung dalam kandang maupun pagar tentunya adalah pengalaman yang sangat berbeda dibandingkan dengan berkunjung ke kebun binatang. Saya beruntung bisa melihat langsung orang utan di Bukit Lawang.", 
+        "line": 2, 
+        "range": [
+            75, 
+            323
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    142, 
+                    149
+                ], 
+                "name": "kandang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    244, 
+                    258
+                ], 
+                "name": "kebun binatang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    311, 
+                    323
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kekhawatiran terbesar saya adalah kemungkinan melihat hewan di alam liar itu bisa jadi tidak ketemu sama sekali. Apalagi hewan liar memiliki nalurinya sendiri terhadap manusia. Dan juga mereka berkeliaran di alam bebas.", 
+        "line": 4, 
+        "range": [
+            325, 
+            543
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya memang lebih senang melihat hewan liar langsung di habitat asli mereka. Kalau ke kebun binatang rasanya ada yang berbeda. Ada sensasi tersendiri saat bertemu dengan hewan yang berkeliaran bebas secara langsung.", 
+        "line": 6, 
+        "range": [
+            545, 
+            759
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    633, 
+                    647
+                ], 
+                "name": "kebun binatang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman pertama saya melihat hewan secara langsung adalah saat berkunjung ke Taman Nasional Komodo. Rasanya luar biasa bisa melihat Komodo secara langsung.", 
+        "line": 8, 
+        "range": [
+            761, 
+            918
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    844, 
+                    865
+                ], 
+                "name": "Taman Nasional Komodo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya juga pernah ke Taman Nasional Ujung Kulon tapi sayangnya tidak bertemu dengan badak bercula satu.", 
+        "line": 10, 
+        "range": [
+            920, 
+            1021
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    944, 
+                    970
+                ], 
+                "name": "Taman Nasional Ujung Kulon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, misi saya kali ini adalah melihat orang utan di Bukit Lawang. Orang utan terkenal dengan struktur anatomi yang mirip dengan manusia dan telah tinggal di hutan pedalaman khususnya di wilayah Sumatra dan Kalimantan.", 
+        "line": 12, 
+        "range": [
+            1023, 
+            1240
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1081, 
+                    1093
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1186, 
+                    1201
+                ], 
+                "name": "hutan pedalaman"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1223, 
+                    1230
+                ], 
+                "name": "Sumatra"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara ke Bukit Lawang dari Medan", 
+        "line": 14, 
+        "range": [
+            1242, 
+            1272
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1256, 
+                    1268
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada dua cara yang bisa kamu lakukan untuk menempuh perjalanan ke Bukit Lawang dari Medan yaitu:", 
+        "line": 16, 
+        "range": [
+            1274, 
+            1368
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1274, 
+                    1279
+                ], 
+                "name": "Medan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1346, 
+                    1358
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1364, 
+                    1369
+                ], 
+                "name": "Medan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Dari Bandara Kualanamu", 
+        "line": 18, 
+        "range": [
+            1370, 
+            1394
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pergilah ke tempat pemberhentian bus di bandara dan cari bus \u201cALS\u201d dengan tujuan Binjai. Harga tiket bus tujuan Binjai adalah Rp 40,000.", 
+        "line": 20, 
+        "range": [
+            1396, 
+            1535
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1438, 
+                    1441
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1445, 
+                    1452
+                ], 
+                "name": "bandara"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1462, 
+                    1471
+                ], 
+                "name": "bus \u201cALS\u201d"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1486, 
+                    1492
+                ], 
+                "name": "Binjai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1506, 
+                    1509
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1517, 
+                    1523
+                ], 
+                "name": "Binjai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di Binjai bisa naik becak ke Tanah Lapang (Rp 10,000) dimana kamu bisa naik minivan (Rp 20,000) sampai Bukit Lawang.  Lama perjalanan dari Bandara Kualanamu sampai Bukit Lawang sekitar 4 -5 jam.", 
+        "line": 22, 
+        "range": [
+            1537, 
+            1745
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1561, 
+                    1567
+                ], 
+                "name": "Binjai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1578, 
+                    1583
+                ], 
+                "name": "becak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1587, 
+                    1599
+                ], 
+                "name": "Tanah Lapang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1634, 
+                    1641
+                ], 
+                "name": "minivan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1661, 
+                    1673
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1697, 
+                    1714
+                ], 
+                "name": "Bandara Kualanamu"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1722, 
+                    1734
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Dari Kota Medan", 
+        "line": 24, 
+        "range": [
+            1747, 
+            1764
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pergilah ke Stasiun Pinang Baris untuk mencari minivan langsung ke Bukit Lawang. Harganya sekitar Rp 30,000 \u2013 Rp 50,000. Setelah itu kamu cukup nyari becak atau ojek langsung ke area  Bukit Lawang(Rp 10,000).", 
+        "line": 26, 
+        "range": [
+            1766, 
+            1975
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1786, 
+                    1806
+                ], 
+                "name": "Stasiun Pinang Baris"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1821, 
+                    1828
+                ], 
+                "name": "minivan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1841, 
+                    1853
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1924, 
+                    1929
+                ], 
+                "name": "becak"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1935, 
+                    1939
+                ], 
+                "name": "ojek"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1958, 
+                    1970
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penginapan di Bukit Lawang", 
+        "line": 28, 
+        "range": [
+            1977, 
+            2002
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak penginapan di sekitar Bukit Lawang dengan harga bervariasi sesuai budget, dari yang murah sampai yang lebih mahal. Beberapa penginapan yang bisa cukup bagus adalah:", 
+        "line": 30, 
+        "range": [
+            2004, 
+            2174
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2019, 
+                    2029
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2041, 
+                    2053
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2143, 
+                    2153
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Green Travelodge Bukit Lawang", 
+        "line": 32, 
+        "range": [
+            2176, 
+            2204
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Sahnan Guest House", 
+        "line": 33, 
+        "range": [
+            2205, 
+            2222
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Fun Family Guest House", 
+        "line": 34, 
+        "range": [
+            2223, 
+            2244
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Thomas Retreat Bukit Lawang", 
+        "line": 35, 
+        "range": [
+            2245, 
+            2271
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Eco Lodge Bukit Lawang", 
+        "line": 36, 
+        "range": [
+            2272, 
+            2293
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Info guide untuk melihat orang utan di Bukit Lawang", 
+        "line": 38, 
+        "range": [
+            2295, 
+            2345
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Agar bisa melihat orang utan secara langsung, sebaiknya harus menyewa pemandu atau guide. Untuk keselamatan diri sendiri. Jalur hutan di Bukit Lawang tidak jelas, tidak ada tanda penunjuk arah.", 
+        "line": 40, 
+        "range": [
+            2347, 
+            2539
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2348, 
+                    2360
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2490, 
+                    2495
+                ], 
+                "name": "hutan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2499, 
+                    2511
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jika tidak menggunakan guide kemungkinan besar bisa tersesat. Di Bukit Lawang ada asosiasi guide yang menawarkan harga pas. Untuk orang lokal harganya sekitar Rp 350,000 per orang.", 
+        "line": 42, 
+        "range": [
+            2541, 
+            2720
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2622, 
+                    2634
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya penginapan bisa menyediakan jasa tur melihat orang utan. Kamu juga bisa coba menghubungi guide bernama Dede Pinem di 0821 6833 7066 atau Robet Tuex di 0812 6099 8236.", 
+        "line": 44, 
+        "range": [
+            2722, 
+            2896
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2748, 
+                    2758
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mau lebih gampang bisa pesan paket tur di sini. Ada yang cuma setengah hari, full day, bahkan multiple days dari Menda juga sesuai dengan budget dan waktu yang kamu miliki.", 
+        "line": 46, 
+        "range": [
+            2898, 
+            3075
+        ], 
+        "entities": [
+            {
+                "type": "OTHER", 
+                "span": [
+                    3035, 
+                    3040
+                ], 
+                "name": "Menda"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman melihat orang utan di Bukit Lawang", 
+        "line": 48, 
+        "range": [
+            3077, 
+            3121
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya rencana untuk melihat orang utan di Bukit Lawang datang tiba-tiba. Saya harus ke Medan untuk mengurus beberapa hal kemudian sekalian nebeng di rumah teman saya di Binjai.", 
+        "line": 50, 
+        "range": [
+            3123, 
+            3303
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3129, 
+                    3141
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3190, 
+                    3202
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3235, 
+                    3240
+                ], 
+                "name": "Medan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kebetulan rumahnya memang tidak jauh dari Bukit Lawang, jadi ya sekalian aja. Kami melewati jalan yang jelek, kedua sisi hanyalah kebun kelapa sawit menuju Bukit Lawang dengan menggunakan mobil selama dua jam.", 
+        "line": 52, 
+        "range": [
+            3305, 
+            3513
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3317, 
+                    3323
+                ], 
+                "name": "Binjai"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3368, 
+                    3380
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3418, 
+                    3423
+                ], 
+                "name": "jalan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3456, 
+                    3461
+                ], 
+                "name": "kebun"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3482, 
+                    3494
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai, kami nego dengan salah satu guide yang akan memandu kami melihat orang utan di Bukit Lawang. Sekitar 15 menit berjalan masuk ke hutan dan mengawasi area sekitar, kami pun mendengar suara dari kejauhan.", 
+        "line": 54, 
+        "range": [
+            3515, 
+            3731
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3632, 
+                    3644
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3681, 
+                    3686
+                ], 
+                "name": "hutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perasaan saya campur aduk, antara senang, girang, cemas, dan berdetak-detak. Rasanya seperti sedang berpetualang kemudian menemukan petunjuk harta karun. Saya makin konsentrasi mengemati pepohonan dan area sekitar.", 
+        "line": 56, 
+        "range": [
+            3733, 
+            3946
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "\u201cTadi suara orang utan kah?\u201d, tanya saya penuh dengan rasa penasaran kepada pemandu. Pemandu saya sudah biasa dan ngerti dengan apa yang dia lakukan.", 
+        "line": 58, 
+        "range": [
+            3948, 
+            4100
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dia mencoba menelusuri hutan sambil mencari asal suara tersebut. Saya dan teman saya hanya mengikutinya dari belakang diam-diam.", 
+        "line": 60, 
+        "range": [
+            4102, 
+            4229
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4146, 
+                    4151
+                ], 
+                "name": "hutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terlihat sebuah bayangan kecil berwarna gelap bergerak di antara dedaunan. Ternyata makhluk tersebut adalah Thomas\u2019s Langur atau Thomas Monkey.", 
+        "line": 62, 
+        "range": [
+            4231, 
+            4375
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Masih sejenis primata atau monyet namun memang habitat aslinya hanya di Sumatra Utara.", 
+        "line": 64, 
+        "range": [
+            4377, 
+            4462
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kecewa sih tidak. Ini kali pertama saya melihat jenis monyet ini juga. Kabarnya jumlah monyet ini juga semakin dikit dan terancam punah juga.", 
+        "line": 66, 
+        "range": [
+            4464, 
+            4604
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4470, 
+                    4483
+                ], 
+                "name": "Sumatra Utara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami melanjutkan trekking di hutan, melewati patahan ranting pohon dan semak-semak. Beberapa saat kemudian akhirnya ketemu juga dengan orang utan!", 
+        "line": 68, 
+        "range": [
+            4606, 
+            4751
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4658, 
+                    4663
+                ], 
+                "name": "hutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Seekor orang utan betina sedang menggendong anaknya. Spontan saya langsung kegirangan. Pertama kalinya melihat orang utan di rumahnya, di habitat aslinya. Dan baby orang utannya lucu imut.", 
+        "line": 70, 
+        "range": [
+            4753, 
+            4940
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mereka bermain di antara pepohonan, tidak mempedulikan beberapa pasang mata yang menonton mereka dengan rasa kagum. Misi saya pun selesai.", 
+        "line": 72, 
+        "range": [
+            4942, 
+            5079
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami bertemu dengan tiga orang utan dewasa dan dua orang utan yang masih kecil. Dengan rasa takjub saya mengamati mereka berayun dari satu pohon ke pohon lainnya, cara mereka menggunakan lengan yang panjang untuk menopang tubuh mereka.", 
+        "line": 74, 
+        "range": [
+            5081, 
+            5315
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami pulang dengan rasa puas. Saya tidak akan melupakan pengalaman saya bertemu dengan orang utan di Bukit Lawang untuk pertama kalinya.", 
+        "line": 76, 
+        "range": [
+            5317, 
+            5452
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Orang utan terancam punah", 
+        "line": 78, 
+        "range": [
+            5454, 
+            5478
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sangat disayangkan, orang utan termasuk hewan yang terancam punah karena penebangan hutan. Hanya sekitar 70,000 orang utan yang tersisa di bumi ini.", 
+        "line": 80, 
+        "range": [
+            5480, 
+            5627
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5593, 
+                    5598
+                ], 
+                "name": "hutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ancaman paling besar adalah penebangan hutan untuk digunakan untuk kebun kelapa sawit.", 
+        "line": 82, 
+        "range": [
+            5629, 
+            5714
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5698, 
+                    5703
+                ], 
+                "name": "hutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penegakkan hukum yang lemah dari pemerintah tidak bisa menghentikan orang-orang yang tidak bertanggung jawab. Apalagi dalam kasus ini kebanyakan adalah perusahaan besar yang tidak hanya menhancurkan sekotak tanah kecil, tapi ribuan hektar.", 
+        "line": 84, 
+        "range": [
+            5716, 
+            5954
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5726, 
+                    5731
+                ], 
+                "name": "kebun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Walaupun banyak NGO atau organisasi non-profit yang berusaha untuk menjaga dan merehabilitasi orang utan, tanpa kesadaran masyarakat spesies ini pun dalam bahaya.", 
+        "line": 86, 
+        "range": [
+            5956, 
+            6117
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sangat sedih karena saya tau bagaimana pemerintah kita bekerja, orang-orang disini. Mereka tidak peduli dengan lingkungan maupun margasatwa.", 
+        "line": 88, 
+        "range": [
+            6119, 
+            6263
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya merasa bertanggung jawab untuk membantu. Marilah kita coba melakukan sesuatu walaupun dengan cara yang sederhana untuk menyelamatkan hewan-hewan yang terancam punah ini.", 
+        "line": 90, 
+        "range": [
+            6265, 
+            6438
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebuah opini kecil dari saya", 
+        "line": 92, 
+        "range": [
+            6440, 
+            6467
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sejujurnya saya kaget dengan kondisi di Bukit Lawang. Yang saya tau sebelum datang kesini adalah Bukit Lawang merupakan destinasi yang cukup populer bagi wisatawan asing.", 
+        "line": 94, 
+        "range": [
+            6469, 
+            6638
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6545, 
+                    6557
+                ], 
+                "name": "Bukit Lawang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6602, 
+                    6614
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadi saya pun berekspektasi bahwa Bukit Lawang lebih tertata. Saya merasa bahwa fasilitas disini tidak diawasi dengan baik.", 
+        "line": 96, 
+        "range": [
+            6640, 
+            6762
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6711, 
+                    6723
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tourist Center tidak menyediakan informasi yang lengkap untuk pengunjung. Ketika sampai saya tidak tahu harus ngomong sama siapa karena tidak tahu yang mana satu petugasnya.", 
+        "line": 98, 
+        "range": [
+            6764, 
+            6936
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6802, 
+                    6815
+                ], 
+                "name": "Tourist Cente"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya disuruh beli tiket karena akan diperiksa nanti di pos pengecekan. Ketika sampai di pos pengecekan yang ada malah beberapa orang yang sedang main kartu.", 
+        "line": 100, 
+        "range": [
+            6938, 
+            7093
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7032, 
+                    7046
+                ], 
+                "name": "pos pengecekan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7065, 
+                    7079
+                ], 
+                "name": "pos pengecekan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kayaknya sih masing-masing individu ngejalanin bisnis, tidak ada koordinasi yang bagus antara pihak pemeritah dengan pebisnis.", 
+        "line": 102, 
+        "range": [
+            7095, 
+            7220
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya bisa terima kalau ini ada di tempat wisata lain di Indonesia tapi untuk Bukit Lawang menurut saya sih tidak pantas. Banyak potensi di tempat wisata ini tapi tidak dikelola dengan baik.", 
+        "line": 104, 
+        "range": [
+            7222, 
+            7410
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7297, 
+                    7310
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7319, 
+                    7328
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7340, 
+                    7352
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya penasaran kemana duit yang harus dibayarkan pengunjung, karena tidak murah juga untuk datang kesini. Bertolak belakang dengan fasilitas yang ada di tempat wisata ini.", 
+        "line": 106, 
+        "range": [
+            7412, 
+            7582
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Memberi makan orang utan juga menjadi kontroversi. Beberapa guide sangat ketat dengan peraturan. Tidak diperbolehkan memberi makan orang utan di Bukit Lawang.", 
+        "line": 108, 
+        "range": [
+            7584, 
+            7741
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7607, 
+                    7620
+                ], 
+                "name": "tempat wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hanya saja beberapa guide masih saja memberi makan mereka untuk menarik perhatian orang utan.", 
+        "line": 110, 
+        "range": [
+            7743, 
+            7835
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7772, 
+                    7784
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, itulah pengalaman saya melihat langsung orang utan di Bukit Lawang. Baca juga pengalaman seru saya mendaki Gunung Kerinci di Sumatera.", 
+        "line": 112, 
+        "range": [
+            7837, 
+            7975
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7941, 
+                    7953
+                ], 
+                "name": "Bukit Lawang"
+            }
+        ]
+    }
+]

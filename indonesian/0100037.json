@@ -1,0 +1,1810 @@
+[
+    {
+        "text": "October 14, 2022    6 Tempat Yang Wajib Kamu Kunjungi Di Tasmania", 
+        "line": 0, 
+        "range": [
+            1, 
+            65
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    57, 
+                    65
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Liburan ke Tasmania enaknya kemana aja ya? Ini dia, 6 tempat wisata menarik di Tasmania yang wajib kamu kunjungi! ", 
+        "line": 2, 
+        "range": [
+            67, 
+            180
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    78, 
+                    86
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    121, 
+                    134
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    146, 
+                    154
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah hampir setahun tinggal di Australia sebagai anak WHV, sebulan terakhir sebelum kelar, saya memutuskan untuk road trip Australia.", 
+        "line": 4, 
+        "range": [
+            182, 
+            317
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    217, 
+                    226
+                ], 
+                "name": "Australia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    309, 
+                    318
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tujuan pertama saya adalah Tasmania. ", 
+        "line": 6, 
+        "range": [
+            319, 
+            355
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    348, 
+                    356
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa saya memilih untuk liburan ke Tasmania?", 
+        "line": 8, 
+        "range": [
+            357, 
+            402
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tasmania terkenal dengan alamnya yang sangat indah.", 
+        "line": 10, 
+        "range": [
+            404, 
+            454
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    408, 
+                    416
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau dengar nama Tasmania rasanya ada sense of pureness and adventure gitu.", 
+        "line": 12, 
+        "range": [
+            456, 
+            531
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    479, 
+                    487
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cuma yang agak sulit bagi saya adalah suhunya yang dingin karena letaknya yang dekat dengan Antartika.", 
+        "line": 14, 
+        "range": [
+            533, 
+            634
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Taukah kamu kalau 40% dari pulau ini merupakan taman national yang biota alamnya dilindungi?", 
+        "line": 16, 
+        "range": [
+            636, 
+            727
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    670, 
+                    675
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    690, 
+                    704
+                ], 
+                "name": "taman national"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tasmania juga merupakan tempat yang paling bersih di dunia.", 
+        "line": 18, 
+        "range": [
+            729, 
+            787
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    737, 
+                    745
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara Menuju Tasmania", 
+        "line": 20, 
+        "range": [
+            789, 
+            808
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada beberapa penerbangan dari Sydney, Melbourne, dan Brisbane menuju Tasmania.", 
+        "line": 22, 
+        "range": [
+            810, 
+            887
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    810, 
+                    818
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    850, 
+                    856
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    858, 
+                    867
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    873, 
+                    881
+                ], 
+                "name": "Brisbane"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebaiknya terbang dulu ke Hobart atan Launceston.", 
+        "line": 24, 
+        "range": [
+            889, 
+            937
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    889, 
+                    897
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    926, 
+                    932
+                ], 
+                "name": "Hobart"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya terbang dari Sydney ke Hobart menggunakan Jetstar ($70) kemudian baliknya dari Launceston ke Melbourne ($45).", 
+        "line": 26, 
+        "range": [
+            939, 
+            1052
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    969, 
+                    975
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    979, 
+                    985
+                ], 
+                "name": "Hobart"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    998, 
+                    1005
+                ], 
+                "name": "Jetstar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1035, 
+                    1045
+                ], 
+                "name": "Launceston"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau dari Melbourne ada juga kapal feri menuju Devonport, Tasmania.", 
+        "line": 28, 
+        "range": [
+            1054, 
+            1121
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1078, 
+                    1087
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1097, 
+                    1107
+                ], 
+                "name": "kapal feri"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara paling gampang untuk mengelilingi Tasmania adalah dengan menyewa mobil.", 
+        "line": 30, 
+        "range": [
+            1123, 
+            1198
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1126, 
+                    1134
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1176, 
+                    1184
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa juga menggunakan bus Tassilienk, tapi mungkin kurang enak dibanding dengan menyewa mobil.", 
+        "line": 32, 
+        "range": [
+            1200, 
+            1293
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1207, 
+                    1212
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1237, 
+                    1251
+                ], 
+                "name": "bus Tassilienk"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kurang lebih waktu yang dibutuhkan untuk traveling di Tasmania adalah 1 minggu. ", 
+        "line": 34, 
+        "range": [
+            1295, 
+            1374
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1303, 
+                    1308
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1365, 
+                    1373
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Destinasi atau tempat wisata di Tasmania ", 
+        "line": 36, 
+        "range": [
+            1376, 
+            1416
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut 6 tempat wisata di Tasmania yang wajib kamu kunjungi!", 
+        "line": 38, 
+        "range": [
+            1418, 
+            1478
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1425, 
+                    1433
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1446, 
+                    1459
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1463, 
+                    1471
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Hobart, ibukotanya Tasmania", 
+        "line": 40, 
+        "range": [
+            1480, 
+            1509
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1502, 
+                    1508
+                ], 
+                "name": "Hobart"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertama kali landing di Hobart, ada perasaan yang tidak biasanya.", 
+        "line": 42, 
+        "range": [
+            1511, 
+            1575
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1521, 
+                    1529
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1555, 
+                    1561
+                ], 
+                "name": "Hobart"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kota Hobart saat itu sangatlah sunyi.", 
+        "line": 44, 
+        "range": [
+            1577, 
+            1613
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1598, 
+                    1609
+                ], 
+                "name": "Kota Hobart"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah kian lama tinggal di Sydney, saya terbiasa tengan hiruk pikuknya Sydney, keramaian, dan bangunan tinggi.", 
+        "line": 46, 
+        "range": [
+            1615, 
+            1726
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1666, 
+                    1672
+                ], 
+                "name": "Sydney"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1710, 
+                    1716
+                ], 
+                "name": "Sydney"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sepertinya saya harus beradaptasi.", 
+        "line": 48, 
+        "range": [
+            1728, 
+            1761
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1733, 
+                    1748
+                ], 
+                "name": "bangunan tinggi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya tiba di Hobart pada hari Minggu.", 
+        "line": 50, 
+        "range": [
+            1763, 
+            1799
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Semua toko kebanyakan tutup bahkan saya tidak melihat banyak orang di jalanan.", 
+        "line": 52, 
+        "range": [
+            1801, 
+            1878
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1832, 
+                    1836
+                ], 
+                "name": "toko"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya keesokan hari, kotanya lebih aktif.", 
+        "line": 54, 
+        "range": [
+            1880, 
+            1923
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1896, 
+                    1903
+                ], 
+                "name": "jalanan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak sekali hal yang bisa dilakukan di Hobart seperti berkunjung ke Museum of Old and New Art (MONA) atau mendaki Gunung Wellington.", 
+        "line": 56, 
+        "range": [
+            1925, 
+            2058
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1930, 
+                    1937
+                ], 
+                "name": "kotanya"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1993, 
+                    1999
+                ], 
+                "name": "Hobart"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2022, 
+                    2054
+                ], 
+                "name": "Museum of Old and New Art (MONA)"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya suka nuansa chic di sekitar Salamance Place yang terletak disepanjang pelabuhan.", 
+        "line": 58, 
+        "range": [
+            2060, 
+            2144
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2068, 
+                    2085
+                ], 
+                "name": "Gunung Wellington"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2121, 
+                    2136
+                ], 
+                "name": "Salamance Place"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Agak romantis romantis gitu, apalagi kalau dinner. Jika mau berkunjung cocoknya hari Sabtu, karena bakal ada Salamanca Market yang cuma dibuka pada har\u0131 Sabtu saja.", 
+        "line": 60, 
+        "range": [
+            2146, 
+            2310
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2163, 
+                    2172
+                ], 
+                "name": "pelabuhan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2284, 
+                    2300
+                ], 
+                "name": "Salamanca Market"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sayangnya saya tidak sempat kesana.", 
+        "line": 62, 
+        "range": [
+            2312, 
+            2346
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Richmond", 
+        "line": 64, 
+        "range": [
+            2348, 
+            2358
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terletak sekitar 20 menit berkendara dari Hobart, Richmond merupakan destinasi wisata di Tasmania yang cocok untuk day trip.", 
+        "line": 66, 
+        "range": [
+            2360, 
+            2483
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2381, 
+                    2389
+                ], 
+                "name": "Richmond"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2433, 
+                    2439
+                ], 
+                "name": "Hobart"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2441, 
+                    2449
+                ], 
+                "name": "Richmond"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2460, 
+                    2476
+                ], 
+                "name": "destinasi wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak rumah-rumah bergaya sederhana dengan bagian depan rumah yang indah.", 
+        "line": 68, 
+        "range": [
+            2485, 
+            2558
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bangunnya juga dijaga sangat baik, mirip seperti bangunan di tempat-tempat menarik di Macau.", 
+        "line": 70, 
+        "range": [
+            2560, 
+            2651
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hanya dengan berjalan kaki saja rasanya asik banget.", 
+        "line": 72, 
+        "range": [
+            2653, 
+            2704
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2679, 
+                    2684
+                ], 
+                "name": "Macau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Duduk terus minum teh disini kayaknya asik deh, bawaannya santai banget seperti ala-ala lagi di Eropa.", 
+        "line": 74, 
+        "range": [
+            2706, 
+            2807
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Freycinet National Park, cakep banget pantainya!", 
+        "line": 76, 
+        "range": [
+            2809, 
+            2859
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2837, 
+                    2842
+                ], 
+                "name": "Eropa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "National park ini tersembunyi di bagian timurnya Tasmania, dikelilingi dengan birunya laut dan pair putih.", 
+        "line": 78, 
+        "range": [
+            2861, 
+            2966
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2886, 
+                    2895
+                ], 
+                "name": "pantainya"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2898, 
+                    2911
+                ], 
+                "name": "National park"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2947, 
+                    2955
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Freycinet National Park ini sering dibicarakan oleh kalangan traveler dan pecinta pantai.", 
+        "line": 80, 
+        "range": [
+            2968, 
+            3056
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2984, 
+                    2988
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3006, 
+                    3029
+                ], 
+                "name": "Freycinet National Park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak aktivitas yang data dilakukan seperti trekking. Kalau istilah keren di Australia sebutannya bushwalking.", 
+        "line": 82, 
+        "range": [
+            3058, 
+            3168
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3088, 
+                    3094
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terus disini bisa juga ngeliat binatang liar.", 
+        "line": 84, 
+        "range": [
+            3170, 
+            3214
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3175, 
+                    3184
+                ], 
+                "name": "Australia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu pantai yang tereletak di Freycinet National Park adalah Friendly Beach.", 
+        "line": 86, 
+        "range": [
+            3216, 
+            3297
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3268, 
+                    3274
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pasir disini lembut banget, dan landscapenya juga indah.", 
+        "line": 88, 
+        "range": [
+            3299, 
+            3354
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3324, 
+                    3338
+                ], 
+                "name": "Friendly Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jangan lupa kunjungi Wineglass Bay.", 
+        "line": 90, 
+        "range": [
+            3356, 
+            3390
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Walaupun harus olahraga dikit, tapi pemandangannya apik banget.", 
+        "line": 92, 
+        "range": [
+            3392, 
+            3454
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3420, 
+                    3433
+                ], 
+                "name": "Wineglass Bay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "By the way, saya sempat melihat paus liar disini!", 
+        "line": 94, 
+        "range": [
+            3456, 
+            3504
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Ross, kota kecil yang sangat menenangkan", 
+        "line": 96, 
+        "range": [
+            3506, 
+            3548
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ross merupakan contoh kota kecil dimana saya ingin menetap pas tua nanti.", 
+        "line": 98, 
+        "range": [
+            3550, 
+            3622
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3555, 
+                    3559
+                ], 
+                "name": "Ross"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3561, 
+                    3565
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3597, 
+                    3601
+                ], 
+                "name": "Ross"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3619, 
+                    3623
+                ], 
+                "name": "kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nuansanya santai banget. Saya hanya ingin duduk dan bersantai.", 
+        "line": 100, 
+        "range": [
+            3624, 
+            3685
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ross terkenal dengan bakery yang telah buka selama lebin dari 100 tahun.", 
+        "line": 102, 
+        "range": [
+            3687, 
+            3758
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3736, 
+                    3740
+                ], 
+                "name": "Ross"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang membuat bakery ini spesial adalah cari traditional memanggang atau baking kue menggunakan oven dari kayu bakar.", 
+        "line": 104, 
+        "range": [
+            3760, 
+            3875
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3823, 
+                    3829
+                ], 
+                "name": "bakery"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pas ngelihat kue-kue tertata di etalase, duh rasanya air liur bisa netes kali.", 
+        "line": 106, 
+        "range": [
+            3877, 
+            3954
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada pie, kue tart, roti, semuanya keliahatn enak banget!", 
+        "line": 108, 
+        "range": [
+            3956, 
+            4011
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tempat lain yang bisa dikunjungi di Ross adalah exhibition center dan juga gereja tua.", 
+        "line": 110, 
+        "range": [
+            4013, 
+            4098
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Cradle Mountain, wisata alam paling indah di Tasmania", 
+        "line": 112, 
+        "range": [
+            4100, 
+            4155
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4102, 
+                    4106
+                ], 
+                "name": "Ross"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4114, 
+                    4131
+                ], 
+                "name": "exhibition center"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4141, 
+                    4151
+                ], 
+                "name": "gereja tua"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu alasan mengapa saya pengen banget traveling ke Tasmania adalah Cradle Mountain.", 
+        "line": 114, 
+        "range": [
+            4157, 
+            4246
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4157, 
+                    4172
+                ], 
+                "name": "Cradle Mountain"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4202, 
+                    4210
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Puncak gunungnya yang dramatis dengan landscape yang sangat indah.", 
+        "line": 116, 
+        "range": [
+            4248, 
+            4313
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4270, 
+                    4278
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4286, 
+                    4301
+                ], 
+                "name": "Cradle Mountain"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "No wonder, Cradle Mountain ini merupakan salah satu objek wisata kebanggaanya Tasmania.", 
+        "line": 118, 
+        "range": [
+            4315, 
+            4401
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4383, 
+                    4398
+                ], 
+                "name": "Cradle Mountain"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Siapa sih yang datang ke Tasmania tapi enggak mengunjungi Cradle Mountain.", 
+        "line": 120, 
+        "range": [
+            4403, 
+            4476
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4424, 
+                    4436
+                ], 
+                "name": "objek wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4450, 
+                    4458
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cradle Mountain adalah salah satu tempat wisata di Tasmania yang wajib dikunjungi.", 
+        "line": 122, 
+        "range": [
+            4478, 
+            4559
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4486, 
+                    4494
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4519, 
+                    4534
+                ], 
+                "name": "Cradle Mountain"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4537, 
+                    4552
+                ], 
+                "name": "Cradle Mountain"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "6. Marrawah", 
+        "line": 124, 
+        "range": [
+            4561, 
+            4571
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya saya enggak pernah dengar yang namanya Marrawah.", 
+        "line": 126, 
+        "range": [
+            4573, 
+            4631
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4588, 
+                    4596
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4624, 
+                    4632
+                ], 
+                "name": "Marrawah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Trus kebetulan travel mate saya ngajakin ke Marrawah yang terletak di sebelah utaranya Tasmania.", 
+        "line": 128, 
+        "range": [
+            4633, 
+            4728
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4684, 
+                    4692
+                ], 
+                "name": "Marrawah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kota ini terkenal untuk surfing.", 
+        "line": 130, 
+        "range": [
+            4730, 
+            4761
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4739, 
+                    4747
+                ], 
+                "name": "Marrawah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 131, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di dearah ini kebanyakan adalah kebun hijau, jadi lebih cocok untuk yang suka kedamaian.", 
+        "line": 132, 
+        "range": [
+            4763, 
+            4850
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4782, 
+                    4790
+                ], 
+                "name": "Tasmania"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4793, 
+                    4797
+                ], 
+                "name": "Kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 133, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, itulah beberapa tempat wisata di Tasmania yang tidak boleh terlewatkan kalau ingin berkunjung ke negara kangguru ini.", 
+        "line": 134, 
+        "range": [
+            4852, 
+            4973
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4859, 
+                    4870
+                ], 
+                "name": "kebun hijau"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4938, 
+                    4951
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4955, 
+                    4963
+                ], 
+                "name": "Tasmania"
+            }
+        ]
+    }
+]

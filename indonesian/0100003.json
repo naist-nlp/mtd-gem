@@ -1,0 +1,1253 @@
+[
+    {
+        "text": "February 21, 2021   Menjelajahi Air Terjun Aling-Aling, Sekumpul, Dan Gitgit Di Bali Utara", 
+        "line": 0, 
+        "range": [
+            1, 
+            90
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    32, 
+                    54
+                ], 
+                "name": "Air Terjun Aling-Aling"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    56, 
+                    64
+                ], 
+                "name": "Sekumpul"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    70, 
+                    76
+                ], 
+                "name": "Gitgit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    80, 
+                    90
+                ], 
+                "name": "Bali Utara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tempat wisata di Bali memang tidak bakal habis untuk didatangi. Pada kesempatan ini saya mengunjungi beberapa air terjun di Bali yang terletak di Singaraja, Bali Utara yaitu air terjun Aling-aling,  air terjun Sekumpul, dan air terjun Gitgit.", 
+        "line": 2, 
+        "range": [
+            92, 
+            333
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    109, 
+                    113
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    202, 
+                    212
+                ], 
+                "name": "air terjun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    216, 
+                    220
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    238, 
+                    247
+                ], 
+                "name": "Singaraja"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    249, 
+                    259
+                ], 
+                "name": "Bali Utara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    266, 
+                    288
+                ], 
+                "name": "air terjun Aling-aling"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    291, 
+                    310
+                ], 
+                "name": "air terjun Sekumpul"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    316, 
+                    333
+                ], 
+                "name": "air terjun Gitgit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Alasan utama kenapa saya terus-terusan balik ke Bali sebenarnya simple. Belum cukup rasanya melihat keindahan yang ditawarkan.", 
+        "line": 4, 
+        "range": [
+            335, 
+            460
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    384, 
+                    388
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Masih banyak daerah yang belum saya kunjungi,  pantai yang belum pernah saya lihat, atau pedesaaan yang juga pengen saya datangi.", 
+        "line": 6, 
+        "range": [
+            462, 
+            590
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    511, 
+                    517
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    553, 
+                    562
+                ], 
+                "name": "pedesaaan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain itu, saya suka dengan suasana di Bali. Penduduk lokal yang ramah, makanannya yang enak, dan juga betapa gampangnya kalau mau main di pantai tersembunyi di Bali.", 
+        "line": 8, 
+        "range": [
+            592, 
+            758
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    635, 
+                    639
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    735, 
+                    741
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ternyata selain pantai di Bali juga banyak air terjun yang cakep. Nah, selain tiga air terjun yang akan saya sebutkan dibawah ini, masih banyak lagi air terjun favorit saya di Bali seperti Tukad Cepung, Tibumana, dan Banyumala.", 
+        "line": 10, 
+        "range": [
+            760, 
+            986
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    780, 
+                    786
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    790, 
+                    794
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    807, 
+                    817
+                ], 
+                "name": "air terjun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    847, 
+                    857
+                ], 
+                "name": "air terjun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    913, 
+                    923
+                ], 
+                "name": "air terjun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    940, 
+                    944
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    953, 
+                    965
+                ], 
+                "name": "Tukad Cepung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    967, 
+                    975
+                ], 
+                "name": "Tibumana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena kebetulan sejalan, maka saya motoran selama dua hari satu malam ke tiga air terjun ini yaitu: air terjun Gitgit, air terjun Aling-aling, dan air terjun Sekumpul.", 
+        "line": 12, 
+        "range": [
+            988, 
+            1155
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1072, 
+                    1082
+                ], 
+                "name": "air terjun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1094, 
+                    1111
+                ], 
+                "name": "air terjun Gitgit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1113, 
+                    1135
+                ], 
+                "name": "air terjun Aling-aling"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemberhentian pertama, air terjun Gitgit", 
+        "line": 14, 
+        "range": [
+            1157, 
+            1196
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pagi-pagi kami sudah memulai perjalanan naik motor dari Seminyak dan berkendara menuju area Singaraja yang terletak sekitar 2 jam berkendara. Cuacanya cukup bagus, mataharinya belum terlalu terik.", 
+        "line": 16, 
+        "range": [
+            1198, 
+            1393
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1250, 
+                    1255
+                ], 
+                "name": "motor"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1261, 
+                    1269
+                ], 
+                "name": "Seminyak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1297, 
+                    1306
+                ], 
+                "name": "Singaraja"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya mengamati kegiatan penduduk lokal di pagi hari dan pemandangan sekeliling. Semakin dekat ke Singaraja, pemandangannya juga berubah dan udaranya semakin dingin.", 
+        "line": 18, 
+        "range": [
+            1395, 
+            1558
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1500, 
+                    1509
+                ], 
+                "name": "Singaraja"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami motoran melintasi jalanan berliku dan pepohonan rindang di kanan-kiri jalan sampai kami melihat tanda air terjun Gitgit.", 
+        "line": 20, 
+        "range": [
+            1560, 
+            1684
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1574, 
+                    1581
+                ], 
+                "name": "motoran"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami masuk ke sebuah jalan kecil ke dalam desa, kemudian bertanya kepada orang lokal dimana bisa parkir motor. Perjalanan dilanjutkan dengan jalan kaki ke kawasan air terjun.", 
+        "line": 22, 
+        "range": [
+            1686, 
+            1859
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1717, 
+                    1728
+                ], 
+                "name": "jalan kecil"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1738, 
+                    1742
+                ], 
+                "name": "desa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1800, 
+                    1805
+                ], 
+                "name": "motor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena kami datangnya cukup pagi, tidak ada pengunjung lain sehingga kami bisa menikmati air terjun dengan puas.", 
+        "line": 24, 
+        "range": [
+            1861, 
+            1972
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1961, 
+                    1971
+                ], 
+                "name": "air terjun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertama saya coba masukin jari kaki saya ke dalam air untuk mengetes suhu airnya. Dingin banget! Saya memberanikan diri untuk nyemplung ke air terjun, rasanya seger!", 
+        "line": 26, 
+        "range": [
+            1974, 
+            2138
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2125, 
+                    2135
+                ], 
+                "name": "air terjun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Air terjun Gitgit tidak terlalu tinggi tapi aliran airnya cukup deras. Butuh kesabaran untuk memotret foto yang bagus, apalagi saat airnya bercipratan ke kamera.", 
+        "line": 28, 
+        "range": [
+            2140, 
+            2300
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2153, 
+                    2170
+                ], 
+                "name": "Air terjun Gitgit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pagi yang sangat indah. Cahaya matahari mencoba menembus dedaunan tapi pohonnya terlalu banyak sehingga meninggalkan bayangan.", 
+        "line": 30, 
+        "range": [
+            2302, 
+            2427
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ternyata ada dua air terjun yang bernama Gitgit di area ini. Saya tidak yakin apakah ini yang pertama atau kedua. Kami kembali ke motor dan langsung menuju penginapan yang telah kami booking di dekat air terjun Aling-aling.", 
+        "line": 32, 
+        "range": [
+            2429, 
+            2651
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2461, 
+                    2471
+                ], 
+                "name": "air terjun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2485, 
+                    2491
+                ], 
+                "name": "Gitgit"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2574, 
+                    2579
+                ], 
+                "name": "motor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemberhentian kedua, air terjun Aling-aling", 
+        "line": 34, 
+        "range": [
+            2653, 
+            2695
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di penginapan kami cuma bersantai aja di hari pertama. Keesokannya, dengan strategi yang sama, bangun pagi untuk menghindari keramaian.", 
+        "line": 36, 
+        "range": [
+            2697, 
+            2846
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2732, 
+                    2742
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami menuju kawasan air-terjun Aling-aling. Sempat tersesat karena tidak kelihatan papan tanda.", 
+        "line": 38, 
+        "range": [
+            2848, 
+            2942
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2886, 
+                    2908
+                ], 
+                "name": "air-terjun Aling-aling"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Area parkirannya ada di pinggir jalan. Dengan berjalan kaki kami melewati taman yang indah. Banyak bunga warna warni yang menghiasi area ini.", 
+        "line": 40, 
+        "range": [
+            2944, 
+            3084
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2963, 
+                    2979
+                ], 
+                "name": "Area parkirannya"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2995, 
+                    3000
+                ], 
+                "name": "jalan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3037, 
+                    3042
+                ], 
+                "name": "taman"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari ketiga air terjun yang didatangi, saya paling suka dengan sekeliling area air terjun Aling-aling.", 
+        "line": 42, 
+        "range": [
+            3086, 
+            3187
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3118, 
+                    3128
+                ], 
+                "name": "air terjun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di kawasan ini ternyata ada beberapa air terjun lain selain Aling-aling yaitu air terjun Kroya dan air terjun Kembar. Pertama kami trekking ke air terjun Aling-aling.", 
+        "line": 44, 
+        "range": [
+            3189, 
+            3354
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3247, 
+                    3256
+                ], 
+                "name": "air terju"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3270, 
+                    3281
+                ], 
+                "name": "Aling-aling"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3288, 
+                    3304
+                ], 
+                "name": "air terjun Kroya"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3309, 
+                    3326
+                ], 
+                "name": "air terjun Kembar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Aliran airnya sangat deras sehingga tidak diperbolehkan untuk berenang.", 
+        "line": 46, 
+        "range": [
+            3356, 
+            3426
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak berlama-lama di air terjun, kami turun ke air terjun selanjutnya yang hanya berjarak beberapa meter saya, air terjun Kroya. Di air terjun Kroya ada jumping point.", 
+        "line": 48, 
+        "range": [
+            3428, 
+            3595
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3473, 
+                    3483
+                ], 
+                "name": "air terjun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3499, 
+                    3509
+                ], 
+                "name": "air terjun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3563, 
+                    3579
+                ], 
+                "name": "air terjun Kroya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Teman saya lagi siap-siap untuk loncat tetapi seorang penjaga muncul dan bilang kalau mau lompat harus bayar Rp 100,000. Hah?! Yang bener aja. \u201cKalau berenang boleh gak?\u201d, tanya saya. \u201cHarus bayar juga\u201d, jawab si mas.", 
+        "line": 50, 
+        "range": [
+            3597, 
+            3821
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3605, 
+                    3618
+                ], 
+                "name": "jumping point"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mood saya langsung berubah. Masak sudah bayar tiket masuk masih harus bayar lebih untuk berenang? Kan alam bukan milik orang tertentu.", 
+        "line": 52, 
+        "range": [
+            3823, 
+            3956
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya masih bisa ngerti kalau bayar harga segitu untuk sewa pelindung kepala, jaket pelindung, dan barang lainnya.", 
+        "line": 54, 
+        "range": [
+            3958, 
+            4070
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tetepi kalau berenang aja harus bayar, saya benar-benar kecuali. Masnya ternyata baik, dia bilang kalau mau berenang bisa di air terjun satunya lagi di bawah biar penjaga lain tidak lihat dan minta uang.", 
+        "line": 56, 
+        "range": [
+            4072, 
+            4274
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4216, 
+                    4226
+                ], 
+                "name": "air terjun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ya gimana lagi, saya tidak ada mood lagi untuk berenang. Mending berenang di kolam renang villa.", 
+        "line": 58, 
+        "range": [
+            4276, 
+            4371
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemberhentian ketiga, air terjun Sekumpul", 
+        "line": 60, 
+        "range": [
+            4373, 
+            4413
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4373, 
+                    4385
+                ], 
+                "name": "kolam renang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4386, 
+                    4391
+                ], 
+                "name": "villa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Air terjun terakhir yang kami datangi adalah air terjun Sekumpul. Lokasi air terjun in agak tersembunyi. Dari jalan utama, masih harus berkendara melewati jalan kecil dengan bukit naik turun.", 
+        "line": 62, 
+        "range": [
+            4415, 
+            4605
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4416, 
+                    4435
+                ], 
+                "name": "air terjun Sekumpul"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4437, 
+                    4447
+                ], 
+                "name": "Air terjun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4482, 
+                    4501
+                ], 
+                "name": "air terjun Sekumpul"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4510, 
+                    4520
+                ], 
+                "name": "air terjun"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4547, 
+                    4558
+                ], 
+                "name": "jalan utama"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4592, 
+                    4603
+                ], 
+                "name": "jalan kecil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya sampai juga ke parkiran tapi masih harus berjalan sekitar setengah jam turun ke air-terjun. Jalurnya dimulai melewati pedesaan dan perkebunan. Lagi-lagi kami kebingungan karena tidak ada tanda jalan.", 
+        "line": 64, 
+        "range": [
+            4607, 
+            4814
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4611, 
+                    4616
+                ], 
+                "name": "bukit"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4654, 
+                    4662
+                ], 
+                "name": "parkiran"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4719, 
+                    4729
+                ], 
+                "name": "air-terjun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4757, 
+                    4765
+                ], 
+                "name": "pedesaan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4770, 
+                    4780
+                ], 
+                "name": "perkebunan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami sampai di pos registrasi dan membayar tiket masuk. Pelan-pelan kami menuruni tangga yang curam. Air terjun Sekumpul besar sekali. Sekelilingnya rindang penuh dengan tanaman hijau.", 
+        "line": 66, 
+        "range": [
+            4816, 
+            4999
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4855, 
+                    4869
+                ], 
+                "name": "pos registrasi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4941, 
+                    4960
+                ], 
+                "name": "Air terjun Sekumpul"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak sabar saya langsung lompat ke dalam. Cukup sulit membuka mata karena cipratan airnnya yang keras tapi luar biasa sekali pemandangannya. Sama seperti kawasan air terjun Aling-aling, di kawasan Sekumpul juga ada beberapa air terjun lainnya.", 
+        "line": 68, 
+        "range": [
+            5001, 
+            5244
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5189, 
+                    5211
+                ], 
+                "name": "air terjun Aling-aling"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5224, 
+                    5232
+                ], 
+                "name": "Sekumpul"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah puas berenang di air terjun Sekumpul, kami ke air terjun yang terletak di sebelah kiri. Tidak ada siapa-siapa di air terjun ini, hanya ada saya dan teman saya menikmati pengalaman yang sangat seru.", 
+        "line": 70, 
+        "range": [
+            5246, 
+            5450
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5251, 
+                    5261
+                ], 
+                "name": "air terjun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5297, 
+                    5316
+                ], 
+                "name": "air terjun Sekumpul"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5326, 
+                    5336
+                ], 
+                "name": "air terjun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5393, 
+                    5403
+                ], 
+                "name": "air terjun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Masih banyak air terjun di Bali yang ingin saya eksplor. Kalau kamu ke Bali harus banget mengunjungi wisata air terjun Aling-aling, air terjun Gitgit, dan air terjun Sekumpul. Selamat bersenang-senang!", 
+        "line": 72, 
+        "range": [
+            5452, 
+            5652
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5492, 
+                    5502
+                ], 
+                "name": "air terjun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5506, 
+                    5510
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5550, 
+                    5554
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5587, 
+                    5609
+                ], 
+                "name": "air terjun Aling-aling"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5611, 
+                    5628
+                ], 
+                "name": "air terjun Gitgit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5634, 
+                    5653
+                ], 
+                "name": "air terjun Sekumpul"
+            }
+        ]
+    }
+]

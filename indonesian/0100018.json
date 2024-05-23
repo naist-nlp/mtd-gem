@@ -1,0 +1,2339 @@
+[
+    {
+        "text": "June 21, 2021   10 Tempat Wisata Di Seoul Menarik Dan Seru Buat Jalan-Jalan!", 
+        "line": 0, 
+        "range": [
+            1, 
+            76
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    19, 
+                    32
+                ], 
+                "name": "Tempat Wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    36, 
+                    41
+                ], 
+                "name": "Seoul"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berencana liburan ke Seoul dalam waktu dekat? Apa saja sih tempat wisata di Seoul yang menarik untuk dikunjungi. Sebagai ibu kota negara Korea Selatan, Seoul merupakan sebuah kota metropolitan yang maju.", 
+        "line": 2, 
+        "range": [
+            78, 
+            280
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    99, 
+                    104
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    137, 
+                    150
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    154, 
+                    159
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    199, 
+                    214
+                ], 
+                "name": "ibu kota negara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    215, 
+                    228
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    230, 
+                    235
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    253, 
+                    257
+                ], 
+                "name": "kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lebih dari 10juta penduduk yang tinggal di kota Seoul. Sebagai kota moderen, ternyata  Seoul juga banyak menyimpan tempat wisata bersejarah yang bisa dikunjungi. Penasaran?", 
+        "line": 4, 
+        "range": [
+            282, 
+            453
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    326, 
+                    336
+                ], 
+                "name": "kota Seoul"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    346, 
+                    350
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    370, 
+                    375
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    398, 
+                    411
+                ], 
+                "name": "tempat wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut adalah 10 tempat wisata di Seoul yang menarik untuk dikunjungi:", 
+        "line": 6, 
+        "range": [
+            455, 
+            525
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    475, 
+                    488
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    492, 
+                    497
+                ], 
+                "name": "Seoul"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Istana Gyeongbokgung, Ke Seoul Wajib Banget ke Tempat Wisata Ini!", 
+        "line": 8, 
+        "range": [
+            527, 
+            594
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    533, 
+                    553
+                ], 
+                "name": "Istana Gyeongbokgung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    558, 
+                    563
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    580, 
+                    593
+                ], 
+                "name": "Tempat Wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa dibilang Istana Gyeongbokgung adalah tempat wisata Seoul yang paling terkenal. Objek wisata ini dulunya adalah istana utama pada saat Kerajaan Joseon.", 
+        "line": 10, 
+        "range": [
+            596, 
+            750
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    614, 
+                    634
+                ], 
+                "name": "Istana Gyeongbokgung"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    642, 
+                    655
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    656, 
+                    661
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    684, 
+                    696
+                ], 
+                "name": "Objek wisata"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    716, 
+                    722
+                ], 
+                "name": "istana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Istana ini memiliki 4 gerbang utama, halaman, pavilyun, jembatan, dan juga kolam.", 
+        "line": 12, 
+        "range": [
+            752, 
+            832
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    757, 
+                    763
+                ], 
+                "name": "Istana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu pavilyun yang bernama Hyangwonjeon dibagun di atas sebuah danau buatan, bagus untuk foto-foto. Apalagi di musim dingin danau buatan ini akan membeku.", 
+        "line": 14, 
+        "range": [
+            834, 
+            993
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    851, 
+                    859
+                ], 
+                "name": "pavilyun"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    873, 
+                    885
+                ], 
+                "name": "Hyangwonjeon"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    909, 
+                    921
+                ], 
+                "name": "danau buatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Daya tarik lainnya dari Istana Gyeonbokgung adalah upacara pergantian penjaga.", 
+        "line": 16, 
+        "range": [
+            995, 
+            1072
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1026, 
+                    1045
+                ], 
+                "name": "Istana Gyeonbokgung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pada jam tertentu beberapa pria dengan pakaian tradisional akan melakukan upacara diiringi alunan musik dan juga benda seperti bendera, pedang, dan juga perisai. Jangan sampai ketinggalan ya!", 
+        "line": 18, 
+        "range": [
+            1074, 
+            1264
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Istana Gyeongbokgung", 
+        "line": 20, 
+        "range": [
+            1266, 
+            1303
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Istana Gyeongbokgung adalah 3,000 won (Rp 35,000) untuk dewasa, 1,500 won (Rp 17,000) untuk anak berusia 7-18 tahun. Istana Gyeongbokgung dibuka setiap hari kecuali hari Selasa.", 
+        "line": 22, 
+        "range": [
+            1305, 
+            1499
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1333, 
+                    1353
+                ], 
+                "name": "Istana Gyeongbokgung"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1450, 
+                    1470
+                ], 
+                "name": "Istana Gyeongbokgung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara Menuju Istana Gyeongbokgung", 
+        "line": 24, 
+        "range": [
+            1501, 
+            1532
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Stasiun subway terdekat adalah Gyeongbokgung Palace Station (Subway Line 3). Jadwal untuk upacara pergantian penjaga adalah:", 
+        "line": 26, 
+        "range": [
+            1534, 
+            1657
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1546, 
+                    1560
+                ], 
+                "name": "Stasiun subway"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1577, 
+                    1605
+                ], 
+                "name": "Gyeongbokgung Palace Station"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1607, 
+                    1620
+                ], 
+                "name": "Subway Line 3"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gate Guard Changing Ceremony: 10.00, 13.00, 15.00", 
+        "line": 28, 
+        "range": [
+            1659, 
+            1707
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Gwanghamun Gate Guard Duty Performance: 11.00, 14.00, 15.45", 
+        "line": 29, 
+        "range": [
+            1708, 
+            1766
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 30, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Desa Buchon Hanok, Melihat Rumah Tradisional di Tengah Kota Modern", 
+        "line": 31, 
+        "range": [
+            1768, 
+            1836
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1786, 
+                    1803
+                ], 
+                "name": "Desa Buchon Hanok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 32, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu tidak punya waktu untuk mengunjungi desa tradisional di Gyeongju atau desa tradional Hahoe, jangan khawatir.", 
+        "line": 33, 
+        "range": [
+            1838, 
+            1956
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1841, 
+                    1845
+                ], 
+                "name": "Kota"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1901, 
+                    1905
+                ], 
+                "name": "desa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1921, 
+                    1929
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1935, 
+                    1939
+                ], 
+                "name": "desa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1950, 
+                    1955
+                ], 
+                "name": "Hahoe"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 34, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Seoul masih ada kok kompleks perumahan tradisional. Rumah tradisional yang juga disebut dengan \u201cHanok\u201c berpadu dengan bangunan tinggi lainnya di Seoul.", 
+        "line": 35, 
+        "range": [
+            1958, 
+            2115
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1978, 
+                    1983
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2074, 
+                    2079
+                ], 
+                "name": "Hanok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 36, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Masih ada sekitar 1,000 hanok yang tersisa di Buchon Hanok. Beberapa rumah masih ditinggali penduduk, sedangkan sebagian disewakan sebagai guesthouse, atau sekedar museum kecil.", 
+        "line": 37, 
+        "range": [
+            2117, 
+            2293
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2123, 
+                    2128
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2155, 
+                    2160
+                ], 
+                "name": "hanok"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2177, 
+                    2189
+                ], 
+                "name": "Buchon Hanok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 38, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rasanya spesial berjalan di jalanan kecil dengan rumah ala Korea ini. Stasiun subway terdekat untuk sampai ke Desa Buchon Hanok adalah Anguk Station (Subway line 3, exit 2).", 
+        "line": 39, 
+        "range": [
+            2295, 
+            2467
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2338, 
+                    2345
+                ], 
+                "name": "jalanan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2369, 
+                    2374
+                ], 
+                "name": "Korea"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2380, 
+                    2394
+                ], 
+                "name": "Stasiun subway"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2420, 
+                    2437
+                ], 
+                "name": "Desa Buchon Hanok"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2445, 
+                    2458
+                ], 
+                "name": "Anguk Station"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 40, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. N Seoul Tower, Tempat Wisata Seoul untuk Melihat Pemandangan Kota", 
+        "line": 41, 
+        "range": [
+            2469, 
+            2536
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2488, 
+                    2501
+                ], 
+                "name": "N Seoul Tower"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2503, 
+                    2516
+                ], 
+                "name": "Tempat Wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2517, 
+                    2522
+                ], 
+                "name": "Seoul"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 42, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk melihat panorama Kota Seoul, datang aja ke N Seoul Tower. Tempat wisata Seoul ini menarik minat para pengunjung khususnya pada malam hari untuk melihat gemerlap Kota Seoul.", 
+        "line": 43, 
+        "range": [
+            2538, 
+            2715
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2549, 
+                    2553
+                ], 
+                "name": "Kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2578, 
+                    2588
+                ], 
+                "name": "Kota Seoul"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2604, 
+                    2617
+                ], 
+                "name": "N Seoul Tower"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2619, 
+                    2632
+                ], 
+                "name": "Tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2633, 
+                    2638
+                ], 
+                "name": "Seoul"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 44, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ya, mirip-mirip juga sama KL Tower yang juga merupakan destinasi wisata di Kuala Lumpur, atau seperti Macau Tower yang juga salah satu menara yang juga adalah destinasi wajib di Macau.", 
+        "line": 45, 
+        "range": [
+            2717, 
+            2900
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2722, 
+                    2732
+                ], 
+                "name": "Kota Seoul"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2761, 
+                    2769
+                ], 
+                "name": "KL Tower"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2790, 
+                    2806
+                ], 
+                "name": "destinasi wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2810, 
+                    2822
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2837, 
+                    2848
+                ], 
+                "name": "Macau Tower"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2870, 
+                    2876
+                ], 
+                "name": "menara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "N Seoul Tower berdiri di atas Gunung Namsan. Dulunya berfungsi sebagai menara untuk berkomunikasi dan pengawas. Sekalian bisa menikmati makan malam di N-Grill Restaurant.", 
+        "line": 47, 
+        "range": [
+            2902, 
+            3071
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2913, 
+                    2918
+                ], 
+                "name": "Macau"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2921, 
+                    2934
+                ], 
+                "name": "N Seoul Tower"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2951, 
+                    2964
+                ], 
+                "name": "Gunung Namsan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain itu, kamu bisa memasang gembok di sebuah pohon untuk menyatakan keinginan. Kamu bisa naik cable car untuk naik ke atas menara, tapi kalau kuat bisa naik tangga saja, mumpung gratis.", 
+        "line": 49, 
+        "range": [
+            3073, 
+            3260
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3190, 
+                    3199
+                ], 
+                "name": "cable car"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3219, 
+                    3225
+                ], 
+                "name": "menara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk N Seoul Tower", 
+        "line": 51, 
+        "range": [
+            3262, 
+            3292
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk N Seoul Tower adalah 11,000 won (Rp 130,000) untuk dewasa, dan 9,000 won (Rp 106,000) untuk anak-anak. Kamu bisa beli tiketnya online di sini, lebih murah dari beli tiket di tempat langsung.", 
+        "line": 53, 
+        "range": [
+            3294, 
+            3501
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3301, 
+                    3314
+                ], 
+                "name": "N Seoul Tower"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3334, 
+                    3347
+                ], 
+                "name": "N Seoul Tower"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 54, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga untuk cable car naik turun 9,500 won (Rp 120,000) untuk dewasa, 6,500 won (Rp 76,000) untuk anak-anak. Harga tiket cable car satu arah saja 7,000 won  (Rp 82,000) untuk dewasa , 4,000 won (Rp 47,000) untuk  anak-anak.", 
+        "line": 55, 
+        "range": [
+            3503, 
+            3725
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3538, 
+                    3547
+                ], 
+                "name": "cable car"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3647, 
+                    3656
+                ], 
+                "name": "cable car"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 56, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara menuju N Seoul Tower", 
+        "line": 57, 
+        "range": [
+            3727, 
+            3751
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 58, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Stasiun subway paling dekat adalah Myeongdong Station (Subway Line 4). Kemudian jalan ke arah Pacific Hotel. Kamu bisa memilih untuk naik cable car atau jalan kaki naik tangga sampai ke N Seoul Tower.", 
+        "line": 59, 
+        "range": [
+            3753, 
+            3952
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3763, 
+                    3776
+                ], 
+                "name": "N Seoul Tower"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3778, 
+                    3792
+                ], 
+                "name": "Stasiun subway"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3813, 
+                    3831
+                ], 
+                "name": "Myeongdong Station"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    3833, 
+                    3846
+                ], 
+                "name": "Subway Line 4"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3872, 
+                    3885
+                ], 
+                "name": "Pacific Hotel"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3916, 
+                    3925
+                ], 
+                "name": "cable car"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 60, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Gangnam, Kawasan Elit Banyak Klub Malam Juga", 
+        "line": 61, 
+        "range": [
+            3954, 
+            4000
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3964, 
+                    3977
+                ], 
+                "name": "N Seoul Tower"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3983, 
+                    3990
+                ], 
+                "name": "Gangnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 62, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pasti pernah kan dengar lagu yang berjudul Gangnam Style. Yep, Gangnam adalah sebuah kawasan elit di Kota Seoul. Biasanya yang tinggal disini pasti KPOP idol atau sosialita.", 
+        "line": 63, 
+        "range": [
+            4002, 
+            4174
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4012, 
+                    4022
+                ], 
+                "name": "Klub Malam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4072, 
+                    4079
+                ], 
+                "name": "Gangnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4092, 
+                    4099
+                ], 
+                "name": "Gangnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4130, 
+                    4140
+                ], 
+                "name": "Kota Seoul"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 64, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di sekitar Gangnam banyak toko bermerek dari Gucci, Prada, semuanya barang mewah deh! Banyak klub malam juga di sekitaran Gangnam tapi siap-siap aja mengeluarkan uang banyak. (Gangnam Station Line 2).", 
+        "line": 65, 
+        "range": [
+            4176, 
+            4375
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4215, 
+                    4222
+                ], 
+                "name": "Gangnam"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4230, 
+                    4234
+                ], 
+                "name": "toko"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4297, 
+                    4307
+                ], 
+                "name": "klub malam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4326, 
+                    4333
+                ], 
+                "name": "Gangnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 66, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Hongdae, Wisata ke Seoul Tempat Para Backpackers!", 
+        "line": 67, 
+        "range": [
+            4377, 
+            4428
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    4380, 
+                    4402
+                ], 
+                "name": "Gangnam Station Line 2"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4409, 
+                    4416
+                ], 
+                "name": "Hongdae"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 68, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kawasan Hongdae lebih cocok untuk anak muda, pelajar, karena memang di sini ada sebuah universitas yang terkenal. Kalau mau nyari hostel murah banyak kok di kawasan Hongdae.", 
+        "line": 69, 
+        "range": [
+            4430, 
+            4602
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4468, 
+                    4475
+                ], 
+                "name": "Hongdae"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4547, 
+                    4558
+                ], 
+                "name": "universitas"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4590, 
+                    4596
+                ], 
+                "name": "hostel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 70, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa dibilang Hongdae adalah sebuah area yang selalu ramai, tidak pernah sepi terutama pada malam hari. Banyak anak muda yang suka hang out ke bar, restoran, banyak toko-toko kecil juga untuk belanja. (Hongik Univ Station Line 2).", 
+        "line": 71, 
+        "range": [
+            4604, 
+            4833
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4625, 
+                    4632
+                ], 
+                "name": "Hongdae"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4649, 
+                    4656
+                ], 
+                "name": "Hongdae"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4778, 
+                    4781
+                ], 
+                "name": "bar"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4783, 
+                    4791
+                ], 
+                "name": "restoran"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4800, 
+                    4809
+                ], 
+                "name": "toko-toko"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 72, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "6. Itaewon", 
+        "line": 73, 
+        "range": [
+            4835, 
+            4844
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 74, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Area Itaewon lebih ke tempat nongkrong para ekspat karena dekat dengan kamp militer Amerika Serikat. Jadi lebih banyak orang asik dan juga turis yang main ke sini.", 
+        "line": 75, 
+        "range": [
+            4846, 
+            5008
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4870, 
+                    4877
+                ], 
+                "name": "Itaewon"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4884, 
+                    4891
+                ], 
+                "name": "Itaewon"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4963, 
+                    4978
+                ], 
+                "name": "Amerika Serikat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 76, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di sekitar Itaewon banyak restoran dan bar yang menyajikan makanan barat. Wajar kan ya, karena yang tinggal di sekitar sini memang kebanyakan orang luar. Lingkungannya juga bersih,  banyak toko-toko menarik juga. (Itaweon Station Line 6).", 
+        "line": 77, 
+        "range": [
+            5010, 
+            5247
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5055, 
+                    5062
+                ], 
+                "name": "Itaewon"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5070, 
+                    5078
+                ], 
+                "name": "restoran"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5083, 
+                    5086
+                ], 
+                "name": "bar"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5233, 
+                    5242
+                ], 
+                "name": "toko-toko"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 78, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "7. Myeongdong, Tempat Nyobain Streetfood di Area Wisata ", 
+        "line": 79, 
+        "range": [
+            5249, 
+            5304
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    5258, 
+                    5280
+                ], 
+                "name": "Itaweon Station Line 6"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5287, 
+                    5297
+                ], 
+                "name": "Myeongdong"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 80, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebelum ke N Seoul Tower bisa mampir dulu ke Myeondong. Distrik yang satu ini juga lebih cocok untuk anak muda. Banyak toko baju dan make up yang harganya lebih terjangkau.", 
+        "line": 81, 
+        "range": [
+            5306, 
+            5477
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5328, 
+                    5339
+                ], 
+                "name": "Area Wisata"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5353, 
+                    5366
+                ], 
+                "name": "N Seoul Tower"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5387, 
+                    5396
+                ], 
+                "name": "Myeondong"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5398, 
+                    5405
+                ], 
+                "name": "Distrik"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5461, 
+                    5465
+                ], 
+                "name": "toko"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 82, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Malam-malam juga banyak street food yang berjejer di area Myeongdong. Bisa icip-icip dikit. (Myeongdong Station, Subway Line 4).", 
+        "line": 83, 
+        "range": [
+            5479, 
+            5606
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5574, 
+                    5584
+                ], 
+                "name": "Myeongdong"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "8. Insadong, Nyari Oleh-Oleh di sini Aja", 
+        "line": 85, 
+        "range": [
+            5608, 
+            5647
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    5609, 
+                    5642
+                ], 
+                "name": "Myeongdong Station, Subway Line 4"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mau nyari oleh-oleh atau barang barang artistik dari Korea, bisa langsung saja ke Insadong. Di kawasan ini juga ada beberapa galeri seni yang bisa kamu kunjungi. (Anguk Station Line 3).", 
+        "line": 87, 
+        "range": [
+            5649, 
+            5839
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5649, 
+                    5657
+                ], 
+                "name": "Insadong"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5747, 
+                    5752
+                ], 
+                "name": "Korea"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5776, 
+                    5784
+                ], 
+                "name": "Insadong"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5819, 
+                    5830
+                ], 
+                "name": "galeri seni"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 88, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "9. Dongdaemun Market, Surga Bagi Yang Hobi Belanja!", 
+        "line": 89, 
+        "range": [
+            5841, 
+            5891
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    5857, 
+                    5877
+                ], 
+                "name": "Anguk Station Line 3"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 90, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dongdaemun Market adalah pusat perbelanjaan terbesar di Korea Selatan, surga bagi yang hobi shopping. Berbagai pilihan dari grosiran maupun eceran, semuanya ada. Kemungkinan barang-barang asal Korea yang kamu dari online shop datangnya dari sini.", 
+        "line": 91, 
+        "range": [
+            5893, 
+            6138
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5934, 
+                    5951
+                ], 
+                "name": "Dongdaemun Market"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5990, 
+                    6003
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6127, 
+                    6132
+                ], 
+                "name": "Korea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 92, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tentunya harga barang disini lebih terjangkau, terutama kalau mau beli make up atau skin care asal Korea. (Dongdaemun Station Line 1 atau 4).", 
+        "line": 93, 
+        "range": [
+            6140, 
+            6280
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 94, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "10. DMZ (Demilitarized Zone), Perbatasan Korea Selatan dan Utara", 
+        "line": 95, 
+        "range": [
+            6282, 
+            6345
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    6289, 
+                    6321
+                ], 
+                "name": "Dongdaemun Station Line 1 atau 4"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 96, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perang dingin antara Korea Selatan dan Utara bisa dirasakan di DMZ yang merupakan zona demiliterasi kedua negara tersebut.", 
+        "line": 97, 
+        "range": [
+            6347, 
+            6468
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6366, 
+                    6379
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6412, 
+                    6425
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6454, 
+                    6457
+                ], 
+                "name": "DMZ"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 98, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Korea Selatan dan Korea Utara sepakat untuk mendirikan zona demiliterasi masing-masing sejauh 2 km dari garis yang ditentukan.", 
+        "line": 99, 
+        "range": [
+            6470, 
+            6595
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6473, 
+                    6490
+                ], 
+                "name": "zona demiliterasi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6497, 
+                    6503
+                ], 
+                "name": "negara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6515, 
+                    6528
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6533, 
+                    6544
+                ], 
+                "name": "Korea Utara"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6570, 
+                    6586
+                ], 
+                "name": "zona demiliteras"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 100, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tur DMZ dari Seoul akan membawa kamu kembali ke masa lalu yang kelam di saat kedua negara sedang berperang. Paket tur yang paling sering dipilih pengunjung adalah paket tur DMZ + 3rd tunnel dan paket tur DMZ + JSA (Joint Security Area).", 
+        "line": 101, 
+        "range": [
+            6597, 
+            6832
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6647, 
+                    6650
+                ], 
+                "name": "DMZ"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6656, 
+                    6661
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6726, 
+                    6732
+                ], 
+                "name": "negara"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6816, 
+                    6819
+                ], 
+                "name": "DMZ"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6822, 
+                    6832
+                ], 
+                "name": "3rd tunnel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 102, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa juga ngambil full paket semuanya. Bedanya 3rd tunnel adalah sebuah terowongan bawah tanah di perbatasan yang katanya dibangun oleh Korea Utara untuk melancarkan serangan mendadak.", 
+        "line": 103, 
+        "range": [
+            6834, 
+            7017
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6847, 
+                    6850
+                ], 
+                "name": "DMZ"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6853, 
+                    6878
+                ], 
+                "name": "JSA (Joint Security Area)"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6928, 
+                    6938
+                ], 
+                "name": "3rd tunnel"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6953, 
+                    6975
+                ], 
+                "name": "terowongan bawah tanah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 104, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "JSA (Joint Security Area) atau yang di kenal dengan nama Panmujom adalah lokasi perjanjian untuk menghentikan perang pada tahun 1953.", 
+        "line": 105, 
+        "range": [
+            7019, 
+            7151
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7067, 
+                    7092
+                ], 
+                "name": "JSA (Joint Security Area)"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7124, 
+                    7132
+                ], 
+                "name": "Panmujom"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 106, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di saat sekarang lokasi ini juga menjadi tempat pertemuan antara kedua pihak untuk rapat atau negosiasi.", 
+        "line": 107, 
+        "range": [
+            7153, 
+            7256
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 108, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain melihat situs bersejarah di atas pengunjung bisa ke observatory deck dan melihat Korea Utara.", 
+        "line": 109, 
+        "range": [
+            7258, 
+            7357
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 110, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebuah stasiun kereta yang telah jadi namun sampai sekarang belum beroperasi, namanya Stasiun Dori seharusnya menghubungkan Asia dan Eropa.", 
+        "line": 111, 
+        "range": [
+            7359, 
+            7497
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7367, 
+                    7383
+                ], 
+                "name": "observatory deck"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7396, 
+                    7407
+                ], 
+                "name": "Korea Utara"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7417, 
+                    7431
+                ], 
+                "name": "stasiun kereta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 112, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hanya saja jika kedua negara ini tidak berdamai, kereta ini tidak akan beroperasi. Tur ini sangat menarik karena bisa belajar sejarah tentang masa lalu dan juga harapan orang-orang untuk berdamai. Harga tur dimulai dari 40,000 won (Rp 500,000). Kalau tertarik bisa pesen di sini.", 
+        "line": 113, 
+        "range": [
+            7499, 
+            7777
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7534, 
+                    7538
+                ], 
+                "name": "Asia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7543, 
+                    7548
+                ], 
+                "name": "Eropa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7573, 
+                    7579
+                ], 
+                "name": "negara"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7600, 
+                    7606
+                ], 
+                "name": "kereta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 114, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Masih banyak tempat wisata Seoul lain yang bisa kamu kunjungi seperti Istana Deoksugung, Istana Changdeokgung, museum, COEX Mall, dll. Untuk berkeliling Seoul aksesnya termasuk gampang.", 
+        "line": 115, 
+        "range": [
+            7779, 
+            7963
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7845, 
+                    7858
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7859, 
+                    7864
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7902, 
+                    7919
+                ], 
+                "name": "Istana Deoksugung"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7921, 
+                    7941
+                ], 
+                "name": "Istana Changdeokgung"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7943, 
+                    7949
+                ], 
+                "name": "museum"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7951, 
+                    7960
+                ], 
+                "name": "COEX Mall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 116, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hampir semua objek wisata bisa didatangi dengan menggunakan subway. Download peta subway di Seoul, walaupun banyak rutenya dan kelihatan membingungkan lama-lama bakal terbiasa.", 
+        "line": 117, 
+        "range": [
+            7965, 
+            8140
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7985, 
+                    7990
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8032, 
+                    8044
+                ], 
+                "name": "objek wisata"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8079, 
+                    8085
+                ], 
+                "name": "subway"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8101, 
+                    8107
+                ], 
+                "name": "subway"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8111, 
+                    8116
+                ], 
+                "name": "Seoul"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    8134, 
+                    8141
+                ], 
+                "name": "rutenya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 118, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada beberapa area yang jaraknya dekat antara satu sama lain. Contohnya Istana Gyeongbokung, Bukchon Hanok, dan Insadong bisa sekali jalan. Myeongdong dan N Seoul juga berdekatan.", 
+        "line": 119, 
+        "range": [
+            8142, 
+            8319
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8268, 
+                    8287
+                ], 
+                "name": "Istana Gyeongbokung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8289, 
+                    8302
+                ], 
+                "name": "Bukchon Hanok"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8308, 
+                    8316
+                ], 
+                "name": "Insadong"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 120, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jangan lupa baca itinerary traveling ke Korea Selatan yang pernah saya tulis, tanpa ikutan tur. Cek juga cara pembuatan visa Korea Selatan terbaru.", 
+        "line": 121, 
+        "range": [
+            8321, 
+            8467
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8336, 
+                    8346
+                ], 
+                "name": "Myeongdong"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8351, 
+                    8358
+                ], 
+                "name": "N Seoul"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8417, 
+                    8430
+                ], 
+                "name": "Korea Selatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 122, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, ada lagi tempat wisata di Seoul yang menurut kamu harus dikunjungi? Langsung komen aja di kolom komentar ya!", 
+        "line": 123, 
+        "range": [
+            8469, 
+            8581
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8502, 
+                    8515
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8557, 
+                    8562
+                ], 
+                "name": "Seoul"
+            }
+        ]
+    }
+]

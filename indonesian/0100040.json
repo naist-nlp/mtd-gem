@@ -1,0 +1,3197 @@
+[
+    {
+        "text": "November 7, 2022   10 Tempat Wisata Di Kuala Lumpur, Wajib Mampir!", 
+        "line": 0, 
+        "range": [
+            1, 
+            66
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    22, 
+                    35
+                ], 
+                "name": "Tempat Wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    39, 
+                    51
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mau jalan-jalan ke Kuala Lumpur? Tempat wisata di Kuala Lumpur yang menarik atau instagramable apa aja sih? Yuk, lanjut baca!", 
+        "line": 2, 
+        "range": [
+            68, 
+            192
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    87, 
+                    99
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    101, 
+                    114
+                ], 
+                "name": "Tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    118, 
+                    130
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pasti tidak asing lagi dengan Kuala Lumpur, ibukota negara tetangga kita yaitu Malaysia.", 
+        "line": 4, 
+        "range": [
+            194, 
+            281
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    225, 
+                    237
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    239, 
+                    246
+                ], 
+                "name": "ibukota"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    247, 
+                    253
+                ], 
+                "name": "negara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    274, 
+                    282
+                ], 
+                "name": "Malaysia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena letaknya yang dekat dengan Indonesia, juga kebudayaannya yang tidak jauh berbeda menjadikan Kuala Lumpur sebagai salah satu tempat wisata yang sering dikunjugi, terutama bagi orang Indonesia.", 
+        "line": 6, 
+        "range": [
+            283, 
+            480
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    319, 
+                    328
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    384, 
+                    396
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    416, 
+                    429
+                ], 
+                "name": "tempat wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya menganggap Kuala Lumpur atau akrab disebut dengan KL ini sebagai rumah kedua saya.", 
+        "line": 8, 
+        "range": [
+            482, 
+            568
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    501, 
+                    513
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    540, 
+                    542
+                ], 
+                "name": "KL"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa? Kuala Lumpur sangatlah dekat dengan kampung halaman saya, Pekanbaru.", 
+        "line": 10, 
+        "range": [
+            570, 
+            645
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    582, 
+                    594
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cukup 30 menit terbang saja saya sudah berada di kota metropolitan ini.", 
+        "line": 12, 
+        "range": [
+            647, 
+            717
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    701, 
+                    705
+                ], 
+                "name": "kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa dibilang Kuala Lumpur adalah tempat persinggahan saya.", 
+        "line": 14, 
+        "range": [
+            719, 
+            777
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    739, 
+                    751
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Taukan kalau saya pelanggan setianya maskapai Airasia. Banyak banget tiket murah dari Kuala Lumpur ke negara lainnya.", 
+        "line": 16, 
+        "range": [
+            779, 
+            895
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    832, 
+                    839
+                ], 
+                "name": "Airasia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    872, 
+                    884
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    888, 
+                    894
+                ], 
+                "name": "negara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena itulah saya lebih sering lewat Kuala Lumpur kalau mau traveling.", 
+        "line": 18, 
+        "range": [
+            897, 
+            967
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    943, 
+                    955
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain sering bolak balik, saya sendiri pernah tinggal di Kuala Lumpur selama beberapa bulan.", 
+        "line": 20, 
+        "range": [
+            969, 
+            1061
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1036, 
+                    1048
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadi kurang lebih lumayan paham dengan apa aja yang bisa dilakukan, tempat wisata apa aja yang seru.", 
+        "line": 22, 
+        "range": [
+            1063, 
+            1162
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1141, 
+                    1154
+                ], 
+                "name": "tempat wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kuala Lumpur, Malaysia mungkin bukan lagi destinasi wisata yang \u201cabu-abu\u201d.", 
+        "line": 24, 
+        "range": [
+            1164, 
+            1241
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1175, 
+                    1187
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1189, 
+                    1197
+                ], 
+                "name": "Malaysia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Maksud saya, informasi tentang wisata Kuala Lumpur sudah sering dibagikan.", 
+        "line": 26, 
+        "range": [
+            1243, 
+            1316
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1289, 
+                    1301
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mungkin kamu juga sudah pernah main ke Kuala Lumpur dan sudah punya bayangan yang jelas tentang kota ini.", 
+        "line": 28, 
+        "range": [
+            1318, 
+            1422
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1366, 
+                    1378
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Walaupun begitu, tidak mengurungkan niat saya untuk membagikan lagi tentang, apa saja sih hal yang bisa kamu lakukan, tempat wisata mana aja yang tidak boleh terlewatkan.", 
+        "line": 30, 
+        "range": [
+            1424, 
+            1593
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1552, 
+                    1565
+                ], 
+                "name": "tempat wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tempat wisata di Kuala Lumpur yang menarik untuk dikunjungi!", 
+        "line": 32, 
+        "range": [
+            1595, 
+            1654
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1606, 
+                    1619
+                ], 
+                "name": "Tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1623, 
+                    1635
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut adalah 10 tempat wisata di Kuala Lumpur yang wajib kamu kunjungi:", 
+        "line": 34, 
+        "range": [
+            1656, 
+            1728
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1686, 
+                    1699
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1703, 
+                    1715
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Jalan-jalan di Lapangan Merdeka", 
+        "line": 36, 
+        "range": [
+            1730, 
+            1763
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Letaknya yang pas di pusat kota Kuala Lumpur, Merdeka Square atau Lapangan Merdeka ini dikelilingi dengan bangunan bergaya kolonial yang masih dijaga dengan baik.", 
+        "line": 38, 
+        "range": [
+            1765, 
+            1926
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1806, 
+                    1810
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1811, 
+                    1823
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1825, 
+                    1839
+                ], 
+                "name": "Merdeka Square"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1845, 
+                    1861
+                ], 
+                "name": "Lapangan Merdeka"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lapangan ini menjadi spot yang menarik untuk mengingat zaman ketika Kerajaan Inggris memerintah Semenanjung Malaya.", 
+        "line": 40, 
+        "range": [
+            1928, 
+            2042
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1943, 
+                    1951
+                ], 
+                "name": "Lapangan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2020, 
+                    2027
+                ], 
+                "name": "Inggris"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya jadi keingat dengan Melbourne ketika jalan-jalan di sekitar Lapangan Merdeka karena bentuk bangunannya.", 
+        "line": 42, 
+        "range": [
+            2044, 
+            2151
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2085, 
+                    2094
+                ], 
+                "name": "Melbourne"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2125, 
+                    2141
+                ], 
+                "name": "Lapangan Merdeka"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Disekitar Lapangan Merdeka ada sekitar 12 bangunan bersejarah yang bisa kamu jelajahi.", 
+        "line": 44, 
+        "range": [
+            2153, 
+            2238
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2180, 
+                    2196
+                ], 
+                "name": "Lapangan Merdeka"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, yang serunya lagi kamu bisa mengikuti tur gratis yang diadakan setiap haru Senin, Rabu, dan Sabtu.", 
+        "line": 46, 
+        "range": [
+            2240, 
+            2342
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tur ini dimulai dari KL City Gallery jam 8.30 pagi dengan durasi 2,5 jam. Kalau tertarik bisa langsung mendaftar di bangunan KL City Gallery.", 
+        "line": 48, 
+        "range": [
+            2344, 
+            2484
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2384, 
+                    2399
+                ], 
+                "name": "KL City Gallery"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Spot yang akan kamu kunjungi ketika melakukan city tour di sekitar Lapangan Merdeka adalah: ", 
+        "line": 50, 
+        "range": [
+            2486, 
+            2577
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2488, 
+                    2503
+                ], 
+                "name": "KL City Gallery"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "KL City Gallery. Bangunan yang dulunya adalah kantor percetakkan pemerintah dimana sekarang telah diubah menjadi pusat informasi mengenai kota Kuala Lumpur.", 
+        "line": 52, 
+        "range": [
+            2579, 
+            2734
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2600, 
+                    2615
+                ], 
+                "name": "KL City Gallery"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2646, 
+                    2675
+                ], 
+                "name": "kantor percetakkan pemerintah"
+            }
+        ]
+    }, 
+    {
+        "text": "Perpustakaan Kota. Perpustakaan umum ini memiliki area konferensi dan juga ruangan serba guna. Di dalamnya ada sekitar 50,000 koleksi buku.", 
+        "line": 53, 
+        "range": [
+            2735, 
+            2873
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2738, 
+                    2755
+                ], 
+                "name": "kota Kuala Lumpur"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2757, 
+                    2774
+                ], 
+                "name": "Perpustakaan Kota"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2776, 
+                    2788
+                ], 
+                "name": "Perpustakaan"
+            }
+        ]
+    }, 
+    {
+        "text": "The Padang. Disinilah bendera Malaysia dikibarkan pertama kalinya pada tanggal 31 Agustus 1957.", 
+        "line": 54, 
+        "range": [
+            2874, 
+            2968
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2897, 
+                    2907
+                ], 
+                "name": "The Padang"
+            }
+        ]
+    }, 
+    {
+        "text": "Victoria Fountain. Air mancur ini dibawa oleh pemerintah Inggris dan telah berumur lebih dari 100 tahun.", 
+        "line": 55, 
+        "range": [
+            2969, 
+            3072
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2993, 
+                    3010
+                ], 
+                "name": "Victoria Fountain"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3012, 
+                    3022
+                ], 
+                "name": "Air mancur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3050, 
+                    3057
+                ], 
+                "name": "Inggris"
+            }
+        ]
+    }, 
+    {
+        "text": "Chartered Bank. Bank dengan tiga lantai ini sekarang dikelola menjadi sebuah restoran.", 
+        "line": 56, 
+        "range": [
+            3073, 
+            3158
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3098, 
+                    3112
+                ], 
+                "name": "Chartered Bank"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3114, 
+                    3118
+                ], 
+                "name": "Bank"
+            }
+        ]
+    }, 
+    {
+        "text": "Federated Railway Station. Stasiun kereta api dengan ciri khas batu bata merah dan juga cat bergaris putih sekarang menjadi Museum Tekstil Nasional.", 
+        "line": 57, 
+        "range": [
+            3159, 
+            3306
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3175, 
+                    3183
+                ], 
+                "name": "restoran"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3185, 
+                    3210
+                ], 
+                "name": "Federated Railway Station"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3212, 
+                    3230
+                ], 
+                "name": "Stasiun kereta api"
+            }
+        ]
+    }, 
+    {
+        "text": "Bangunan Sultan Abdul Samad. Bangunan yang dibangun pada tahun 1897 dengan ciri khas menara jam dan atab kubahnya.", 
+        "line": 58, 
+        "range": [
+            3307, 
+            3420
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3309, 
+                    3332
+                ], 
+                "name": "Museum Tekstil Nasional"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3334, 
+                    3361
+                ], 
+                "name": "Bangunan Sultan Abdul Samad"
+            }
+        ]
+    }, 
+    {
+        "text": "Birth Place of KL. Nama Kuala Lumpur memiliiki arti pertemuan sungai berlumpur. Di spot ini terlihat dua sungai yang menyatu yaitu Sungai Gombak dan Sungai Klang.", 
+        "line": 59, 
+        "range": [
+            3421, 
+            3582
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3449, 
+                    3466
+                ], 
+                "name": "Birth Place of KL"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3473, 
+                    3485
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3511, 
+                    3517
+                ], 
+                "name": "sungai"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3554, 
+                    3560
+                ], 
+                "name": "sungai"
+            }
+        ]
+    }, 
+    {
+        "text": "Gedung Pengadilan Tinggi. Sekarang digunakan sebagai kantor Kementrian Pariwisata dan Kebudayaan.", 
+        "line": 60, 
+        "range": [
+            3583, 
+            3679
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    3598, 
+                    3610
+                ], 
+                "name": "Sungai Klang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3612, 
+                    3636
+                ], 
+                "name": "Gedung Pengadilan Tinggi"
+            }
+        ]
+    }, 
+    {
+        "text": "Old City Hall. Bangunan ini memiliki atap berbentuk kubah juga, sekarang masih digunakan sebagai gedung teater.", 
+        "line": 61, 
+        "range": [
+            3680, 
+            3790
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3710, 
+                    3723
+                ], 
+                "name": "Old City Hall"
+            }
+        ]
+    }, 
+    {
+        "text": "Cathedral of St. Mary. Salah satu gereja Anglikan tertua di Asia Tenggara.", 
+        "line": 62, 
+        "range": [
+            3791, 
+            3864
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3807, 
+                    3820
+                ], 
+                "name": "gedung teater"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3822, 
+                    3843
+                ], 
+                "name": "Cathedral of St. Mary"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3856, 
+                    3862
+                ], 
+                "name": "gereja"
+            }
+        ]
+    }, 
+    {
+        "text": "Royal Selangor Club. Sebuah komunitas orang-orang bestatus tinggi yang dibangun pada tahun 1884.", 
+        "line": 63, 
+        "range": [
+            3865, 
+            3960
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3882, 
+                    3895
+                ], 
+                "name": "Asia Tenggara"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3897, 
+                    3916
+                ], 
+                "name": "Royal Selangor Club"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 64, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Mengagumi gedung pencakar langit KL", 
+        "line": 65, 
+        "range": [
+            3962, 
+            3999
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 66, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gak peduli mau puluhan bahkan ratusan kali menatap menara kembar ini tetap saja bagi saya menara ini terlalu mempesona.", 
+        "line": 67, 
+        "range": [
+            4001, 
+            4119
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4008, 
+                    4030
+                ], 
+                "name": "gedung pencakar langit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4031, 
+                    4033
+                ], 
+                "name": "KL"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4086, 
+                    4092
+                ], 
+                "name": "menara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 68, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak dipungkiri lagi Menara Kembar Petronas adalah objek wisata yang paling terkenal di Kuala Lumpur Malaysia.", 
+        "line": 69, 
+        "range": [
+            4121, 
+            4231
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4178, 
+                    4200
+                ], 
+                "name": "Menara Kembar Petronas"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4208, 
+                    4220
+                ], 
+                "name": "objek wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 70, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagian bawah menara ini ada AquariaKLCC dan juga pusat perbelanjaan mewah bernama Suria KLCC.", 
+        "line": 71, 
+        "range": [
+            4233, 
+            4325
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4245, 
+                    4257
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4258, 
+                    4266
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4282, 
+                    4288
+                ], 
+                "name": "menara"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4297, 
+                    4308
+                ], 
+                "name": "AquariaKLCC"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 72, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk melihat pemandangan kota Kuala Lumpur kamu bisa naik ke Sky Bridge yang dibuka setiap hari kecuali Hari Selasa.", 
+        "line": 73, 
+        "range": [
+            4327, 
+            4443
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4351, 
+                    4361
+                ], 
+                "name": "Suria KLCC"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4390, 
+                    4407
+                ], 
+                "name": "kota Kuala Lumpur"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4426, 
+                    4436
+                ], 
+                "name": "Sky Bridge"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 74, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam berkunjung dari jam 9 pagi sampai 9 malam, harga tiketnya RM80 untuk dewasa dan RM 33 untuk anak berumur 3-12 tahun.", 
+        "line": 75, 
+        "range": [
+            4445, 
+            4564
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 76, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Datanglah pada malam hari untuk melihat gemerlapnya menara ini.", 
+        "line": 77, 
+        "range": [
+            4566, 
+            4628
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 78, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekitar jam 7 sampai 10 malam akan ada pertunjukkan air mancur dengan cahaya dan lagu musikal yang menemani indahnya malam.", 
+        "line": 79, 
+        "range": [
+            4630, 
+            4752
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4657, 
+                    4663
+                ], 
+                "name": "menara"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4722, 
+                    4732
+                ], 
+                "name": "air mancur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 80, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "View kota malam di Kuala Lumpur tidak kalah indah dengan gedung-gedung di Macau.", 
+        "line": 81, 
+        "range": [
+            4754, 
+            4833
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4800, 
+                    4804
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4814, 
+                    4826
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 82, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain Menara Kembar Petronas, kamu bisa juga mengunjungi Menara KL (KL Tower).", 
+        "line": 83, 
+        "range": [
+            4835, 
+            4913
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4869, 
+                    4874
+                ], 
+                "name": "Macau"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4884, 
+                    4906
+                ], 
+                "name": "Menara Kembar Petronas"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Menara dengan ketinggian 420 meter ini juga dibuka untuk umum.", 
+        "line": 85, 
+        "range": [
+            4915, 
+            4976
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4935, 
+                    4944
+                ], 
+                "name": "Menara KL"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4946, 
+                    4954
+                ], 
+                "name": "KL Tower"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4958, 
+                    4964
+                ], 
+                "name": "Menara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada beberapa bagian yang bisa kamu kunjungi seperti observation deck, sky deck, bisa juga coba dining atau makan di restoran di atas menara yang bisa berputar! Untuk harga dan atraksi lain bisa langsung cek disini.", 
+        "line": 87, 
+        "range": [
+            4978, 
+            5191
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5138, 
+                    5146
+                ], 
+                "name": "restoran"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5155, 
+                    5161
+                ], 
+                "name": "menara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 88, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Menikmati KL Forest Eco Park, hutan di tengah kota", 
+        "line": 89, 
+        "range": [
+            5193, 
+            5245
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 90, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dulunya bernama Bukit Nanas Forest Park.", 
+        "line": 91, 
+        "range": [
+            5247, 
+            5286
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5251, 
+                    5269
+                ], 
+                "name": "KL Forest Eco Park"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5271, 
+                    5276
+                ], 
+                "name": "hutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 92, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hutan ini terletak pas di samping Menara KL. Disini kamu bisa menikmati hijaunya pepohonan dan kicauan burung.", 
+        "line": 93, 
+        "range": [
+            5288, 
+            5397
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5309, 
+                    5332
+                ], 
+                "name": "Bukit Nanas Forest Park"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5335, 
+                    5340
+                ], 
+                "name": "Hutan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5369, 
+                    5378
+                ], 
+                "name": "Menara KL"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 94, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu atraksi yang menarik adalah sebuah jembatan gantung yang bernama Canopy Walk.", 
+        "line": 95, 
+        "range": [
+            5399, 
+            5486
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 96, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Shopping tanpa henti di Kuala Lumpur", 
+        "line": 97, 
+        "range": [
+            5488, 
+            5526
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5493, 
+                    5509
+                ], 
+                "name": "jembatan gantung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 98, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dijamin deh kalau hobi belanja pasti akan puas! Mau beli sepatu tanpa merek atau tas branded mahal desainer papan atas, apa aja yang kamu cari pasti ada.", 
+        "line": 99, 
+        "range": [
+            5528, 
+            5680
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5564, 
+                    5576
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 100, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Langsung saja ke Bukit Bintang, area shopping paling trendy di Kuala Lumpur Malaysia.", 
+        "line": 101, 
+        "range": [
+            5682, 
+            5766
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    5750, 
+                    5763
+                ], 
+                "name": "Bukit Bintang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 102, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sehari enggak cukup kali untuk menjajaki toko dan juga shopping mall disini.", 
+        "line": 103, 
+        "range": [
+            5768, 
+            5843
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5796, 
+                    5817
+                ], 
+                "name": "Kuala Lumpur Malaysia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 104, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mau belanja barang dengan harga yang masih masuk akal bisa ke Berjaya Times Square atau Sungai Wang Plaza.", 
+        "line": 105, 
+        "range": [
+            5845, 
+            5956
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5861, 
+                    5865
+                ], 
+                "name": "toko"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5875, 
+                    5888
+                ], 
+                "name": "shopping mall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 106, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mau yang lebih mewah bisa ke Pavilion atau Fahrenheit 88.", 
+        "line": 107, 
+        "range": [
+            5958, 
+            6020
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5966, 
+                    5986
+                ], 
+                "name": "Berjaya Times Square"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5992, 
+                    6009
+                ], 
+                "name": "Sungai Wang Plaza"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 108, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk belanja oleh-oleh di Kuala Lumpur bisa langsung ke Jalan Petaling (China Town) dan juga Pasar Sentral (Central Market).", 
+        "line": 109, 
+        "range": [
+            6022, 
+            6146
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6047, 
+                    6055
+                ], 
+                "name": "Pavilion"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6061, 
+                    6074
+                ], 
+                "name": "Fahrenheit 88"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6104, 
+                    6116
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 110, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Mencari ketenangan di Mesjid", 
+        "line": 111, 
+        "range": [
+            6148, 
+            6178
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6150, 
+                    6160
+                ], 
+                "name": "China Town"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 112, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya bukan seorang muslim tapi saya sangat mengagumi desain dan arsitektur tempat ibadah berbagai agama di seluruh dunia, salah satunya mesjid.", 
+        "line": 113, 
+        "range": [
+            6180, 
+            6322
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6186, 
+                    6200
+                ], 
+                "name": "Central Market"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6229, 
+                    6235
+                ], 
+                "name": "Mesjid"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 114, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebagai negara dengan mayoritas penduduknya beragama Islam, tidak heran jika banyak mesjid yang dapat ditemukan di setiap sudut kota.", 
+        "line": 115, 
+        "range": [
+            6324, 
+            6456
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6373, 
+                    6379
+                ], 
+                "name": "mesjid"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6390, 
+                    6396
+                ], 
+                "name": "negara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 116, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa mesjid di Kuala Lumpur yang telah saya kunjungi adalah:", 
+        "line": 117, 
+        "range": [
+            6458, 
+            6521
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6466, 
+                    6472
+                ], 
+                "name": "mesjid"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6510, 
+                    6514
+                ], 
+                "name": "kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 118, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mesjid Negara. Mesjid ini dibangun pada tahun 1965, kabarnya dapat menampung jemaat berjumlah 15,000 orang. Kubah utamanya memiliki 18 sudut yang mewakili 13 bagian negara Malaysia dan juga 5 rukun islam.", 
+        "line": 119, 
+        "range": [
+            6523, 
+            6726
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6526, 
+                    6532
+                ], 
+                "name": "mesjid"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6536, 
+                    6548
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6583, 
+                    6596
+                ], 
+                "name": "Mesjid Negara"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6598, 
+                    6604
+                ], 
+                "name": "Mesjid"
+            }
+        ]
+    }, 
+    {
+        "text": "Mesjid Jamek. Mesjid tertua di Kuala Lumpur Malaysia. Letaknya tidak jauh dari Lapangan Merdeka. Mesjid ini memiliki tiga kubah dan sebuah menara dengan tinggi 25 meter.", 
+        "line": 120, 
+        "range": [
+            6727, 
+            6895
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6755, 
+                    6763
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6788, 
+                    6800
+                ], 
+                "name": "Mesjid Jamek"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6802, 
+                    6808
+                ], 
+                "name": "Mesjid"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6819, 
+                    6831
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6832, 
+                    6840
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6867, 
+                    6883
+                ], 
+                "name": "Lapangan Merdeka"
+            }
+        ]
+    }, 
+    {
+        "text": "Mesjid Putra. Letaknya yang agak jauh dari pusat kota sehingga tidak banyak yang mengunjungi mesjid ini. Tapi mesjid ini layak untuk dikunjungi walaupun jauh karena bentuknya yang indah. Mesjid Putra menggabungkan kebudayaan lokal, Persia, dan juga Arab.", 
+        "line": 121, 
+        "range": [
+            6896, 
+            7149
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6927, 
+                    6933
+                ], 
+                "name": "menara"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6958, 
+                    6970
+                ], 
+                "name": "Mesjid Putra"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7007, 
+                    7011
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7051, 
+                    7057
+                ], 
+                "name": "mesjid"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7068, 
+                    7074
+                ], 
+                "name": "mesjid"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 122, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pakailah pakaian yang sopan ketika mengunjungi mesjid.", 
+        "line": 123, 
+        "range": [
+            7151, 
+            7204
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 124, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa mesjid menyediakan jubah yang bisa kamu pinjam gratis untuk memasuki tempat ibadah ini.", 
+        "line": 125, 
+        "range": [
+            7206, 
+            7301
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7207, 
+                    7211
+                ], 
+                "name": "Arab"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7261, 
+                    7267
+                ], 
+                "name": "mesjid"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7279, 
+                    7285
+                ], 
+                "name": "mesjid"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 126, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "6. Memperluas pengetahuan di museum", 
+        "line": 127, 
+        "range": [
+            7303, 
+            7337
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 128, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Siapa bilang museum itu membosankan? Saya orangnya selain suka dengan sejarah suka juga dengan karya seni seperti patung atau lukisan.", 
+        "line": 129, 
+        "range": [
+            7339, 
+            7472
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7397, 
+                    7403
+                ], 
+                "name": "museum"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7418, 
+                    7424
+                ], 
+                "name": "museum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 130, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa museum yang bisa kamu kunjungi ketika wisata ke Kuala Lumpur Malaysia adalah:", 
+        "line": 131, 
+        "range": [
+            7474, 
+            7559
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7550, 
+                    7556
+                ], 
+                "name": "museum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 132, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Museum Tekstil Negara. Berisi koleksi kain dan juga perhiasan dari zaman dulu.", 
+        "line": 133, 
+        "range": [
+            7561, 
+            7638
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7598, 
+                    7610
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7611, 
+                    7619
+                ], 
+                "name": "Malaysia"
+            }
+        ]
+    }, 
+    {
+        "text": "Islamic Art Museum. Memiliki banyak benda bersejarah dari karpet, perhiasan, vas dari tembika, termasuk pengetahuan lainnya tentang Agama Islam di dunia.", 
+        "line": 134, 
+        "range": [
+            7639, 
+            7791
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7708, 
+                    7726
+                ], 
+                "name": "Islamic Art Museum"
+            }
+        ]
+    }, 
+    {
+        "text": "Museum Negara. Museum dengan ciri khas atap bergaya Minangkabau menjadi rumah bagi benda peninggalan bersejarah yang terjadi di Malaysia.", 
+        "line": 135, 
+        "range": [
+            7792, 
+            7928
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    7862, 
+                    7875
+                ], 
+                "name": "Museum Negara"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7877, 
+                    7883
+                ], 
+                "name": "Museum"
+            }
+        ]
+    }, 
+    {
+        "text": "Museum Orang Asli. Bersebelahan dengan Museum Negara, kamu bisa mempelajarai 18 suku asli yang hidup di Semenanjung Malaya.", 
+        "line": 136, 
+        "range": [
+            7929, 
+            8051
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7990, 
+                    7998
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8000, 
+                    8017
+                ], 
+                "name": "Museum Orang Asli"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8039, 
+                    8052
+                ], 
+                "name": "Museum Negara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 137, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "7. Mengunjungi Batu Caves", 
+        "line": 138, 
+        "range": [
+            8053, 
+            8077
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 139, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Batu Caves adalah tempat suci bagi penganut agama Hindu.", 
+        "line": 140, 
+        "range": [
+            8079, 
+            8134
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8104, 
+                    8122
+                ], 
+                "name": "Semenanjung Malaya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 141, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemandangan disekitar Batu Caves sangatlah indah. Sebuah patung besar yang menggambarkan Lord Murugan yang dipercaya sebagai Dewa Perang.", 
+        "line": 142, 
+        "range": [
+            8136, 
+            8272
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8140, 
+                    8150
+                ], 
+                "name": "Batu Caves"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8152, 
+                    8162
+                ], 
+                "name": "Batu Caves"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8232, 
+                    8242
+                ], 
+                "name": "Batu Caves"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 143, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada sebuah gua di tebing yang bisa kamu datangi dengan menaikki tangga dengan anak tangga yang berjumlah 272 buah. Harus persiapin stamina nih. Hati-hati dengan monyet nakal yang berkeliaran di sekitar.", 
+        "line": 144, 
+        "range": [
+            8274, 
+            8475
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8360, 
+                    8363
+                ], 
+                "name": "gua"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8367, 
+                    8373
+                ], 
+                "name": "tebing"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 145, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berkunjung ke Batu Caves sangat gampang. Pergilah ke Stasiun KL Sentral dan naik kereta yang disebut dengan KTM dengan tujuan Batu Caves.", 
+        "line": 146, 
+        "range": [
+            8477, 
+            8613
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8567, 
+                    8577
+                ], 
+                "name": "Batu Caves"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 147, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kurang lebih memakan waktu 30 menit. Kalau tidak mau ribet bisa pesen half-day tour ke Batu Caves.", 
+        "line": 148, 
+        "range": [
+            8615, 
+            8712
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8634, 
+                    8640
+                ], 
+                "name": "kereta"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    8661, 
+                    8664
+                ], 
+                "name": "KTM"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8679, 
+                    8689
+                ], 
+                "name": "Batu Caves"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 149, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di antara bulan Januari-Februari biasanya dilaksanakan sebuah festival bernama Festival Thaipusam  yaitu festival penting yang memuja Dewa Perang, cukup menegangkan karena banyak pengikut yang akan menyakiti diri sendiri sebagai bagian dari prosesi atau ritual.", 
+        "line": 150, 
+        "range": [
+            8714, 
+            8974
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8779, 
+                    8789
+                ], 
+                "name": "Batu Caves"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 151, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak boleh terlewatkan deh tempat wisata di Kuala Lumpur yang satu ini!", 
+        "line": 152, 
+        "range": [
+            8976, 
+            9047
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 153, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "8. Menyapa kura-kura lucu di Thean Hou Temple", 
+        "line": 154, 
+        "range": [
+            9049, 
+            9093
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 155, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Thean Hou Temple adalah sebuah kuil besar dengan enam lantai yang dibangun oleh komunitas orang Hainan di Kuala Lumpur Malaysia.", 
+        "line": 156, 
+        "range": [
+            9095, 
+            9222
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9100, 
+                    9112
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9158, 
+                    9174
+                ], 
+                "name": "Thean Hou Temple"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9176, 
+                    9192
+                ], 
+                "name": "Thean Hou Temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9207, 
+                    9211
+                ], 
+                "name": "kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 157, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pada saat Festival Tahun Baru Cina banyak jemaat yang berkumpul dan berdoa di kuil ini.", 
+        "line": 158, 
+        "range": [
+            9224, 
+            9310
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9282, 
+                    9294
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9295, 
+                    9303
+                ], 
+                "name": "Malaysia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 159, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Satu hal yang menarik perhatian saya adalah kolam kura-kura yang berisi ratusan kura-kura yang berjemur di siang hari.", 
+        "line": 160, 
+        "range": [
+            9312, 
+            9429
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9336, 
+                    9340
+                ], 
+                "name": "Cina"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9384, 
+                    9388
+                ], 
+                "name": "kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 161, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kura-kura adalah sebuah simbol panjang umur dan membawa keberuntungan di dalam kebudayaan Cina.", 
+        "line": 162, 
+        "range": [
+            9431, 
+            9525
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 163, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "9. Makan sampai kenyang di Kuala Lumpur", 
+        "line": 164, 
+        "range": [
+            9527, 
+            9565
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 165, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bukan rahasia lagi kalau Malaysia adalah negara yang memiliki keberagaman tradisi, kebudayaan, dan juga agama.", 
+        "line": 166, 
+        "range": [
+            9567, 
+            9676
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9605, 
+                    9609
+                ], 
+                "name": "Cina"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9639, 
+                    9651
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 167, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada tiga suku yang telah hidup bersama selama bertahun-tahun yaitu Melayu, Tionghoa, dan India.", 
+        "line": 168, 
+        "range": [
+            9678, 
+            9772
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9678, 
+                    9686
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9694, 
+                    9700
+                ], 
+                "name": "negara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 169, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Masing-masing kebudayaan mempengaruhi cara hidup mereka dan yang paling jelas terlihat adalah makanan.", 
+        "line": 170, 
+        "range": [
+            9774, 
+            9875
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9854, 
+                    9859
+                ], 
+                "name": "India"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 171, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Masuk akal kan ya kenapa  Kuala Lumpur adalah tempat yang sesuai untuk kulineran.", 
+        "line": 172, 
+        "range": [
+            9877, 
+            9957
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 173, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cobalah hidangan melayu yang autentik, kari India dengan khas rempah-rempahnya yang tajam, atau juga makanan khas dari Penang yaitu Penang Char Kuey Teow (favorit saya!).", 
+        "line": 174, 
+        "range": [
+            9959, 
+            10128
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9992, 
+                    10004
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10093, 
+                    10098
+                ], 
+                "name": "India"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 175, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pergilah ke Jalan Alor untuk mencicipi berbagai jenis makanan. Well, kamu bisa ketemu tempat makan dimana aja kok.", 
+        "line": 176, 
+        "range": [
+            10130, 
+            10243
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10168, 
+                    10174
+                ], 
+                "name": "Penang"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    10233, 
+                    10243
+                ], 
+                "name": "Jalan Alor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 177, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mau pesta makan bisa pergi ke Pasar Malam Taman Connaught yang cuma ada setiap Rabu malam.", 
+        "line": 178, 
+        "range": [
+            10245, 
+            10340
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 179, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalanan sepanjang 2 km ini dipenuhi pedagang yang menjual berbagai barang dan tentunya makanan.", 
+        "line": 180, 
+        "range": [
+            10342, 
+            10436
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    10373, 
+                    10400
+                ], 
+                "name": "Pasar Malam Taman Connaught"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 181, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya ingatin lagi ya, tempat ini tidak cocok bagi kamu yang sedang diet.", 
+        "line": 182, 
+        "range": [
+            10438, 
+            10509
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 183, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "10. Party all night long", 
+        "line": 184, 
+        "range": [
+            10511, 
+            10534
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 185, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, kalau kamu orangnya suka party seperti saya, gak bakal nyesal deh.", 
+        "line": 186, 
+        "range": [
+            10536, 
+            10606
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 187, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Kuala Lumpur banyak banget bar, rooftop bar, dan club yang bisa bikin kamu nari semalaman.", 
+        "line": 188, 
+        "range": [
+            10608, 
+            10700
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 189, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau enggak mau keluarin duit banyak, langsung aja ke Jalan Changkat. Banyak bar yang menawarkan gin and tonic murah.", 
+        "line": 190, 
+        "range": [
+            10702, 
+            10819
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10708, 
+                    10720
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10735, 
+                    10738
+                ], 
+                "name": "bar"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10740, 
+                    10751
+                ], 
+                "name": "rooftop bar"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10757, 
+                    10761
+                ], 
+                "name": "club"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 191, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mau yang classy? Pergilah ke Sky Bar, Luna Bar, atau Heli Lounge untuk menyeruput minuman sambil melihat pemandangan kota dari ketinggian.", 
+        "line": 192, 
+        "range": [
+            10821, 
+            10958
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    10855, 
+                    10869
+                ], 
+                "name": "Jalan Changkat"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10878, 
+                    10881
+                ], 
+                "name": "bar"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    10949, 
+                    10956
+                ], 
+                "name": "Sky Bar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 193, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk para ladies, setiap hari Rabu adalah Ladies Night jadi banyak bar yang akan kasih kamu minuman gratis.", 
+        "line": 194, 
+        "range": [
+            10960, 
+            11067
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    10973, 
+                    10984
+                ], 
+                "name": "Heli Lounge"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11037, 
+                    11041
+                ], 
+                "name": "kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 195, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mau clubbing beneran dan menikmati musik elektronik terbaru, pergi aja ke Zouk Club.", 
+        "line": 196, 
+        "range": [
+            11069, 
+            11158
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    11128, 
+                    11131
+                ], 
+                "name": "bar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 197, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gratis untuk turis! cuma perlu paspor dan dandan yang rapi aja!", 
+        "line": 198, 
+        "range": [
+            11160, 
+            11222
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 199, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagaimana? Ingin liburan ke Kuala Lumpur?", 
+        "line": 200, 
+        "range": [
+            11224, 
+            11264
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    11250, 
+                    11259
+                ], 
+                "name": "Zouk Club"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 201, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itulah tempat wisata di Kuala Lumpur yang menarik untuk dikujungi beserta hal yang bisa kamu lakukan.", 
+        "line": 202, 
+        "range": [
+            11266, 
+            11366
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11355, 
+                    11367
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 203, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Walaupun judulnya 10 tapi sebenarnya ada lebih, hehe.", 
+        "line": 204, 
+        "range": [
+            11368, 
+            11420
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    11377, 
+                    11390
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11394, 
+                    11406
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 205, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu bisa baca postingan lainnya tentang transportasi atau cara menuju KL Sentral dari bandara Kuala Lumpur.", 
+        "line": 206, 
+        "range": [
+            11422, 
+            11529
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 207, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selamat berlibur!", 
+        "line": 208, 
+        "range": [
+            11531, 
+            11547
+        ], 
+        "entities": []
+    }
+]

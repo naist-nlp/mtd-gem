@@ -1,0 +1,2970 @@
+[
+    {
+        "text": "October 8, 2022 Itinerary Backpackeran Ke Vietnam Selama 2 Minggu", 
+        "line": 0, 
+        "range": [
+            1, 
+            65
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    42, 
+                    49
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengen coba backpackeran ke Vietnam? Wajib baca dulu nih itinerary liburan atau backpacker ke Vietnam selama 14 hari (2 minggu) ga pake budget gede!", 
+        "line": 2, 
+        "range": [
+            67, 
+            214
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    95, 
+                    102
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    161, 
+                    168
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Vietnam adalah salah satu negara di Asia Tenggara yang digandrungi oleh para travellers atau backpackers.", 
+        "line": 4, 
+        "range": [
+            216, 
+            320
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    217, 
+                    224
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    243, 
+                    249
+                ], 
+                "name": "negara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    253, 
+                    266
+                ], 
+                "name": "Asia Tenggara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa?", 
+        "line": 6, 
+        "range": [
+            322, 
+            328
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Liburan ke Vietnam relatif murah dengan kata lain tidak perlu mengeluarkan biaya yang besar.", 
+        "line": 8, 
+        "range": [
+            330, 
+            421
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    344, 
+                    351
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain itu banyak objek wisata yang menarik untuk dikunjungi, baik wisata kota maupun alamnya.", 
+        "line": 10, 
+        "range": [
+            423, 
+            516
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    445, 
+                    457
+                ], 
+                "name": "objek wisata"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    501, 
+                    505
+                ], 
+                "name": "kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi yang tidak boleh terlewatkan tentunya wisata kuliner.", 
+        "line": 12, 
+        "range": [
+            518, 
+            575
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya kalau ke Vietnam pasti sekalian ke negara tetangga seperti Thailand dan juga Kamboja, sebutannya backpackeran ke tiga negara sekaligus.", 
+        "line": 14, 
+        "range": [
+            577, 
+            720
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    601, 
+                    608
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    627, 
+                    633
+                ], 
+                "name": "negara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    651, 
+                    659
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    669, 
+                    676
+                ], 
+                "name": "Kamboja"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    710, 
+                    716
+                ], 
+                "name": "negara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bahkan banyak juga yang menggabungkan Malaysia dan juga Singapura, totalnya jadi lima negara deh.", 
+        "line": 16, 
+        "range": [
+            722, 
+            818
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    767, 
+                    775
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    785, 
+                    794
+                ], 
+                "name": "Singapura"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, saya sendiri hanya fokus ke backpacker ke Vietnam saja karena ternyata negara ini sangat besar, bahkan saya yang solo travelling selama dua minggu pun rasanya belum cukup.", 
+        "line": 18, 
+        "range": [
+            820, 
+            995
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    875, 
+                    882
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    904, 
+                    910
+                ], 
+                "name": "negara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya masih bisa ingat betapa gilanya pengendara sepeda motor di Vietnam.", 
+        "line": 20, 
+        "range": [
+            997, 
+            1068
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1054, 
+                    1066
+                ], 
+                "name": "sepeda motor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hanya dengan helm seadanya, mereka bahkan tidak peduli dengan aturan mengendara yang aman.", 
+        "line": 22, 
+        "range": [
+            1070, 
+            1159
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1070, 
+                    1077
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mungkin itu salah satu alasan kenapa Vietnam berkesan bagi saya.", 
+        "line": 24, 
+        "range": [
+            1161, 
+            1224
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1209, 
+                    1216
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Apalagi makanannya yang enak!", 
+        "line": 26, 
+        "range": [
+            1226, 
+            1254
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadi saya mulainya dari bagian selatan yaitu Ho Chi Minh sampai ke utaranya Vietnam yaitu Hanoi.", 
+        "line": 28, 
+        "range": [
+            1256, 
+            1351
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1314, 
+                    1325
+                ], 
+                "name": "Ho Chi Minh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1345, 
+                    1352
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya sih 2 minggu cukup mepet.", 
+        "line": 30, 
+        "range": [
+            1353, 
+            1388
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1359, 
+                    1364
+                ], 
+                "name": "Hanoi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perjalanan cukup melelahkan karena saya menggunakan bus malam untuk pindah dari satu kota ke kota lain.", 
+        "line": 32, 
+        "range": [
+            1390, 
+            1492
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1457, 
+                    1460
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman naik sleeper bus merupakan pengalaman yang baru bagi saya.", 
+        "line": 34, 
+        "range": [
+            1494, 
+            1562
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1498, 
+                    1502
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1534, 
+                    1537
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cukup nyaman karena bisa tidur-tiduran dan merenggangkan badan.", 
+        "line": 36, 
+        "range": [
+            1564, 
+            1626
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi jalanan yang kurang baik dan apalagi supirnya yang lumayan gila juga, jadinya pasti bakal terbangun di malam hari.", 
+        "line": 38, 
+        "range": [
+            1628, 
+            1746
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1651, 
+                    1658
+                ], 
+                "name": "jalanan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biaya yang saya keluarkan untuk trip ke Vietnam ini kalau tidak salah sekitar Rp 3juta saja selama dua minggu di luar tiket pesawat.", 
+        "line": 40, 
+        "range": [
+            1748, 
+            1879
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1807, 
+                    1814
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kebanyakan sih keluarin uang cuma buat hostel, makan, transportasi umum, dan tiket masuk wisata saja.", 
+        "line": 42, 
+        "range": [
+            1881, 
+            1981
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1891, 
+                    1898
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1940, 
+                    1946
+                ], 
+                "name": "hostel"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1955, 
+                    1972
+                ], 
+                "name": "transportasi umum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itinerary Traveling/Backpacker ke Vietnam Selama 2 Minggu", 
+        "line": 44, 
+        "range": [
+            1983, 
+            2039
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kemana saja nih asiknya? Ikuti perjalanan dan itinerary backpacker ke vietnam saya.", 
+        "line": 46, 
+        "range": [
+            2041, 
+            2123
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1-2: Ho Chi Minh/Saigon, itinerary di mulai dari Ho Chi Minh", 
+        "line": 48, 
+        "range": [
+            2125, 
+            2188
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2133, 
+                    2140
+                ], 
+                "name": "vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2157, 
+                    2168
+                ], 
+                "name": "Ho Chi Minh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2169, 
+                    2175
+                ], 
+                "name": "Saigon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Highlight:", 
+        "line": 50, 
+        "range": [
+            2190, 
+            2199
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Pham Ngu Lao Street", 
+        "line": 51, 
+        "range": [
+            2200, 
+            2218
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2201, 
+                    2212
+                ], 
+                "name": "Ho Chi Minh"
+            }
+        ]
+    }, 
+    {
+        "text": "Notre Dame Cathedral", 
+        "line": 52, 
+        "range": [
+            2219, 
+            2238
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Independance Palace", 
+        "line": 53, 
+        "range": [
+            2239, 
+            2257
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Ben Thanh Market", 
+        "line": 54, 
+        "range": [
+            2258, 
+            2273
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Cu Chi Tunnel", 
+        "line": 55, 
+        "range": [
+            2274, 
+            2286
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 56, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kota dengan populasi penduduk terbanyak di Vietnam. Tidak heran kalau Ho Chi Minh sangat ramai.", 
+        "line": 57, 
+        "range": [
+            2288, 
+            2382
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2303, 
+                    2316
+                ], 
+                "name": "Cu Chi Tunnel"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2318, 
+                    2322
+                ], 
+                "name": "Kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2361, 
+                    2368
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 58, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari pertama cukup santai, saya cuma explore area backpacker bernama Pham Ngu Lao Street.", 
+        "line": 59, 
+        "range": [
+            2384, 
+            2472
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2388, 
+                    2399
+                ], 
+                "name": "Ho Chi Minh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 60, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cobain streetfood, duduk-duduk di tepi jalan. Ikutan orang lokal minum bir, hehe.", 
+        "line": 61, 
+        "range": [
+            2474, 
+            2554
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    2484, 
+                    2503
+                ], 
+                "name": "Pham Ngu Lao Street"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2545, 
+                    2550
+                ], 
+                "name": "jalan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 62, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Objek wisata lain di Ho Chi Minh ada Notre Dame Cathedral, Independance Palace, dan Ben Thanh Market.", 
+        "line": 63, 
+        "range": [
+            2556, 
+            2656
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2589, 
+                    2601
+                ], 
+                "name": "Objek wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2610, 
+                    2621
+                ], 
+                "name": "Ho Chi Minh"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2626, 
+                    2646
+                ], 
+                "name": "Notre Dame Cathedral"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 64, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di hari kedua saya ikutan tur ke Cu Chi Tunnel.", 
+        "line": 65, 
+        "range": [
+            2658, 
+            2704
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2673, 
+                    2689
+                ], 
+                "name": "Ben Thanh Market"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 66, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya pribadi suka dengan one day trip ini karena bisa melihat langsung dan mempelajari situasi yang terjadi pada saat perang Vietnam.", 
+        "line": 67, 
+        "range": [
+            2706, 
+            2838
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2725, 
+                    2738
+                ], 
+                "name": "Cu Chi Tunnel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 68, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tentara Vietnam sangat pintar, bagaimana mereka mendahului tentara Amerika dengan cara membangun terowongan kecil sepanjang 200 km.", 
+        "line": 69, 
+        "range": [
+            2840, 
+            2970
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2866, 
+                    2873
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2884, 
+                    2891
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2943, 
+                    2950
+                ], 
+                "name": "Amerika"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 70, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Recommended deh!", 
+        "line": 71, 
+        "range": [
+            2972, 
+            2987
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2973, 
+                    2983
+                ], 
+                "name": "terowongan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 72, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3-5: Dalat, kotanya adem dan tenang banget! ", 
+        "line": 73, 
+        "range": [
+            2989, 
+            3036
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 74, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Highlight:", 
+        "line": 75, 
+        "range": [
+            3038, 
+            3047
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Crazy House", 
+        "line": 76, 
+        "range": [
+            3048, 
+            3058
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Bao Dai Palace", 
+        "line": 77, 
+        "range": [
+            3059, 
+            3072
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Flower Garden", 
+        "line": 78, 
+        "range": [
+            3073, 
+            3085
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiger Waterfall", 
+        "line": 79, 
+        "range": [
+            3086, 
+            3100
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3088, 
+                    3099
+                ], 
+                "name": "Crazy House"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 80, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dalat adalah sebuah kota kecil yang tenang dengan udara segar.", 
+        "line": 81, 
+        "range": [
+            3102, 
+            3163
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3115, 
+                    3128
+                ], 
+                "name": "Flower Garden"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3129, 
+                    3144
+                ], 
+                "name": "Tiger Waterfall"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3146, 
+                    3151
+                ], 
+                "name": "Dalat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 82, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak kegiatan outdoor yang bisa dilakukan di Dalat.", 
+        "line": 83, 
+        "range": [
+            3165, 
+            3217
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3166, 
+                    3170
+                ], 
+                "name": "kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Ho Chi Minh ke Dalat bisa naik bus dengan perjalanan waktu sekitar 6 jam.", 
+        "line": 85, 
+        "range": [
+            3219, 
+            3296
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3257, 
+                    3262
+                ], 
+                "name": "Dalat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3270, 
+                    3281
+                ], 
+                "name": "Ho Chi Minh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3285, 
+                    3290
+                ], 
+                "name": "Dalat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Dalat saya menyewa motor untuk berkeliling sekitar.", 
+        "line": 87, 
+        "range": [
+            3298, 
+            3351
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3301, 
+                    3304
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 88, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak air terjun yang menarik untuk dikunjungi salah satunya Elephant Waterfall.", 
+        "line": 89, 
+        "range": [
+            3353, 
+            3433
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3367, 
+                    3372
+                ], 
+                "name": "motor"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3408, 
+                    3418
+                ], 
+                "name": "air terjun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 90, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sayangnya saya tidak sempat kesini.", 
+        "line": 91, 
+        "range": [
+            3435, 
+            3469
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 92, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain wisata air terjunnya bisa cobain zip lining, trekking ke hutan, dan banyak kegiatan lainnya.", 
+        "line": 93, 
+        "range": [
+            3471, 
+            3569
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3535, 
+                    3548
+                ], 
+                "name": "air terjunnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 94, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Dalat saya stay cukup lama karena memang senang dengan kotanya.", 
+        "line": 95, 
+        "range": [
+            3571, 
+            3636
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3585, 
+                    3590
+                ], 
+                "name": "hutan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3625, 
+                    3630
+                ], 
+                "name": "Dalat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 96, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selama di Dalat, objek wisata yang saya kunjungi adalah Rumah Gila atau Crazy House, Bao Dai Palace, Flower Garden, dan Tiger Waterfall.", 
+        "line": 97, 
+        "range": [
+            3638, 
+            3773
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3680, 
+                    3687
+                ], 
+                "name": "kotanya"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3700, 
+                    3705
+                ], 
+                "name": "Dalat"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3707, 
+                    3719
+                ], 
+                "name": "objek wisata"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3746, 
+                    3756
+                ], 
+                "name": "Rumah Gila"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3762, 
+                    3773
+                ], 
+                "name": "Crazy House"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 98, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 6-7: Hoi An, melihat desa tradisional dengan khas lentera ", 
+        "line": 99, 
+        "range": [
+            3775, 
+            3836
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3775, 
+                    3789
+                ], 
+                "name": "Bao Dai Palace"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3791, 
+                    3804
+                ], 
+                "name": "Flower Garden"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3810, 
+                    3825
+                ], 
+                "name": "Tiger Waterfall"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 100, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Highlight:", 
+        "line": 101, 
+        "range": [
+            3838, 
+            3847
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Hoi An Old Town", 
+        "line": 102, 
+        "range": [
+            3848, 
+            3862
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3853, 
+                    3857
+                ], 
+                "name": "desa"
+            }
+        ]
+    }, 
+    {
+        "text": "Marble Mountain", 
+        "line": 103, 
+        "range": [
+            3863, 
+            3877
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 104, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perjalanan dari Dalat ke Hoi An membutuhkan waktu yang cukup lama.", 
+        "line": 105, 
+        "range": [
+            3879, 
+            3944
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3903, 
+                    3918
+                ], 
+                "name": "Hoi An Old Town"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3919, 
+                    3934
+                ], 
+                "name": "Marble Mountain"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 106, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mau naik bus langsung bisa tapi sekitar 12-17 jam tergantung busnya.", 
+        "line": 107, 
+        "range": [
+            3946, 
+            4019
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3952, 
+                    3957
+                ], 
+                "name": "Dalat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3961, 
+                    3967
+                ], 
+                "name": "Hoi An"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 108, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biar enggak terlalu lama bisa naik bus dulu ke Nha Trang sekitar 4 jam kemudian dilanjutkan dengan kereta sampai Danang dan lanjut lagi dengan bus.", 
+        "line": 109, 
+        "range": [
+            4021, 
+            4167
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4071, 
+                    4077
+                ], 
+                "name": "busnya"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4115, 
+                    4118
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4127, 
+                    4136
+                ], 
+                "name": "Nha Trang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 110, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rada ribet sih, jadi kalau mau gampang langsung aja naik bus.", 
+        "line": 111, 
+        "range": [
+            4169, 
+            4229
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4179, 
+                    4185
+                ], 
+                "name": "kereta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4193, 
+                    4199
+                ], 
+                "name": "Danang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4223, 
+                    4226
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 112, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hoi An dulunya adalah pelabuhan perdagangan yang sangat sukses di Asia Tenggara.", 
+        "line": 113, 
+        "range": [
+            4231, 
+            4310
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4286, 
+                    4289
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4292, 
+                    4298
+                ], 
+                "name": "Hoi An"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 114, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekarang kota tua Hoi An diberi status warisan kebudayaan oleh UNESCO.", 
+        "line": 115, 
+        "range": [
+            4312, 
+            4381
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4314, 
+                    4323
+                ], 
+                "name": "pelabuhan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4358, 
+                    4371
+                ], 
+                "name": "Asia Tenggara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 116, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Walaupun lumayan rame turisnya, Hoi An tetap menjaga orisinalitas tradisinya -tidak terlalu tepengaruh degan kebudayaan barat seperti kota lainnya di Vietnam.", 
+        "line": 117, 
+        "range": [
+            4383, 
+            4540
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4383, 
+                    4398
+                ], 
+                "name": "kota tua Hoi An"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4478, 
+                    4484
+                ], 
+                "name": "Hoi An"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 118, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sewalah sepeda dan berkeliling kota.", 
+        "line": 119, 
+        "range": [
+            4542, 
+            4577
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 120, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak kuil-kuil Chinese yang layak untuk dikunjungi.", 
+        "line": 121, 
+        "range": [
+            4579, 
+            4631
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4580, 
+                    4584
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4596, 
+                    4603
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4614, 
+                    4620
+                ], 
+                "name": "sepeda"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 122, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena berupa heritage site, kamu harus membeli entrance fee seharga VND 120,000 untuk masuk ke bangunan-bangunan bersejarah.", 
+        "line": 123, 
+        "range": [
+            4633, 
+            4757
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4637, 
+                    4641
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4651, 
+                    4660
+                ], 
+                "name": "kuil-kuil"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4713, 
+                    4727
+                ], 
+                "name": "heritage site,"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 124, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ternyata Hoi An punya pantai yang cukup indah bernama An Bang Beach.", 
+        "line": 125, 
+        "range": [
+            4759, 
+            4826
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4795, 
+                    4823
+                ], 
+                "name": "bangunan-bangunan bersejarah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 126, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di malam hari banyak orang yang menjual lentera khas nya kota Hoi An.", 
+        "line": 127, 
+        "range": [
+            4828, 
+            4896
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4835, 
+                    4841
+                ], 
+                "name": "Hoi An"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4848, 
+                    4854
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4880, 
+                    4893
+                ], 
+                "name": "An Bang Beach"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 128, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kunjungi Marble Mountain yang terletak 20 km dari Hoi An.", 
+        "line": 129, 
+        "range": [
+            4898, 
+            4954
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 130, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di dalamnya ada kuil Buddha yang dibangun dalam goa.", 
+        "line": 131, 
+        "range": [
+            4956, 
+            5007
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4976, 
+                    4991
+                ], 
+                "name": "Marble Mountain"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 132, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 8: Hue, mumpung lewat jadi nambahin ke itinerary Vietnam aja", 
+        "line": 133, 
+        "range": [
+            5009, 
+            5072
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5017, 
+                    5023
+                ], 
+                "name": "Hoi An"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5042, 
+                    5046
+                ], 
+                "name": "kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 134, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Highlight: ", 
+        "line": 135, 
+        "range": [
+            5074, 
+            5084
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5074, 
+                    5077
+                ], 
+                "name": "goa"
+            }
+        ]
+    }, 
+    {
+        "text": "Imperial Citadel", 
+        "line": 136, 
+        "range": [
+            5085, 
+            5100
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5087, 
+                    5090
+                ], 
+                "name": "Hue"
+            }
+        ]
+    }, 
+    {
+        "text": "Khai Dinh Tomb", 
+        "line": 137, 
+        "range": [
+            5101, 
+            5114
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 138, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Alasan kenapa saya memasukkan Hue dalam itinerary backpackeran ke Vietnam saya adalah pertama, letaknya yang sejalan dengan Hanoi jadi satu hari aja cukup.", 
+        "line": 139, 
+        "range": [
+            5116, 
+            5270
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5133, 
+                    5140
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5158, 
+                    5174
+                ], 
+                "name": "Imperial Citadel"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5175, 
+                    5189
+                ], 
+                "name": "Khai Dinh Tomb"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5221, 
+                    5224
+                ], 
+                "name": "Hue"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5257, 
+                    5264
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 140, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kedua, saya penasaran dengan kota kerajaan di Vietnam.", 
+        "line": 141, 
+        "range": [
+            5272, 
+            5325
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5315, 
+                    5320
+                ], 
+                "name": "Hanoi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 142, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Hue saya cuma mengunjungi Imperial Citadel dan Khai Dinh Tomb.", 
+        "line": 143, 
+        "range": [
+            5327, 
+            5391
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5377, 
+                    5381
+                ], 
+                "name": "kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 144, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pada saat perang, Imperial Citadel mengalami kerusakan yang cukup parah. Khai Dinh Tomb lumayan bagus dan menarik hanya saja tiket masuknya mahal.", 
+        "line": 145, 
+        "range": [
+            5393, 
+            5538
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5394, 
+                    5401
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5407, 
+                    5410
+                ], 
+                "name": "Hue"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5433, 
+                    5449
+                ], 
+                "name": "Imperial Citadel"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5454, 
+                    5468
+                ], 
+                "name": "Khai Dinh Tomb"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5489, 
+                    5505
+                ], 
+                "name": "Imperial Citadel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 146, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 9: Hanoi, tentunya tidak boleh melewatkan ibu kota Vietnam", 
+        "line": 147, 
+        "range": [
+            5540, 
+            5601
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5544, 
+                    5558
+                ], 
+                "name": "Khai Dinh Tomb"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 148, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Highlight: ", 
+        "line": 149, 
+        "range": [
+            5603, 
+            5613
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Hoan Kiem Lake", 
+        "line": 150, 
+        "range": [
+            5614, 
+            5627
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Saint Joseph Cathedral", 
+        "line": 151, 
+        "range": [
+            5628, 
+            5649
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 152, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hanoi dan Ho Chi Minh sangat berbeda. Sebagai ibu kota negara,", 
+        "line": 153, 
+        "range": [
+            5651, 
+            5712
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5665, 
+                    5673
+                ], 
+                "name": "ibu kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5674, 
+                    5681
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5695, 
+                    5709
+                ], 
+                "name": "Hoan Kiem Lake"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 154, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hanoi tidak semaju daerah Selatan. Tidak terlalu banyak objek wisata di Hanoi.", 
+        "line": 155, 
+        "range": [
+            5714, 
+            5791
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5734, 
+                    5739
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5744, 
+                    5755
+                ], 
+                "name": "Ho Chi Minh"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5780, 
+                    5788
+                ], 
+                "name": "ibu kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 156, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada beberapa opera house dan juga museum.", 
+        "line": 157, 
+        "range": [
+            5793, 
+            5833
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 158, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika di Hanoi saya cuma mengunjungi Hoan Kiem Lake dan Saint Joseph Cathedral, objek wisata yang paling dekat dengan backpacker area.", 
+        "line": 159, 
+        "range": [
+            5835, 
+            5969
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5891, 
+                    5902
+                ], 
+                "name": "opera house"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5912, 
+                    5918
+                ], 
+                "name": "museum"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5931, 
+                    5936
+                ], 
+                "name": "Hanoi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 160, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 10-11: Sapa, kalau ke Vietnam wajib masukin ke dalam list itinerary", 
+        "line": 161, 
+        "range": [
+            5971, 
+            6041
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5978, 
+                    6000
+                ], 
+                "name": "Saint Joseph Cathedral"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6002, 
+                    6014
+                ], 
+                "name": "objek wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 162, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dengan pemandangan sawah mengelilingi pegunungan, Sapa adalah destinasi yang paling oke di Vietnam.", 
+        "line": 163, 
+        "range": [
+            6043, 
+            6141
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6073, 
+                    6074
+                ], 
+                "name": ","
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6084, 
+                    6091
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 164, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Hanoi bisa naik bus selama 12 jam ke Sapa.", 
+        "line": 165, 
+        "range": [
+            6143, 
+            6189
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6150, 
+                    6155
+                ], 
+                "name": "sawah"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6169, 
+                    6179
+                ], 
+                "name": "pegunungan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6181, 
+                    6185
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 166, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Sapa saya ikut trekking tour yang telah saya booking sebelumnya.", 
+        "line": 167, 
+        "range": [
+            6191, 
+            6257
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6222, 
+                    6229
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6237, 
+                    6242
+                ], 
+                "name": "Hanoi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6253, 
+                    6256
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 168, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi saran saya sih kalau punya banyak waktu bisa langsung ke Sapa dan sewa motor untuk mengelilingi desa sekitar.", 
+        "line": 169, 
+        "range": [
+            6259, 
+            6372
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6274, 
+                    6278
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6284, 
+                    6288
+                ], 
+                "name": "Sapa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 170, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tur yang saya ikuti sih oke-oke aja. Kami menginap di rumah orang lokal.", 
+        "line": 171, 
+        "range": [
+            6374, 
+            6445
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6412, 
+                    6416
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6426, 
+                    6431
+                ], 
+                "name": "motor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 172, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang bikin saya kurang sreg adalah orang lokal sana, suku Hmong selalu mengikuti dan menjual suvenir.", 
+        "line": 173, 
+        "range": [
+            6447, 
+            6547
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6451, 
+                    6455
+                ], 
+                "name": "desa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 174, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mereka coba terus mendatangi saya dan menawarkan gelang.", 
+        "line": 175, 
+        "range": [
+            6549, 
+            6604
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 176, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya beli 1-2 sih masih oke ya, tapi yang lain pada coba menjual gelangnya ke saya.", 
+        "line": 177, 
+        "range": [
+            6606, 
+            6688
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 178, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 12-13: Halong Bay, cruising naik kapal melihat bukit-bukit karst", 
+        "line": 179, 
+        "range": [
+            6690, 
+            6757
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 180, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah trekking di Sapa, saya langsung kembali lagi ke Hanoi dan ikut cruising tour ke Halong Bay.", 
+        "line": 181, 
+        "range": [
+            6759, 
+            6857
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6797, 
+                    6807
+                ], 
+                "name": "Halong Bay"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6823, 
+                    6828
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6837, 
+                    6848
+                ], 
+                "name": "bukit-bukit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 182, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kayaknya sih ekspektasi saya terhadap Halong Bay terlalu tinggi.", 
+        "line": 183, 
+        "range": [
+            6859, 
+            6922
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6876, 
+                    6880
+                ], 
+                "name": "Sapa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6912, 
+                    6917
+                ], 
+                "name": "Hanoi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 184, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya pribadi kurang dapat feel-nya ketika di Halong Bay.", 
+        "line": 185, 
+        "range": [
+            6924, 
+            6979
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6944, 
+                    6954
+                ], 
+                "name": "Halong Bay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 186, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selama 2 hari 1 malam saya menginap di kapal cruise dan berlayar di sekitar Halong Bay.", 
+        "line": 187, 
+        "range": [
+            6981, 
+            7067
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6995, 
+                    7005
+                ], 
+                "name": "Halong Bay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 188, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dalam trip ini kami berhenti di sebuah objek wisata yang bernama Sung Sot Cave.", 
+        "line": 189, 
+        "range": [
+            7069, 
+            7147
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7120, 
+                    7125
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 190, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Goa ini sangat menakjubkan, terlihat stalaktit dan stalagmit menghiasi dinding goa.", 
+        "line": 191, 
+        "range": [
+            7149, 
+            7231
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7157, 
+                    7167
+                ], 
+                "name": "Halong Bay"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7209, 
+                    7221
+                ], 
+                "name": "objek wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 192, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cruising trip-nya berjalan dengan baik.", 
+        "line": 193, 
+        "range": [
+            7233, 
+            7271
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7235, 
+                    7248
+                ], 
+                "name": "Sung Sot Cave"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7251, 
+                    7254
+                ], 
+                "name": "Goa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 194, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cuma ada satu spot dimana kami bisa berenang dan kayaking, tapi airnya rada berbau kurang sedap.", 
+        "line": 195, 
+        "range": [
+            7273, 
+            7368
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7330, 
+                    7333
+                ], 
+                "name": "goa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 196, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bukit karang disekitarnya yang menjadi daya tarik Halong Bay sendiri menurut saya kurang menarik.", 
+        "line": 197, 
+        "range": [
+            7370, 
+            7466
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 198, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Masih banyak tempat lain dengan bukit karst atau karang yang indah.", 
+        "line": 199, 
+        "range": [
+            7468, 
+            7534
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7475, 
+                    7480
+                ], 
+                "name": "Bukit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7525, 
+                    7535
+                ], 
+                "name": "Halong Bay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 200, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 14: Kembali ke Hanoi untuk flight pulang", 
+        "line": 201, 
+        "range": [
+            7536, 
+            7579
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 202, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di hari terakhir kamu bisa jalan-jalan lagi di sekitar Hanoi atau sekitar beristirahat aja untuk menunggu penerbangan pulang.", 
+        "line": 203, 
+        "range": [
+            7581, 
+            7705
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7606, 
+                    7611
+                ], 
+                "name": "bukit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7662, 
+                    7667
+                ], 
+                "name": "Hanoi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 204, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah itulah itinerary backpacker ke Vietnam saya yang bisa kamu ikuti.", 
+        "line": 205, 
+        "range": [
+            7707, 
+            7775
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7744, 
+                    7749
+                ], 
+                "name": "Hanoi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 206, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi sekali lagi dua minggu menurut saya cukup mepet.", 
+        "line": 207, 
+        "range": [
+            7777, 
+            7829
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 208, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau cuma butuh beberapa hari bisa pilih mau main di daerah bagian utara atau selatan.", 
+        "line": 209, 
+        "range": [
+            7831, 
+            7917
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7851, 
+                    7858
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }
+]

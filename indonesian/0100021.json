@@ -1,0 +1,1387 @@
+[
+    {
+        "text": "July 22, 2021   Mengunjungi Gyeongju Korea Selatan, Bekas Ibukota Kerajaan Silla", 
+        "line": 0, 
+        "range": [
+            1, 
+            80
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    28, 
+                    36
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    37, 
+                    50
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    58, 
+                    65
+                ], 
+                "name": "Ibukota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dalam itinerary traveling saya ke Korea Selatan, Gyeongju merupakan salah satu destinasi yang termasuk dalam list perjalanan saya. Gyeongju merupakan bekas ibukota dari salah satu kerajaan di Korea Selatan dan juga termasuk warisan budaya UNESCO di Korea.", 
+        "line": 2, 
+        "range": [
+            82, 
+            336
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    116, 
+                    129
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    131, 
+                    139
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    213, 
+                    221
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    238, 
+                    245
+                ], 
+                "name": "ibukota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    274, 
+                    287
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    331, 
+                    336
+                ], 
+                "name": "Korea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sejarah tentang Gyeongju Korea Selatan", 
+        "line": 4, 
+        "range": [
+            338, 
+            375
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    355, 
+                    363
+                ], 
+                "name": "Gyeongju"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mungkin kata \u201cThree Kingdoms\u2018 atau disebut juga dengan Tiga Kerajaan tidak asing bagi kamu. Saya memang sudah pernah dengar dan tau tentang kisah tiga kerajaan yang berasal dari China.", 
+        "line": 6, 
+        "range": [
+            377, 
+            564
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    557, 
+                    562
+                ], 
+                "name": "China"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Siapa sangka kalau ternyata di Korea Selatan juga ada periode Three Kingdoms. Tiga kerajaan tersebut adalah Goguryeo, Baekje, dan Silla. Nah, salah satu kerajaan atau dinasti yang berdiri paling lama adalah Silla.", 
+        "line": 8, 
+        "range": [
+            566, 
+            778
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    596, 
+                    609
+                ], 
+                "name": "Korea Selatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pada masa Kerajaan Silla inilah Gyeongu diangkat sebagai ibukota yang kemudian menjadi pusat pemerintahan kerajaan dan juga pusat kebudayaan.", 
+        "line": 10, 
+        "range": [
+            780, 
+            920
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    812, 
+                    819
+                ], 
+                "name": "Gyeongu"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    837, 
+                    844
+                ], 
+                "name": "ibukota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak tanggung-tanggung, Kerajaan Silla merupakan salah satu dinasti terpanjang di dalam sejarah karena telah memerintah selama 992 tahun walaupun di kerajaan tersebut ada tiga keluarga yang berbeda yang sempat memegang tahta yaitu; Park, Seok, dan Kim.", 
+        "line": 12, 
+        "range": [
+            922, 
+            1174
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Keluarga Kim memegang kekuasaan paling lama yaitu lebih dari 600 tahun. Kalau kamu suka dengan drama Korea pasti pernah dengar drama yang berjudul Queen Seondeok. Ya, beliau adalah seorang ratu yang sangat terkenal dan memegang pemerintahan Kerajaan Silla selama 15 tahun.", 
+        "line": 14, 
+        "range": [
+            1176, 
+            1447
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1279, 
+                    1284
+                ], 
+                "name": "Korea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah jika kamu berkunjung ke Gyeongju Korea, kamu akan melihat bekas peninggalan Kerajaan Silla terutama kuil agama Buddha, karena dulunya Kerajaan Silla sangat percaya agama Buddha.", 
+        "line": 16, 
+        "range": [
+            1449, 
+            1629
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1480, 
+                    1488
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1489, 
+                    1494
+                ], 
+                "name": "Korea"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1556, 
+                    1560
+                ], 
+                "name": "kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bulguksa Temple, kuil yang paling terkenal di Gyeongju", 
+        "line": 18, 
+        "range": [
+            1631, 
+            1684
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1635, 
+                    1650
+                ], 
+                "name": "Bulguksa Temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1652, 
+                    1656
+                ], 
+                "name": "kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak peninggalan sejarah dalam bentuk relik, karya seni, kuil, dan pagoda yang dipengaruhi dengan kepercayaan agama Buddha disimpan di Gyeongju Korea.", 
+        "line": 20, 
+        "range": [
+            1686, 
+            1837
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1750, 
+                    1754
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1760, 
+                    1766
+                ], 
+                "name": "pagoda"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1828, 
+                    1836
+                ], 
+                "name": "Gyeongju"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu kuil yang paling terkenal di Gyeongju adalah Bulguksa Temple. Ada tujuh harta nasional resmi yang disimpan di Bulguksa Temple. Nah, makanya kuil ini tidak boleh terlewati ketika berkunjung ke Gyeongju Korea Selatan.", 
+        "line": 22, 
+        "range": [
+            1839, 
+            2064
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1856, 
+                    1860
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1885, 
+                    1893
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1901, 
+                    1916
+                ], 
+                "name": "Bulguksa Temple"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1966, 
+                    1981
+                ], 
+                "name": "Bulguksa Temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1996, 
+                    2000
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2048, 
+                    2056
+                ], 
+                "name": "Gyeongju"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di area kuil terdapat beberapa ruangan dengan fungsi yang berbeda seperti tempat berdoa, rumah bagi biarawan. Ketika sedang berjalan di sekitar kuil saya melihat hal yang menarik.", 
+        "line": 24, 
+        "range": [
+            2066, 
+            2244
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2081, 
+                    2085
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2217, 
+                    2221
+                ], 
+                "name": "kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa batu yang disusun pada satu batu ke atas batu lainnya. Katanya sih ini cara orang Korea untuk make a wish. Kalau batunya disusun diatas batu lain dan tidak jatuh maka permintaan kamu akan terkabulkan.", 
+        "line": 26, 
+        "range": [
+            2246, 
+            2454
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2345, 
+                    2350
+                ], 
+                "name": "Korea"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hal menarik lainnya di Bulguksa Temple adalah sebuah patung babi keemasan yang katanya membawa keberuntungan.", 
+        "line": 28, 
+        "range": [
+            2456, 
+            2564
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2488, 
+                    2503
+                ], 
+                "name": "Bulguksa Temple"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu pegang patung ini maka kamu akan beruntung. Ya, tidak salah kan kalau dicoba. Saya pun tidak ketinggalan untuk mengelus patung babi imut ini.", 
+        "line": 30, 
+        "range": [
+            2566, 
+            2717
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara menuju Bulguksa Temple", 
+        "line": 32, 
+        "range": [
+            2719, 
+            2745
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara untuk ke Bulguksa Temple cukup simple. Kalau datangnya lewat terminal bus di Gyeongju tinggal naik bus kota nomor 10 atau 11 sampai dengan kuil. Biasanya setiap 15 \u2013 30 menit bus nya pasti akan lewat.", 
+        "line": 34, 
+        "range": [
+            2747, 
+            2953
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2773, 
+                    2788
+                ], 
+                "name": "Bulguksa Temple"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2825, 
+                    2837
+                ], 
+                "name": "terminal bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2841, 
+                    2849
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2863, 
+                    2888
+                ], 
+                "name": "bus kota nomor 10 atau 11"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2903, 
+                    2907
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2939, 
+                    2942
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Bulguksa Temple", 
+        "line": 36, 
+        "range": [
+            2955, 
+            2987
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Bulguksa Temple adalah 6,000 won atau Rp 72,000 untuk dewasa (19 tahun ke atas), 4,000 won atau Rp 50,000 untuk remaja (13-18 tahun). Dan 3,000 won atau Rp 36,000 untuk anak-anak (7-12 tahun). Tiket masuk gratis untuk anak-anak dibawah tujuh tahun.", 
+        "line": 38, 
+        "range": [
+            2989, 
+            3254
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3019, 
+                    3034
+                ], 
+                "name": "Bulguksa Temple"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Seoukguram Grotto", 
+        "line": 40, 
+        "range": [
+            3256, 
+            3272
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah puas mengelilingi Bulguksa Temple, saya pun menuju Seokguram Grotto yang juga merupakan national treasure atau harta benda nasional.", 
+        "line": 42, 
+        "range": [
+            3274, 
+            3413
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3314, 
+                    3329
+                ], 
+                "name": "Bulguksa Temple"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3347, 
+                    3363
+                ], 
+                "name": "Seokguram Grotto"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk menuju Seoukguram Grotto dari Bulguksa Temple bisa tinggal naik bus nomor 12.", 
+        "line": 44, 
+        "range": [
+            3415, 
+            3497
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3443, 
+                    3460
+                ], 
+                "name": "Seoukguram Grotto"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3466, 
+                    3481
+                ], 
+                "name": "Bulguksa Temple"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya lebih memilih untuk berjalan kaki sejauh 2 kilometer, sekalian menghemat juga, hehe. Salah satu objek sejarah di Gyeongju Korea Selatan ini adalah sebuah patung Buddha besar yang terbuat dari granit duduk di sebuah ruangan kecil.", 
+        "line": 46, 
+        "range": [
+            3499, 
+            3732
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    3500, 
+                    3512
+                ], 
+                "name": "bus nomor 12"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3633, 
+                    3641
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3642, 
+                    3655
+                ], 
+                "name": "Korea Selatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak tau kenapa saya merasakan ketenangan di dalam ruangan ini. Di saat Jepang menjajah Korea, tentara Jepang berusaha untuk menghancurkan semua bekas peninggalan bersejarah.", 
+        "line": 48, 
+        "range": [
+            3734, 
+            3908
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3824, 
+                    3830
+                ], 
+                "name": "Jepang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3840, 
+                    3845
+                ], 
+                "name": "Korea"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3855, 
+                    3861
+                ], 
+                "name": "Jepang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tentara Jepang melapisi bagian atas ruangan dengan beton, alhasil di dalam Seokguram Grotto ini menjadi lembab dan lumut pun tumbuh.", 
+        "line": 50, 
+        "range": [
+            3910, 
+            4041
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3936, 
+                    3942
+                ], 
+                "name": "Jepang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4003, 
+                    4019
+                ], 
+                "name": "Seokguram Grotto"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ruangan di dalam Seokguram Grotto dibatasi dengan dinding kaca dan hanya dibuka pada hari ulang tahun Buddha.", 
+        "line": 52, 
+        "range": [
+            4043, 
+            4151
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4079, 
+                    4095
+                ], 
+                "name": "Seokguram Grotto"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Seokguram Grotto", 
+        "line": 54, 
+        "range": [
+            4153, 
+            4186
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Seoguram Grotto adalah 5,000 won untuk dewasa (diatas 19 tahun), 3,500 won untuk remaja (13-18 tahun), 2,500 won untuk anak-anak (7 -12 tahun), dan gratis untuk anak-anak dibawah 7 tahun.", 
+        "line": 56, 
+        "range": [
+            4188, 
+            4392
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4191, 
+                    4207
+                ], 
+                "name": "Seokguram Grotto"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4227, 
+                    4242
+                ], 
+                "name": "Seoguram Grotto"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gyeongju National Museum, mempelajari sejarah tentang Kerajaan Silla", 
+        "line": 58, 
+        "range": [
+            4394, 
+            4461
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4416, 
+                    4440
+                ], 
+                "name": "Gyeongju National Museum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Gyeongju National Museum kamu bisa mempelajari lebih lanjut tentang sejarah Kerajaan Silla, melihat bekas peninggalan kerajaan, dan juga relik Buddha yang indah.", 
+        "line": 60, 
+        "range": [
+            4463, 
+            4626
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4489, 
+                    4513
+                ], 
+                "name": "Gyeongju National Museum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk mengunjungi museum ini gratis dan disetiap hari Rabu dan Sabtu ada tur gratis juga yang akan menjelaskan tentang benda-benda di museum ini.", 
+        "line": 62, 
+        "range": [
+            4628, 
+            4772
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4670, 
+                    4676
+                ], 
+                "name": "museum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Indahnya Anapji Pond di malam hari", 
+        "line": 64, 
+        "range": [
+            4774, 
+            4807
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4786, 
+                    4792
+                ], 
+                "name": "museum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tujuan saya yang terakhir di Gyeongju Korea adalah Gyeongju Donggung Palace and Wolji Pond. Nah, sebutan lainnya adalah Anapji Pond yang dinamakan pada zaman Goryeo dan Joseon.", 
+        "line": 66, 
+        "range": [
+            4809, 
+            4984
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4864, 
+                    4872
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4873, 
+                    4878
+                ], 
+                "name": "Korea"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4886, 
+                    4910
+                ], 
+                "name": "Gyeongju Donggung Palace"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4915, 
+                    4925
+                ], 
+                "name": "Wolji Pond"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4955, 
+                    4966
+                ], 
+                "name": "Anapji Pond"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Donggung Palace merupakan istana bagi putra mahkota pada saat Kerajaan Silla. Di siang hari memang viewnya agak biasa. Tapi ketika malam tiba, lampu-lampu disekitar bangunan kolam menyala dan terlihat pantulan yang indah pada air kolam.", 
+        "line": 68, 
+        "range": [
+            4986, 
+            5221
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5013, 
+                    5028
+                ], 
+                "name": "Donggung Palace"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5039, 
+                    5045
+                ], 
+                "name": "istana"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5187, 
+                    5192
+                ], 
+                "name": "kolam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Anapji Pond/Wolji Pond", 
+        "line": 70, 
+        "range": [
+            5223, 
+            5262
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5243, 
+                    5248
+                ], 
+                "name": "kolam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Anaji Pond atau Wolji Pond adalah 3,000 won untuk dewasa (diatas 19 tahun), 2,000 won untuk remaja (13-18 tahun), 1,000 won untuk anak-anak (7 -12 tahun), dan gratis untuk anak-anak dibawah 7 tahun.", 
+        "line": 72, 
+        "range": [
+            5264, 
+            5479
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5269, 
+                    5280
+                ], 
+                "name": "Anapji Pond"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5281, 
+                    5291
+                ], 
+                "name": "Wolji Pond"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5311, 
+                    5321
+                ], 
+                "name": "Anaji Pond"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5327, 
+                    5337
+                ], 
+                "name": "Wolji Pond"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Daereungwon Tumuli Park, kuburan para bangsawan", 
+        "line": 74, 
+        "range": [
+            5481, 
+            5527
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Area perkuburan yang disebut dengan tumuli ini sangat unik karena bentuknya yang seperti bukit-bukit kecil. Sekitar 20 kuburan bisa ditemukan terutama Cheonmachong Tomb dimana peti mayat kayu diletakkan di sebuah ruangan dan atasnya ditumpuk dengan tanah.", 
+        "line": 76, 
+        "range": [
+            5529, 
+            5783
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5596, 
+                    5602
+                ], 
+                "name": "tumuli"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5649, 
+                    5660
+                ], 
+                "name": "bukit-bukit"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5711, 
+                    5728
+                ], 
+                "name": "Cheonmachong Tomb"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sayangnya saya tidak sempat mendatangi Daereungwon Tumuli Park. Jadi mungkin kalau kamu sempat bisa main juga kesini.", 
+        "line": 78, 
+        "range": [
+            5785, 
+            5901
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5856, 
+                    5879
+                ], 
+                "name": "Daereungwon Tumuli Park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Daereungwon Tumuli Park", 
+        "line": 80, 
+        "range": [
+            5903, 
+            5943
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Daereungwon Tumuli Park adalah 3,000 won untuk dewasa (diatas 19 tahun), 2,000 won untuk remaja (13-18 tahun), 1,000 won untuk anak-anak (7 -12 tahun), dan gratis untuk anak-anak dibawah 7 tahun.", 
+        "line": 82, 
+        "range": [
+            5945, 
+            6157
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5954, 
+                    5977
+                ], 
+                "name": "Daereungwon Tumuli Park"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5997, 
+                    6020
+                ], 
+                "name": "Daereungwon Tumuli Park"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Menyantap hidangan khas di Gyeongju Korea", 
+        "line": 84, 
+        "range": [
+            6159, 
+            6199
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau sudah sampai Gyeongju jangan lupa untuk menyantap makanan khasnya yang dikenal dengan ssambap. Nah, biasanya makanan akan dihidang dengan berbagai macam hidangan pelengkap yang disebut banchan seperti di foto ini.", 
+        "line": 86, 
+        "range": [
+            6201, 
+            6419
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6221, 
+                    6229
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6230, 
+                    6235
+                ], 
+                "name": "Korea"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6256, 
+                    6264
+                ], 
+                "name": "Gyeongju"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berwisata ke Gyeongju adalah salah satu bagian dari cerita pengalaman saya liburan ke Korea Selatan. Semoga kamu berkesempatan juga mengunjungi kota bersejarah ini. Jangan lupa sebelum ke Korea Selatan harus apply visa terlebih dahulu. Caranya silahkan baca di sini.", 
+        "line": 88, 
+        "range": [
+            6421, 
+            6686
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6471, 
+                    6479
+                ], 
+                "name": "Gyeongju"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6544, 
+                    6557
+                ], 
+                "name": "Korea Selatan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6602, 
+                    6606
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6646, 
+                    6659
+                ], 
+                "name": "Korea Selatan"
+            }
+        ]
+    }
+]

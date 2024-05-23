@@ -1,0 +1,2238 @@
+[
+    {
+        "text": "October 6, 2022 Pendakian Gunung Argopuro Jalur Bremi \u2013 Baderan", 
+        "line": 0, 
+        "range": [
+            1, 
+            65
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    26, 
+                    41
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    48, 
+                    53
+                ], 
+                "name": "Bremi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    56, 
+                    63
+                ], 
+                "name": "Baderan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Baca pengalaman saya mendaki Gunung Argopuro melalui jalur pendakian Bremi dan turunnya di Baderan. Berapa lama waktu yang dibutuhkan untuk melakukan pendakian Gunung Argopuro? Bagaimana cara menuju ke titik mula jalur pendakian Gunung Argopuro? Simak itinerary-lengkapnya di sini!", 
+        "line": 2, 
+        "range": [
+            67, 
+            347
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    94, 
+                    109
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    118, 
+                    123
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    134, 
+                    139
+                ], 
+                "name": "Bremi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    156, 
+                    163
+                ], 
+                "name": "Baderan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    225, 
+                    240
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    278, 
+                    283
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    294, 
+                    309
+                ], 
+                "name": "Gunung Argopuro"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Argopuro adalah salah satu gunung yang terletak di Jawa Timur tepatnya di Kabupaten Probolinggo.", 
+        "line": 4, 
+        "range": [
+            349, 
+            451
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    382, 
+                    388
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    406, 
+                    416
+                ], 
+                "name": "Jawa Timur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    429, 
+                    450
+                ], 
+                "name": "Kabupaten Probolinggo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau dibandingkan dengan gunung lain disekitar, mungkin gunung ini kurang populer untuk para pendaki karena membutuhkan waktu yang lama.", 
+        "line": 6, 
+        "range": [
+            453, 
+            589
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    479, 
+                    485
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    510, 
+                    516
+                ], 
+                "name": "gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Argopuro terkenal dengan predikat gunung dengan jalur pendakian terpanjang di Jawa dengan total jarak 40 km.", 
+        "line": 8, 
+        "range": [
+            591, 
+            705
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    592, 
+                    607
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    633, 
+                    639
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    647, 
+                    652
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    677, 
+                    681
+                ], 
+                "name": "Jawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Argopuro memiliki keindahan alam dengan pemandangan luas padang rumput di lembah perbukitan.", 
+        "line": 10, 
+        "range": [
+            707, 
+            805
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    709, 
+                    724
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    773, 
+                    786
+                ], 
+                "name": "padang rumput"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    790, 
+                    796
+                ], 
+                "name": "lembah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari semak-semak sampai rumput tinggi berwarna kuning keemasan, view-nya yang berbeda membuat pendakian terasa menyenangkan.", 
+        "line": 12, 
+        "range": [
+            807, 
+            930
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Argopuro memiliki tiga puncak gunung yaitu Puncak Hyang atau Arca, Puncak Rengganis, dan yang tertinggi adalah Puncak Argopuro dengan ketinggian 3,088 mdpl.", 
+        "line": 14, 
+        "range": [
+            932, 
+            1094
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    936, 
+                    951
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    986, 
+                    998
+                ], 
+                "name": "Puncak Hyang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1004, 
+                    1008
+                ], 
+                "name": "Arca"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1010, 
+                    1026
+                ], 
+                "name": "Puncak Rengganis"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1054, 
+                    1069
+                ], 
+                "name": "Puncak Argopuro"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur Pendakian Gunung Argopuro, via Bremi Atau Baderan?", 
+        "line": 16, 
+        "range": [
+            1096, 
+            1151
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1101, 
+                    1106
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1117, 
+                    1132
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1138, 
+                    1143
+                ], 
+                "name": "Bremi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur pendakian bisa melalui dua titik permualaan, yaitu Bremi atau Baderan.", 
+        "line": 18, 
+        "range": [
+            1153, 
+            1228
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1159, 
+                    1164
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1216, 
+                    1221
+                ], 
+                "name": "Bremi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Argopuro memiliki starting point dan finish point yang berbeda, seperti jalur pendakian Gunung Rinjani juga yang bisa naik lewat Sembalun dan turun lewat Senaru.", 
+        "line": 20, 
+        "range": [
+            1230, 
+            1397
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1237, 
+                    1252
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1316, 
+                    1321
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1332, 
+                    1346
+                ], 
+                "name": "Gunung Rinjani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1373, 
+                    1381
+                ], 
+                "name": "Sembalun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadi kalau mulainya dari Bremi berarti selesainya di Baderan, atau sebaliknya.", 
+        "line": 22, 
+        "range": [
+            1399, 
+            1476
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1432, 
+                    1437
+                ], 
+                "name": "Bremi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1460, 
+                    1467
+                ], 
+                "name": "Baderan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lama waktu yang dibutuhkan untuk pendakian ini kurang lebih sekitar 4 hari sesuai stamina masing-masing.", 
+        "line": 24, 
+        "range": [
+            1478, 
+            1581
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lebih mending lewat Bremi atau Baderan?", 
+        "line": 26, 
+        "range": [
+            1583, 
+            1621
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1613, 
+                    1618
+                ], 
+                "name": "Bremi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau berdasarkan pengalaman saya lebih milih untuk memulai pendakian melalui jalur Bremi kemudian finish-nya di Baderan.", 
+        "line": 28, 
+        "range": [
+            1623, 
+            1743
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1624, 
+                    1631
+                ], 
+                "name": "Baderan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1718, 
+                    1723
+                ], 
+                "name": "Bremi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Walaupun jalur pendakian Gunung Argopuro lewat Bremi lebih terjal tetapi cuma di hari pertama saja kok yang agak capek.", 
+        "line": 30, 
+        "range": [
+            1745, 
+            1863
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1747, 
+                    1754
+                ], 
+                "name": "Baderan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1766, 
+                    1771
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1782, 
+                    1797
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1804, 
+                    1809
+                ], 
+                "name": "Bremi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari-hari seterusnya jalurnya makin landai dan cuma turunan.", 
+        "line": 32, 
+        "range": [
+            1865, 
+            1924
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1899, 
+                    1907
+                ], 
+                "name": "jalurnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nanti pas udah mau nyampe Baderan baru tersiksa dikit soalnya jalannya tajam karena batu kali.", 
+        "line": 34, 
+        "range": [
+            1926, 
+            2019
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1966, 
+                    1973
+                ], 
+                "name": "Baderan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2002, 
+                    2010
+                ], 
+                "name": "jalannya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau start dari Baderan nanti mendakinya bakal terasa lama benget.", 
+        "line": 36, 
+        "range": [
+            2021, 
+            2087
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2053, 
+                    2060
+                ], 
+                "name": "Baderan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara Menuju Gunung Argopuro", 
+        "line": 38, 
+        "range": [
+            2089, 
+            2115
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kota terdekat untuk menuju jalur pendakian Gunung Argopuro adalah melalui Probolinggo. Dari Surabaya banyak bus menuju Probolinggo.", 
+        "line": 40, 
+        "range": [
+            2117, 
+            2247
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2117, 
+                    2132
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2134, 
+                    2138
+                ], 
+                "name": "Kota"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2161, 
+                    2166
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2177, 
+                    2192
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2208, 
+                    2219
+                ], 
+                "name": "Probolinggo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2226, 
+                    2234
+                ], 
+                "name": "Surabaya"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2242, 
+                    2245
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari sini kamu bisa pilih mau lewat jalur Bremi atau Baderan.", 
+        "line": 42, 
+        "range": [
+            2249, 
+            2309
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2253, 
+                    2264
+                ], 
+                "name": "Probolinggo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Paling gampang sih langsung nyarter angkot atau mobil.", 
+        "line": 44, 
+        "range": [
+            2311, 
+            2364
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2320, 
+                    2327
+                ], 
+                "name": "Baderan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi kalau mau naik transportasi umum bisa menggunakan dua cara ini untuk mendaki Gunung Argopuro:", 
+        "line": 46, 
+        "range": [
+            2366, 
+            2463
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2366, 
+                    2372
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2378, 
+                    2383
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2406, 
+                    2423
+                ], 
+                "name": "transportasi umum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Probolinggo \u2013 Bremi. Berangkat dari Terminal AKAS Lama. Busnya ada dari jam 6 pagi sampai 5.30 sore. Lama perjalanan kurang lebih 2 jam dengan harga tiket Rp 17,000", 
+        "line": 48, 
+        "range": [
+            2465, 
+            2630
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2468, 
+                    2483
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2486, 
+                    2497
+                ], 
+                "name": "Probolinggo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2500, 
+                    2505
+                ], 
+                "name": "Bremi"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2522, 
+                    2540
+                ], 
+                "name": "Terminal AKAS Lama"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2542, 
+                    2548
+                ], 
+                "name": "Busnya"
+            }
+        ]
+    }, 
+    {
+        "text": "Probolinggo \u2013 Baderan. Pertama kamu harus naik bus dulu tujuan Situbondo dengan waktu perjalanan kurang lebih satu jam, kemudian dilanjutkan dengan angkot ke Baderan sekitar 45 menit. Harga tiket totalnya tidak melebihi Rp 50,000", 
+        "line": 49, 
+        "range": [
+            2631, 
+            2861
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2651, 
+                    2662
+                ], 
+                "name": "Probolinggo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2665, 
+                    2672
+                ], 
+                "name": "Baderan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2698, 
+                    2701
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2714, 
+                    2723
+                ], 
+                "name": "Situbondo"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2799, 
+                    2805
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2809, 
+                    2816
+                ], 
+                "name": "Baderan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Estimasi lama pendakian Gunung Argopuro", 
+        "line": 51, 
+        "range": [
+            2863, 
+            2901
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Estimasi lama pendakian Gunung Argopuro memakan waktu 4 hari, tidak termasuk dengan perjalanan pulang pergi menuju basecamp Gunung Argopuro. Kalau sama bus dari Jakarta kemarin, totalnya 7 hari.", 
+        "line": 53, 
+        "range": [
+            2903, 
+            3096
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2906, 
+                    2921
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2947, 
+                    2962
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3047, 
+                    3062
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3075, 
+                    3078
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3084, 
+                    3091
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 54, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut adalah estimasi waktu pendakian Gunung Argopuro berdasarkan pengalaman saya: ", 
+        "line": 55, 
+        "range": [
+            3098, 
+            3182
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3159, 
+                    3174
+                ], 
+                "name": "Gunung Argopuro"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 56, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari Pertama: Bremi \u2013 Danau Taman Hidup", 
+        "line": 57, 
+        "range": [
+            3184, 
+            3224
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3220, 
+                    3225
+                ], 
+                "name": "Bremi"
+            }
+        ]
+    }, 
+    {
+        "text": "Jam 12.00 \u2013 15.30. Lama waktu pendakian 3.5 jam", 
+        "line": 58, 
+        "range": [
+            3225, 
+            3273
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3228, 
+                    3245
+                ], 
+                "name": "Danau Taman Hidup"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rute pendakian Gunung Argopuro dimulai dengan melewati perkampungan dan perkebunan penduduk kemudian masuk ke area hutan.", 
+        "line": 60, 
+        "range": [
+            3275, 
+            3395
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3310, 
+                    3325
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3350, 
+                    3362
+                ], 
+                "name": "perkampungan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3367, 
+                    3377
+                ], 
+                "name": "perkebunan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalurnya mulai menanjak.", 
+        "line": 62, 
+        "range": [
+            3397, 
+            3420
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3410, 
+                    3415
+                ], 
+                "name": "hutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Disini ada dua jalur, yang satunya memotong tapi tanjakannya lumayan aduhai tapi pastinya lebih cepat.", 
+        "line": 64, 
+        "range": [
+            3422, 
+            3523
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3459, 
+                    3464
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang satu lagi jalur agak landai seperti ular tetapi agak membosankan sampai ke danau Argopuro yang juga disebut Danau Taman Hidup.", 
+        "line": 66, 
+        "range": [
+            3525, 
+            3655
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3563, 
+                    3568
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3628, 
+                    3642
+                ], 
+                "name": "danau Argopuro"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untungnya kami sampai sebelum gelap jadi masih bisa foto-foto di danau.", 
+        "line": 68, 
+        "range": [
+            3657, 
+            3727
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3661, 
+                    3678
+                ], 
+                "name": "Danau Taman Hidup"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari Kedua: Danau Taman Hidup \u2013 Pertigaan", 
+        "line": 70, 
+        "range": [
+            3729, 
+            3771
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3746, 
+                    3751
+                ], 
+                "name": "danau"
+            }
+        ]
+    }, 
+    {
+        "text": "Jam 9.30 \u2013 15.30. Lama waktu pendakian 8 jam", 
+        "line": 71, 
+        "range": [
+            3772, 
+            3817
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3786, 
+                    3795
+                ], 
+                "name": "Pertigaan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 72, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari sini tidak ada mata air, jadinya kami mengisi air dari danau.", 
+        "line": 73, 
+        "range": [
+            3819, 
+            3884
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 74, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah saya cek lagi katanya air danau tidak baik untuk diminum karena agak kotor.", 
+        "line": 75, 
+        "range": [
+            3886, 
+            3968
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3902, 
+                    3907
+                ], 
+                "name": "danau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3944, 
+                    3949
+                ], 
+                "name": "danau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 76, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadi bawalah air yang lebih disini. Perjalanan kami lanjutkan sampai pertigaan puncak.", 
+        "line": 77, 
+        "range": [
+            3970, 
+            4055
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 78, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalurnya makin susah setidaknya 3 jam sebelum sampai pertigaan.", 
+        "line": 79, 
+        "range": [
+            4057, 
+            4119
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4064, 
+                    4073
+                ], 
+                "name": "pertigaan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4083, 
+                    4091
+                ], 
+                "name": "Jalurnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 80, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tanjakannya yang tajam ditambah dengan berat tas carrier bener-bener bikin kewalahan.", 
+        "line": 81, 
+        "range": [
+            4121, 
+            4205
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4136, 
+                    4145
+                ], 
+                "name": "pertigaan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 82, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pastikan packing carrier yang benar sebelum memulai pendakian agar tidak menjadi beban di saat mendaki gunung.", 
+        "line": 83, 
+        "range": [
+            4207, 
+            4316
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari Ketiga: Summit Attack \u2013 Cikasur", 
+        "line": 85, 
+        "range": [
+            4318, 
+            4355
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4338, 
+                    4344
+                ], 
+                "name": "gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "Jam 6.40 \u2013 15.15. Lama waktu pendakian 10 jam termasuk foto-foto", 
+        "line": 86, 
+        "range": [
+            4356, 
+            4421
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4376, 
+                    4383
+                ], 
+                "name": "Cikasur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari pertigaan ke puncak sudah lumayan dekat. Pertama puncak Arca atau Hyang yang cuma sekitar 15 menit dari pertigaan.", 
+        "line": 88, 
+        "range": [
+            4423, 
+            4541
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4455, 
+                    4464
+                ], 
+                "name": "pertigaan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4504, 
+                    4515
+                ], 
+                "name": "puncak Arca"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4521, 
+                    4526
+                ], 
+                "name": "Hyang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah itu kami ke Puncak Argopuro dan yang terakhir Puncak Rengganis.", 
+        "line": 90, 
+        "range": [
+            4543, 
+            4613
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4559, 
+                    4568
+                ], 
+                "name": "pertigaan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4591, 
+                    4606
+                ], 
+                "name": "Puncak Argopuro"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sejujurnya sih puncak gunung di Argopuro tidak se-wah puncak lain di Indonesia.", 
+        "line": 92, 
+        "range": [
+            4615, 
+            4693
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4625, 
+                    4641
+                ], 
+                "name": "Puncak Rengganis"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4666, 
+                    4684
+                ], 
+                "name": "gunung di Argopuro"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadi keingat Gunung Papandayan, sempat kecewa juga sama puncaknya.", 
+        "line": 94, 
+        "range": [
+            4695, 
+            4760
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4713, 
+                    4722
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4738, 
+                    4755
+                ], 
+                "name": "Gunung Papandayan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang saya suka area sekitar Puncak Rengganis dengan bebatuan sulfur berwarna putih.", 
+        "line": 96, 
+        "range": [
+            4762, 
+            4844
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4821, 
+                    4837
+                ], 
+                "name": "Puncak Rengganis"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah kurang lebih 3 jam berfoto-foto, kami melanjutkan perjalanan dari pertigaan turun ke Rawa Embik. Kurang lebih sejam sampai.", 
+        "line": 98, 
+        "range": [
+            4846, 
+            4976
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4952, 
+                    4961
+                ], 
+                "name": "pertigaan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Rawa Embik terdapat mata air. Setelah beristirahat sebentar kamu langsung menuju Cikasur.", 
+        "line": 100, 
+        "range": [
+            4978, 
+            5069
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5014, 
+                    5024
+                ], 
+                "name": "Rawa Embik"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak rerumputan tinggi disepanjang jalan.", 
+        "line": 102, 
+        "range": [
+            5071, 
+            5113
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5095, 
+                    5102
+                ], 
+                "name": "Cikasur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari Keempat: Cikasur \u2013 Baderan", 
+        "line": 104, 
+        "range": [
+            5115, 
+            5147
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5142, 
+                    5147
+                ], 
+                "name": "jalan"
+            }
+        ]
+    }, 
+    {
+        "text": "Jam 9.00 \u2013 19.00. Lama waktu pendakian 10 jam", 
+        "line": 105, 
+        "range": [
+            5148, 
+            5194
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5164, 
+                    5171
+                ], 
+                "name": "Cikasur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5174, 
+                    5181
+                ], 
+                "name": "Baderan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 106, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Awalnya kami berencana camping semalam lagi di Pos Mata Air 1 kemudian keesokannya lanjut sampai Baderan kurang lebih 4 jam lagi.", 
+        "line": 107, 
+        "range": [
+            5196, 
+            5324
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5276, 
+                    5290
+                ], 
+                "name": "Pos Mata Air 1"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 108, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tetapi kami memutuskan untuk langsung tancap ke Baderan. Jalurnya tidak terlalu berat, terus melalui padang savana luas.", 
+        "line": 109, 
+        "range": [
+            5326, 
+            5445
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5326, 
+                    5333
+                ], 
+                "name": "Baderan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5408, 
+                    5415
+                ], 
+                "name": "Baderan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5417, 
+                    5425
+                ], 
+                "name": "Jalurnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 110, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pas sampai Pos Mata Air 2 disinilah penyiksaan sebenarnya.", 
+        "line": 111, 
+        "range": [
+            5447, 
+            5504
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5461, 
+                    5474
+                ], 
+                "name": "padang savana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 112, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur turunan tanah yang kecil dan ditengahnya ada cekungan karena ban sepeda motor membuat turunan lebih sulit apalagi debunya.", 
+        "line": 113, 
+        "range": [
+            5506, 
+            5633
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5542, 
+                    5547
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5613, 
+                    5625
+                ], 
+                "name": "sepeda motor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 114, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa kilometer sebelum sampai Baderan jalurnya dipenuhi batu-batu tajam yang membuat telapak kaki saya sakit.", 
+        "line": 115, 
+        "range": [
+            5635, 
+            5747
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5706, 
+                    5713
+                ], 
+                "name": "Baderan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 116, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya penderitaan berlalu setelah sampai di Baderan.", 
+        "line": 117, 
+        "range": [
+            5749, 
+            5803
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 118, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Informasi Pendakian Gunung Argopuro", 
+        "line": 119, 
+        "range": [
+            5805, 
+            5839
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 120, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk atau simaksi untuk pendakian Gunung Argopuro: Rp 20,000/hari (weekdays), Rp 30,000/hari (weekend)", 
+        "line": 121, 
+        "range": [
+            5841, 
+            5955
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5864, 
+                    5879
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5928, 
+                    5943
+                ], 
+                "name": "Gunung Argopuro"
+            }
+        ]
+    }, 
+    {
+        "text": "Gunung Argopuro memiliki mata air cukup banyak. Hanya saja tidak ada mata air dari Rawa Embik \u2013 Danau Taman Hidup jadi perlu bawa air lebih banyak disini.", 
+        "line": 122, 
+        "range": [
+            5956, 
+            6111
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5997, 
+                    6012
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6080, 
+                    6090
+                ], 
+                "name": "Rawa Embik"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6093, 
+                    6110
+                ], 
+                "name": "Danau Taman Hidup"
+            }
+        ]
+    }, 
+    {
+        "text": "Kalau dari Baderan bisa naik ojek sampai Pos Mata Air 1 dengan harga kurang lebih Rp 250,000.", 
+        "line": 123, 
+        "range": [
+            6112, 
+            6204
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6163, 
+                    6170
+                ], 
+                "name": "Baderan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6181, 
+                    6185
+                ], 
+                "name": "ojek"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 124, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penutup", 
+        "line": 125, 
+        "range": [
+            6206, 
+            6212
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 126, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kesimpulannya, Gunung Argopuro ini cukup berbeda dengan pendakian gunung lainnya, khususnya pemandangan savana atau padang rumputnya yang luas dan indah.", 
+        "line": 127, 
+        "range": [
+            6214, 
+            6366
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6271, 
+                    6286
+                ], 
+                "name": "Gunung Argopuro"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6322, 
+                    6328
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6360, 
+                    6366
+                ], 
+                "name": "savana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 128, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya merasa sangat kecil ditengah padang rumput yang luas.", 
+        "line": 129, 
+        "range": [
+            6368, 
+            6425
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6372, 
+                    6388
+                ], 
+                "name": "padang rumputnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 130, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kurang lebih ada 7 savana yang kami lewati.", 
+        "line": 131, 
+        "range": [
+            6427, 
+            6469
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6445, 
+                    6458
+                ], 
+                "name": "padang rumput"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 132, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cikasur juga merupakan salah satu tempat camping yang paling indah menurut saya.", 
+        "line": 133, 
+        "range": [
+            6471, 
+            6550
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6490, 
+                    6496
+                ], 
+                "name": "savana"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6516, 
+                    6523
+                ], 
+                "name": "Cikasur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 134, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya tidak akan melupakan indahnya matahari terbit dimana cahayanya membuat warna disekitar padang rumputnya keemasan.", 
+        "line": 135, 
+        "range": [
+            6552, 
+            6669
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 136, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terima kasih juga untuk partner pendakian saya, Vivi, Anton, Irvan, dan Andreas. Ada kalian pendakian ini jadi lebih seru!", 
+        "line": 137, 
+        "range": [
+            6671, 
+            6792
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6690, 
+                    6706
+                ], 
+                "name": "padang rumputnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 138, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Apakah kamu pernah mendaki Gunung Argopuro?", 
+        "line": 139, 
+        "range": [
+            6794, 
+            6836
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 140, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Silahkan share pengalaman kamu di kolom komentar ya. Jika artikel ini bermanfaat bagi kamu, share juga ke facebook atau twitter kamu ya.", 
+        "line": 141, 
+        "range": [
+            6838, 
+            6973
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6869, 
+                    6884
+                ], 
+                "name": "Gunung Argopuro"
+            }
+        ]
+    }
+]

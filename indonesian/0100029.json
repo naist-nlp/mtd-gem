@@ -1,0 +1,2991 @@
+[
+    {
+        "text": "May 27, 2022    Pengalaman Jalan-Jalan Ke Belitung Sendiri Tanpa Tour (Itinerary + Biaya)", 
+        "line": 0, 
+        "range": [
+            1, 
+            89
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    42, 
+                    50
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Baca artikel ini karena saya akan sharing pengalaman saya, itinerary jalan-jalan ke Belitung, rincian biaya, dan tips liburan ke Belitung.", 
+        "line": 2, 
+        "range": [
+            91, 
+            228
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    175, 
+                    183
+                ], 
+                "name": "Belitung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    220, 
+                    228
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pasti sudah tidak asing lagi kan dengan nama Belitung?", 
+        "line": 4, 
+        "range": [
+            230, 
+            283
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    276, 
+                    284
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ya, Belitung termasuk salah satu pulau terindah di Indonesia dan juga populer sebagai destinasi wisata khususnya pada akhir pekan.", 
+        "line": 6, 
+        "range": [
+            285, 
+            414
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    291, 
+                    299
+                ], 
+                "name": "Belitung"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    320, 
+                    325
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    338, 
+                    347
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Belitung terkenal sejak menjadi lokasi syuting film \u201cLaskar Pelangi\u201c.", 
+        "line": 8, 
+        "range": [
+            416, 
+            488
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    419, 
+                    427
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ciri khas dari pulau ini selain pantai pasir putihnya adalah bebatuan yang unik. Yuk, ikuti perjalanan saya eksplor Belitung!", 
+        "line": 10, 
+        "range": [
+            490, 
+            614
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    522, 
+                    528
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    606, 
+                    614
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara ke Belitung dari Jakarta", 
+        "line": 12, 
+        "range": [
+            616, 
+            644
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    625, 
+                    633
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Jakarta kamu bisa naik pesawat dengan tujuan Tanjung Pandan.", 
+        "line": 14, 
+        "range": [
+            646, 
+            710
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    653, 
+                    660
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    676, 
+                    683
+                ], 
+                "name": "pesawat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Maskapai yang menyediakan penerbangan ini diantaranya adalah Citilink, Lion Air, dan Sriwijaya Air.", 
+        "line": 16, 
+        "range": [
+            712, 
+            810
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    776, 
+                    784
+                ], 
+                "name": "Citilink"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    786, 
+                    794
+                ], 
+                "name": "Lion Air"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lama penerbangan menuju Belitung dari Jakarta hanya sekitar 1 jam saja.", 
+        "line": 18, 
+        "range": [
+            812, 
+            882
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    840, 
+                    848
+                ], 
+                "name": "Belitung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    854, 
+                    861
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Umumnya harga tiket pesawat pulang pergi Jakarta \u2013 Tanjung Pandan sekitar Rp 700,000 \u2013 Rp 800,000.", 
+        "line": 20, 
+        "range": [
+            884, 
+            985
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    909, 
+                    916
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    930, 
+                    937
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    940, 
+                    954
+                ], 
+                "name": "Tanjung Pandan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itinerary saya jalan-jalan ke Belitung", 
+        "line": 22, 
+        "range": [
+            987, 
+            1024
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di bagian isi saya akan share tentang pengalaman saya jalan-jalan ke Belitung sendiri tanpa ikutan tour beserta itinerary traveling saya.", 
+        "line": 24, 
+        "range": [
+            1026, 
+            1162
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1098, 
+                    1106
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: Penerbangan ke Belitung \u2013 Danau Kaolin \u2013 Pantai Tanjung Tinggi", 
+        "line": 26, 
+        "range": [
+            1164, 
+            1236
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1190, 
+                    1198
+                ], 
+                "name": "Belitung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1201, 
+                    1213
+                ], 
+                "name": "Danau Kaolin"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1216, 
+                    1237
+                ], 
+                "name": "Pantai Tanjung Tinggi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya dapat tiket pesawat murah Jakarta \u2013 Tanjung Pandan PP seharga Rp 250,000 saja, saat itu dengan maskapai Batavia yang sekarang tidak beroperasi lagi.", 
+        "line": 28, 
+        "range": [
+            1238, 
+            1392
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1256, 
+                    1263
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1270, 
+                    1277
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1280, 
+                    1294
+                ], 
+                "name": "Tanjung Pandan"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1348, 
+                    1355
+                ], 
+                "name": "Batavia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mau tau gimana saya bisa selalu dapat tiket murah, baca post saya sebelumnya tentang panduan dan tips liburan hemat ala backpacker yang pernah saya tulis.", 
+        "line": 30, 
+        "range": [
+            1394, 
+            1553
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman saya diawali dengan drama hampir ketinggalan pesawat karena saya datang terlambat ke bandara.", 
+        "line": 32, 
+        "range": [
+            1555, 
+            1658
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1612, 
+                    1619
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1652, 
+                    1659
+                ], 
+                "name": "bandara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadwal penerbangan seharusnya jam 9.45 pagi dan saya tiba di Bandara Soekarno Hatta tepat jam segitu coba.", 
+        "line": 34, 
+        "range": [
+            1660, 
+            1765
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1723, 
+                    1745
+                ], 
+                "name": "Bandara Soekarno Hatta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beruntung sekali saya masih bisa check-in karena pesawatnya delay.", 
+        "line": 36, 
+        "range": [
+            1767, 
+            1832
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1819, 
+                    1829
+                ], 
+                "name": "pesawatnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di Tanjung Pandan, host saya Dida dari couchsurfing menjemput saya dari bandara ke rumahnya.", 
+        "line": 38, 
+        "range": [
+            1834, 
+            1940
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1856, 
+                    1870
+                ], 
+                "name": "Tanjung Pandan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1925, 
+                    1932
+                ], 
+                "name": "bandara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertama kami makan siang dulu. Dida membawa saya ke sebuah rumah makan terkenal yaitu Mie Atep Belitung.", 
+        "line": 40, 
+        "range": [
+            1942, 
+            2045
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2006, 
+                    2017
+                ], 
+                "name": "rumah makan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Namanya ke Belitung pasti tidak afdol kalau belum berkunjung ke rumah makan ini.", 
+        "line": 42, 
+        "range": [
+            2047, 
+            2126
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2064, 
+                    2072
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang saya suka dari Mie Belitung adalah tekstur mienya yang tidak terlalu lembut dan tidak terlalu keras, dipadukan dengan saus dengan rasa campuran manis dan gurih, enak bukan main!", 
+        "line": 44, 
+        "range": [
+            2128, 
+            2309
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah makan siang, Dida tidak bisa lanjut menemani saya karena harus kerja.", 
+        "line": 46, 
+        "range": [
+            2311, 
+            2387
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dengan bantuan Dida, saya pun menyewa motor.", 
+        "line": 48, 
+        "range": [
+            2389, 
+            2432
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Transportasi umum di Belitung memang tidak bisa diandalkan, jadi lebih baik sewa motor atau mobil saja untuk berkeliling pulau.", 
+        "line": 50, 
+        "range": [
+            2434, 
+            2560
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2436, 
+                    2441
+                ], 
+                "name": "motor"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2444, 
+                    2461
+                ], 
+                "name": "Transportasi umum"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2465, 
+                    2473
+                ], 
+                "name": "Belitung"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2525, 
+                    2530
+                ], 
+                "name": "motor"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2536, 
+                    2541
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saatnya eksplor Belitung!", 
+        "line": 52, 
+        "range": [
+            2562, 
+            2586
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2565, 
+                    2570
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Danau Kaolin", 
+        "line": 54, 
+        "range": [
+            2588, 
+            2599
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2589, 
+                    2597
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemberhentian pertama saya adalah Danau Kaolin.", 
+        "line": 56, 
+        "range": [
+            2601, 
+            2647
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Danau Kaolin bukanlah danau alami melainkan sebuah area pertambangan mineral yaitu \u201cKaolin\u201d yang digunakan sebagai bahan dasar pembuatan cat, kosmetik, atau keramik.", 
+        "line": 58, 
+        "range": [
+            2649, 
+            2817
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2663, 
+                    2675
+                ], 
+                "name": "Danau Kaolin"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2685, 
+                    2690
+                ], 
+                "name": "danau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya cukup terpukau ketika melihat area pertambangan ini. Rasanya seperti melihat salju karena bukit pasir kaolin ini berwarna putih.", 
+        "line": 60, 
+        "range": [
+            2819, 
+            2951
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2925, 
+                    2930
+                ], 
+                "name": "bukit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Warna dari Danau Kaolin juga indah, dengan warna hijau sedikit kebiru-biruan.", 
+        "line": 62, 
+        "range": [
+            2953, 
+            3029
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2976, 
+                    2988
+                ], 
+                "name": "Danau Kaolin"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kenapa disebut dengan danau? Alasannya karena para penambang melakukan aktifitas penggalian dan meninggalkan lubang.", 
+        "line": 64, 
+        "range": [
+            3031, 
+            3146
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3066, 
+                    3071
+                ], 
+                "name": "danau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lubang tersebut akhirnya diisi dengan air hujan dan berubah menjadi sebuah danau.", 
+        "line": 66, 
+        "range": [
+            3148, 
+            3228
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai Tanjung Tinggi", 
+        "line": 68, 
+        "range": [
+            3230, 
+            3250
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3237, 
+                    3242
+                ], 
+                "name": "danau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selanjutnya saya menuju Pantai Tanjung Tinggi di mana film \u201cLaskar Pelangi\u201d melakukan syuting di tempat ini juga.", 
+        "line": 70, 
+        "range": [
+            3252, 
+            3368
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3292, 
+                    3313
+                ], 
+                "name": "Pantai Tanjung Tinggi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jaraknya cukup jauh dari pusat kota Tanjung Pandan, sekitar 30 km.", 
+        "line": 72, 
+        "range": [
+            3370, 
+            3435
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3414, 
+                    3433
+                ], 
+                "name": "kota Tanjung Pandan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dengan sepeda motor saya melaju ke pantai ini yang tepatnya terletak di Desa Ciput.", 
+        "line": 74, 
+        "range": [
+            3437, 
+            3519
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3458, 
+                    3470
+                ], 
+                "name": "sepeda motor"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3486, 
+                    3492
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kebetulan pas hari biasa, jadi pengunjungnya tidak terlalu ramai.", 
+        "line": 76, 
+        "range": [
+            3521, 
+            3585
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3523, 
+                    3533
+                ], 
+                "name": "Desa Ciput"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai Tanjung Tinggi memiliki pantai pasir putih dengan batuan granit besar yang terstrukur dengan megah.", 
+        "line": 78, 
+        "range": [
+            3587, 
+            3692
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3603, 
+                    3623
+                ], 
+                "name": "Pantai Tanjung Tingg"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3634, 
+                    3640
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya mencoba memanjat salah satu batu besar yang ada. Harus berhati-hati karena cukup tinggi juga.", 
+        "line": 80, 
+        "range": [
+            3694, 
+            3791
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di titik tertentu kamu bisa berjalan ke sisi lain pantai di antara batu dan ketemu dengan pantai kecil yang dikelilingi batuan granit, indahnya luas biasa.", 
+        "line": 82, 
+        "range": [
+            3793, 
+            3947
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3861, 
+                    3867
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3901, 
+                    3907
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: Bukit Perahu \u2013 Tanjung Binga", 
+        "line": 84, 
+        "range": [
+            3949, 
+            3985
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rencana saya sebenarnya di hari kedua adalah mengunjungi Manggar yang terletak di bagian Timur Pulau Belitung untuk melihat replika sekolah yang menjadi lokasi film Laskar Pelangi, dilanjutkan dengan Klenteng Dewi Kwan Im, serta pantai-pantai di sekitar sana.", 
+        "line": 86, 
+        "range": [
+            3987, 
+            4245
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3990, 
+                    4003
+                ], 
+                "name": "Tanjung Binga"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4062, 
+                    4069
+                ], 
+                "name": "Manggar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4100, 
+                    4114
+                ], 
+                "name": "Pulau Belitung"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4205, 
+                    4226
+                ], 
+                "name": "Klenteng Dewi Kwan Im"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jarak antara pusat kota ke Manggar kalau menggunakan motor sekitar 1.5 jam.", 
+        "line": 88, 
+        "range": [
+            4247, 
+            4321
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4293, 
+                    4300
+                ], 
+                "name": "Manggar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Langitnya kurang mendukung nih. Dari pagi hujan deras turun tanpa henti.", 
+        "line": 90, 
+        "range": [
+            4323, 
+            4394
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya saya harus membatalkan rencana saya berkunjung ke Manggar.", 
+        "line": 92, 
+        "range": [
+            4396, 
+            4462
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hujan baru berhenti jam 3 sore. Karena tidak mau rugi udah sewa motor, saya pergi ke Bukit Perahu dan Tanjung Binga.", 
+        "line": 94, 
+        "range": [
+            4464, 
+            4579
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4476, 
+                    4483
+                ], 
+                "name": "Manggar"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4550, 
+                    4555
+                ], 
+                "name": "motor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bukit Perahu", 
+        "line": 96, 
+        "range": [
+            4581, 
+            4592
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bukit Perahu adalah sebuah resort dan juga restoran yang terletak di tempat yang indah dan pantainya bersih dan menenangkan.", 
+        "line": 98, 
+        "range": [
+            4594, 
+            4717
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4604, 
+                    4616
+                ], 
+                "name": "Bukit Perahu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4618, 
+                    4630
+                ], 
+                "name": "Bukit Perahu"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4645, 
+                    4651
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4661, 
+                    4669
+                ], 
+                "name": "restoran"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4709, 
+                    4718
+                ], 
+                "name": "pantainya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sayangnya tempat ini kurang dijaga dengan baik sehingga kelihatannya kurang menarik.", 
+        "line": 100, 
+        "range": [
+            4719, 
+            4802
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mereka renovasi dikit, atau merapikan bangunan atau area di sekitar si kemudian mempromosikannya pasti bakal jadi tempat yang asik untuk menginap.", 
+        "line": 102, 
+        "range": [
+            4804, 
+            4955
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak perlu jauh-jauh ke Bali untuk berenang atau bersantai di pantai.", 
+        "line": 104, 
+        "range": [
+            4957, 
+            5026
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5009, 
+                    5013
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tanjung Binga", 
+        "line": 106, 
+        "range": [
+            5028, 
+            5040
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu senang fotografi pasti suka ke desa nelayan yang bernama Tanjung Binga.", 
+        "line": 108, 
+        "range": [
+            5042, 
+            5123
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5047, 
+                    5053
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5056, 
+                    5069
+                ], 
+                "name": "Tanjung Binga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika saya ke sana, saya melihat penduduk lokal sedang membangun jembatan dan pondokan yang terbuat dari kayu, mungkin untuk ikan.", 
+        "line": 110, 
+        "range": [
+            5125, 
+            5255
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5139, 
+                    5152
+                ], 
+                "name": "Tanjung Binga"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5221, 
+                    5229
+                ], 
+                "name": "jembatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terlihat juga ibu-ibu sedang menyiapkan sup ketan hitam untuk para bapak-bapak dan pemuda yang sedang bekerja.", 
+        "line": 112, 
+        "range": [
+            5257, 
+            5366
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3: Hopping Island di Belitung", 
+        "line": 114, 
+        "range": [
+            5368, 
+            5400
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari ini rencananya hopping island ke pulau-pulau di sekitar Belitung, yang juga menjadi alasan utama kenapa saya ingin sekali liburan ke Belitung.", 
+        "line": 116, 
+        "range": [
+            5402, 
+            5548
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5425, 
+                    5433
+                ], 
+                "name": "Belitung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5473, 
+                    5484
+                ], 
+                "name": "pulau-pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5496, 
+                    5504
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kabarnya pulau-pulau di Belitung tidak kalah indahnya dengan pulau yang ada di timur Indonesia, seperti Pulau Derawan di Kalimantan Timur, Pulau Cinta di Gorontalo, atau Pantai Ora di Maluku.", 
+        "line": 118, 
+        "range": [
+            5550, 
+            5740
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5573, 
+                    5581
+                ], 
+                "name": "Belitung"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5593, 
+                    5604
+                ], 
+                "name": "pulau-pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5608, 
+                    5616
+                ], 
+                "name": "Belitung"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5645, 
+                    5650
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5669, 
+                    5678
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5688, 
+                    5701
+                ], 
+                "name": "Pulau Derawan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5705, 
+                    5721
+                ], 
+                "name": "Kalimantan Timur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5723, 
+                    5734
+                ], 
+                "name": "Pulau Cinta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bangun tidur saya langsung melihat ke arah luar jendela dengan perasaan sedikit cemas berharap cuaca hari ini cerah.", 
+        "line": 120, 
+        "range": [
+            5742, 
+            5857
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5754, 
+                    5764
+                ], 
+                "name": "Pantai Ora"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5768, 
+                    5774
+                ], 
+                "name": "Maluku"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Benar saja, matahari bersinar terik.", 
+        "line": 122, 
+        "range": [
+            5859, 
+            5894
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tanjung Kelayang", 
+        "line": 124, 
+        "range": [
+            5896, 
+            5911
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dida mengantar saya ke Tanjung Kelayang, tempat di mana kapal-kapal untuk tur hopping island berangkat.", 
+        "line": 126, 
+        "range": [
+            5913, 
+            6015
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5933, 
+                    5949
+                ], 
+                "name": "Tanjung Kelayang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5974, 
+                    5990
+                ], 
+                "name": "Tanjung Kelayang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sampai di sana saya langsung tanya-tanya ke pemilik kapal apakah ada rombongan yang berangkat, soalnya saya sendiri jadi biar lebih murah nebeng aja.", 
+        "line": 128, 
+        "range": [
+            6017, 
+            6165
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6108, 
+                    6113
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kebetulan ada tiga orang lainnya yang ingin hopping island juga, saya pun bergabung dengan rombongan tersebut.", 
+        "line": 130, 
+        "range": [
+            6167, 
+            6276
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 131, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Lengkuas", 
+        "line": 132, 
+        "range": [
+            6278, 
+            6291
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 133, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah 30 menit berlayar dari Tanjung Kelayang, sampailah kami ke tujuan pertama yaitu Pulau Lengkuas.", 
+        "line": 134, 
+        "range": [
+            6293, 
+            6395
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6319, 
+                    6333
+                ], 
+                "name": "Pulau Lengkuas"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6366, 
+                    6382
+                ], 
+                "name": "Tanjung Kelayang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 135, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kesan pertama saya pulau ini baguuuuss banget.", 
+        "line": 136, 
+        "range": [
+            6397, 
+            6442
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6423, 
+                    6437
+                ], 
+                "name": "Pulau Lengkuas"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 137, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mercusuar putih menjulang tinggi di tengah pulau.", 
+        "line": 138, 
+        "range": [
+            6444, 
+            6492
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6459, 
+                    6464
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 139, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Segera kami menaiki tangga ke lantai teratas mercusuar tersebut. Totalnya 18 lantai dan 300 anak tangga.", 
+        "line": 140, 
+        "range": [
+            6494, 
+            6597
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6531, 
+                    6536
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6584, 
+                    6593
+                ], 
+                "name": "mercusuar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 141, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mercusuar ini dibangun oleh Belanda ketika masa penjajahan dulunya.", 
+        "line": 142, 
+        "range": [
+            6599, 
+            6665
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6645, 
+                    6654
+                ], 
+                "name": "Mercusuar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 143, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemandangan dari atas benar-benar indah.", 
+        "line": 144, 
+        "range": [
+            6667, 
+            6706
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6673, 
+                    6680
+                ], 
+                "name": "Belanda"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 145, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terlihat birunya laut dengan bayangan terumbu karang dan gugusan batuan granit berwarna putih.", 
+        "line": 146, 
+        "range": [
+            6708, 
+            6801
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6773, 
+                    6777
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 147, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Satu kata untuk menjelaskan Pulau Lengkuas \u2013 amazing!", 
+        "line": 148, 
+        "range": [
+            6803, 
+            6857
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 149, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wajib juga snorkeling di sekitar Pulau Lengkuas, terumbu karangnya cukup bagus, ya walaupun tidak seindah terumbu karang di Pulau Wakatobi tapi masih lumayan.", 
+        "line": 150, 
+        "range": [
+            6859, 
+            7016
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6880, 
+                    6894
+                ], 
+                "name": "Pulau Lengkuas"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6940, 
+                    6954
+                ], 
+                "name": "Pulau Lengkuas"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 151, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Kepayang", 
+        "line": 152, 
+        "range": [
+            7018, 
+            7031
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 153, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kabarnya pulau ini dulunya disebut dengan nama Pulau Babi, tapi akhirnya diganti.", 
+        "line": 154, 
+        "range": [
+            7033, 
+            7113
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7067, 
+                    7081
+                ], 
+                "name": "Pulau Kepayang"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7092, 
+                    7097
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 155, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dulu ketika saya ke sana ada sebuah resort yang bernama Kepayang Eco Lodge. Sekarang sudah tidak beroperasi lagi.", 
+        "line": 156, 
+        "range": [
+            7115, 
+            7227
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7130, 
+                    7140
+                ], 
+                "name": "Pulau Babi"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7202, 
+                    7208
+                ], 
+                "name": "resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 157, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dulunya di Pulau Kepayang wisatawan bisa melakukan kegiatan menyelam. Sekarang kalau mau diving kayaknya ada operator di Tanjung Kelayang.", 
+        "line": 158, 
+        "range": [
+            7229, 
+            7366
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7292, 
+                    7306
+                ], 
+                "name": "Pulau Kepayang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 159, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Pasir", 
+        "line": 160, 
+        "range": [
+            7368, 
+            7378
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 161, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sesuai namanya pulau ini adalah pulau gosong, atau hanya terdiri dari tumpukan pasir saja di tengah laut. Pulau  Pasir hanya bisa diakses ketika air laut sedang surut. Pasirnya halus banget. Rasanya juga tenang.", 
+        "line": 162, 
+        "range": [
+            7380, 
+            7590
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7402, 
+                    7418
+                ], 
+                "name": "Tanjung Kelayang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7421, 
+                    7432
+                ], 
+                "name": "Pulau Pasir"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7449, 
+                    7454
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7466, 
+                    7478
+                ], 
+                "name": "pulau gosong"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7534, 
+                    7538
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7540, 
+                    7552
+                ], 
+                "name": "Pulau  Pasir"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 163, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 4: Kembali ke Jakarta", 
+        "line": 164, 
+        "range": [
+            7592, 
+            7616
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 165, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Drama lagi pas mau pulang. Maskapai Batavia dinyatakan pailit jadi semua penerbangan cancelled. Jadinya saya tidak bisa pulang ke Jakarta.", 
+        "line": 166, 
+        "range": [
+            7618, 
+            7755
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7665, 
+                    7672
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    7710, 
+                    7717
+                ], 
+                "name": "Batavia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 167, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya kepengen naik pelni saja, mumpung lebih murah daripada naik pesawat (12 jam perjalanan).", 
+        "line": 168, 
+        "range": [
+            7757, 
+            7849
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7804, 
+                    7811
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    7833, 
+                    7838
+                ], 
+                "name": "pelni"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 169, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi akhirnya naik pesawat Sriwijaya pulang. Kepengen low budget tapi gagal deh, haha.", 
+        "line": 170, 
+        "range": [
+            7851, 
+            7936
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7879, 
+                    7886
+                ], 
+                "name": "pesawat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 171, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips liburan ke Belitung", 
+        "line": 172, 
+        "range": [
+            7938, 
+            7961
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 173, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, ini ada beberapa tips jika kamu berencana untuk liburan ke Belitung.", 
+        "line": 174, 
+        "range": [
+            7963, 
+            8035
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8013, 
+                    8021
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 175, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga sewa kapal hopping island Belitung", 
+        "line": 176, 
+        "range": [
+            8037, 
+            8076
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 177, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga sewa atau rental kapal di Tanjung Kelayang untuk hopping island ke pulau-pulau sekitar adalah Rp 400,000 untuk kapal kapasitas kecil (2 \u2013 10 orang) dan Rp 700,000 untuk kapal kapasitas besar (10 \u2013 15 orang). ", 
+        "line": 178, 
+        "range": [
+            8078, 
+            8295
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8087, 
+                    8095
+                ], 
+                "name": "Belitung"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8109, 
+                    8114
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8130, 
+                    8138
+                ], 
+                "name": "Belitung"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8163, 
+                    8168
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8172, 
+                    8188
+                ], 
+                "name": "Tanjung Kelayang"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8213, 
+                    8224
+                ], 
+                "name": "pulau-pulau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8257, 
+                    8262
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 179, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga untuk sewa masing-masing alat snorkelling adalah Rp 25,000. Kalau untuk paket lengkap (kacamata, fin, dan life vest) harganya Rp 70,000.", 
+        "line": 180, 
+        "range": [
+            8297, 
+            8438
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8315, 
+                    8320
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 181, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga sewa kendaraan pribadi di Belitung", 
+        "line": 182, 
+        "range": [
+            8440, 
+            8479
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 183, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebaiknya kamu menyewa motor atau mobil pribadi mengingat tidak adanya transportasi umum yang memudahkan untuk berkeliling pulau.", 
+        "line": 184, 
+        "range": [
+            8481, 
+            8609
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8532, 
+                    8540
+                ], 
+                "name": "Belitung"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8565, 
+                    8570
+                ], 
+                "name": "motor"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8576, 
+                    8581
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 185, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga sewa motor di Belitung Rp 70,000 (klik disini untuk sewa motor), dan harga sewa mobil sama supir dimulai dari Rp 540,000 untuk 12 jam dan sudah sama bensin (klik disini untuk sewa mobil).", 
+        "line": 186, 
+        "range": [
+            8611, 
+            8803
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8665, 
+                    8670
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8684, 
+                    8689
+                ], 
+                "name": "motor"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8736, 
+                    8741
+                ], 
+                "name": "motor"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8759, 
+                    8764
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 187, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rekomendasi hotel di Belitung", 
+        "line": 188, 
+        "range": [
+            8805, 
+            8833
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 189, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu solo traveler bisa menginap di hostel dric\u2019s House dengan harga Rp 150,000 per bunk bed per malam.", 
+        "line": 190, 
+        "range": [
+            8835, 
+            8945
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8859, 
+                    8864
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8880, 
+                    8885
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8889, 
+                    8897
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 191, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sedangkan kalau traveling bersama teman atau pasangan bisa coba Hotel Martini dengan harga Rp 250,000 per kamar per malam.", 
+        "line": 192, 
+        "range": [
+            8947, 
+            9068
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 193, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mau yang lebih mewah? Ada Fairfield Marriot dengan harga kamar dimulai dari Rp 500,000 per malam, atau Swiss-Belresort dengan harga kamar dimulai dari Rp 430,000 per malam.", 
+        "line": 194, 
+        "range": [
+            9070, 
+            9241
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9074, 
+                    9087
+                ], 
+                "name": "Hotel Martini"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9160, 
+                    9177
+                ], 
+                "name": "Fairfield Marriot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 195, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk penginapan lain kamu bisa cek di situs atau aplikasi booking hotel untuk mencari penginapan yang sesuai.", 
+        "line": 196, 
+        "range": [
+            9243, 
+            9352
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9314, 
+                    9324
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 197, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tempat wisata lain di Belitung", 
+        "line": 198, 
+        "range": [
+            9354, 
+            9383
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9375, 
+                    9380
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 199, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain wisata yang saya datangi, ada beberapa tempat wisata lain yang bisa dikunjungi seperti melihat tarsisius di Batu Mentas, Rumah Ahok, dan juga one day trip ke Pulau Leebong.", 
+        "line": 200, 
+        "range": [
+            9385, 
+            9563
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9442, 
+                    9450
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 201, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biaya liburan ke Belitung", 
+        "line": 202, 
+        "range": [
+            9565, 
+            9589
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9567, 
+                    9578
+                ], 
+                "name": "Batu Mentas"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9580, 
+                    9590
+                ], 
+                "name": "Rumah Ahok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 203, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biaya yang saya keluarkan selama empat hari liburan di Belitung adalah Rp 265,000 tidak termasuk pesawat. Rinciannya adalah:", 
+        "line": 204, 
+        "range": [
+            9591, 
+            9714
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9617, 
+                    9630
+                ], 
+                "name": "Pulau Leebong"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9650, 
+                    9658
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 205, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rental motor: Rp 70,000", 
+        "line": 206, 
+        "range": [
+            9716, 
+            9738
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Bensin : Rp 22,000", 
+        "line": 207, 
+        "range": [
+            9739, 
+            9756
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiket masuk Bukit Perahu: Rp 2,000", 
+        "line": 208, 
+        "range": [
+            9757, 
+            9790
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9757, 
+                    9764
+                ], 
+                "name": "pesawat"
+            }
+        ]
+    }, 
+    {
+        "text": "Tiket masuk Tanjung Pendem: Rp 2,000", 
+        "line": 209, 
+        "range": [
+            9791, 
+            9826
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9793, 
+                    9798
+                ], 
+                "name": "motor"
+            }
+        ]
+    }, 
+    {
+        "text": "Sewa kapal hopping island: Rp 100,000", 
+        "line": 210, 
+        "range": [
+            9827, 
+            9863
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9841, 
+                    9853
+                ], 
+                "name": "Bukit Perahu"
+            }
+        ]
+    }, 
+    {
+        "text": "Tiket masuk mercusuar: Rp 5,000", 
+        "line": 211, 
+        "range": [
+            9864, 
+            9894
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9876, 
+                    9890
+                ], 
+                "name": "Tanjung Pendem"
+            }
+        ]
+    }, 
+    {
+        "text": "Makan selama 4 hari: Rp 100,000", 
+        "line": 212, 
+        "range": [
+            9895, 
+            9925
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    9906, 
+                    9911
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 213, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Murah kan ya? Tapi ala backpacker banget. Bisa murah karena saya tinggal sama host juga.", 
+        "line": 214, 
+        "range": [
+            9927, 
+            10014
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9951, 
+                    9960
+                ], 
+                "name": "mercusuar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 215, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Normalnya sih kalau sama tiket pesawat, penginapan, makan, dll masih bisa sih sekitar Rp 3jutaan. Tergantung pengeluaran masing-masing.", 
+        "line": 216, 
+        "range": [
+            10016, 
+            10150
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    10125, 
+                    10132
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10134, 
+                    10144
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 217, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kurang lebih itulah pengalaman saya jalan-jalan sendiri tanpa tour ke Belitung.", 
+        "line": 218, 
+        "range": [
+            10152, 
+            10230
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 219, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sudah saya rincikan juga itinerary-nya, biaya, harga sewa kapal, dan lainnya. Kalau ada pertanyaan tinggalkan di kolom komentar ya.", 
+        "line": 220, 
+        "range": [
+            10232, 
+            10362
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10301, 
+                    10309
+                ], 
+                "name": "Belitung"
+            }
+        ]
+    }
+]

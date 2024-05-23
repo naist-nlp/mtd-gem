@@ -1,0 +1,2165 @@
+[
+    {
+        "text": "December 12, 2022  Catatan Pendakian Gunung Ciremai Via Linggasana", 
+        "line": 0, 
+        "range": [
+            1, 
+            66
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    37, 
+                    51
+                ], 
+                "name": "Gunung Ciremai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    56, 
+                    66
+                ], 
+                "name": "Linggasana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Baca catatan pendakian saya mendaki Gunung Ciremai selama 2 hari 1 malam melalui jalur pendakian Linggasana!", 
+        "line": 2, 
+        "range": [
+            68, 
+            175
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    104, 
+                    118
+                ], 
+                "name": "Gunung Ciremai"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    149, 
+                    154
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    165, 
+                    175
+                ], 
+                "name": "Linggasana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Ciremai dikenal sebagai gunung tertinggi di Jawa Barat.", 
+        "line": 4, 
+        "range": [
+            177, 
+            238
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    178, 
+                    192
+                ], 
+                "name": "Gunung Ciremai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    209, 
+                    215
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    229, 
+                    239
+                ], 
+                "name": "Jawa Barat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dengan ketinggian 3,078 meter di atas laut, kabarnya gunung ini disebut sebagai salah satu gunung dengan pendakian yang sulit.", 
+        "line": 6, 
+        "range": [
+            240, 
+            365
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    280, 
+                    284
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    295, 
+                    301
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    333, 
+                    339
+                ], 
+                "name": "gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendakian Gunung Ciremai memang cukup sulit dikarenakan gunung ini tidak memiliki banyak sumber air, sehingga para pendaki harus membawa stok air masing-masing.", 
+        "line": 8, 
+        "range": [
+            367, 
+            526
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    380, 
+                    394
+                ], 
+                "name": "Gunung Ciremai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    426, 
+                    432
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    459, 
+                    469
+                ], 
+                "name": "sumber air"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya pribadi suka dengan pendakian Gunung Ciremai karena jalurnya yang menantang.", 
+        "line": 10, 
+        "range": [
+            528, 
+            608
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    567, 
+                    581
+                ], 
+                "name": "Gunung Ciremai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara Menuju Basecamp Gunung Ciremai", 
+        "line": 12, 
+        "range": [
+            610, 
+            644
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    627, 
+                    635
+                ], 
+                "name": "Basecamp"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk menuju ke basecamp pendakian Gunung Ciremai, sebenarnya tergantung jalur pendakian mana yang ingin kamu lalui.", 
+        "line": 14, 
+        "range": [
+            646, 
+            761
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    668, 
+                    676
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    687, 
+                    701
+                ], 
+                "name": "Gunung Ciremai"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    725, 
+                    730
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Ciremai memiliki empat jalur pendakian dimana tiganya terletak di Kuningan (Cirebon) dan yang satunya lagi di Majalengka.", 
+        "line": 16, 
+        "range": [
+            763, 
+            890
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    770, 
+                    784
+                ], 
+                "name": "Gunung Ciremai"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    800, 
+                    805
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    843, 
+                    851
+                ], 
+                "name": "Kuningan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    853, 
+                    860
+                ], 
+                "name": "Cirebon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadi dari Jakarta atau area sekitarnya bisa naik bus dengan tujuan Kuningan. Kalau di Jakarta bisa lewat stasiun Grogol atau Lebak Bulus.", 
+        "line": 18, 
+        "range": [
+            892, 
+            1028
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    910, 
+                    917
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    949, 
+                    952
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    967, 
+                    975
+                ], 
+                "name": "Kuningan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    986, 
+                    993
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1005, 
+                    1019
+                ], 
+                "name": "stasiun Grogol"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket bus dari Jakarta menuju Kuningan disekitar Rp 80,000. Sampai di Kuningan bisa lanjut menggunakan angkot atau ojek sampai basecamp.", 
+        "line": 20, 
+        "range": [
+            1030, 
+            1171
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1051, 
+                    1054
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1060, 
+                    1067
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1075, 
+                    1083
+                ], 
+                "name": "Kuningan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1115, 
+                    1123
+                ], 
+                "name": "Kuningan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1148, 
+                    1154
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1160, 
+                    1164
+                ], 
+                "name": "ojek"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa Jalur Pendakian Gunung Ciremai", 
+        "line": 22, 
+        "range": [
+            1173, 
+            1211
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1192, 
+                    1197
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut adalah beberapa jalur pendakian yang bisa kamu lewati ketika mendaki Gunung Ciremai:", 
+        "line": 24, 
+        "range": [
+            1213, 
+            1304
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1248, 
+                    1253
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Jalur pendakian Gunung Ciremai via Linggarjati", 
+        "line": 26, 
+        "range": [
+            1306, 
+            1354
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1321, 
+                    1326
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1337, 
+                    1351
+                ], 
+                "name": "Gunung Ciremai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendakian melalui jalur ini dikenal dengan tanjakkan yang cukup curam. Waktu pendakian sampai puncak melalui jalur Linggarjati kurang lebih akan memakan sekitar 10 \u2013 11 jam.", 
+        "line": 28, 
+        "range": [
+            1356, 
+            1530
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1356, 
+                    1367
+                ], 
+                "name": "Linggarjati"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1387, 
+                    1392
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1478, 
+                    1495
+                ], 
+                "name": "jalur Linggarjati"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tergantung dengan stamina atau kondisi fisik masing-masing.", 
+        "line": 30, 
+        "range": [
+            1532, 
+            1590
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada 11 pos sampai dengan puncak.", 
+        "line": 32, 
+        "range": [
+            1592, 
+            1623
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1612, 
+                    1615
+                ], 
+                "name": "pos"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya jika melalui jalur ini bisa berkemah di pos Sanggabuana 1 atau 2.", 
+        "line": 34, 
+        "range": [
+            1625, 
+            1698
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1661, 
+                    1666
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Jalur pendakian Gunung Ciremai via Linggasana", 
+        "line": 36, 
+        "range": [
+            1700, 
+            1747
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1718, 
+                    1723
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1734, 
+                    1748
+                ], 
+                "name": "Gunung Ciremai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur pendakian Gunung Ciremai via Linggasana adalah jalur pendakian yang saya lalui bersama teman-teman lainnya.", 
+        "line": 38, 
+        "range": [
+            1749, 
+            1861
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1753, 
+                    1763
+                ], 
+                "name": "Linggasana"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1765, 
+                    1770
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1781, 
+                    1795
+                ], 
+                "name": "Gunung Ciremai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1800, 
+                    1810
+                ], 
+                "name": "Linggasana"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1818, 
+                    1823
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Letaknya tidak terlalu berjauhan dari jalur pendakian Linggarjati.", 
+        "line": 40, 
+        "range": [
+            1863, 
+            1928
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa dibilang jalur Linggasana adalah versi pendeknya jalur Linggarjati.", 
+        "line": 42, 
+        "range": [
+            1930, 
+            2001
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1962, 
+                    1978
+                ], 
+                "name": "jalur Linggasana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ujung-ujungnya juga akan ketemu jalur yang sama menuju puncak. Waktu yang dibutuhkan untuk sampai ke puncak kurang lebih 7 \u2013 8 jam.", 
+        "line": 44, 
+        "range": [
+            2003, 
+            2135
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2054, 
+                    2059
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Jalur pendakian via Apuy", 
+        "line": 46, 
+        "range": [
+            2137, 
+            2163
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2158, 
+                    2163
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur Apuy lebih gampang kalau dibandingkan dengan Linggarjati maupun Linggasana.", 
+        "line": 48, 
+        "range": [
+            2165, 
+            2245
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2178, 
+                    2182
+                ], 
+                "name": "Apuy"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    2184, 
+                    2194
+                ], 
+                "name": "Jalur Apuy"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2235, 
+                    2246
+                ], 
+                "name": "Linggarjati"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hanya saja untuk menuju jalur pendakian ini lebih ribet, karena harus menuju Majalengka kemudian dilanjutkan ke Dusun Apuy.", 
+        "line": 50, 
+        "range": [
+            2247, 
+            2369
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2254, 
+                    2264
+                ], 
+                "name": "Linggasana"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2291, 
+                    2296
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2344, 
+                    2354
+                ], 
+                "name": "Majalengka"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pos yang dilewati sampai puncak gunung ada sekitar 7 pos. Jalur ini nantinya akan ketemu dengan jalur Palutungan juga.", 
+        "line": 52, 
+        "range": [
+            2371, 
+            2488
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2379, 
+                    2389
+                ], 
+                "name": "Dusun Apuy"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2392, 
+                    2395
+                ], 
+                "name": "Pos"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2445, 
+                    2448
+                ], 
+                "name": "pos"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2450, 
+                    2455
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekitar 6 \u2013 8 jam sampai puncak.", 
+        "line": 54, 
+        "range": [
+            2490, 
+            2523
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Jalur pendakian via Palutungan", 
+        "line": 56, 
+        "range": [
+            2525, 
+            2557
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2549, 
+                    2554
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur pendakian Gunung Ciremai via Palutungan cukup populer karena posisinya yang dekat dengan objek wisata seperti Curug Putri.", 
+        "line": 58, 
+        "range": [
+            2559, 
+            2686
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2569, 
+                    2579
+                ], 
+                "name": "Palutungan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2581, 
+                    2586
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2597, 
+                    2611
+                ], 
+                "name": "Gunung Ciremai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2616, 
+                    2626
+                ], 
+                "name": "Palutungan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Aksesnya juga gampang dari Kuningan. Lama waktu untuk mendaki sampai puncak kurang lebih 6 \u2013 8 jam, mirip seperti via Apuy.", 
+        "line": 60, 
+        "range": [
+            2688, 
+            2812
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2697, 
+                    2708
+                ], 
+                "name": "Curug Putri"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2738, 
+                    2746
+                ], 
+                "name": "Kuningan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Syarat dan prosedur pendakian yang perlu dipatuhi:", 
+        "line": 62, 
+        "range": [
+            2814, 
+            2863
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2829, 
+                    2833
+                ], 
+                "name": "Apuy"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Melakukan pendaftaran melalui situs https://tngciremai.menlhk.go.id/protokolnewnormal/;", 
+        "line": 64, 
+        "range": [
+            2865, 
+            2951
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Melaporkan diri kepada petugas Balai Besar TNGC setempat sebelum dan sesudah pelaksanaan kegiatan;", 
+        "line": 65, 
+        "range": [
+            2952, 
+            3049
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Menyerahkan fotocopy identitas (ktp/ sim/ kartu pelajar/ mahasiswa/ paspor yang masih berlaku;", 
+        "line": 66, 
+        "range": [
+            3050, 
+            3143
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itinerari Jalur Pendakian Gunung Ciremai via Linggasana", 
+        "line": 68, 
+        "range": [
+            3145, 
+            3199
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3181, 
+                    3186
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya pendakian Gunung Ciremai hanya membutuhkan waktu 2 hari 1 malam.", 
+        "line": 70, 
+        "range": [
+            3201, 
+            3273
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3216, 
+                    3226
+                ], 
+                "name": "Linggasana"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3247, 
+                    3261
+                ], 
+                "name": "Gunung Ciremai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebelum memulai pendakian, lapor dulu ke petugas Balai Besar TNGC dan harus menyerahkan fotokopi identitas diri seperti KTP atau kartu pelajar.", 
+        "line": 72, 
+        "range": [
+            3275, 
+            3417
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk ke kawasan Gunung Ciremai adalah Rp 5,000 (hari biasa) dan Rp 7,500 (hari libur).", 
+        "line": 74, 
+        "range": [
+            3419, 
+            3517
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3477, 
+                    3491
+                ], 
+                "name": "Gunung Ciremai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kurang lebih itinerary pendakian Gunung Ciremai via jalur Linggsana adalah sebagai berikut:", 
+        "line": 76, 
+        "range": [
+            3519, 
+            3609
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3582, 
+                    3596
+                ], 
+                "name": "Gunung Ciremai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: Basecamp \u2013 Pangalap", 
+        "line": 78, 
+        "range": [
+            3611, 
+            3638
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya dan tim berangkat dari Cikarang menggunakan mobil pribadi pada hari Jumat malam.", 
+        "line": 80, 
+        "range": [
+            3640, 
+            3724
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3649, 
+                    3657
+                ], 
+                "name": "Basecamp"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3660, 
+                    3668
+                ], 
+                "name": "Pangalap"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3698, 
+                    3706
+                ], 
+                "name": "Cikarang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3719, 
+                    3724
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Janjinya jam 9 malam akan dijemput di Cikarang oleh beberapa teman yang mulai duluan dari Jakarta, tapi jam 12 malam baru deh dijemput.", 
+        "line": 82, 
+        "range": [
+            3726, 
+            3860
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3795, 
+                    3803
+                ], 
+                "name": "Cikarang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3847, 
+                    3854
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hujan turun pada malam itu. Saya orangnya agak males kalau mendaki di saat hujan.", 
+        "line": 84, 
+        "range": [
+            3862, 
+            3942
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perjalanan kami menuju basecamp terkendala macet karena ada perbaikan jalan dan juga ada truk yang mengalami kecelakaan.", 
+        "line": 86, 
+        "range": [
+            3944, 
+            4063
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4047, 
+                    4052
+                ], 
+                "name": "jalan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya jam 11 pagi kami memulai pendakian Gunung Ciremai dari basecamp melalui jalur Linggasana dengan rombongan berjumlah 11 orang.", 
+        "line": 88, 
+        "range": [
+            4065, 
+            4198
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4066, 
+                    4070
+                ], 
+                "name": "truk"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4143, 
+                    4157
+                ], 
+                "name": "Gunung Ciremai"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4163, 
+                    4171
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    4180, 
+                    4196
+                ], 
+                "name": "jalur Linggasana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kurang lebih berikut timeline pendakian kami.", 
+        "line": 90, 
+        "range": [
+            4200, 
+            4244
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "11.00 \u2013 13.00 : Basecamp \u2013 Kondang Amis", 
+        "line": 92, 
+        "range": [
+            4246, 
+            4288
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "13.00 \u2013 14.40 : Kondang Amis \u2013 Kuburan Kuda", 
+        "line": 93, 
+        "range": [
+            4289, 
+            4335
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4298, 
+                    4306
+                ], 
+                "name": "Basecamp"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4309, 
+                    4321
+                ], 
+                "name": "Kondang Amis"
+            }
+        ]
+    }, 
+    {
+        "text": "14.40 \u2013 16.00 : Kuburan Kuda \u2013 Pangalap", 
+        "line": 94, 
+        "range": [
+            4336, 
+            4378
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4338, 
+                    4350
+                ], 
+                "name": "Kondang Amis"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4353, 
+                    4365
+                ], 
+                "name": "Kuburan Kuda"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari basecamp menuju Kondang Amis tidaklah terlalu sulit. Jalurnya menanjak melewati tanaman yang cukup rapat.", 
+        "line": 96, 
+        "range": [
+            4380, 
+            4489
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4382, 
+                    4394
+                ], 
+                "name": "Kuburan Kuda"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4397, 
+                    4405
+                ], 
+                "name": "Pangalap"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4412, 
+                    4420
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4428, 
+                    4440
+                ], 
+                "name": "Kondang Amis"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4465, 
+                    4473
+                ], 
+                "name": "Jalurnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Kondang Amis baru deh mulai harus manjat-manjat.", 
+        "line": 98, 
+        "range": [
+            4491, 
+            4543
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4524, 
+                    4536
+                ], 
+                "name": "Kondang Amis"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sebenarnya kurang mengerti kenapa teman-teman memilih untuk nge-camp di Pangalap karena sebenarnya puncak masih jauh.", 
+        "line": 100, 
+        "range": [
+            4545, 
+            4666
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4651, 
+                    4659
+                ], 
+                "name": "Pangalap"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mungkin biar narok barang kali ya jadi enggak perlu membawa tas berat karena membawa botolan air yang banyak.", 
+        "line": 102, 
+        "range": [
+            4668, 
+            4776
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: Pangalap \u2013 Puncak \u2013 Turun ke Basecamp", 
+        "line": 104, 
+        "range": [
+            4778, 
+            4825
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4816, 
+                    4824
+                ], 
+                "name": "Pangalap"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari kedua lumayan gempor sih. Kami start muncak dari jam 1 pagi. Tas, tenda, semuanya ditinggal di Pangalap.", 
+        "line": 106, 
+        "range": [
+            4827, 
+            4935
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4845, 
+                    4853
+                ], 
+                "name": "Basecamp"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berbekal hanya air dan makanan kami pun memulai pendakian menuju Puncak Gunung Ciremai.", 
+        "line": 108, 
+        "range": [
+            4937, 
+            5023
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4955, 
+                    4963
+                ], 
+                "name": "Pangalap"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "01.00 \u2013 01.30 : Pangalap \u2013 Tanjakan Binbin", 
+        "line": 110, 
+        "range": [
+            5025, 
+            5070
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5038, 
+                    5052
+                ], 
+                "name": "Gunung Ciremai"
+            }
+        ]
+    }, 
+    {
+        "text": "01.30 \u2013 02.30 : Tanjakan Binbin \u2013 Tanjakan Seruni", 
+        "line": 111, 
+        "range": [
+            5071, 
+            5123
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5071, 
+                    5079
+                ], 
+                "name": "Pangalap"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    5082, 
+                    5097
+                ], 
+                "name": "Tanjakan Binbin"
+            }
+        ]
+    }, 
+    {
+        "text": "02.30 \u2013 03.20 : Tanjakan Seruni \u2013 Bapa Tere", 
+        "line": 112, 
+        "range": [
+            5124, 
+            5170
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    5132, 
+                    5147
+                ], 
+                "name": "Tanjakan Seruni"
+            }
+        ]
+    }, 
+    {
+        "text": "03.20 \u2013 04.10 : Bapa Tere \u2013 Batu Lingga", 
+        "line": 113, 
+        "range": [
+            5171, 
+            5213
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    5182, 
+                    5191
+                ], 
+                "name": "Bapa Tere"
+            }
+        ]
+    }, 
+    {
+        "text": "04.10 \u2013 06.00 : Batu Lingga \u2013 Sangga Buana", 
+        "line": 114, 
+        "range": [
+            5214, 
+            5259
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5220, 
+                    5231
+                ], 
+                "name": "Batu Lingga"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5248, 
+                    5259
+                ], 
+                "name": "Batu Lingga"
+            }
+        ]
+    }, 
+    {
+        "text": "06.00 \u2013 06.40 : Sangga Buana \u2013 Pengasinan", 
+        "line": 115, 
+        "range": [
+            5260, 
+            5304
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5262, 
+                    5274
+                ], 
+                "name": "Sangga Buana"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5291, 
+                    5303
+                ], 
+                "name": "Sangga Buana"
+            }
+        ]
+    }, 
+    {
+        "text": "06.40 \u2013 07.10 : Pengasinan \u2013 Puncak Ciremai", 
+        "line": 116, 
+        "range": [
+            5305, 
+            5351
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5306, 
+                    5316
+                ], 
+                "name": "Pengasinan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5333, 
+                    5343
+                ], 
+                "name": "Pengasinan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tanjakan menuju puncak benar-benar terjal. Capek sih, tapi saya lebih senang yang jalurnya begini.", 
+        "line": 118, 
+        "range": [
+            5353, 
+            5450
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi di pikiran saya nanti turunnya gimana? Saya memang lemahnya di turunan.", 
+        "line": 120, 
+        "range": [
+            5452, 
+            5527
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya kalau nanjak saya di depan tapi kalau turun selalu paling terakhir.", 
+        "line": 122, 
+        "range": [
+            5529, 
+            5604
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Waktu menunjukkan pukul 5 pagi dan kami bahkan belum sampai ke pos pengasinan.", 
+        "line": 124, 
+        "range": [
+            5606, 
+            5683
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Matahari mulai terbit, beruntung kami dapat spot yang bagus untuk melihat matahari terbit.", 
+        "line": 126, 
+        "range": [
+            5685, 
+            5774
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya sampai di puncak juga dan pastinya harus mengabadikan momen donk.", 
+        "line": 128, 
+        "range": [
+            5776, 
+            5849
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kata Bang Coco, teman pendakian saya, narsis sih harus. Naik gunung itu 90% ngambil foto 10% lagi nikmati pendakian.", 
+        "line": 130, 
+        "range": [
+            5851, 
+            5972
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5933, 
+                    5939
+                ], 
+                "name": "gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 131, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah puas foto-foto di puncak kami pun turun ke tempat nge-camp untuk packing barang dan melanjutkan perjalanan turun langsung sampai ke basecamp. Kami mengejar waktu agar tidak terlalu kemalaman.", 
+        "line": 132, 
+        "range": [
+            5974, 
+            6172
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6130, 
+                    6138
+                ], 
+                "name": "basecamp"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 133, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 7 malam kami masih mencari jalur di kegelapan dan hampir terseseat dua kali.", 
+        "line": 134, 
+        "range": [
+            6174, 
+            6253
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6222, 
+                    6227
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 135, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bener deh yang ketiga benar-benar tersesat. Kami melalui jalur yang salah dan malah sampai ke desa lain, sepertinya hampir ke basecamp Linggarjati.", 
+        "line": 136, 
+        "range": [
+            6255, 
+            6401
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6330, 
+                    6335
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6367, 
+                    6371
+                ], 
+                "name": "desa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 137, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untungnya salah satu anggota dapat sinyal dan contact basecamp. Kami pun dijemput dan kembali dengan selamat.", 
+        "line": 138, 
+        "range": [
+            6403, 
+            6511
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6476, 
+                    6484
+                ], 
+                "name": "basecamp"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 139, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penutup", 
+        "line": 140, 
+        "range": [
+            6513, 
+            6519
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 141, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sedikit catatan penting, bawalah air yang cukup untuk mendaki Gunung Ciremai karena tidak banyak sumber air yang tersedia.", 
+        "line": 142, 
+        "range": [
+            6521, 
+            6642
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6604, 
+                    6618
+                ], 
+                "name": "Gunung Ciremai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 143, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Informasi lengkap mengenai kondisi gunung dan sebagainya bisa di cek langsung di situs resmi Balai Taman Nasional Gunung Ciremai.", 
+        "line": 144, 
+        "range": [
+            6644, 
+            6772
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6701, 
+                    6707
+                ], 
+                "name": "gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 145, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekian catatan dan jalur pendakian Gunung Ciremai via Linggasana beserta itinerary. Sudah pernah mendaki Gunung Ciremai?", 
+        "line": 146, 
+        "range": [
+            6774, 
+            6893
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6816, 
+                    6821
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6832, 
+                    6846
+                ], 
+                "name": "Gunung Ciremai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6851, 
+                    6861
+                ], 
+                "name": "Linggasana"
+            }
+        ]
+    }
+]

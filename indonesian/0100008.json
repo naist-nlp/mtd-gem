@@ -1,0 +1,842 @@
+[
+    {
+        "text": "March 8, 2021   Tips Liburan Ke Grand Palace Bangkok", 
+        "line": 0, 
+        "range": [
+            1, 
+            52
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    32, 
+                    44
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    45, 
+                    52
+                ], 
+                "name": "Bangkok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu objek wisata yang didatangi pengunjung jika liburan ke Bangkok atau Thailand pastinya adalah Grand Palace.", 
+        "line": 2, 
+        "range": [
+            54, 
+            170
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    65, 
+                    77
+                ], 
+                "name": "objek wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    120, 
+                    127
+                ], 
+                "name": "Bangkok"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    133, 
+                    141
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    158, 
+                    170
+                ], 
+                "name": "Grand Palace"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terletak di pusat kota Bangkok, Grand Palace merupakan tempat suci, rumah bagi Sang Raja Thailand dan juga kursi administrasi pemerintahan selama 1,500 tahun.", 
+        "line": 4, 
+        "range": [
+            172, 
+            329
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    196, 
+                    203
+                ], 
+                "name": "Bangkok"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    205, 
+                    217
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    228, 
+                    239
+                ], 
+                "name": "tempat suci"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    262, 
+                    270
+                ], 
+                "name": "Thailand"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dengan luas area sebesar 218,400 meter persegi, kompleks ini dikelilingi dengan tembok putih. Apa saja yang bisa dilihat di dalam Grand Palace?", 
+        "line": 6, 
+        "range": [
+            331, 
+            473
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara Menuju Grand Palace Bangkok", 
+        "line": 8, 
+        "range": [
+            475, 
+            506
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    490, 
+                    502
+                ], 
+                "name": "Grand Palace"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu memang menginap di area Khao San Road, kamu tinggal jalan kaki hanya sekitar 15 \u2013 20 menit ke Grand Palace.", 
+        "line": 10, 
+        "range": [
+            508, 
+            627
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    547, 
+                    560
+                ], 
+                "name": "Khao San Road"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu stay di area lain, cara paling gampang untuk mencapai Grand Palace adalah melalui sistem kereta bawah tanah di Bangkok, yang dikenal sebagai BTS.", 
+        "line": 12, 
+        "range": [
+            629, 
+            784
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    697, 
+                    709
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    732, 
+                    750
+                ], 
+                "name": "kereta bawah tanah"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    754, 
+                    761
+                ], 
+                "name": "Bangkok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ambil Jalur Silom ke Stasiun Saphan Taksin atau juga dikenal sebagai Stasiun S6. Keluar melalui Pintu Keluar No. 2, dan cari dermaga untuk Chao Phraya Express Boat.", 
+        "line": 14, 
+        "range": [
+            786, 
+            949
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    796, 
+                    807
+                ], 
+                "name": "Jalur Silom"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    811, 
+                    832
+                ], 
+                "name": "Stasiun Saphan Taksin"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    859, 
+                    869
+                ], 
+                "name": "Stasiun S6"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    886, 
+                    904
+                ], 
+                "name": "Pintu Keluar No. 2"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    915, 
+                    922
+                ], 
+                "name": "dermaga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dengan menggunakan Chao Phraya Express Boat, kamu bisa ambil beberapa rute; rute \u201cbendera oranye,\u201d \u201cbendera hijau\u201d dan \u201ctanpa bendera\u201d dengan tujuan Grand Palace.", 
+        "line": 16, 
+        "range": [
+            951, 
+            1124
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    975, 
+                    999
+                ], 
+                "name": "Chao Phraya Express Boat"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1026, 
+                    1030
+                ], 
+                "name": "rute"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1032, 
+                    1036
+                ], 
+                "name": "rute"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1038, 
+                    1052
+                ], 
+                "name": "bendera oranye"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1056, 
+                    1069
+                ], 
+                "name": "bendera hijau"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1076, 
+                    1089
+                ], 
+                "name": "tanpa bendera"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1105, 
+                    1117
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1120, 
+                    1124
+                ], 
+                "name": "Rute"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rute mana pun yang Anda ambil, turunlah di perhentian No. 9, yang merupakan Dermaga Tha Chang. Nah dari dermaga ini hanya tinggal 5 \u2013 10 menit berjalan kaki dan sampai deh di Grand Palace", 
+        "line": 18, 
+        "range": [
+            1126, 
+            1314
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1163, 
+                    1179
+                ], 
+                "name": "perhentian No. 9"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1196, 
+                    1213
+                ], 
+                "name": "Dermaga Tha Chang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1224, 
+                    1231
+                ], 
+                "name": "dermaga"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1295, 
+                    1307
+                ], 
+                "name": "Grand Palace"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga Tiket Masuk Grand Palace Bangkok", 
+        "line": 20, 
+        "range": [
+            1316, 
+            1353
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1327, 
+                    1339
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1340, 
+                    1347
+                ], 
+                "name": "Bangkok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Grand Palace Bangkok adalah 500 baht perorang. Cukup mahal untuk objek wisata di Bangkok. Grand Palace dibuka dari jam 8.30 pagi sampai 3.30 sore.", 
+        "line": 22, 
+        "range": [
+            1355, 
+            1518
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1367, 
+                    1379
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1380, 
+                    1387
+                ], 
+                "name": "Bangkok"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1432, 
+                    1444
+                ], 
+                "name": "objek wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1448, 
+                    1455
+                ], 
+                "name": "Bangkok"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1457, 
+                    1469
+                ], 
+                "name": "Grand Palace"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu bisa beli tiket secara online di sini dan bisa ikutan guided-tour juga untuk mengelilingi Grand Palace dan Emerald Buddha.", 
+        "line": 24, 
+        "range": [
+            1520, 
+            1646
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1610, 
+                    1622
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1627, 
+                    1641
+                ], 
+                "name": "Emerald Buddha"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jika kamu ingin liburan ke Grand Palace, pastikan kamu memakai pakaian yang sopan karena peraturan disini cukup ketat.", 
+        "line": 26, 
+        "range": [
+            1648, 
+            1765
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1671, 
+                    1683
+                ], 
+                "name": "Grand Palace"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak boleh memakai celana pendek, kaus tanpa lengan, atau legging. Di sini ada tempat peminjaman sarung gratis dengan deposit sebesar 200 baht.", 
+        "line": 28, 
+        "range": [
+            1767, 
+            1910
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman Liburan ke Grand Palace", 
+        "line": 30, 
+        "range": [
+            1912, 
+            1945
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1932, 
+                    1944
+                ], 
+                "name": "Grand Palace"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah memasuki gerbang utama, area pertama yang saya kunjungi adalah sebuah lorong dengan lukisan mural indah di dinding. Lukisan ini menggambarkan cerita tentang Ramayana.", 
+        "line": 32, 
+        "range": [
+            1947, 
+            2120
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1963, 
+                    1976
+                ], 
+                "name": "gerbang utama"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2024, 
+                    2030
+                ], 
+                "name": "lorong"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau dipikir-pikir sejarah di dunia ini sepertinya berhubungan satu sama lain. Walaupun cerita Ramayana dikenal dari kebudayaan orang India, tetapi kenapa Thailand dan Indonesia memiliki cerita yang mirip. Apakah memang ada hubungannya?", 
+        "line": 34, 
+        "range": [
+            2122, 
+            2358
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2257, 
+                    2262
+                ], 
+                "name": "India"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2278, 
+                    2286
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2291, 
+                    2300
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Apa yang tampak di luar benar-benar berbeda dengan di dalam. Dari luar tembok kelihatannya simple tetapi pas di dalam semuanya penuh dengan warna emas dan megah sekali. Benar-benar layak disebut sebagai istana. Dinding, patung, dan stupa didesain indah dan disempurnakan dengan lapisan emas mengkilap.", 
+        "line": 36, 
+        "range": [
+            2360, 
+            2660
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2564, 
+                    2570
+                ], 
+                "name": "istana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di sisi lain kompleks Grand Palace terdapat sebuah kuil paling suci di Thailand yaitu Wat Phra Kaew, atau disebut juga dengan Temple of Emerald Buddha.", 
+        "line": 38, 
+        "range": [
+            2662, 
+            2812
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2686, 
+                    2698
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2715, 
+                    2719
+                ], 
+                "name": "kuil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2735, 
+                    2743
+                ], 
+                "name": "Thailand"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2750, 
+                    2763
+                ], 
+                "name": "Wat Phra Kaew"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada sebuah patung Buddha kecil yang dipercaya telah berumur lebih dari 2,000 tahun yang lalu. Patung ini terbuat dari batu giok walaupun dulunya dipercaya terbuat dari zamrud. Mengambil foto dilarang di dalam kuil suci ini.", 
+        "line": 40, 
+        "range": [
+            2814, 
+            3036
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3026, 
+                    3030
+                ], 
+                "name": "kuil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lapangan di bagian tengah dan luar lebih moderen dengan lantai berbatu besar. Gaya bangunannya dicampur dengan gaya kolonial sedangkan atapnya masih dibuat dengan arsitektur Thailand. Terlihat beberapa penjaga sedang bertugas dengan senapan di tangan.", 
+        "line": 42, 
+        "range": [
+            3038, 
+            3288
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3042, 
+                    3050
+                ], 
+                "name": "Lapangan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3216, 
+                    3224
+                ], 
+                "name": "Thailand"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berapa lama kira-kira waktu yang diperlukan untuk menjelajahi Grand Palace? Kalau saya menghabiskan waktu lebih dari 2 jam. Kamu juga bisa berkunjung ke Wat Pho, salah satu kuil di Bangkok.  Banyak juga foto-foto yang bisa saya ambil di Grand Palace Bangkok.", 
+        "line": 44, 
+        "range": [
+            3290, 
+            3547
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3357, 
+                    3369
+                ], 
+                "name": "Grand Palace"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3448, 
+                    3455
+                ], 
+                "name": "Wat Pho"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3476, 
+                    3483
+                ], 
+                "name": "Bangkok"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3532, 
+                    3544
+                ], 
+                "name": "Grand Palace"
+            }
+        ]
+    }
+]

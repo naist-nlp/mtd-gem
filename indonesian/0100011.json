@@ -1,0 +1,1927 @@
+[
+    {
+        "text": "April 5, 2021   Tanjung Bira, Pantai Dengan Pasir Putih Sehalus Tepung!", 
+        "line": 0, 
+        "range": [
+            1, 
+            71
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    16, 
+                    28
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    30, 
+                    36
+                ], 
+                "name": "Pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai Tanjung Bira terletak di Kabupaten Bulukumba, Sulawesi Selatan. Kalau memang berencana berkunjung ke Makassar, harus sekalian berkunjung juga ke Tanjung Bira. Pantai pasir berwarna putih, cocok untuk bulan madu juga.", 
+        "line": 2, 
+        "range": [
+            73, 
+            295
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    73, 
+                    92
+                ], 
+                "name": "Pantai Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    105, 
+                    124
+                ], 
+                "name": "Kabupaten Bulukumba"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    126, 
+                    142
+                ], 
+                "name": "Sulawesi Selatan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    181, 
+                    189
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    225, 
+                    237
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    239, 
+                    245
+                ], 
+                "name": "Pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tentunya saya bukan datang dalam rangka bulan madu ya, haha. Saya adalah salah satu orang yang berkeinginan untuk berkunjung ke Pantai Bira untuk bersantai.", 
+        "line": 4, 
+        "range": [
+            297, 
+            452
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    426, 
+                    437
+                ], 
+                "name": "Pantai Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, saya akan sharing tentang beberapa informasi seperti cara ke Tanjung Bira dari Makassar, rekomendasi penginapan, dan juga objek wisata atau pantai mana yang bisa dikunjungi!", 
+        "line": 6, 
+        "range": [
+            454, 
+            631
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    522, 
+                    534
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    540, 
+                    548
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    562, 
+                    572
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    583, 
+                    595
+                ], 
+                "name": "objek wisata"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    601, 
+                    607
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara ke Tanjung Bira dari Makassar", 
+        "line": 8, 
+        "range": [
+            633, 
+            666
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    644, 
+                    656
+                ], 
+                "name": "Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jarak Makassar ke Tanjung Bira kurang lebih sekitar 200 km. Perjalanan dari Makassar ke Tanjung Bira kurang lebih 6 jam.", 
+        "line": 10, 
+        "range": [
+            668, 
+            787
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    678, 
+                    686
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    690, 
+                    702
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    748, 
+                    756
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    760, 
+                    772
+                ], 
+                "name": "Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada tiga cara untuk ke Pantai Tanjung Bira dari Makassar:", 
+        "line": 12, 
+        "range": [
+            789, 
+            845
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    817, 
+                    836
+                ], 
+                "name": "Pantai Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Menggunakan mobil kijang dari Terminal Maliengkeri dengan harga Rp 50,000/orang.", 
+        "line": 14, 
+        "range": [
+            847, 
+            926
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    865, 
+                    877
+                ], 
+                "name": "mobil kijang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    883, 
+                    903
+                ], 
+                "name": "Terminal Maliengkeri"
+            }
+        ]
+    }, 
+    {
+        "text": "Menggunakan transportasi umum BMA tapi hanya berhenti di Bulukumba saja. Harganya Rp 75,000/orang tapi sampai di Bulukumba harus lanjut lagi dengan angkot selama 1-2 jam untuk sampai ke Pantai Bira.", 
+        "line": 15, 
+        "range": [
+            927, 
+            1124
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    946, 
+                    963
+                ], 
+                "name": "transportasi umum"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    964, 
+                    967
+                ], 
+                "name": "BMA"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    991, 
+                    1000
+                ], 
+                "name": "Bulukumba"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1047, 
+                    1056
+                ], 
+                "name": "Bulukumba"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1082, 
+                    1088
+                ], 
+                "name": "angkot"
+            }
+        ]
+    }, 
+    {
+        "text": "Sewa mobil sendiri. Lebih cocok kalau kamu memang pergi ramai-ramai bersama teman-teman. Harga sewa mobil untuk drop off atau sekali jalan adalah Rp 500,000 \u2013 600,000.", 
+        "line": 16, 
+        "range": [
+            1125, 
+            1293
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1138, 
+                    1143
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1233, 
+                    1238
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang paling murah memang lewat Terminal Maliengkeri tapi tidak terlalu nyaman. Kadang supirnya nunggu sampai penuh, satu mobil bisa berisi 11 orang.", 
+        "line": 18, 
+        "range": [
+            1295, 
+            1442
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1333, 
+                    1352
+                ], 
+                "name": "Terminal Maliengker"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1423, 
+                    1428
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebaiknya berangkat di pagi hari sekitar jam 9 sampai 11 pagi.", 
+        "line": 20, 
+        "range": [
+            1444, 
+            1505
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rekomendasi Penginapan di Tanjung Bira ", 
+        "line": 22, 
+        "range": [
+            1507, 
+            1545
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1528, 
+                    1538
+                ], 
+                "name": "Penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu penginapan di Tanjung Bira yang saya rekomendasikan adalah Nini\u2019s Beach Bungalow.", 
+        "line": 24, 
+        "range": [
+            1547, 
+            1640
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1568, 
+                    1578
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1582, 
+                    1594
+                ], 
+                "name": "Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penginapan ini hanya berjarak 5 menit dari pantai. Penginapan ini dulunya bernama Sunshine Guesthouse namun sekarang disulap menjadi lebih bagus.", 
+        "line": 26, 
+        "range": [
+            1642, 
+            1786
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1651, 
+                    1661
+                ], 
+                "name": "Penginapan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1702, 
+                    1712
+                ], 
+                "name": "Penginapan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1733, 
+                    1752
+                ], 
+                "name": "Sunshine Guesthouse"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemiliknya adalah sepasang suami istri yang sangat ramah bernama Gav dan Nini yang juga memiliki anak yang bernama Sunshine.", 
+        "line": 28, 
+        "range": [
+            1788, 
+            1911
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamarnya terbuat dari kayu, fasilitasnya juga simple tapi bersih. Harganya sudah termasuk sarapan.", 
+        "line": 30, 
+        "range": [
+            1913, 
+            2010
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa penginapan lain di sekitar Tanjung Bira yang cukup bagus adalah Tevana House Reef dan Amatoa Resort.", 
+        "line": 32, 
+        "range": [
+            2012, 
+            2120
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2033, 
+                    2043
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2060, 
+                    2072
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2097, 
+                    2114
+                ], 
+                "name": "Tevana House Reef"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wisata di sekitar Tanjung Bira", 
+        "line": 34, 
+        "range": [
+            2122, 
+            2151
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2135, 
+                    2141
+                ], 
+                "name": "Wisata"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, di sekitar Pantai Bira ada objek wisata apa saja?", 
+        "line": 36, 
+        "range": [
+            2153, 
+            2206
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2153, 
+                    2165
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2183, 
+                    2194
+                ], 
+                "name": "Pantai Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Pantai Pasir Putih", 
+        "line": 38, 
+        "range": [
+            2208, 
+            2228
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu pantai yang terletak di Tanjung Bira adalah Pantai Pasir Putih. Dari namanya sudah bisa membayangkan pasirnya yang indah.", 
+        "line": 40, 
+        "range": [
+            2230, 
+            2361
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2257, 
+                    2263
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2281, 
+                    2293
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2301, 
+                    2319
+                ], 
+                "name": "Pantai Pasir Putih"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada sebuah restoran yang menghadap langsung ke laut, bagus untuk difoto.", 
+        "line": 42, 
+        "range": [
+            2363, 
+            2434
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2391, 
+                    2399
+                ], 
+                "name": "restoran"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2427, 
+                    2431
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pasir pantainya sangat lembut, selembut tepung. Saking lembutnya tidak sulit untuk membersihkan kaki dari pasir karena pasirnya tidak terlalu menempel.", 
+        "line": 44, 
+        "range": [
+            2436, 
+            2586
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2460, 
+                    2466
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ohya, kalau tidak sempat ke Pantai Bira bisa juga ke Pulau Samalona yang tidak terlalu jauh dari Makassar.", 
+        "line": 46, 
+        "range": [
+            2588, 
+            2693
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2635, 
+                    2646
+                ], 
+                "name": "Pantai Bira"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2660, 
+                    2674
+                ], 
+                "name": "Pulau Samalona"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Pantai Bara", 
+        "line": 48, 
+        "range": [
+            2695, 
+            2708
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagus banget pantainya! Saya sempat tidak percaya dengan pemandangan yang saya lihat.", 
+        "line": 50, 
+        "range": [
+            2710, 
+            2794
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2718, 
+                    2729
+                ], 
+                "name": "Pantai Bara"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2744, 
+                    2750
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rasanya seperti melihat foto pantai Hawaii. Pohon kelapa berjejer, cocok banget untuk berteduh dari sinar matahari.", 
+        "line": 52, 
+        "range": [
+            2796, 
+            2910
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2847, 
+                    2853
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2854, 
+                    2860
+                ], 
+                "name": "Hawaii"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Warna lautnya yang biru dan gulungan ombak yang menyapu tepian pantai tanpa henti, indah sekali.", 
+        "line": 54, 
+        "range": [
+            2912, 
+            3007
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Pantai Bara ada sebuah resort yang bernama Bara Beach Bungalow, biasanya banyak pasangan yang datang untuk berbulan madu.", 
+        "line": 56, 
+        "range": [
+            3009, 
+            3132
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3036, 
+                    3047
+                ], 
+                "name": "Pantai Bara"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3059, 
+                    3065
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3079, 
+                    3098
+                ], 
+                "name": "Bara Beach Bungalow"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai Bara bisa ditempuh dengan jalan kaki sekitar 20 menit menelusuri pesisir Pantai Bira ketika air laut sedang surut.", 
+        "line": 58, 
+        "range": [
+            3134, 
+            3254
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3159, 
+                    3170
+                ], 
+                "name": "Pantai Bara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3239, 
+                    3250
+                ], 
+                "name": "Pantai Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau lagi pasang harus memutar sekitar 45 menit berjalan kaki melewati sebuah jalan kecil memotong sebuah hutan atau bisa naik ojek Rp 15,000 \u2013 20,000.", 
+        "line": 60, 
+        "range": [
+            3256, 
+            3409
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3262, 
+                    3266
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3361, 
+                    3372
+                ], 
+                "name": "jalan kecil"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3389, 
+                    3394
+                ], 
+                "name": "hutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Pulau Liukang Loe dan Pulau Kambing", 
+        "line": 62, 
+        "range": [
+            3411, 
+            3448
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak hanya pantainya yang indah tapi di sekitar Tanjung Bira juga ada spot menarik untuk snorkeling ataupun diving.", 
+        "line": 64, 
+        "range": [
+            3450, 
+            3565
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3461, 
+                    3474
+                ], 
+                "name": "Pulau Kambing"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3488, 
+                    3494
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3525, 
+                    3537
+                ], 
+                "name": "Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya dengar sih kalau diving di Tanjung Bira sangat menantang karena arusnya yang cukup kuat.", 
+        "line": 66, 
+        "range": [
+            3567, 
+            3659
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3626, 
+                    3638
+                ], 
+                "name": "Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau cuma mau lihat terumbu karang bisa snorkeling saja sambil melihat ikan-ikan bermain di dalam air.", 
+        "line": 68, 
+        "range": [
+            3661, 
+            3763
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau memang mau diving di Tanjung Bira ada dive center yang profesional bernama Scuba Republic. Jadi bisa coba discovery dive atau paket lainnya.", 
+        "line": 70, 
+        "range": [
+            3765, 
+            3910
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3821, 
+                    3833
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3838, 
+                    3849
+                ], 
+                "name": "dive center"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3875, 
+                    3889
+                ], 
+                "name": "Scuba Republic"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertama kali saya nyobain diving sebenarnya di Pulau Wakatobi. Kalau sempat coba deh ke sana.", 
+        "line": 72, 
+        "range": [
+            3912, 
+            4004
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3989, 
+                    4003
+                ], 
+                "name": "Pulau Wakatobi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga untuk menyewa alat sekitar Rp 50,000/set. Harga kapal untuk hopping island ke Pulau Liukang Loe dan Pulau Kambing sekitar Rp 250,000 \u2013 Rp 300,000 per harinya.", 
+        "line": 74, 
+        "range": [
+            4006, 
+            4171
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4091, 
+                    4096
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4121, 
+                    4138
+                ], 
+                "name": "Pulau Liukang Loe"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4143, 
+                    4156
+                ], 
+                "name": "Pulau Kambing"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Panrang Luhuk", 
+        "line": 76, 
+        "range": [
+            4173, 
+            4188
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tanjung Bira terkenal sebagai tempat untuk membuat kapal phinisi.", 
+        "line": 78, 
+        "range": [
+            4190, 
+            4254
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4206, 
+                    4219
+                ], 
+                "name": "Panrang Luhuk"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4221, 
+                    4233
+                ], 
+                "name": "Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal phinisi ini dibuat sebagai kargo untuk mengirim barang sehari-hari. Ada tiga tempat untuk membuat kapal phinisi di Tanjung Bira Sulawesi Selatan atau Bulukumba.", 
+        "line": 80, 
+        "range": [
+            4256, 
+            4421
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4272, 
+                    4285
+                ], 
+                "name": "kapal phinisi"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4288, 
+                    4300
+                ], 
+                "name": "Kapal phinis"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4392, 
+                    4405
+                ], 
+                "name": "kapal phinisi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4409, 
+                    4421
+                ], 
+                "name": "Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang paling terkenal dan sering saya baca adalah Tana Beru. Saya pergi ke tempat pembuatan kapal phinisi lain yang terletak di sebelah timur pantai, tepatnya di Desa Tanetang.", 
+        "line": 82, 
+        "range": [
+            4423, 
+            4597
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4444, 
+                    4453
+                ], 
+                "name": "Bulukumba"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4505, 
+                    4514
+                ], 
+                "name": "Tana Beru"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4547, 
+                    4560
+                ], 
+                "name": "kapal phinisi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa kapal phinisi dengan ukuran yang berbeda dibuat di pinggiran pantai. Untuk membangun sebuah kapal phinisi yang besar dibutuhkan waktu sekitar 12 bulan dan sebagian besar dilakukan oleh pengrajin secara langsung.", 
+        "line": 84, 
+        "range": [
+            4599, 
+            4818
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4617, 
+                    4630
+                ], 
+                "name": "Desa Tanetang"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4642, 
+                    4655
+                ], 
+                "name": "kapal phinisi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4703, 
+                    4709
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4734, 
+                    4747
+                ], 
+                "name": "kapal phinisi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hanya 12 -15 tukang yang bekerja membangun sebuah kapal. Kalau dipikir-pikir hebat juga ya, bisa membangun kapal besar secara tradisional menggunakan tangan saja.", 
+        "line": 86, 
+        "range": [
+            4820, 
+            4981
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4905, 
+                    4910
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4962, 
+                    4967
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya diperbolehkan untuk naik ke atas kapal dan melihat proses pengerjaan secara langsung. Saya kagum dengan para pekerja yang harus mengangkat bahan-bahan dah harus menaikki tangga yang kecil.", 
+        "line": 88, 
+        "range": [
+            4983, 
+            5175
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5057, 
+                    5062
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Pua Janggo", 
+        "line": 90, 
+        "range": [
+            5177, 
+            5189
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Masih disekitar Pantai Bira, ada sebuah view point dari atas bukit yang bernama Pua Janggo.", 
+        "line": 92, 
+        "range": [
+            5191, 
+            5281
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5217, 
+                    5227
+                ], 
+                "name": "Pua Janggo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5245, 
+                    5256
+                ], 
+                "name": "Pantai Bira"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5269, 
+                    5278
+                ], 
+                "name": "view poin"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk sampai kesini harus berjalan sekitar 2 kilometer. Sampai atas bisa melihat Pantai Tanjung Bira dan Pulau Liukang Loe.", 
+        "line": 94, 
+        "range": [
+            5283, 
+            5405
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5290, 
+                    5295
+                ], 
+                "name": "bukit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5309, 
+                    5319
+                ], 
+                "name": "Pua Janggo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips berkunjung ke Pantai Bira", 
+        "line": 96, 
+        "range": [
+            5407, 
+            5436
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Semakin tertarik untuk berkunjung ke Pantai Bira? Baca dulu beberapa tips ini:", 
+        "line": 98, 
+        "range": [
+            5438, 
+            5515
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5466, 
+                    5477
+                ], 
+                "name": "Pantai Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiket masuk ke Pantai Bira adalah Rp 10,000 untuk WNI dan Rp 20,000 untuk WNA.", 
+        "line": 100, 
+        "range": [
+            5517, 
+            5594
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5574, 
+                    5585
+                ], 
+                "name": "Pantai Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "Kalau tidak mau capek jalan bisa menyewa motor dengan harga Rp 60,000 per hari tidak termasuk bensin.", 
+        "line": 101, 
+        "range": [
+            5595, 
+            5695
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5679, 
+                    5684
+                ], 
+                "name": "motor"
+            }
+        ]
+    }, 
+    {
+        "text": "Untuk tempat makan bisa coba Warung Bamboo atau Warung Melati. Harganya cukup murah dan rasanya juga cukup enak.", 
+        "line": 102, 
+        "range": [
+            5696, 
+            5807
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5769, 
+                    5782
+                ], 
+                "name": "Warung Bamboo"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5788, 
+                    5801
+                ], 
+                "name": "Warung Melati"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman saya berkunjung ke Pantai Tanjung Bira", 
+        "line": 104, 
+        "range": [
+            5809, 
+            5857
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya memang lagi pengen bersantai aja di pantai makanya langsung membuat rencana ke Tanjung Bira.", 
+        "line": 106, 
+        "range": [
+            5859, 
+            5955
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5884, 
+                    5903
+                ], 
+                "name": "Pantai Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5946, 
+                    5952
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah tinggal di Makassar hampir empat bulan sayangkan kalau tidak ke Pantai Bira. Apalagi sebentar lagi saya akan meninggalkan Makassar.", 
+        "line": 108, 
+        "range": [
+            5957, 
+            6095
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5989, 
+                    6001
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6023, 
+                    6031
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6076, 
+                    6087
+                ], 
+                "name": "Pantai Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah menyusun barang yang perlu dibawa saya langsung menuju Terminal Maliengkeri.", 
+        "line": 110, 
+        "range": [
+            6097, 
+            6180
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6134, 
+                    6142
+                ], 
+                "name": "Makassar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketemulah dengan seorang turis dari Jerman bernama Ben. Akhirnya barengan deh kami ke Tanjung Bira.", 
+        "line": 112, 
+        "range": [
+            6182, 
+            6280
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6208, 
+                    6228
+                ], 
+                "name": "Terminal Maliengkeri"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Yang saya suka dari solo traveling, biasanya pasti bakal ketemu teman baru, jadi ujung-ujungnya tdak bakal sendirian.", 
+        "line": 114, 
+        "range": [
+            6282, 
+            6398
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6317, 
+                    6329
+                ], 
+                "name": "Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sama pas saya liburan ke Pantai Ora juga barengan turis dari Prancis", 
+        "line": 116, 
+        "range": [
+            6400, 
+            6467
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di Tanjung Bira entah kenapa supirnya tidak suruh saya untuk bayar. Bahkan saya coba ngasih duit ke dia malah dia pergi. Mungkin karena bareng bule kali ya, haha. Atau jangan-jangan saya dikira bule juga.", 
+        "line": 118, 
+        "range": [
+            6469, 
+            6687
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6476, 
+                    6486
+                ], 
+                "name": "Pantai Ora"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6539, 
+                    6551
+                ], 
+                "name": "Tanjung Bira"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya tinggal di Sunshine Guesthouse selama 3 hari 2 malam. Ketemu juga dengan seorang traveler dari Thailand juga bernama Alawiyah. Ternyata Pantai Bira lumayan terkenal juga bagi wisatawan mancanegara.", 
+        "line": 120, 
+        "range": [
+            6689, 
+            6890
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6758, 
+                    6777
+                ], 
+                "name": "Sunshine Guesthouse"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Seru juga, trekking ke Bara Beach, melihat pembuatan kapal phini dan juga aktivitas lainnya bersama Ben. Cuacanya kadang agak labil, kadang hujan kadang panas. Pengen balik lagi ke Pantai Tanjung Bira!", 
+        "line": 122, 
+        "range": [
+            6892, 
+            7092
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6969, 
+                    6979
+                ], 
+                "name": "Bara Beach"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    6999, 
+                    7010
+                ], 
+                "name": "kapal phini"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, lumayan lengkap lah ya informasi yang saya berikan. Dari cara ke Tanjung Bira dari Makassar, wisata apa saja yang bisa dilakukan, dan rekomendasi penginapan di sekitar Pantai Bira ini. Semoga membantu!", 
+        "line": 124, 
+        "range": [
+            7094, 
+            7299
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7127, 
+                    7146
+                ], 
+                "name": "Pantai Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7219, 
+                    7231
+                ], 
+                "name": "Tanjung Bira"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7237, 
+                    7245
+                ], 
+                "name": "Makassar"
+            }
+        ]
+    }
+]

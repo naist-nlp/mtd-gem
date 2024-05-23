@@ -1,0 +1,3543 @@
+[
+    {
+        "text": "May 15, 2022   10 Hal Yang Bisa Kamu Lakukan Di Pulau Togean (Panduan Lengkap)", 
+        "line": 0, 
+        "range": [
+            1, 
+            78
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    48, 
+                    60
+                ], 
+                "name": "Pulau Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak pertanyaan dari teman-teman, bagaimana sih cara menuju Pulau Togean? Di mana rekomendasi penginapan yang sesuai dan apa saja objek wisata di sekitar Pulau Togean? Saya coba rangkum ya dalam tulisan ini.", 
+        "line": 2, 
+        "range": [
+            80, 
+            288
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    142, 
+                    154
+                ], 
+                "name": "Pulau Togean"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    176, 
+                    186
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    212, 
+                    224
+                ], 
+                "name": "objek wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    236, 
+                    248
+                ], 
+                "name": "Pulau Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terkadang pergi ke suatu tempat itu butuh perjuangan yang besar. Tetapi ketika sampai dan melihat keindahan tempat itu yang melebihi ekspektasi, rasa senangnya juga mungkin berkali-kali lipat. Begitulah perasaan saya ketika sampai di Kepulauan Togean.", 
+        "line": 4, 
+        "range": [
+            290, 
+            540
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    525, 
+                    541
+                ], 
+                "name": "Kepulauan Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Togean adalah salah satu pulau yang lebih jarang dikunjungi oleh turis. Letaknya yang tersembunyi di tengah Teluk Tomini, Sulawesi Tengah, membuat pulau ini tidaklah begitu ramai.", 
+        "line": 6, 
+        "range": [
+            542, 
+            726
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    544, 
+                    556
+                ], 
+                "name": "Pulau Togean"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    575, 
+                    580
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    658, 
+                    670
+                ], 
+                "name": "Teluk Tomini"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    672, 
+                    687
+                ], 
+                "name": "Sulawesi Tengah"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    697, 
+                    702
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mungkin bagi sebagian orang tidak banyak yang bisa dilakukan di Kepulauan ini. Tetapi bagi saya yang suka dengan ketenangan, pulau ini cocok untuk saya.", 
+        "line": 8, 
+        "range": [
+            728, 
+            879
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    795, 
+                    804
+                ], 
+                "name": "Kepulauan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    856, 
+                    861
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara ke Pulau Togean Menggunakan Transportasi Umum", 
+        "line": 10, 
+        "range": [
+            881, 
+            930
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    893, 
+                    905
+                ], 
+                "name": "Pulau Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Togean terletak di tengah Teluk Tomini. Ada dua cara ke Pulau Togean yang umumnya bisa ditempuh yaitu melalui Ampana dan Gorontalo.", 
+        "line": 12, 
+        "range": [
+            932, 
+            1068
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    937, 
+                    949
+                ], 
+                "name": "Pulau Togean"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    969, 
+                    981
+                ], 
+                "name": "Teluk Tomini"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    999, 
+                    1011
+                ], 
+                "name": "Pulau Togean"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1053, 
+                    1059
+                ], 
+                "name": "Ampana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Melalui Ampana", 
+        "line": 14, 
+        "range": [
+            1070, 
+            1086
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ampana dapat ditempuh menggunakan pesawat dari kota Palu.", 
+        "line": 16, 
+        "range": [
+            1088, 
+            1144
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1095, 
+                    1101
+                ], 
+                "name": "Ampana"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1129, 
+                    1136
+                ], 
+                "name": "pesawat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jika kamu terbang dari Jakarta, Surabaya, Bali, atau Makassar, terbanglah ke Palu dulu kemudian ambil penerbangan lain lagi menuju Ampana.", 
+        "line": 18, 
+        "range": [
+            1146, 
+            1283
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1177, 
+                    1184
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1186, 
+                    1194
+                ], 
+                "name": "Surabaya"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1196, 
+                    1200
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1207, 
+                    1215
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1231, 
+                    1235
+                ], 
+                "name": "Palu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mungkin kamu harus menginap dulu semalam di Palu karena jadwal pesawat dari Palu ke Ampana yang dioperasikan oleh Wings Air hanya berangkat sekali sehari pada pukul 11.35 pagi.", 
+        "line": 20, 
+        "range": [
+            1285, 
+            1460
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1285, 
+                    1291
+                ], 
+                "name": "Ampana"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1338, 
+                    1342
+                ], 
+                "name": "Palu"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1357, 
+                    1364
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1370, 
+                    1374
+                ], 
+                "name": "Palu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1378, 
+                    1384
+                ], 
+                "name": "Ampana"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1408, 
+                    1417
+                ], 
+                "name": "Wings Air"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sesampainya di Ampana, kamu harus naik kapal ke Wakai. Kapal menuju Wakai berangkat jam 9 pagi dan tiba sekitar jam 2 siang (5 jam perjalanan).", 
+        "line": 22, 
+        "range": [
+            1462, 
+            1604
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1487, 
+                    1493
+                ], 
+                "name": "Ampana"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1511, 
+                    1516
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1520, 
+                    1525
+                ], 
+                "name": "Wakai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1527, 
+                    1532
+                ], 
+                "name": "Kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1540, 
+                    1545
+                ], 
+                "name": "Wakai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket kapal Rp 150.000. Rekomendasi untuk menginap semalam di Ampana adalah Hotel Lawaka.", 
+        "line": 24, 
+        "range": [
+            1606, 
+            1700
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1629, 
+                    1634
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1685, 
+                    1691
+                ], 
+                "name": "Ampana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Melalui Gorontalo", 
+        "line": 26, 
+        "range": [
+            1702, 
+            1721
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ambil penerbangan dari Jakarta atau Surabaya menuju Gorontalo. Kemudian, pergilah ke pelabuhan feri yang terletak kurang lebih satu jam dari bandara.", 
+        "line": 28, 
+        "range": [
+            1723, 
+            1871
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1725, 
+                    1734
+                ], 
+                "name": "Gorontalo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1759, 
+                    1766
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1772, 
+                    1780
+                ], 
+                "name": "Surabaya"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1788, 
+                    1797
+                ], 
+                "name": "Gorontalo"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1821, 
+                    1835
+                ], 
+                "name": "pelabuhan feri"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal feri dari Gorontalo menuju Wakai berangkat setiap hari Selasa dan Jumat jam 6 sore. Perjalanan menggunakan feri kurang lebih 12 jam, dan akan tiba di Wakai keesokan paginya.", 
+        "line": 30, 
+        "range": [
+            1873, 
+            2051
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1877, 
+                    1884
+                ], 
+                "name": "bandara"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1887, 
+                    1897
+                ], 
+                "name": "Kapal feri"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1903, 
+                    1912
+                ], 
+                "name": "Gorontalo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1920, 
+                    1925
+                ], 
+                "name": "Wakai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2000, 
+                    2004
+                ], 
+                "name": "feri"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2043, 
+                    2048
+                ], 
+                "name": "Wakai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk harga tiket ferinya sendiri Rp 64,000 untuk kelas ekonomi (non ac), Rp 89,000 untuk kelas bisnis (ber-ac), atau Rp 500,000 untuk satu kabin muat untuk 4 orang.", 
+        "line": 32, 
+        "range": [
+            2053, 
+            2217
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2086, 
+                    2093
+                ], 
+                "name": "ferinya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau sudah sampai di Wakai, akan lebih mudah lagi untuk pergi ke pulau-pulau sekitar. Beberapa penginapan atau resort bisa menjemput kamu, jadi sebaiknya kamu tanya staff penginapan sebelum kedatangan.", 
+        "line": 34, 
+        "range": [
+            2219, 
+            2420
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2257, 
+                    2262
+                ], 
+                "name": "Wakai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2301, 
+                    2312
+                ], 
+                "name": "pulau-pulau"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2331, 
+                    2341
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2347, 
+                    2353
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2407, 
+                    2417
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penginapan di Sekitar Pulau Togean", 
+        "line": 36, 
+        "range": [
+            2422, 
+            2455
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2439, 
+                    2449
+                ], 
+                "name": "Penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Pulau Togean sendiri terdapat beberapa jenis penginapan mulai dari beach resort dengan bungalow kayu dengan hammock di depan kamar untuk bersantai.", 
+        "line": 38, 
+        "range": [
+            2457, 
+            2606
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2461, 
+                    2473
+                ], 
+                "name": "Pulau Togean"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2478, 
+                    2490
+                ], 
+                "name": "Pulau Togean"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2523, 
+                    2533
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2545, 
+                    2557
+                ], 
+                "name": "beach resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya penginapannya itu menawarkan paket full, termasuk makan 3x sehari. Listrik di Pulau Togean sangat terbatas, jadi biasanya cuma ada listrik dari jam 6 sore sampai tengan malam.", 
+        "line": 40, 
+        "range": [
+            2608, 
+            2791
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2636, 
+                    2649
+                ], 
+                "name": "penginapannya"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2714, 
+                    2726
+                ], 
+                "name": "Pulau Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah berikut beberapa rekomendasi penginapan di Pulau Togean:", 
+        "line": 42, 
+        "range": [
+            2793, 
+            2852
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Fadhila Cottages", 
+        "line": 44, 
+        "range": [
+            2854, 
+            2872
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2860, 
+                    2872
+                ], 
+                "name": "Pulau Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "(Rp 200,000 \u2013 350,000/orang/malam)", 
+        "line": 45, 
+        "range": [
+            2873, 
+            2908
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2878, 
+                    2894
+                ], 
+                "name": "Fadhila Cottages"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sempat menginap beberapa malam di Fadhila Cottages. Letaknya di sebuah pulau kecil di seberang Pulau Katupat.", 
+        "line": 47, 
+        "range": [
+            2910, 
+            3023
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2970, 
+                    2986
+                ], 
+                "name": "Fadhila Cottages"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3007, 
+                    3012
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya cukup suka menginap disini karena nuansa pulaunya sangat tenang, alami, simple dan sederhana.", 
+        "line": 49, 
+        "range": [
+            3025, 
+            3122
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3031, 
+                    3044
+                ], 
+                "name": "Pulau Katupat"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3093, 
+                    3101
+                ], 
+                "name": "pulaunya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Makanannya enak, porsinya pun cukup memuaskan. Kamarnya sederhana, ada kelambu dan juga hammock di depan kamar. Hanya saja, mungkin bisa lebih bersih lagi.", 
+        "line": 51, 
+        "range": [
+            3124, 
+            3278
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jangan takut dengan binatang liar seperti lebah, kadal, atau laba-laba berkeliaran. Namanya juga tinggal di pulau terpencil, ya nggak.", 
+        "line": 53, 
+        "range": [
+            3280, 
+            3413
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 54, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Kadidiri Paradise", 
+        "line": 55, 
+        "range": [
+            3415, 
+            3434
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "(Rp 200,000 \u2013 450,000/orang/malam)", 
+        "line": 56, 
+        "range": [
+            3435, 
+            3470
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3443, 
+                    3460
+                ], 
+                "name": "Kadidiri Paradise"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya juga meninap di Kadidiri Paradise yang terletak di Pulau Kadidiri. Pulau ini tidak jauh dari danau ubur-ubur yang terkenal di kepulauan ini.", 
+        "line": 58, 
+        "range": [
+            3472, 
+            3616
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3518, 
+                    3535
+                ], 
+                "name": "Kadidiri Paradise"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3553, 
+                    3567
+                ], 
+                "name": "Pulau Kadidiri"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3569, 
+                    3574
+                ], 
+                "name": "Pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3595, 
+                    3610
+                ], 
+                "name": "danau ubur-ubur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penginapannya lebih mewah, dengan fasilitas seperti canoe, jaring voli, dan dermaga untuk bersantai. Pantainya sih kurang bagus ya.", 
+        "line": 60, 
+        "range": [
+            3618, 
+            3748
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3628, 
+                    3637
+                ], 
+                "name": "kepulauan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3644, 
+                    3657
+                ], 
+                "name": "Penginapannya"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3720, 
+                    3727
+                ], 
+                "name": "dermaga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Makanannya juga enggak terlalu gimana banget. Kalau untuk kebersihan kamarnya saya beri nilai A deh.", 
+        "line": 62, 
+        "range": [
+            3750, 
+            3849
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Bahia Tomini Eco Resort", 
+        "line": 64, 
+        "range": [
+            3851, 
+            3876
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "(Rp 350,000 \u2013 500,000/orang/malam)", 
+        "line": 65, 
+        "range": [
+            3877, 
+            3912
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3882, 
+                    3905
+                ], 
+                "name": "Bahia Tomini Eco Resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 66, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terletak di Pulau Malenge, Bahia Tomini Eco Resort merupakan tempat favorit saya. Walaupun saya tidak menginap disini, saya langsung jatuh cinta dengan suasana sekitar.", 
+        "line": 67, 
+        "range": [
+            3914, 
+            4081
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3954, 
+                    3967
+                ], 
+                "name": "Pulau Malenge"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3969, 
+                    3992
+                ], 
+                "name": "Bahia Tomini Eco Resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 68, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Disini cuma ada 4 bungalow, semunya menghadap langsung ke laut. Pasir pantainya sangat putih dan indah. Dekorasi bungalownya juga menarik.", 
+        "line": 69, 
+        "range": [
+            4083, 
+            4220
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4170, 
+                    4174
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4182, 
+                    4191
+                ], 
+                "name": "pantainya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 70, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya pribadi tidak akan keberatan untuk tinggal dan bersantai di pulau ini.", 
+        "line": 71, 
+        "range": [
+            4222, 
+            4296
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 72, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Pilihan penginapan lainnya", 
+        "line": 73, 
+        "range": [
+            4298, 
+            4326
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4317, 
+                    4322
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 74, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kurang lebih kamu bisa cek di aplikasi atau situs booking hotel yang ada.", 
+        "line": 75, 
+        "range": [
+            4328, 
+            4400
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4340, 
+                    4350
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 76, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa rekomendasi penginapan lain di Kepulauan Togean adalah:", 
+        "line": 77, 
+        "range": [
+            4402, 
+            4465
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4418, 
+                    4423
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 78, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sunset Beach, terletak sekitar 20 menit kapal dari Wakai. Harganya sekitar Rp 175,000/orang/malam untuk low season atau Rp 200,000/orang/malam untuk high season, sudah termasuk 3x makan.", 
+        "line": 79, 
+        "range": [
+            4467, 
+            4652
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4475, 
+                    4491
+                ], 
+                "name": "Kepulauan Togean"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4501, 
+                    4513
+                ], 
+                "name": "Sunset Beach"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4541, 
+                    4546
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4552, 
+                    4557
+                ], 
+                "name": "Wakai"
+            }
+        ]
+    }, 
+    {
+        "text": "Lia Beach, terletak di Pulau Waleakodi. Bungalownya terbuat dari bambu terkesan unik. Harganya Rp 350,000.orang/malam.", 
+        "line": 80, 
+        "range": [
+            4653, 
+            4770
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4688, 
+                    4697
+                ], 
+                "name": "Lia Beach"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4711, 
+                    4726
+                ], 
+                "name": "Pulau Waleakodi"
+            }
+        ]
+    }, 
+    {
+        "text": "Sanctum Dive Resort, di Pulau Una Una. (Cek harga)", 
+        "line": 81, 
+        "range": [
+            4771, 
+            4820
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Black Marlin Dive Resort, di Pulau Kadidiri. (Cek harga)", 
+        "line": 82, 
+        "range": [
+            4821, 
+            4876
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4831, 
+                    4844
+                ], 
+                "name": "Pulau Una Una"
+            }
+        ]
+    }, 
+    {
+        "text": "Araya Dive Resort, untuk diving di Pasir Tengah dan Goa Goa. (Cek harga)", 
+        "line": 83, 
+        "range": [
+            4877, 
+            4948
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4887, 
+                    4901
+                ], 
+                "name": "Pulau Kadidiri"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4915, 
+                    4932
+                ], 
+                "name": "Araya Dive Resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "10 hal yang bisa kamu lakukan di Pulau Togean", 
+        "line": 85, 
+        "range": [
+            4950, 
+            4994
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4950, 
+                    4962
+                ], 
+                "name": "Pasir Tengah"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4967, 
+                    4974
+                ], 
+                "name": "Goa Goa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jika kamu mencari pulau tropis untuk bersantai atau beristirahat, mungkin dengan sedikit rasa berpetualang, Wisata ke Pulau Togean sangat cocok kamu.", 
+        "line": 87, 
+        "range": [
+            4996, 
+            5144
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5022, 
+                    5034
+                ], 
+                "name": "Pulau Togean"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5054, 
+                    5059
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 88, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai pasir putih yang indah, terumbu karang berwarna-warni, dan pengalaman langka melihat stingless jellyfish atau ubur-ubur tanpa sengat, traveling ke Kepulauan Togean akan menjadi pengalaman yang paling seru.", 
+        "line": 89, 
+        "range": [
+            5146, 
+            5357
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5154, 
+                    5166
+                ], 
+                "name": "Pulau Togean"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5187, 
+                    5193
+                ], 
+                "name": "Pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5341, 
+                    5357
+                ], 
+                "name": "Kepulauan Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 90, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut 10 hal yang bisa dilakukan di Pulau Togean:", 
+        "line": 91, 
+        "range": [
+            5359, 
+            5409
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 92, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Nyemplung ke air bening di Pulau Togean", 
+        "line": 93, 
+        "range": [
+            5411, 
+            5452
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5439, 
+                    5451
+                ], 
+                "name": "Pulau Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 94, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kepulauan Togean terdiri dari pulau-pulau kecil. Mau pulau yang manapun kemungkinan besar kamu akan merasakan surga dimana air laut yang bening dan tenang terpampang di depan mata.", 
+        "line": 95, 
+        "range": [
+            5454, 
+            5633
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5484, 
+                    5496
+                ], 
+                "name": "Pulau Togean"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5498, 
+                    5514
+                ], 
+                "name": "Kepulauan Togean"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5528, 
+                    5539
+                ], 
+                "name": "pulau-pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5551, 
+                    5556
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5625, 
+                    5629
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 96, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sangatlah sulit untuk menahan diri agar tidak nyemplung ke dalam air, menyegarkan diri di bawah teriknya matahari. Pastinya kamu juga akan merasakan hal yang sama.", 
+        "line": 97, 
+        "range": [
+            5635, 
+            5797
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 98, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu bisa snorkeling untuk melihat indahnya pemandangan di bawah laut dan berenang bersama ikan-ikan kecil.", 
+        "line": 99, 
+        "range": [
+            5799, 
+            5905
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 100, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Menikmati waktu dan suasana dengan tenang", 
+        "line": 101, 
+        "range": [
+            5907, 
+            5950
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5910, 
+                    5914
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 102, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Agak sulit mendapatkan sinyal telepon di Kepulauan Togean. Listrik juga terbatas hanya dari jam 6 sore. Lupakan handphone kamu, masalah, maupun soal kerjaan.", 
+        "line": 103, 
+        "range": [
+            5952, 
+            6108
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6041, 
+                    6057
+                ], 
+                "name": "Kepulauan Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 104, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mumpung lagi di pulau terpencil mirip dengan Pulau Weh, nikmatilah tenangnya suasana disini.", 
+        "line": 105, 
+        "range": [
+            6110, 
+            6201
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6175, 
+                    6180
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 106, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kebanyakan resort menyediakan hammock di depan kamar. Kalau saya sukanya tidur-tiduran di hammock dan membaca buku, atau menuangkan isi pikiran saya dengan tulisan.", 
+        "line": 107, 
+        "range": [
+            6203, 
+            6366
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6204, 
+                    6213
+                ], 
+                "name": "Pulau Weh"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6264, 
+                    6270
+                ], 
+                "name": "resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 108, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya juga suka bermain dengan anjing disana, main voli, yoga, atau sekedar nongkrong sama teman-teman. Di malam hari kamu bisa melihat bintang juga. Saya tidak keberatan berlama-lama disini.", 
+        "line": 109, 
+        "range": [
+            6368, 
+            6557
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 110, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Dive, dive, dive", 
+        "line": 111, 
+        "range": [
+            6559, 
+            6577
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 112, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Daya tarik dari wisata Pulau Togean adalah situs diving-nya. Beberapa situs diving yang bagus ada di Pulau Kadidiri dan Una-una.", 
+        "line": 113, 
+        "range": [
+            6579, 
+            6706
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6655, 
+                    6667
+                ], 
+                "name": "Pulau Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 114, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak teman saya yang bilang kalau diving di Togean seru. Kamu bisa menemukan black-tail barracuda, penyu, hiu, dan lainnya.", 
+        "line": 115, 
+        "range": [
+            6708, 
+            6832
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6733, 
+                    6747
+                ], 
+                "name": "Pulau Kadidiri"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6752, 
+                    6759
+                ], 
+                "name": "Una-una"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6808, 
+                    6814
+                ], 
+                "name": "Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 116, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bukan seorang diver? Sama saya juga bukan. Snorkeling juga menyenangkan kok. Tempat snorkeling favorit saya adalah Hotel California dan Reef 1.", 
+        "line": 117, 
+        "range": [
+            6834, 
+            6976
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 118, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terumbu karang disini bagus walaupun tidak banyak variasi ikan. Keindahan terumbu karangnya mirip seperti  di Pantai Ora yang terletak di Maluku.", 
+        "line": 119, 
+        "range": [
+            6978, 
+            7122
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7004, 
+                    7020
+                ], 
+                "name": "Hotel California"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7025, 
+                    7031
+                ], 
+                "name": "Reef 1"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 120, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Naik kapal malam hari untuk melihat plankton", 
+        "line": 121, 
+        "range": [
+            7124, 
+            7170
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7144, 
+                    7154
+                ], 
+                "name": "Pantai Ora"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 122, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya pribadi belum coba, tetapi saya melihat tamu lain meninggalkan resort dengan sampan kecil dilengkapi peralatan snorkeling pada malam hari.", 
+        "line": 123, 
+        "range": [
+            7172, 
+            7314
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7172, 
+                    7178
+                ], 
+                "name": "Maluku"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7189, 
+                    7194
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7298, 
+                    7304
+                ], 
+                "name": "resort"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 124, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika kembali, mereka bilang kalau mereka habis berenang dengan plankton yang bersinar.", 
+        "line": 125, 
+        "range": [
+            7316, 
+            7403
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 126, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena saya belum pernah melihat plankton yang bersinar, saya tanya seperti apa bentuknya. \u201cSeperti berenang dengan bintang.\u201d Itulah jawaban salah satu dari mereka.", 
+        "line": 127, 
+        "range": [
+            7405, 
+            7572
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 128, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Menyebrangi pulau ke pulau dengan jembatan kayu panjang", 
+        "line": 129, 
+        "range": [
+            7574, 
+            7631
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 130, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebuah jembatan kayu dengan panjang hampir satu kilometer menghubungi Pulau Malenge dan Pulau Papan.", 
+        "line": 131, 
+        "range": [
+            7633, 
+            7732
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7646, 
+                    7651
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7655, 
+                    7660
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7668, 
+                    7676
+                ], 
+                "name": "jembatan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7698, 
+                    7706
+                ], 
+                "name": "jembatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 132, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jembatan ini dibangun untuk memudahkan siswa di Pulau Papan agar bisa pergi ke sekolah yang ada di Pulau Malenge.", 
+        "line": 133, 
+        "range": [
+            7734, 
+            7846
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7761, 
+                    7774
+                ], 
+                "name": "Pulau Malenge"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7779, 
+                    7790
+                ], 
+                "name": "Pulau Papan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7793, 
+                    7801
+                ], 
+                "name": "Jembatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 134, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu warga lokal memberitahu saya bahwa sebelum jembatan ini dibangun, para siswa ini akan berenang sehabis sekolah untuk pulang ke rumah.", 
+        "line": 135, 
+        "range": [
+            7848, 
+            7991
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7872, 
+                    7879
+                ], 
+                "name": "sekolah"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7892, 
+                    7905
+                ], 
+                "name": "Pulau Malenge"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7962, 
+                    7970
+                ], 
+                "name": "jembatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 136, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tentunya sangat bahaya, makanya pemerintah akhirnya membangun jembatan ini.", 
+        "line": 137, 
+        "range": [
+            7993, 
+            8067
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 138, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berjalan di atas jembatan kayu ini pastinya sangat berbeda. Soalnya langsung bisa melihat terumbu karang langsung di bawah.", 
+        "line": 139, 
+        "range": [
+            8069, 
+            8191
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8116, 
+                    8124
+                ], 
+                "name": "jembatan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8148, 
+                    8156
+                ], 
+                "name": "jembatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 140, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebelum meninggalkan pulau ini, saya naik ke sebuah bukit bernama Batu Karang untuk melihat panorama seluruh desa dan jembatan dari atas.", 
+        "line": 141, 
+        "range": [
+            8193, 
+            8329
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8277, 
+                    8282
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8308, 
+                    8313
+                ], 
+                "name": "bukit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 142, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "6. Bertemu dengan penduduk lokal Pulau Togean", 
+        "line": 143, 
+        "range": [
+            8331, 
+            8375
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8365, 
+                    8369
+                ], 
+                "name": "desa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 144, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Suku Bajo adalah suku yang menempati beberapa perairan Indonesia termasuk di Kepulauan Togean. Suku ini membangun rumah panggung di atas air.", 
+        "line": 145, 
+        "range": [
+            8377, 
+            8517
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8428, 
+                    8440
+                ], 
+                "name": "Pulau Togean"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8497, 
+                    8506
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 146, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Katanya Orang Bajo bisa menyelam sampai 20 meter tanpa menggunakan peralatan apapun. Mereka tidak punya mobil tapi punya kapal. Anak kecil bukannya bermain di taman tapi langsung nyebur ke laut.", 
+        "line": 147, 
+        "range": [
+            8519, 
+            8712
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8519, 
+                    8535
+                ], 
+                "name": "Kepulauan Togean"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8689, 
+                    8694
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8706, 
+                    8711
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 148, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Papan adalah rumah bagi keluarga Orang Bajo. Saya juga mengunjungi Desa Bajo di Pulau Kabalutan. Tampaknya populasi di pulau ini lebih besar daripada Pulau Papan.", 
+        "line": 149, 
+        "range": [
+            8714, 
+            8881
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8744, 
+                    8749
+                ], 
+                "name": "taman"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8774, 
+                    8778
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8781, 
+                    8792
+                ], 
+                "name": "Pulau Papan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8854, 
+                    8863
+                ], 
+                "name": "Desa Bajo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8867, 
+                    8882
+                ], 
+                "name": "Pulau Kabalutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 150, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Anak kecil senang sekali melihat tamu datang ke desa. Saya langsung dikerubunin anak kecil. Remaja lain dengan seragam sekolahnya juga ngobrol sama saya.", 
+        "line": 151, 
+        "range": [
+            8883, 
+            9035
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8906, 
+                    8911
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8937, 
+                    8948
+                ], 
+                "name": "Pulau Papan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8999, 
+                    9003
+                ], 
+                "name": "desa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 152, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "7. Duduk di ujung dermaga sambil menunggu matahari terbenam", 
+        "line": 153, 
+        "range": [
+            9037, 
+            9095
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 154, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah pindah dari satu pulau ke pulau lainnya. Selain makan malam pastinya, hal yang paling seru untuk dilakukan adalah duduk di dermaga dan menunggu matahari terbenam.", 
+        "line": 155, 
+        "range": [
+            9097, 
+            9266
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9124, 
+                    9131
+                ], 
+                "name": "dermaga"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9192, 
+                    9197
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9201, 
+                    9206
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 156, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dengan pemandangan yang luar biasa ini, saya menyadari betapa beruntungya saya bisa berada di tempat ini.", 
+        "line": 157, 
+        "range": [
+            9268, 
+            9372
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9298, 
+                    9305
+                ], 
+                "name": "dermaga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 158, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "8. Bermanin dengan Ubur-ubur tanpa sengat di Danau Mariona", 
+        "line": 159, 
+        "range": [
+            9374, 
+            9431
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 160, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kebayangkah asiknya berenang bersama ubur-ubur? Eh, bukannya mereka beracun ya?", 
+        "line": 161, 
+        "range": [
+            9433, 
+            9511
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9491, 
+                    9504
+                ], 
+                "name": "Danau Mariona"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 162, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa jenis ubur-ubur berbahaya bahkan mematikan. Terkadang saya bete dengan ubur-ubur yang tidak terlihat pas snorkeling tetapi terasa sengatannya.", 
+        "line": 163, 
+        "range": [
+            9513, 
+            9663
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 164, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tetapi, di beberapa tempat, ada juga ubur-ubur yang tidak menyengat.", 
+        "line": 165, 
+        "range": [
+            9665, 
+            9732
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 166, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Indonesia ada tiga tempat dimana kita bisa berenang dengan ubur-ubur tanpa sengat: Danau Kakaban di Pulau Derawan, Misool, dan Danau Mariona di Togean.", 
+        "line": 167, 
+        "range": [
+            9734, 
+            9887
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9813, 
+                    9822
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 168, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ubur-ubur ini kehilangan sengatnya karena perubahan geologi. Karena terperangkap di laguna tanpa predator, ubur-ubur ini pun tidak perlu melindungi diri dengan sengatnya.", 
+        "line": 169, 
+        "range": [
+            9889, 
+            10058
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9896, 
+                    9909
+                ], 
+                "name": "Danau Kakaban"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9913, 
+                    9926
+                ], 
+                "name": "Pulau Derawan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9928, 
+                    9934
+                ], 
+                "name": "Misool"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9940, 
+                    9953
+                ], 
+                "name": "Danau Mariona"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9957, 
+                    9963
+                ], 
+                "name": "Togean"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10050, 
+                    10056
+                ], 
+                "name": "laguna"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 170, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi salah satu teman saya kena sengat di bagian bibir pas berenang. Mungkin tipe ubur-ubur lainnya kali ya. Berenang bersama binatang lucu ini adalah salah satu pengalaman paling seru di Kepulauan Togean.", 
+        "line": 171, 
+        "range": [
+            10060, 
+            10264
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 172, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "9. Mengenal kuliner lokal Kepulauan Togean", 
+        "line": 173, 
+        "range": [
+            10266, 
+            10307
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 174, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hampir semua resort di Kepulauan Togean menawarkan paket termasuk 3x makan. Di luar area resort hampir tidak ada restoran lainnya.", 
+        "line": 175, 
+        "range": [
+            10309, 
+            10438
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10326, 
+                    10342
+                ], 
+                "name": "Kepulauan Togean"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10371, 
+                    10387
+                ], 
+                "name": "Kepulauan Togean"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10402, 
+                    10408
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10412, 
+                    10428
+                ], 
+                "name": "Kepulauan Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 176, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena di pulau, pastinya mereka menyajikan seafood yang langsung ditangkat dari laut. Biasa porsinya lumayan mengenyangkan jadi kamu tidak perlu takut kelaparan.", 
+        "line": 177, 
+        "range": [
+            10440, 
+            10601
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10478, 
+                    10484
+                ], 
+                "name": "resort"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10502, 
+                    10510
+                ], 
+                "name": "restoran"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10531, 
+                    10536
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 178, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu makanan yang mencuri perhatian saya adalah sagu. Sagu adalah makanan utama di wilayah timur Indonesia.", 
+        "line": 179, 
+        "range": [
+            10603, 
+            10715
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 180, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Teksturnya agak kenyal dan cara masaknya bisa dipanggang atau direbus.", 
+        "line": 181, 
+        "range": [
+            10717, 
+            10786
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 182, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Favorit saya adalah sagu yang dibulatin jadi bola, dicampur dengan gula merah dan parutan kelapa. Rasanya kenyal dan tidak terlalu manis.", 
+        "line": 183, 
+        "range": [
+            10788, 
+            10924
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10788, 
+                    10797
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 184, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "10. Belajar cara mendaur ulang plastik menjadi kerajinan tangan", 
+        "line": 185, 
+        "range": [
+            10926, 
+            10988
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 186, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Agar pariwisata di Kepulauan Togean bisa berkembang dan tetap bersih, salah satu organisasi non-profit lokal mengajak warganya untuk mendaur ulang sampah plastik dan menjadikannya bahan untuk kerajinan tangan.", 
+        "line": 187, 
+        "range": [
+            10990, 
+            11198
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11095, 
+                    11111
+                ], 
+                "name": "Kepulauan Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 188, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Pulau Katupat kamu bisa melihat proses pembuatan kerajinan tangan ini.", 
+        "line": 189, 
+        "range": [
+            11200, 
+            11272
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 190, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hasilnya bisa dijadikan oleh-oleh seperti gantungan kunci, topi, atau dompet. Harganya dari Rp 20,000 sampai Rp 100,000.", 
+        "line": 191, 
+        "range": [
+            11274, 
+            11393
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11290, 
+                    11303
+                ], 
+                "name": "Pulau Katupat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 192, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, itulah 10 hal yang bisa dilakukan di Kepulauan Togean. Dijamin bakal dapat pengalaman yang asik. Saya ketemu beberapa tamu dari luar negerti yang sudah berkali-kali bolak balik ke pulau ini.", 
+        "line": 193, 
+        "range": [
+            11395, 
+            11589
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11526, 
+                    11542
+                ], 
+                "name": "Kepulauan Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 194, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terima kasih Kementerian Pariwisata Indonesia yang telah mengajak saya ke Pulau Togaen.", 
+        "line": 195, 
+        "range": [
+            11591, 
+            11677
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    11669, 
+                    11674
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 196, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips dan Informasi Wisata Lainnya Pulau Togean", 
+        "line": 197, 
+        "range": [
+            11679, 
+            11724
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 198, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa tips untuk kamu yang ingin liburan ke Pulau Togean:", 
+        "line": 199, 
+        "range": [
+            11726, 
+            11785
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11755, 
+                    11767
+                ], 
+                "name": "Pulau Togaen"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 200, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga kapal untuk snorkeling trip (dari Fadhila Cottage)", 
+        "line": 201, 
+        "range": [
+            11787, 
+            11842
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11804, 
+                    11816
+                ], 
+                "name": "Pulau Togean"
+            }
+        ]
+    }, 
+    {
+        "text": "Reef Satu \u2013 Hotel California \u2013 Pantai Karina \u2013 Danau Ubur-ubur \u2013 Hutan Bakau: Rp 425,000 (6 \u2013 8 orang)", 
+        "line": 202, 
+        "range": [
+            11843, 
+            11954
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11865, 
+                    11877
+                ], 
+                "name": "Pulau Togean"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11886, 
+                    11891
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    11920, 
+                    11935
+                ], 
+                "name": "Fadhila Cottage"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11937, 
+                    11946
+                ], 
+                "name": "Reef Satu"
+            }
+        ]
+    }, 
+    {
+        "text": "Pulau Taipi \u2013 Pantai Karina \u2013 Danau Ubur-ubur \u2013 Hutan Bakau: Rp 425,000 (6 \u2013 8 orang)", 
+        "line": 203, 
+        "range": [
+            11955, 
+            12047
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11968, 
+                    11981
+                ], 
+                "name": "Pantai Karina"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11984, 
+                    11999
+                ], 
+                "name": "Danau Ubur-ubur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12002, 
+                    12013
+                ], 
+                "name": "Hutan Bakau"
+            }
+        ]
+    }, 
+    {
+        "text": "Hotel California \u2013 Reef Dua \u2013 Atoll \u2013 Pantai Malenge: Rp 475,000 (6 orang)", 
+        "line": 204, 
+        "range": [
+            12048, 
+            12127
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12054, 
+                    12067
+                ], 
+                "name": "Pantai Karina"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12070, 
+                    12085
+                ], 
+                "name": "Danau Ubur-ubur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12088, 
+                    12099
+                ], 
+                "name": "Hutan Bakau"
+            }
+        ]
+    }, 
+    {
+        "text": "Reef Satu \u2013 Reef Dua \u2013 Atoll \u2013 Malenge\u2019s Jetty: Rp 525,000 (6 orang)", 
+        "line": 205, 
+        "range": [
+            12128, 
+            12203
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12145, 
+                    12153
+                ], 
+                "name": "Reef Dua"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    12156, 
+                    12161
+                ], 
+                "name": "Atoll"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12164, 
+                    12178
+                ], 
+                "name": "Pantai Malenge"
+            }
+        ]
+    }, 
+    {
+        "text": "Desa Kabalutan \u2013 Pulau Talawenga: Rp 525,000 (6 \u2013 8 orang)", 
+        "line": 206, 
+        "range": [
+            12204, 
+            12265
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12213, 
+                    12221
+                ], 
+                "name": "Reef Dua"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    12224, 
+                    12229
+                ], 
+                "name": "Atoll"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12232, 
+                    12247
+                ], 
+                "name": "Malenge\u2019s Jetty"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 207, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sewa alat snorkeling dan fin: Rp 50,000/hari", 
+        "line": 208, 
+        "range": [
+            12267, 
+            12310
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12270, 
+                    12284
+                ], 
+                "name": "Desa Kabalutan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12287, 
+                    12302
+                ], 
+                "name": "Pulau Talawenga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 209, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rekomendasi situs diving di sekitar Pulau Togean", 
+        "line": 210, 
+        "range": [
+            12312, 
+            12359
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "The Pinaccle \u2013 Una Una: Karang pinnacle besar dengan wall atau tebih sedalam 60 meter. Banyak variasi sponge coral", 
+        "line": 211, 
+        "range": [
+            12360, 
+            12475
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12412, 
+                    12424
+                ], 
+                "name": "Pulau Togean"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12425, 
+                    12437
+                ], 
+                "name": "The Pinaccle"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12440, 
+                    12447
+                ], 
+                "name": "Una Una"
+            }
+        ]
+    }, 
+    {
+        "text": "Apollo \u2013 Una Una: Kemungkinan besar bisa melihat school of Blackin Barracuda", 
+        "line": 212, 
+        "range": [
+            12476, 
+            12553
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    12478, 
+                    12482
+                ], 
+                "name": "wall"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12540, 
+                    12546
+                ], 
+                "name": "Apollo"
+            }
+        ]
+    }, 
+    {
+        "text": "Pasir Tengah: Terumbu atoll selebar 3 kilometer dan nudibranch", 
+        "line": 213, 
+        "range": [
+            12554, 
+            12615
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "B24 Bomber Wreck: Kapal karam dengan panjang 17 meter dan lebar 22 meter", 
+        "line": 214, 
+        "range": [
+            12616, 
+            12687
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12617, 
+                    12629
+                ], 
+                "name": "Pasir Tengah"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    12639, 
+                    12644
+                ], 
+                "name": "atoll"
+            }
+        ]
+    }, 
+    {
+        "text": "Batu Gila: Hiu karang, pari manta, dan barracuda", 
+        "line": 215, 
+        "range": [
+            12688, 
+            12735
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    12698, 
+                    12703
+                ], 
+                "name": "Kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "Goa Goa: Diving menelurusi lorong dengan terumbu karang indah dan visibilitas air yang bagus", 
+        "line": 216, 
+        "range": [
+            12736, 
+            12827
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12753, 
+                    12762
+                ], 
+                "name": "Batu Gila"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12802, 
+                    12809
+                ], 
+                "name": "Goa Goa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 217, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sarankan kalau punya banyak waktu bisa melakukan overland Sulawesi. Kalau berencana sekalian melakukan overland trip, butuh waktu sektar 1 \u2013 2 bulan untuk ke Sulawesi.", 
+        "line": 218, 
+        "range": [
+            12829, 
+            13002
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12959, 
+                    12967
+                ], 
+                "name": "Sulawesi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 219, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa mulai dari selatan dari Makassar, kemudian bus menuju Tana Toraja \u2013 Tentena \u2013 Poso \u2013 Ampana \u2013 Pulau Togean \u2013 Gorontalo \u2013 Tomohon \u2013 Manado \u2013 Bunakan. Atau sebaliknya dari utara, Manado turun sampai Makassar.", 
+        "line": 220, 
+        "range": [
+            13004, 
+            13230
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13059, 
+                    13067
+                ], 
+                "name": "Sulawesi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13099, 
+                    13107
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    13118, 
+                    13121
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13129, 
+                    13140
+                ], 
+                "name": "Tana Toraja"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13143, 
+                    13150
+                ], 
+                "name": "Tentena"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13153, 
+                    13157
+                ], 
+                "name": "Poso"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13160, 
+                    13166
+                ], 
+                "name": "Ampana"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13169, 
+                    13181
+                ], 
+                "name": "Pulau Togean"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13184, 
+                    13193
+                ], 
+                "name": "Gorontalo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13196, 
+                    13203
+                ], 
+                "name": "Tomohon"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13206, 
+                    13212
+                ], 
+                "name": "Manado"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13215, 
+                    13222
+                ], 
+                "name": "Bunakan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 221, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah begitulah tips dan cara menuju ke Kepulauan Togean. Kalau enggak punya banyak waktu rasanya agak sayang jauh-jauh liburan ke Pulau Togean. Mungkin lebih baik untuk ikut open trip.", 
+        "line": 222, 
+        "range": [
+            13232, 
+            13414
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13252, 
+                    13258
+                ], 
+                "name": "Manado"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13272, 
+                    13280
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    13321, 
+                    13337
+                ], 
+                "name": "Kepulauan Togean"
+            }
+        ]
+    }
+]

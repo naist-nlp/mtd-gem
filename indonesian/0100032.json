@@ -1,0 +1,2576 @@
+[
+    {
+        "text": "June 18, 2022   Wisata Ke Karimunjawa, Mending Backpackeran Sendiri Atau Pakai Tour?", 
+        "line": 0, 
+        "range": [
+            1, 
+            84
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    26, 
+                    37
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mau liburan ke Karimunjawa lebih baik pergi sendiri alias backpackeran apa ikutan paket tour ya? Banyak paket tour atau open trip yang menyediakan jasa wisata ke Karimunjawa, pada umumnya paket 3 hari 2 malam dan 4 hari 3 malam.", 
+        "line": 2, 
+        "range": [
+            86, 
+            319
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    107, 
+                    118
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    254, 
+                    265
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tentunya ada beberapa hal yang harus dipertimbangkan, terutama dari segi biaya.", 
+        "line": 4, 
+        "range": [
+            321, 
+            399
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berapa sih biaya yang harus dikeluarkan baik jika melakukan perjalanan sendiri?", 
+        "line": 6, 
+        "range": [
+            401, 
+            479
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berapa harga kalau ikutan open trip?", 
+        "line": 8, 
+        "range": [
+            481, 
+            516
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya akan membagikan tips liburan ke Karimunjawa jadinya kamu bisa pilih mau pergi sendiri tanpa ikutan tour, atau menggunakan jasa tour.", 
+        "line": 10, 
+        "range": [
+            518, 
+            654
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    559, 
+                    570
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Transportasi menuju Pulau Karimunjawa", 
+        "line": 12, 
+        "range": [
+            656, 
+            692
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kepulauan  Karimunjawa adalah salah satu destinasi wisata yang terletak di Jawa Tengah, tepatnya di Kabupaten Jepara.", 
+        "line": 14, 
+        "range": [
+            694, 
+            810
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    700, 
+                    722
+                ], 
+                "name": "Kepulauan  Karimunjawa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    775, 
+                    786
+                ], 
+                "name": "Jawa Tengah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kepulauan ini memiliki 27 gugusan pulau kecil yang menawarkan pengalaman wisata bahari yang menarik.", 
+        "line": 16, 
+        "range": [
+            812, 
+            911
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    819, 
+                    828
+                ], 
+                "name": "Kepulauan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    853, 
+                    858
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pada umumnya ada 2 cara yang sering digunakan untuk menuju Pulau Karimunjawa yaitu:", 
+        "line": 18, 
+        "range": [
+            913, 
+            995
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Melalui Pelabuhan Tanjung Mas di Semarang", 
+        "line": 20, 
+        "range": [
+            997, 
+            1040
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1017, 
+                    1038
+                ], 
+                "name": "Pelabuhan Tanjung Mas"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagi kamu yang ingin menghemat waktu, bisa naik pesawat langsung ke Semarang dan menuju Pelabuhan Tanjung Mas kemudian dilanjutkan dengan kapal menuju Pulau Karimunjawa.", 
+        "line": 22, 
+        "range": [
+            1042, 
+            1210
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1042, 
+                    1050
+                ], 
+                "name": "Semarang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1100, 
+                    1107
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1120, 
+                    1128
+                ], 
+                "name": "Semarang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1140, 
+                    1161
+                ], 
+                "name": "Pelabuhan Tanjung Mas"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1190, 
+                    1195
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut jadwal dan harga tiket kapal dari Semarang ke Karimunjawa:", 
+        "line": 24, 
+        "range": [
+            1212, 
+            1277
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1254, 
+                    1259
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1265, 
+                    1273
+                ], 
+                "name": "Semarang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nama Kapal\tRute\tJadwal Keberangkatan\tJam Keberangkatan\tHarga Tiket\tLama Perjalanan", 
+        "line": 26, 
+        "range": [
+            1279, 
+            1360
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1296, 
+                    1301
+                ], 
+                "name": "Kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "KMC Kartini 1\tSemarang - Karimunjawa\tJumat\t08.00\t150,000\t3-4 jam", 
+        "line": 27, 
+        "range": [
+            1361, 
+            1424
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1374, 
+                    1385
+                ], 
+                "name": "KMC Kartini"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1388, 
+                    1396
+                ], 
+                "name": "Semarang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1399, 
+                    1410
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "KMC Kartini 1\tKarimunjawa - Semarang\tMinggu\t11.00\t150,000\t3-4 jam", 
+        "line": 28, 
+        "range": [
+            1425, 
+            1489
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1439, 
+                    1450
+                ], 
+                "name": "KMC Kartini"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1453, 
+                    1464
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1467, 
+                    1475
+                ], 
+                "name": "Semarang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Melalui Pelabuhan Kartini di Jepara", 
+        "line": 30, 
+        "range": [
+            1491, 
+            1528
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara kedua adalah melalui Pelabuhan Kartini di Jepara.", 
+        "line": 32, 
+        "range": [
+            1530, 
+            1583
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1538, 
+                    1544
+                ], 
+                "name": "Jepara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Jakarta kamu bisa naik bus PO Shantika menuju Jepara. Harga tiketnya sekitar Rp 210,000.", 
+        "line": 34, 
+        "range": [
+            1585, 
+            1677
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1593, 
+                    1599
+                ], 
+                "name": "Jepara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1607, 
+                    1614
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1634, 
+                    1645
+                ], 
+                "name": "PO Shantika"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1653, 
+                    1659
+                ], 
+                "name": "Jepara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya berangkat malam besoknya sampai. Bisa minta supir drop di dekat Pelabuhan Kartini.", 
+        "line": 36, 
+        "range": [
+            1679, 
+            1769
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadwal kapal melalui Pelabuhan Kartini di Jepara lebih banyak, ada pilihan kapal feri dan juga kapal cepat.", 
+        "line": 38, 
+        "range": [
+            1771, 
+            1877
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1797, 
+                    1802
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1811, 
+                    1828
+                ], 
+                "name": "Pelabuhan Kartini"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1832, 
+                    1838
+                ], 
+                "name": "Jepara"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1865, 
+                    1875
+                ], 
+                "name": "kapal feri"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut jadwal dan harga tiket kapal dari Jepara ke Karimunjawa:", 
+        "line": 40, 
+        "range": [
+            1879, 
+            1942
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1885, 
+                    1896
+                ], 
+                "name": "kapal cepat"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1930, 
+                    1935
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nama Kapal\tRute\tJadwal Keberangkatan\tJam Keberangkatan\tHarga Tiket\tLama Perjalanan", 
+        "line": 42, 
+        "range": [
+            1944, 
+            2025
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1951, 
+                    1962
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "Feri Siginjai\tJepara - Karimunjawa\tSenin, Rabu, Sabtu\t07.00\t95,000\t5-6 jam", 
+        "line": 43, 
+        "range": [
+            2026, 
+            2099
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2048, 
+                    2061
+                ], 
+                "name": "Feri Siginjai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2062, 
+                    2068
+                ], 
+                "name": "Jepara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2071, 
+                    2082
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "Jepara - Karimunjawa\tJumat\t06.30\t95,000\t5-6 jam", 
+        "line": 44, 
+        "range": [
+            2100, 
+            2146
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2123, 
+                    2129
+                ], 
+                "name": "Jepara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2132, 
+                    2143
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "Feri Siginjai\tKarimunjawa - Jepara\tSelasa, Kamis, Minggu\t07.00\t95,000\t5-6 jam", 
+        "line": 45, 
+        "range": [
+            2147, 
+            2223
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2171, 
+                    2184
+                ], 
+                "name": "Feri Siginjai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2185, 
+                    2196
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2199, 
+                    2205
+                ], 
+                "name": "Jepara"
+            }
+        ]
+    }, 
+    {
+        "text": "Karimunjawa - Jepara\tJumat\t13.00\t95,000\t5-6 jam", 
+        "line": 46, 
+        "range": [
+            2224, 
+            2270
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2249, 
+                    2260
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2263, 
+                    2269
+                ], 
+                "name": "Jepara"
+            }
+        ]
+    }, 
+    {
+        "text": "KMC Express Bahari\tJepara - Karimunjawa\tSenin, Selasa, Jumat, Sabtu\t09.00\t165,000\t2-3 jam", 
+        "line": 47, 
+        "range": [
+            2271, 
+            2359
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2297, 
+                    2315
+                ], 
+                "name": "KMC Express Bahari"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2316, 
+                    2322
+                ], 
+                "name": "Jepara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2325, 
+                    2336
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "KMC Express Bahari\tKarimunjawa - Jepara\tSenin\t12.00\t165,000\t2-3 jam", 
+        "line": 48, 
+        "range": [
+            2360, 
+            2426
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2387, 
+                    2405
+                ], 
+                "name": "KMC Express Bahari"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2406, 
+                    2417
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2420, 
+                    2426
+                ], 
+                "name": "Jepara"
+            }
+        ]
+    }, 
+    {
+        "text": "Karimunjawa - Jepara\tRabu, Minggu\t11.00\t165,000\t2-3 jam", 
+        "line": 49, 
+        "range": [
+            2427, 
+            2481
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2455, 
+                    2466
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2469, 
+                    2475
+                ], 
+                "name": "Jepara"
+            }
+        ]
+    }, 
+    {
+        "text": "Karimunjawa - Jepara\tSabtu\t07.00\t165,000\t2-3 jam", 
+        "line": 50, 
+        "range": [
+            2482, 
+            2529
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2511, 
+                    2522
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadwal kapal bisa berubah sewaktu-waktu, jadi sebaiknya cek terlebih dahulu kembali sebelum berangkat.", 
+        "line": 52, 
+        "range": [
+            2531, 
+            2632
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Waktu terbaik untuk berwisata ke Karimunjawa", 
+        "line": 54, 
+        "range": [
+            2634, 
+            2677
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Namanya juga main ke pantai pasti maunya cuaca cerah terus kan ya.", 
+        "line": 56, 
+        "range": [
+            2679, 
+            2744
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2698, 
+                    2709
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2732, 
+                    2738
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, waktu terbaik untuk berwisata ke Pulau Karimunjawa adalah antara bulan April \u2013 November.", 
+        "line": 58, 
+        "range": [
+            2746, 
+            2840
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2817, 
+                    2834
+                ], 
+                "name": "Pulau Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pada bulan ini biasa langitnya cerah dan jarang hujan.", 
+        "line": 60, 
+        "range": [
+            2842, 
+            2895
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di bulan lain kalau hujan, air laut bisa berombak sekali dan angin kencang. Jadi tidak akan nyaman untuk berkunjung ke Pulau Karimunjawa.", 
+        "line": 62, 
+        "range": [
+            2897, 
+            3033
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi akhir-akhir ini kondisi cuaca juga sulit diprediksi.", 
+        "line": 64, 
+        "range": [
+            3035, 
+            3091
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3049, 
+                    3066
+                ], 
+                "name": "Pulau Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rekomendasi penginapan di Karimunjawa", 
+        "line": 66, 
+        "range": [
+            3093, 
+            3129
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada banyak pilihan penginapan di Karimunjawa mulai dari homestay, guesthouse, sampai cottage yang yang lebih mewah.", 
+        "line": 68, 
+        "range": [
+            3131, 
+            3245
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3140, 
+                    3150
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3154, 
+                    3165
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3186, 
+                    3196
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3200, 
+                    3211
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3223, 
+                    3231
+                ], 
+                "name": "homestay"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3233, 
+                    3243
+                ], 
+                "name": "guesthouse"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa cek langsung di aplikasi booking hotel seperti booking.com atau traveloka.", 
+        "line": 70, 
+        "range": [
+            3247, 
+            3325
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3252, 
+                    3259
+                ], 
+                "name": "cottage"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harganya juga bervariasi, yang paling murah semalamnya dapat kok Rp 100,000 \u2013 Rp 200,000 untuk per kamar per malam.", 
+        "line": 72, 
+        "range": [
+            3327, 
+            3443
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa rekomendasi penginapan di Karimunjawa adalah: ", 
+        "line": 74, 
+        "range": [
+            3445, 
+            3499
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Leyeh-Leyeh Hostel: Rp 175,000/kamar/malam", 
+        "line": 76, 
+        "range": [
+            3501, 
+            3542
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3517, 
+                    3528
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "Asta Homestay: Rp 135,000/kamar/malam", 
+        "line": 77, 
+        "range": [
+            3543, 
+            3579
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "The Bodhi Tree Karimunjawa: Rp 275,000/kamar/malam", 
+        "line": 78, 
+        "range": [
+            3580, 
+            3629
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3582, 
+                    3595
+                ], 
+                "name": "Asta Homestay"
+            }
+        ]
+    }, 
+    {
+        "text": "Cemara Indah Beach Bungalow:  Rp 300,000/kamar/malam", 
+        "line": 79, 
+        "range": [
+            3630, 
+            3681
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Blue Coral Homestay: Rp 250,000/kamar/malam", 
+        "line": 80, 
+        "range": [
+            3682, 
+            3724
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Kura-Kura Resort Karimunjawa: Rp 2,200,000/kamar/malam", 
+        "line": 81, 
+        "range": [
+            3725, 
+            3778
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 82, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biaya liburan ke Pulau Karimunjawa, perbandingan backpackeran sendiri dan ikut open trip", 
+        "line": 83, 
+        "range": [
+            3780, 
+            3867
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3841, 
+                    3858
+                ], 
+                "name": "Pulau Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, sekarang waktunya kita membandingkan total biaya yang dibutuhkan untuk liburan ke Karimunjawa dengan cara backpackeran sendiri dan ikut open trip.", 
+        "line": 85, 
+        "range": [
+            3869, 
+            4019
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4001, 
+                    4012
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena aktifitas di Pulau Karimunjawa kebanyakan hopping island dan snorkelling, harus pakai kapal juga.", 
+        "line": 87, 
+        "range": [
+            4021, 
+            4124
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4087, 
+                    4104
+                ], 
+                "name": "Pulau Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 88, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biaya sewa kapal untuk hopping island di Pulau Karimunjawa sekitar Rp 700,000 dengan kapasitas 10 orang.", 
+        "line": 89, 
+        "range": [
+            4126, 
+            4229
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4160, 
+                    4165
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4184, 
+                    4189
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 90, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu memang sendiri, bisa coba cek di penginapan bisa nebeng ama tamu lain atau tidak jadinya bisa share cost biar lebih murah.", 
+        "line": 91, 
+        "range": [
+            4231, 
+            4363
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4323, 
+                    4333
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 92, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Coba kita hitung, apa saja biaya yang dibutuhkan kalau backpackeran sendiri totalnya kira-kira Rp 760,000 per orang belum termasuk transportasi bus menuju Jepara. ", 
+        "line": 93, 
+        "range": [
+            4365, 
+            4527
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 94, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau sama bus tambahin aja sekitar 420,000 PP.", 
+        "line": 95, 
+        "range": [
+            4529, 
+            4575
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4569, 
+                    4575
+                ], 
+                "name": "Jepara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 96, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal Feri Siginjai PP: 200,000", 
+        "line": 97, 
+        "range": [
+            4577, 
+            4607
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4590, 
+                    4593
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "Penginapan 3 malam: Rp 200,000", 
+        "line": 98, 
+        "range": [
+            4608, 
+            4637
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Hopping island 1 hari: Rp 175,000", 
+        "line": 99, 
+        "range": [
+            4638, 
+            4670
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4660, 
+                    4670
+                ], 
+                "name": "Penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "Makan 3 hari: Rp 150,000", 
+        "line": 100, 
+        "range": [
+            4671, 
+            4694
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Sewa alat snorkeling: Rp 35,000", 
+        "line": 101, 
+        "range": [
+            4695, 
+            4725
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiket masuk kawasan: Rp 7,500", 
+        "line": 102, 
+        "range": [
+            4726, 
+            4754
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya cek rata-rata open trip ke Pulau Karimunjawa untuk paket 4 hari 3 malam harganya di sekitar Rp 750,000 \u2013 Rp 850,000 per orang.", 
+        "line": 104, 
+        "range": [
+            4756, 
+            4888
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4845, 
+                    4862
+                ], 
+                "name": "Pulau Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ini harga untuk penyebrangan kapal Feri Siginjai juga.", 
+        "line": 106, 
+        "range": [
+            4890, 
+            4943
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga ini biasa sudah include tiket kapal penyebrangan PP, akomodasi, makan, hopping island, sewa alat snorkeling, guide, tiket masuk, dokumentasi, dll.", 
+        "line": 108, 
+        "range": [
+            4945, 
+            5096
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4975, 
+                    4994
+                ], 
+                "name": "kapal Feri Siginjai"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5038, 
+                    5043
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jujur sih kalau menurut saya mendingan ikut open trip sih. Soalnya tidak perlu ribet ngurus ini itu, terus bisa lebih puas di hopping island-nya, karena bisa mengunjungi lebih banyak pulau.", 
+        "line": 110, 
+        "range": [
+            5098, 
+            5286
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu sendirian juga bisa nambah teman baru jadinya lebih seru.", 
+        "line": 112, 
+        "range": [
+            5288, 
+            5355
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak perlu khawatir soal makanan juga. Untuk open trip tidak termasuk transportasi menuju meeting point di Jepara atau Semarang.", 
+        "line": 114, 
+        "range": [
+            5357, 
+            5485
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman saya liburan ke Karimunjawa dengan ikut open trip", 
+        "line": 116, 
+        "range": [
+            5487, 
+            5546
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5525, 
+                    5531
+                ], 
+                "name": "Jepara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5537, 
+                    5545
+                ], 
+                "name": "Semarang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari dulu memang saya sudah berkeinginan untuk nge-trip ke Karimunjawa.", 
+        "line": 118, 
+        "range": [
+            5548, 
+            5618
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5575, 
+                    5586
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lokasinya yang memungkinkan untuk weekend trip, dari foto-fotonya juga kelihatan pantainya cakep, tidak kalah dari pantai-pantai di Bali.", 
+        "line": 120, 
+        "range": [
+            5620, 
+            5756
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5669, 
+                    5680
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya dan dua teman lain memutuskan untuk daftar open trip selama 4 hari 3 malam melalui agen yang bernama Wisata Kita.", 
+        "line": 122, 
+        "range": [
+            5758, 
+            5875
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5764, 
+                    5773
+                ], 
+                "name": "pantainya"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5798, 
+                    5811
+                ], 
+                "name": "pantai-pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5815, 
+                    5819
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "So far, puas sih sama pelayanan mereka.", 
+        "line": 124, 
+        "range": [
+            5877, 
+            5915
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari pertama, drama ketinggalan kapal ", 
+        "line": 126, 
+        "range": [
+            5917, 
+            5954
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perjalanan dimulai dari bus malam dari Jakarta menuju Jepara. Berangkatnya jam 8 malam dan harusnya sampai keesokan harinya jam 5 pagi.", 
+        "line": 128, 
+        "range": [
+            5956, 
+            6090
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6015, 
+                    6020
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6047, 
+                    6050
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6062, 
+                    6069
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6077, 
+                    6083
+                ], 
+                "name": "Jepara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sayangnya karena macet akhirnya telat deh sampai di Pelabuhan Kartini dan ketinggalan kapal.", 
+        "line": 130, 
+        "range": [
+            6092, 
+            6183
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 131, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Katanya sih kalau sudah penuh kapal bakal langsung berangkat.", 
+        "line": 132, 
+        "range": [
+            6185, 
+            6245
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6212, 
+                    6229
+                ], 
+                "name": "Pelabuhan Kartini"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 133, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untungnya guide kami nge-handle situasi ini cukup baik. ", 
+        "line": 134, 
+        "range": [
+            6247, 
+            6302
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6284, 
+                    6289
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 135, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Alternatifnya kami tinggal di homestay yang terletak di Pulau Panjang, 15 menit dari pelabuhan.", 
+        "line": 136, 
+        "range": [
+            6304, 
+            6398
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 137, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadinya ketinggalan mengikuti itinerary di hari pertama deh, ada 2 spot destinasi yang harus kami skip karena ketinggalan kapal.", 
+        "line": 138, 
+        "range": [
+            6400, 
+            6527
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6405, 
+                    6413
+                ], 
+                "name": "homestay"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6431, 
+                    6444
+                ], 
+                "name": "Pulau Panjang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6460, 
+                    6469
+                ], 
+                "name": "pelabuhan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 139, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sempat mabuk laut tapi setelah ikut tour hopping island, wow!", 
+        "line": 140, 
+        "range": [
+            6529, 
+            6589
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 141, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari kedua kami mencoba untuk bangun sepagi mungkin karena takut ketinggalan kapal lagi.", 
+        "line": 142, 
+        "range": [
+            6591, 
+            6678
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6594, 
+                    6599
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 143, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal Feri Siginjai yang kami tumpangi berangkat sesuai jadwal.", 
+        "line": 144, 
+        "range": [
+            6680, 
+            6742
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 145, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perjalanan memakan waktu 6 jam! Ombaknya cukup besar jadinya saya sempat mabuk laut.", 
+        "line": 146, 
+        "range": [
+            6744, 
+            6827
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    6755, 
+                    6774
+                ], 
+                "name": "Kapal Feri Siginjai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 147, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya selonjoran saja di bawah kursi sambil tiduran di sisa perjalanan biar ngerasa lebih baik.", 
+        "line": 148, 
+        "range": [
+            6829, 
+            6922
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6899, 
+                    6903
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 149, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sampai di Karimunjawa, kami di antar menuju homestay untuk menaruh barang. Setelah itu ke penangkaran hiu untuk berenang bersama hiu.", 
+        "line": 150, 
+        "range": [
+            6924, 
+            7056
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7012, 
+                    7023
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7046, 
+                    7054
+                ], 
+                "name": "homestay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 151, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Awalnya sempat grogi, takut digigit ikan hiu. Tapi hiunya jinak kok, hehe.", 
+        "line": 152, 
+        "range": [
+            7058, 
+            7131
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 153, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hopping island ke pulau-pulau sekitar", 
+        "line": 154, 
+        "range": [
+            7133, 
+            7169
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 155, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Asik, saatnya hopping island! Walaupun sempat ketinggalan beberapa spot, tapi kami masih bisa mengunjungi pantai-pantai cantik di Karimunjawa.", 
+        "line": 156, 
+        "range": [
+            7171, 
+            7312
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7231, 
+                    7242
+                ], 
+                "name": "pulau-pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 157, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Karimunjawa tidak kalah indah dengan pulau-pulau di bagian Timur Indonesia. Paket lengkap deh! Pantai pasir putih, spot snorkelingnya juga bagus, dan banyak ikan warna warni.", 
+        "line": 158, 
+        "range": [
+            7314, 
+            7493
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7358, 
+                    7371
+                ], 
+                "name": "pantai-pantai"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7382, 
+                    7393
+                ], 
+                "name": "Karimunjawa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7396, 
+                    7413
+                ], 
+                "name": "Pulau Karimunjawa"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7439, 
+                    7450
+                ], 
+                "name": "pulau-pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7467, 
+                    7476
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 159, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya share spot-spot yang saya kunjungi saja ya:", 
+        "line": 160, 
+        "range": [
+            7495, 
+            7542
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7497, 
+                    7515
+                ], 
+                "name": "Pantai pasir putih"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 161, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Pulau Menjangan Kecil", 
+        "line": 162, 
+        "range": [
+            7544, 
+            7567
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 163, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Snorkelling di Pulau Menjangan Kecil adalah aktifitas yang tidak boleh terlewatkan!", 
+        "line": 164, 
+        "range": [
+            7569, 
+            7651
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7631, 
+                    7652
+                ], 
+                "name": "Pulau Menjangan Kecil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 165, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terumbu karang di sini bagus dan masih sehat. Visibility air ketika saya snorkelling juga jelas.", 
+        "line": 166, 
+        "range": [
+            7653, 
+            7748
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7669, 
+                    7690
+                ], 
+                "name": "Pulau Menjangan Kecil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 167, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di sini saya berenang dengan ikan warna warni. Pokoknya seru deh!", 
+        "line": 168, 
+        "range": [
+            7750, 
+            7814
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 169, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Pantai Ujung Gelam", 
+        "line": 170, 
+        "range": [
+            7816, 
+            7836
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 171, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, untuk nyari pantai pasir putih ala-ala tropis gitu ada di Pantai Ujung Gelam.", 
+        "line": 172, 
+        "range": [
+            7838, 
+            7919
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 173, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Guide kami menantang ada ga yang bisa manjet pohon kelapa.", 
+        "line": 174, 
+        "range": [
+            7921, 
+            7978
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7944, 
+                    7962
+                ], 
+                "name": "pantai pasir putih"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 175, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ternyata tidak segampang itu. Saya nyobain beberapa meter aja langsung loncat turun.", 
+        "line": 176, 
+        "range": [
+            7980, 
+            8063
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7990, 
+                    8008
+                ], 
+                "name": "Pantai Ujung Gelam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 177, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Warna air lautnya benar-benar indah, dengan gradasi hijau terang sampai gelap, turqoise, biru muda dan biru gelap, cakep banget pokoknya!", 
+        "line": 178, 
+        "range": [
+            8065, 
+            8201
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8167, 
+                    8174
+                ], 
+                "name": "lautnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 179, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemandangan ini tidak kalah indah dengan beningnya air laut di Pulau Maratua yang terletak di Kepulauan Derawan.", 
+        "line": 180, 
+        "range": [
+            8203, 
+            8314
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 181, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Spot Gosong", 
+        "line": 182, 
+        "range": [
+            8316, 
+            8329
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 183, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Spot untuk snorkelling lain yang juga bagus adalah Spot Gosong.", 
+        "line": 184, 
+        "range": [
+            8331, 
+            8393
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8351, 
+                    8355
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8359, 
+                    8372
+                ], 
+                "name": "Pulau Maratua"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 185, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya ketemu bentuk terumbu karang yang unik. Ada yang bentuknya seperti otak, ada yang seperti batu bulat besar, dan banyak lagi.", 
+        "line": 186, 
+        "range": [
+            8395, 
+            8523
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8413, 
+                    8424
+                ], 
+                "name": "Spot Gosong"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8477, 
+                    8489
+                ], 
+                "name": "Spot Gosong."
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 187, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Cemara Besar", 
+        "line": 188, 
+        "range": [
+            8525, 
+            8539
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 189, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Destinasi terakhir kami adalah Cemara Besar, sebuah pulau pasir kecil di tengah laut.", 
+        "line": 190, 
+        "range": [
+            8541, 
+            8625
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 191, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah capek snorkelling saya duduk bersantai dan melihat pemandangan sekeliling.", 
+        "line": 192, 
+        "range": [
+            8627, 
+            8708
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8670, 
+                    8682
+                ], 
+                "name": "Cemara Besar"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8691, 
+                    8696
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 193, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rasanya sangat tenang apalagi sambil mendengar suara ombak dan angin.", 
+        "line": 194, 
+        "range": [
+            8710, 
+            8778
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8719, 
+                    8723
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 195, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya benar-benar ngerasain pengalaman yang seru liburan ke Karimunjawa. Ohya, jangan lupa nyobain seafood sana, murah dan enak!", 
+        "line": 196, 
+        "range": [
+            8780, 
+            8906
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 197, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau ada pulau-pulau yang belum saya sebutkan boleh tulis di kolom komentar, nanti saya tambahkan di list.", 
+        "line": 198, 
+        "range": [
+            8908, 
+            9014
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8940, 
+                    8951
+                ], 
+                "name": "Karimunjawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 199, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadi, kamu milih cara yang mana? Wisata Karimunjawa ala backpackeran atau ikutan paket tour?", 
+        "line": 200, 
+        "range": [
+            9016, 
+            9107
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    9020, 
+                    9031
+                ], 
+                "name": "pulau-pulau"
+            }
+        ]
+    }
+]

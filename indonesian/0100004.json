@@ -1,0 +1,495 @@
+[
+    {
+        "text": "February 23, 2021   Hang Nga Guesthouse, Rumah Gila Di Vietnam", 
+        "line": 0, 
+        "range": [
+            1, 
+            62
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    20, 
+                    39
+                ], 
+                "name": "Hang Nga Guesthouse"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    41, 
+                    51
+                ], 
+                "name": "Rumah Gila"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    55, 
+                    62
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pernah dengar tentang Rumah Gila di Vietnam? Atau juga dikenal dengan sebutan lokal yaitu Ha Nga Guesthouse.", 
+        "line": 2, 
+        "range": [
+            64, 
+            171
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    86, 
+                    96
+                ], 
+                "name": "Rumah Gila"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    100, 
+                    107
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    154, 
+                    171
+                ], 
+                "name": "Ha Nga Guesthouse"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika saya berkunjung ke Dalat, Vietnam yang muncul ketika saya searching tentang objek wisata di Dalat, Rumah Gila ini munch di pencarian saya.", 
+        "line": 4, 
+        "range": [
+            173, 
+            317
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    200, 
+                    205
+                ], 
+                "name": "Dalat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    207, 
+                    214
+                ], 
+                "name": "Vietnam"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    257, 
+                    269
+                ], 
+                "name": "objek wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    273, 
+                    278
+                ], 
+                "name": "Dalat"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    280, 
+                    290
+                ], 
+                "name": "Rumah Gila"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rumah Gila ini sering diliputi oleh berbagai media superti 10 rumah paling unik ataupun 10 rumah paling gila di dunia.", 
+        "line": 6, 
+        "range": [
+            319, 
+            436
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    321, 
+                    331
+                ], 
+                "name": "Rumah Gila"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penasaran kenapa di sebut dengan Rumah Gila? Baca terus ya!", 
+        "line": 8, 
+        "range": [
+            438, 
+            496
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    474, 
+                    484
+                ], 
+                "name": "Rumah Gila"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mengintip Rumah Gila di Vietnam", 
+        "line": 10, 
+        "range": [
+            498, 
+            528
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    512, 
+                    522
+                ], 
+                "name": "Rumah Gila"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Konsep Rumah Gila sendiri ini sangatlah unik dan aneh. Nama sebenarnya dari Rumah Gila Adalah Hang Nga Guesthouse.", 
+        "line": 12, 
+        "range": [
+            530, 
+            643
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    542, 
+                    552
+                ], 
+                "name": "Rumah Gila"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    611, 
+                    621
+                ], 
+                "name": "Rumah Gila"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Guesthouse ini dibuka untuk umum pada tahun 1990. Arsitek dari rumah ini Nga, memulai proyek ini dengan bantuan pengrajin lokal.", 
+        "line": 14, 
+        "range": [
+            645, 
+            772
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    651, 
+                    661
+                ], 
+                "name": "Guesthouse"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hang Nga Guesthouse memiliki 10 kamar dengan tema yang berbeda. Kamu bisa juga menginap di guest house ini loh. Dengan merogoh kocek sekitar Rp 600,000 sampai Rp 1,000,000.", 
+        "line": 16, 
+        "range": [
+            774, 
+            945
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    781, 
+                    800
+                ], 
+                "name": "Hang Nga Guesthouse"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    872, 
+                    883
+                ], 
+                "name": "guest house"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak heran kalau lebih banyak yang berkunjung daripada menginap. Untuk berkunjung juga harus membayar tiket masuk sebesar VND 60,000 atau sekitar Rp 120,000.", 
+        "line": 18, 
+        "range": [
+            947, 
+            1104
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara Menuju Hang Nga Guest House", 
+        "line": 20, 
+        "range": [
+            1106, 
+            1137
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Awalnya agak sulit untuk menemukan Rumah Gila ini. Dengan motor sewaan saya menyusuri jalan sesuai dengan gmaps.", 
+        "line": 22, 
+        "range": [
+            1139, 
+            1250
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1184, 
+                    1194
+                ], 
+                "name": "Rumah Gila"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1207, 
+                    1212
+                ], 
+                "name": "motor"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1235, 
+                    1240
+                ], 
+                "name": "jalan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya mencoba untuk nyari bangunan dengan bentuk aneh. Akhirnya nemu juga, rumah ini terletak di gang kecil dan agak ketutupan bangun disekitarnya.", 
+        "line": 24, 
+        "range": [
+            1252, 
+            1397
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bener deh, bangunannya aneh dan agak serem gitu. Ada beberapa staff yang memakai kostum seperti penjaga istana.", 
+        "line": 26, 
+        "range": [
+            1399, 
+            1509
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Desainnya lumayan bikin wow sih, ada beberapa benda aneh seperti jaring laba-laba, patung dengan bentuk yang aneh seperti rumah hantu. Yang paling keren sih bentuk bangunan yang tidak biasa, terlihat sangat kreatif. Yuk, langsung lihat fotonya saja.", 
+        "line": 28, 
+        "range": [
+            1511, 
+            1759
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain itu di Dalat masih ada tempat wisata menarik lain yang bisa dikunjungi juga seperti Bao Dai Palace, Flower Garden, dan Tiger Waterfall. Kamu bisa baca tentang itinerary liburan ke Vietnam saya selama 2 minggu.", 
+        "line": 30, 
+        "range": [
+            1761, 
+            1976
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1789, 
+                    1794
+                ], 
+                "name": "Dalat"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1805, 
+                    1818
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1866, 
+                    1880
+                ], 
+                "name": "Bao Dai Palace"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1882, 
+                    1895
+                ], 
+                "name": "Flower Garden"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1901, 
+                    1916
+                ], 
+                "name": "Tiger Waterfall"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1962, 
+                    1969
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagaimana menurut kamu? Apakah rumah ini sesuai dengan namanya Rumah Gila? Apakah kamu berani menginap disini? Tidak perlu menginap juga tidak apa-apa. Kamu bisa berkunjung saja dan melihat keunikkan bangunan ini.", 
+        "line": 32, 
+        "range": [
+            1978, 
+            2190
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2056, 
+                    2066
+                ], 
+                "name": "Rumah Gila"
+            }
+        ]
+    }
+]

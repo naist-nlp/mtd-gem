@@ -1,0 +1,1630 @@
+[
+    {
+        "text": "October 26, 2022   Pengalaman Nge-Trip Ke Pulau Peucang, Ujung Kulon", 
+        "line": 0, 
+        "range": [
+            1, 
+            68
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    42, 
+                    55
+                ], 
+                "name": "Pulau Peucang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    57, 
+                    68
+                ], 
+                "name": "Ujung Kulon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau dengar nama Ujung Kulon, saya teringat dengan palajaran pas sekolah dulu. Taman Nasional Ujung Kulon adalah rumah bagi hewan yang dilindungi yaitu badak bercula satu. Karena penasaran akhirnya saya ikutan open trip ke Pulau Peucang dari Jakarta.", 
+        "line": 2, 
+        "range": [
+            70, 
+            320
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    88, 
+                    99
+                ], 
+                "name": "Ujung Kulon"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    150, 
+                    176
+                ], 
+                "name": "Taman Nasional Ujung Kulon"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    294, 
+                    307
+                ], 
+                "name": "Pulau Peucang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    313, 
+                    320
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Taman Nasional Ujung Kulon terletak di Kecamatan Sumur, Kabupaten Pandeglan, Provinsi Banten.", 
+        "line": 4, 
+        "range": [
+            322, 
+            414
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    323, 
+                    349
+                ], 
+                "name": "Taman Nasional Ujung Kulon"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    362, 
+                    377
+                ], 
+                "name": "Kecamatan Sumur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    379, 
+                    398
+                ], 
+                "name": "Kabupaten Pandeglan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    400, 
+                    415
+                ], 
+                "name": "Provinsi Banten"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau dari peta memang kelihatannya dekat dari Jakarta.", 
+        "line": 6, 
+        "range": [
+            416, 
+            470
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jangan salah, untuk menuju ke Ujung Kulon membutuhkan waktu yang cukup lama yaitu sekitar 6 jam.", 
+        "line": 8, 
+        "range": [
+            472, 
+            567
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    505, 
+                    516
+                ], 
+                "name": "Ujung Kulon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Apalagi jalanannya juga cukup rusak.", 
+        "line": 10, 
+        "range": [
+            569, 
+            604
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    581, 
+                    591
+                ], 
+                "name": "jalanannya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau menggunakan mobil pribadi, dari Jakarta bisa lewat tol Jakarta \u2013 Merak atau tol Jakarta \u2013 Tangerang, kemudian keluar di Serang Timur.", 
+        "line": 12, 
+        "range": [
+            606, 
+            748
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    629, 
+                    634
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    649, 
+                    656
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    668, 
+                    687
+                ], 
+                "name": "tol Jakarta \u2013 Merak"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    693, 
+                    716
+                ], 
+                "name": "tol Jakarta \u2013 Tangerang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    737, 
+                    749
+                ], 
+                "name": "Serang Timur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perjalanan dilanjutkan dengan menelusuri Jalan Pandeglang \u2013 Labuan \u2013 Sumur, totalnya 228KM.", 
+        "line": 14, 
+        "range": [
+            750, 
+            844
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    793, 
+                    826
+                ], 
+                "name": "Jalan Pandeglang \u2013 Labuan \u2013 Sumur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di Sumur, perjalanan akan dilanjutkan ke Pulau Peucang menggunakan kapal.", 
+        "line": 16, 
+        "range": [
+            846, 
+            933
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    863, 
+                    868
+                ], 
+                "name": "Sumur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    901, 
+                    914
+                ], 
+                "name": "Pulau Peucang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    927, 
+                    932
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara menuju ke Pulau Peucang", 
+        "line": 18, 
+        "range": [
+            935, 
+            962
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    950, 
+                    963
+                ], 
+                "name": "Pulau Peucang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada beberapa cara untuk berwisata ke Pulau Peucang yang juga terletak di Taman Nasional Ujung Kulon yaitu:", 
+        "line": 20, 
+        "range": [
+            964, 
+            1069
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1002, 
+                    1015
+                ], 
+                "name": "Pulau Peucang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1038, 
+                    1064
+                ], 
+                "name": "Taman Nasional Ujung Kulon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Cara menuju Pulau Peucang dengan open trip", 
+        "line": 22, 
+        "range": [
+            1071, 
+            1115
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1088, 
+                    1101
+                ], 
+                "name": "Pulau Peucang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wisata Pulau Peucang di Taman Nasional Ujung Kulon cocok untuk weekend trip.", 
+        "line": 24, 
+        "range": [
+            1117, 
+            1192
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1127, 
+                    1140
+                ], 
+                "name": "Pulau Peucang"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1144, 
+                    1170
+                ], 
+                "name": "Taman Nasional Ujung Kulon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sarankan sih ikutan open trip yang diselenggarakan trip organizer.", 
+        "line": 26, 
+        "range": [
+            1194, 
+            1264
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berapa sih harga open trip ke Pulau Peucang?", 
+        "line": 28, 
+        "range": [
+            1266, 
+            1309
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya ikutan trip selama dua hari dengan biaya Rp 650,000 per orangnya sudah termasuk:", 
+        "line": 30, 
+        "range": [
+            1311, 
+            1395
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Transportasi dari Jakarta ke Pulau Peucang PP", 
+        "line": 31, 
+        "range": [
+            1396, 
+            1440
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1421, 
+                    1428
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "Sharing penginapan semalam di Pulau Peucang", 
+        "line": 32, 
+        "range": [
+            1441, 
+            1483
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1457, 
+                    1467
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "Kapal untuk snorkeling atau hopping island", 
+        "line": 33, 
+        "range": [
+            1484, 
+            1525
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1493, 
+                    1498
+                ], 
+                "name": "Kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "Makan", 
+        "line": 34, 
+        "range": [
+            1526, 
+            1530
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemandu", 
+        "line": 35, 
+        "range": [
+            1531, 
+            1537
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Biaya tiket masuk, dll", 
+        "line": 36, 
+        "range": [
+            1538, 
+            1559
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk sewa alat snorkeling biasanya ada yang memang sudah termasuk pake tur, ada juga yang nambah Rp 50,000 untuk alat snorkeling.", 
+        "line": 38, 
+        "range": [
+            1561, 
+            1690
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya sih kalau dihitung kasarnya total trip tiga hari.", 
+        "line": 40, 
+        "range": [
+            1692, 
+            1751
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Soalnya berangkat biasanya Jumat tengah malam biar sampai di Desa Sumur keesokan harinya.", 
+        "line": 42, 
+        "range": [
+            1753, 
+            1841
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1829, 
+                    1839
+                ], 
+                "name": "Desa Sumur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Cara menuju Pulau Peucang dengan transportasi umum", 
+        "line": 44, 
+        "range": [
+            1843, 
+            1895
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1874, 
+                    1887
+                ], 
+                "name": "Pulau Peucang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Menuju Pulau Puecang dengan transportasi umum dari Jakarta bisa menggunakan kereta dari Stasiun Tanah Abang tujuan Rangkasbitung dan berhenti di Serang.", 
+        "line": 46, 
+        "range": [
+            1897, 
+            2048
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1921, 
+                    1934
+                ], 
+                "name": "Pulau Puecang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1942, 
+                    1959
+                ], 
+                "name": "transportasi umum"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1965, 
+                    1972
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1990, 
+                    1996
+                ], 
+                "name": "kereta"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2002, 
+                    2021
+                ], 
+                "name": "Stasiun Tanah Abang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2029, 
+                    2042
+                ], 
+                "name": "Rangkasbitung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain menggunakan kereta api, bisa juga menggunakan Bus Primajasa dari Terminal Kampung Rambutan dengan Tujuan Serang.", 
+        "line": 48, 
+        "range": [
+            2050, 
+            2168
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2059, 
+                    2065
+                ], 
+                "name": "Serang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2087, 
+                    2097
+                ], 
+                "name": "kereta api"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2121, 
+                    2134
+                ], 
+                "name": "Bus Primajasa"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2140, 
+                    2165
+                ], 
+                "name": "Terminal Kampung Rambutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di Serang, harus cari elf lagi dengan tujuan Desa Sumur.", 
+        "line": 50, 
+        "range": [
+            2170, 
+            2240
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2180, 
+                    2186
+                ], 
+                "name": "Serang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2207, 
+                    2213
+                ], 
+                "name": "Serang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2226, 
+                    2229
+                ], 
+                "name": "elf"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau memang mau organize sendiri, usahakan untuk cari teman-teman biar bisa sharing cost di kapalnya.", 
+        "line": 52, 
+        "range": [
+            2242, 
+            2343
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2249, 
+                    2259
+                ], 
+                "name": "Desa Sumur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga untuk sewa kapal dari Desa Sumur keliling Taman Nasional Ujung Kulon adalah Rp 3,000,000 selama dua hari dengan kapasitas 25 orang.", 
+        "line": 54, 
+        "range": [
+            2345, 
+            2481
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2355, 
+                    2360
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2383, 
+                    2388
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2394, 
+                    2404
+                ], 
+                "name": "Desa Sumur"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2414, 
+                    2440
+                ], 
+                "name": "Taman Nasional Ujung Kulon"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain itu kamu juga harus mikirin tentang penginapan juga. Kalau mau murah sih bisa nginap di Desa Sumur.", 
+        "line": 56, 
+        "range": [
+            2483, 
+            2588
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2548, 
+                    2558
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak homestay dengan variasi harga sekitar Rp 200,000 semalamnya.", 
+        "line": 58, 
+        "range": [
+            2590, 
+            2656
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2600, 
+                    2610
+                ], 
+                "name": "Desa Sumur"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2620, 
+                    2628
+                ], 
+                "name": "homestay"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau ikutan tur biasanya nginep di Pulau Peucang langsung.", 
+        "line": 60, 
+        "range": [
+            2658, 
+            2716
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga untuk kamar atau pondokkan di Pulau Peucang per malamnya Rp 500,000.", 
+        "line": 62, 
+        "range": [
+            2718, 
+            2791
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2718, 
+                    2731
+                ], 
+                "name": "Pulau Peucang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2766, 
+                    2775
+                ], 
+                "name": "pondokkan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2779, 
+                    2792
+                ], 
+                "name": "Pulau Peucang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jujur sih kalau memang enggak mau ribet, ikutan open trip aja.", 
+        "line": 64, 
+        "range": [
+            2793, 
+            2854
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Seru juga kan bisa nambah teman baru dan enggak repot juga.", 
+        "line": 66, 
+        "range": [
+            2856, 
+            2914
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harganya juga masih termasuk bersahabat kalau startnya dari Jakarta.", 
+        "line": 68, 
+        "range": [
+            2916, 
+            2983
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman snorkeling di Ciapus, Citerjun, dan Legin Coba", 
+        "line": 70, 
+        "range": [
+            2985, 
+            3041
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3004, 
+                    3011
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, sekarang kita masuk ke bagian yang seru yaitu snorkeling.", 
+        "line": 72, 
+        "range": [
+            3043, 
+            3104
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3047, 
+                    3055
+                ], 
+                "name": "Citerjun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3061, 
+                    3071
+                ], 
+                "name": "Legin Coba"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Awalnya saya tidak berharap banyak tapi ternyata keindahan bawah laut Pulau Peucang melebihi ekspektasi saya.", 
+        "line": 74, 
+        "range": [
+            3106, 
+            3214
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3202, 
+                    3206
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rombongan kami snorkeling di beberapa spot seperti Ciapus, Citerjun, dan Legin Coba.", 
+        "line": 76, 
+        "range": [
+            3216, 
+            3299
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Visibility air nya tidak terlalu bagus sih tapi terumbu karangnya lumayan bagus.", 
+        "line": 78, 
+        "range": [
+            3301, 
+            3380
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3307, 
+                    3315
+                ], 
+                "name": "Citerjun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3321, 
+                    3331
+                ], 
+                "name": "Legin Coba"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Banyak sekali ikan-ikan berkelompok, kayak lagi meeting aja, haha.", 
+        "line": 80, 
+        "range": [
+            3382, 
+            3447
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sambil berenang, saya mengejar ikan-ikan lucu ini dan menikmati keindahannya.", 
+        "line": 82, 
+        "range": [
+            3449, 
+            3525
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah menginjakkan kaki di Pulau Peucang, rasanya beda gitu pemandangannya. Lebih mirip hutan daripada pantai.", 
+        "line": 84, 
+        "range": [
+            3527, 
+            3638
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3592, 
+                    3605
+                ], 
+                "name": "Pulau Peucang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantainya bersih dan cantik, apalagi cukup unik karena kehadiran hewan liar.", 
+        "line": 86, 
+        "range": [
+            3640, 
+            3715
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3653, 
+                    3658
+                ], 
+                "name": "hutan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3668, 
+                    3674
+                ], 
+                "name": "pantai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3677, 
+                    3686
+                ], 
+                "name": "Pantainya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terlihat monyet, babi hutan, rusa, dan juga kadal yang lagi bersantai di sekitar penginapan.", 
+        "line": 88, 
+        "range": [
+            3717, 
+            3808
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Menarik sih, saya belum pernah ngalami yang beginian sebelumnya.", 
+        "line": 90, 
+        "range": [
+            3810, 
+            3873
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3836, 
+                    3846
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak perlu khawatir karena binatang ini tidak ganggu kok.", 
+        "line": 92, 
+        "range": [
+            3875, 
+            3932
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman trekking di Cidaon dan Tanjung Layar", 
+        "line": 94, 
+        "range": [
+            3934, 
+            3980
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Aktivitas lain yang kami lakukan selain snorkeling adalah trekking ke Cidaon dan Tanjung Layar.", 
+        "line": 96, 
+        "range": [
+            3982, 
+            4076
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3998, 
+                    4004
+                ], 
+                "name": "Cidaon"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4009, 
+                    4022
+                ], 
+                "name": "Tanjung Layar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Spot Tanjung Layar untuk melihat sunset, sedangkan Cidaon itu seperti padang savana yang luas. Kalau beruntung bisa melihat banteng.", 
+        "line": 98, 
+        "range": [
+            4078, 
+            4209
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4094, 
+                    4100
+                ], 
+                "name": "Cidaon"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4105, 
+                    4118
+                ], 
+                "name": "Tanjung Layar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4126, 
+                    4139
+                ], 
+                "name": "Tanjung Layar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4172, 
+                    4178
+                ], 
+                "name": "Cidaon"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4191, 
+                    4204
+                ], 
+                "name": "padang savana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kepengen banget bisa melihat badak bercula satu. Tapi sayangnya pemandu saya bilang langka sekali bisa melihat badak.", 
+        "line": 100, 
+        "range": [
+            4211, 
+            4327
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bahkan para peneliti harus menunggu dua sampai tiga minggu untuk melihat badak bercula satu.", 
+        "line": 102, 
+        "range": [
+            4329, 
+            4420
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya juga kaget ketika mendengar bahwa ternyata jumlah badak jawa di Taman Nasional Ujung Kulon hanya ada sekitar 50 ekor saja.", 
+        "line": 104, 
+        "range": [
+            4422, 
+            4548
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4529, 
+                    4533
+                ], 
+                "name": "jawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sisanya, 8 badak jawa bisa ditemukan juga di Taman Nasional Cat Tien, Vietnam.", 
+        "line": 106, 
+        "range": [
+            4550, 
+            4627
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4614, 
+                    4618
+                ], 
+                "name": "jawa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebagai salah satu jenis mamalia, badak hanya bisa bereproduksi dalm 4-5 tahun.", 
+        "line": 108, 
+        "range": [
+            4629, 
+            4707
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4642, 
+                    4665
+                ], 
+                "name": "Taman Nasional Cat Tien"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4667, 
+                    4674
+                ], 
+                "name": "Vietnam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ya, inilah hasil dari kerakusan manusia yang memburu binatang yang tidak berdaya ini sebagai alat untuk menghasilkan uang.", 
+        "line": 110, 
+        "range": [
+            4709, 
+            4830
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Margasatwa liar ini seharusnya dilindungi, bukan untuk disakiti.", 
+        "line": 112, 
+        "range": [
+            4832, 
+            4895
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Secara keseluruhan sih fasilitas di Pulau Peucang cukup memadai.", 
+        "line": 114, 
+        "range": [
+            4897, 
+            4960
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pondok-pondok yang sederhana dilengkapi dengan kamar mandi dan air yang bersih.", 
+        "line": 116, 
+        "range": [
+            4962, 
+            5040
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4984, 
+                    4997
+                ], 
+                "name": "Pulau Peucang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5014, 
+                    5027
+                ], 
+                "name": "Pondok-pondok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman ini cukup berkesan bagi saya karena bisa merasakan hutan dan pantai di saat yang bersamaan.", 
+        "line": 118, 
+        "range": [
+            5042, 
+            5143
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bersatu dengan alam dikelilingi binatang. Berbagi pengalaman seru bersama-sama.", 
+        "line": 120, 
+        "range": [
+            5145, 
+            5223
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5157, 
+                    5162
+                ], 
+                "name": "hutan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5167, 
+                    5173
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berwisata ke Pulau Peucang, Taman Nasional Ujung Kulon wajib banget dicoba!", 
+        "line": 122, 
+        "range": [
+            5225, 
+            5299
+        ], 
+        "entities": []
+    }
+]

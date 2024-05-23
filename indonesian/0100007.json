@@ -1,0 +1,1072 @@
+[
+    {
+        "text": "March 3, 2021   Snorkeling Di Pulau Samalona Dan Pulau Kodingareng Keke, Makassar", 
+        "line": 0, 
+        "range": [
+            1, 
+            81
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    30, 
+                    44
+                ], 
+                "name": "Pulau Samalona"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    49, 
+                    71
+                ], 
+                "name": "Pulau Kodingareng Keke"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    73, 
+                    81
+                ], 
+                "name": "Makassar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di sekitar Makassar ternyata banyak banget pulau-pulau indah dengan pantai pasir putih dan juga spot snorkeling yang cakep, beberapanya adalah Pulau Samalona dan Pulau Kondingareng Keke.", 
+        "line": 2, 
+        "range": [
+            83, 
+            268
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    94, 
+                    102
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    126, 
+                    137
+                ], 
+                "name": "pulau-pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    151, 
+                    169
+                ], 
+                "name": "pantai pasir putih"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    226, 
+                    240
+                ], 
+                "name": "Pulau Samalona"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    245, 
+                    268
+                ], 
+                "name": "Pulau Kondingareng Keke"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kedua pulau ini merupakan bagian dari Kepulauan Spermonde.", 
+        "line": 4, 
+        "range": [
+            270, 
+            327
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    277, 
+                    282
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    309, 
+                    328
+                ], 
+                "name": "Kepulauan Spermonde"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiap kali mendengar nama Spermonde, rasanya kok aneh ya. Namanya mirip banget dengan sperma. Saya kurang tau juga kenapa kepulauan ini diberi nama Spermonde.", 
+        "line": 6, 
+        "range": [
+            329, 
+            485
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    356, 
+                    365
+                ], 
+                "name": "Spermonde"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    452, 
+                    461
+                ], 
+                "name": "kepulauan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kata salah satu teman saya sih, karena kalau dilihat gugusan kepulauan ini terlihat seperti sperma.", 
+        "line": 8, 
+        "range": [
+            487, 
+            585
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    551, 
+                    560
+                ], 
+                "name": "kepulauan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kepulauan Spermonde memiliki kurang lebih 100 pulau-pulau kecil. Sebelumnya saya sudah pernah juga ke Pulau Cangke yang juga terletak di Kepulauan Spermonde.", 
+        "line": 10, 
+        "range": [
+            587, 
+            743
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    591, 
+                    610
+                ], 
+                "name": "Kepulauan Spermonde"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    637, 
+                    648
+                ], 
+                "name": "pulau-pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    693, 
+                    705
+                ], 
+                "name": "Pulau Cangke"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau dengar pulau pasti dipikiran saya sudah penuh dengan bayangan matahari, pantai, dan pastinya snorkeling.", 
+        "line": 12, 
+        "range": [
+            745, 
+            854
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    763, 
+                    768
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    828, 
+                    834
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara ke Pulau Samalona dan Kodingareng Keke dari Makassar", 
+        "line": 14, 
+        "range": [
+            856, 
+            912
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    870, 
+                    884
+                ], 
+                "name": "Pulau Samalona"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    889, 
+                    905
+                ], 
+                "name": "Kodingareng Keke"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk menuju ke Pulau atau Pantai Samalona dan Kodingareng Keke dari Makassar, pergilah ke Pelabuhan Kayu Bangkoa. Pelabuhan ini letaknya tidak jauh dari Pantai Losari, di sebelah Hotel Pantai Gapura.", 
+        "line": 16, 
+        "range": [
+            914, 
+            1113
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    937, 
+                    942
+                ], 
+                "name": "Pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    948, 
+                    963
+                ], 
+                "name": "Pantai Samalona"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    968, 
+                    984
+                ], 
+                "name": "Kodingareng Keke"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    990, 
+                    998
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1012, 
+                    1034
+                ], 
+                "name": "Pelabuhan Kayu Bangkoa"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1036, 
+                    1045
+                ], 
+                "name": "Pelabuhan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1075, 
+                    1088
+                ], 
+                "name": "Pantai Losari"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, dari sini bisa menyewa kapal. Sehari saja cukup kok untuk mengunjungi kedua pulau ini.", 
+        "line": 18, 
+        "range": [
+            1115, 
+            1205
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1151, 
+                    1156
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biaya ke Pulau Samalona dan Pulau Kodingareng Keke dari Makassar dengan menyewa kapal adalah sekitar Rp 400,000 untuk seharian dan bisa muat sekitar 10 orang.", 
+        "line": 20, 
+        "range": [
+            1207, 
+            1364
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1225, 
+                    1239
+                ], 
+                "name": "Pulau Samalona"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1244, 
+                    1266
+                ], 
+                "name": "Pulau Kodingareng Keke"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1272, 
+                    1280
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1296, 
+                    1301
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Samalona terletak sekitar 30 menit menggunakan kapal dari Makassar. Sedangkan Pulau Kodingareng Keke terletak sedikit 15 menit lebih jauh dari Pulau Samalona, atau sekitar 45 menit dari Makassar.", 
+        "line": 22, 
+        "range": [
+            1366, 
+            1566
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1376, 
+                    1390
+                ], 
+                "name": "Pulau Samalona"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1429, 
+                    1434
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1440, 
+                    1448
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1460, 
+                    1482
+                ], 
+                "name": "Pulau Kodingareng Keke"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1525, 
+                    1539
+                ], 
+                "name": "Pulau Samalona"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mau bisa mampir ke sebuah pulau juga yang bernama Pulau Lae-Lae yang hanya berjarak 10 \u2013 15 menit saja dengan kapal. Pulau Lae-Lae merupakan pulau yang dihuni oleh orang Bugis dan Makassar.", 
+        "line": 24, 
+        "range": [
+            1568, 
+            1764
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1568, 
+                    1576
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1611, 
+                    1616
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1635, 
+                    1648
+                ], 
+                "name": "Pulau Lae-Lae"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1695, 
+                    1700
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1702, 
+                    1715
+                ], 
+                "name": "Pulau Lae-Lae"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1726, 
+                    1731
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai di Pulau Lae-Lae tidak terlalu cakep. Ada beberapa saung atau gazebo di pinggir pantai untuk melihat view kota Makassar.", 
+        "line": 26, 
+        "range": [
+            1766, 
+            1892
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1786, 
+                    1799
+                ], 
+                "name": "Pulau Lae-Lae"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1834, 
+                    1839
+                ], 
+                "name": "saung"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1845, 
+                    1851
+                ], 
+                "name": "gazebo"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1863, 
+                    1869
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Keindahan bawah laut Pulau Kodingareng Keke", 
+        "line": 28, 
+        "range": [
+            1894, 
+            1936
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Oke, saya dan teman-teman sudah ready di pagi hari dan meet-up di Pelabuhan Kayu Bangkoa. Kita berangkatnya 10 orang, jadi kalau share cost lumayan murah cuma sekitar Rp 40,000 seorangnya.", 
+        "line": 30, 
+        "range": [
+            1938, 
+            2125
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2016, 
+                    2038
+                ], 
+                "name": "Pelabuhan Kayu Bangkoa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, tujuan pertama kami adalah Pulau Kodingareng Keke terlebih dahulu. Saya kira karena Hari Minggu bakal ramai, tapi nyatanya tidak. Saat itu memang Pulau Kodingareng Keke masih belum banyak dikenal orang.", 
+        "line": 32, 
+        "range": [
+            2127, 
+            2333
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2172, 
+                    2194
+                ], 
+                "name": "Pulau Kodingareng Keke"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2291, 
+                    2313
+                ], 
+                "name": "Pulau Kodingareng Keke"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cuma ada rombongan saya saja jadi berasa seperti pulau pribadi. Pulau Kodingareng Keke merupakan pulau yang tak berpenghuni. Anehnya, ketika saya kesana malahan ada kucing. Pulau kecil ini sangat alami, hanya ada rumput liar.", 
+        "line": 34, 
+        "range": [
+            2335, 
+            2559
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2398, 
+                    2403
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2413, 
+                    2435
+                ], 
+                "name": "Pulau Kodingareng Keke"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2446, 
+                    2451
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2522, 
+                    2527
+                ], 
+                "name": "Pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sangat suka dengan Pulau Kodingareng Keke yang alami apalagi air lautnya yang bening. Pantai di sebuah sisi pulau memiliki pasir putih nan indah. Yang paling penting, terumbu karangnya luar biasa indah.", 
+        "line": 36, 
+        "range": [
+            2561, 
+            2767
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2600, 
+                    2622
+                ], 
+                "name": "Pulau Kodingareng Keke"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2667, 
+                    2673
+                ], 
+                "name": "Pantai"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2689, 
+                    2694
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hampir seharian kami snorkeling di Pulau Kodingareng Keke. Kebetulan saya dan teman-teman memang suka freediving juga.", 
+        "line": 38, 
+        "range": [
+            2769, 
+            2886
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2820, 
+                    2842
+                ], 
+                "name": "Pulau Kodingareng Keke"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Visibility air saat itu jurang bagus karena sehari sebelumnya hujan. Tapi terumbu karangnya, ikan-ikannya, wah bagus sekali.", 
+        "line": 40, 
+        "range": [
+            2888, 
+            3011
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terumbu karangnya juga bervariasi. Tinggal berenang dari tepi pantai sudah disambut dengan terumbu karang yang cantik. Puas deh, snorkeling di sini.", 
+        "line": 42, 
+        "range": [
+            3013, 
+            3160
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3093, 
+                    3099
+                ], 
+                "name": "pantai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berkunjung ke Pulau Samalona", 
+        "line": 44, 
+        "range": [
+            3162, 
+            3189
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah puas snorkeling, kami menuju ke Pulau Samalona. Pulau Samalona memang memang sudah lebih dikenal dan banyak pengunjung. Saya tidak terlalu berharap sih dengan Pulau Samalona.", 
+        "line": 46, 
+        "range": [
+            3191, 
+            3372
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3195, 
+                    3209
+                ], 
+                "name": "Pulau Samalona"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3251, 
+                    3265
+                ], 
+                "name": "Pulau Samalona"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3267, 
+                    3281
+                ], 
+                "name": "Pulau Samalona"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Air lautnya sangat biru, jadi ingat dengan Pulau Derawan.", 
+        "line": 48, 
+        "range": [
+            3374, 
+            3430
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3378, 
+                    3392
+                ], 
+                "name": "Pulau Samalona"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sayangnya untuk snorkeling tidak terlalu bagus. Di dekat tower laut ada spot yang lumayan, cuma visibility-nya juga tidak bagus.", 
+        "line": 50, 
+        "range": [
+            3432, 
+            3559
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3438, 
+                    3451
+                ], 
+                "name": "Pulau Derawan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3511, 
+                    3521
+                ], 
+                "name": "tower laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau samalona", 
+        "line": 52, 
+        "range": [
+            3561, 
+            3574
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mau sewa peralatan snorkeling bisa disewa di Pulau Samalona. Harga untuk satu set kurang lebih Rp 50,000. Baterai kamera saya sudah habis jadi tidak bisa foto-foto di Pulau Samalona.", 
+        "line": 54, 
+        "range": [
+            3576, 
+            3763
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3584, 
+                    3598
+                ], 
+                "name": "Pulau samalona"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3651, 
+                    3665
+                ], 
+                "name": "Pulau Samalona"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selama saya tinggal di Makassar, sering sekali saya dan teman-teman main dan snorkeling di Pulau Kodingareng Keke. Bener deh, enggak pernah bosan. Jaraknya dekat dari Makassar, murah, dan seru juga untuk freediving.", 
+        "line": 56, 
+        "range": [
+            3765, 
+            3979
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3773, 
+                    3787
+                ], 
+                "name": "Pulau Samalona"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3813, 
+                    3821
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3881, 
+                    3903
+                ], 
+                "name": "Pulau Kodingareng Keke"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3957, 
+                    3965
+                ], 
+                "name": "Makassar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, kalau kamu berlibur ke Makassar dan tidak sempat ke Pantai Bira bisa main aja ke Pulau Samalona dan Pulau Kodingareng Keke yang tidak jauh dari Makassar.", 
+        "line": 58, 
+        "range": [
+            3981, 
+            4138
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4035, 
+                    4043
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4064, 
+                    4075
+                ], 
+                "name": "Pantai Bira"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4093, 
+                    4107
+                ], 
+                "name": "Pulau Samalona"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4112, 
+                    4134
+                ], 
+                "name": "Pulau Kodingareng Keke"
+            }
+        ]
+    }
+]

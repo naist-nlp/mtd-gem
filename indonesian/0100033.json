@@ -1,0 +1,3507 @@
+[
+    {
+        "text": "July 7, 2022    Liburan Ke Brunei Darussalam, Negara Kecil Penduduk Ramah", 
+        "line": 0, 
+        "range": [
+            1, 
+            73
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    27, 
+                    44
+                ], 
+                "name": "Brunei Darussalam"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    46, 
+                    52
+                ], 
+                "name": "Negara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berkunjung ke negara Brunei Darussalam menjadi sebuah pengalaman liburan yang berkesan bagi saya. Saya beruntung karena bertemu dengan penduduknya yang baik dan ramah, serta berkesempatan untuk eksplor tempat wisata di ibukota Brunei Darussalam yaitu Bandar Seri Begawan.", 
+        "line": 2, 
+        "range": [
+            75, 
+            345
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    89, 
+                    113
+                ], 
+                "name": "negara Brunei Darussalam"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    294, 
+                    301
+                ], 
+                "name": "ibukota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    302, 
+                    319
+                ], 
+                "name": "Brunei Darussalam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    326, 
+                    345
+                ], 
+                "name": "Bandar Seri Begawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekilas tentang Brunei Darussalam", 
+        "line": 4, 
+        "range": [
+            347, 
+            379
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Brunei Darussalam adalah sebuah negara kecil yang terletak di daratan Borneo atau Pulau Kalimantan.", 
+        "line": 6, 
+        "range": [
+            381, 
+            479
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    383, 
+                    400
+                ], 
+                "name": "Brunei Darussalam"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    415, 
+                    421
+                ], 
+                "name": "negara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    445, 
+                    459
+                ], 
+                "name": "daratan Borneo"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu suka geografi pasti tau bahwa ada tiga negara di daratan Kalimantan yaitu Indonesia, Malaysia (Sabah dan Sarawak), dan Brunei Darussalam.", 
+        "line": 8, 
+        "range": [
+            481, 
+            628
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    534, 
+                    540
+                ], 
+                "name": "negara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    552, 
+                    562
+                ], 
+                "name": "Kalimantan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    569, 
+                    578
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    580, 
+                    588
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    590, 
+                    607
+                ], 
+                "name": "Sabah dan Sarawak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Negara ini memiliki mayoritas penduduk beragama Islam yang juga dipimpin oleh seorang Sultan.", 
+        "line": 10, 
+        "range": [
+            630, 
+            722
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    634, 
+                    640
+                ], 
+                "name": "Negara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jumlah penduduk tidak terlalu banyak yaitu sekitar 438,438 jiwa (2020).", 
+        "line": 12, 
+        "range": [
+            724, 
+            794
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Iklim negara Brunei mirip seperti Indonesia yaitu beriklim tropis. perekonomian negara Brunei Darussalam bertumpu pada sumber gas dan minyak yang berlimpah menjadikan negara ini kaya.", 
+        "line": 14, 
+        "range": [
+            796, 
+            978
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    808, 
+                    821
+                ], 
+                "name": "negara Brunei"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    836, 
+                    845
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    882, 
+                    906
+                ], 
+                "name": "negara Brunei Darussalam"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    969, 
+                    975
+                ], 
+                "name": "negara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sultan sebagai pemimpin negara Brunei Darussalam", 
+        "line": 16, 
+        "range": [
+            980, 
+            1027
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saat ini negara Brunei Darussalam dipimpin oleh seorang Sultan yang bernama Sultan Hassanal Bolkiah.", 
+        "line": 18, 
+        "range": [
+            1029, 
+            1128
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1046, 
+                    1070
+                ], 
+                "name": "negara Brunei Darussalam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sultan ke-29 Brunei ini telah memimpin selama lebih dari 30 tahun.", 
+        "line": 20, 
+        "range": [
+            1130, 
+            1195
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1152, 
+                    1158
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebagai pemimpin negara dan pemerintah, Sultan Hassanal Bolkiah dihormati dan dicintai rakyat. Beliau dikenal memiliki sifat yang sangat sederhana dan ramah.", 
+        "line": 22, 
+        "range": [
+            1197, 
+            1353
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1224, 
+                    1230
+                ], 
+                "name": "negara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Malah Sultan Hassanal Bolkiah tidak segan-segan untuk menjumpai rakyatnya.", 
+        "line": 24, 
+        "range": [
+            1355, 
+            1428
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Contohnya, di Sholat Jumat, beliau akan langsung datang ke masjid untuk sholat di antara jemaat lain.", 
+        "line": 26, 
+        "range": [
+            1430, 
+            1530
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sultan Brunei ini telah membuktikan kemampuannya dalam mengatur kesejahteraan negara.", 
+        "line": 28, 
+        "range": [
+            1532, 
+            1616
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1552, 
+                    1558
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beliau sangat peduli dengan kesehatan dan pendidikan rakyat. Penduduk Brunei hanya perlu membayar $1 untuk berkonsultasi dengan dokter.", 
+        "line": 30, 
+        "range": [
+            1618, 
+            1752
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1702, 
+                    1708
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Masyarakat juga bisa sekolah gratis, mendapat beasiswa untuk melanjutkan kuliah di luar negeri kemana pun dan setinggi apa pun yang mereka inginkan.", 
+        "line": 32, 
+        "range": [
+            1754, 
+            1901
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hobi Sultan tentang mengoleksi kendaraan mobil mahal bukan menjadi sebuah rahasia lagi.", 
+        "line": 34, 
+        "range": [
+            1903, 
+            1989
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sultan Hassanal Bolkiah memiliki koleksi mobil mahal dan mewah.", 
+        "line": 36, 
+        "range": [
+            1991, 
+            2053
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Transportasi dan Cara ke Brunei Darussalam", 
+        "line": 38, 
+        "range": [
+            2055, 
+            2096
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saat ini belum ada penerbangan langsung dari Jakarta ke Brunei Darussalam.", 
+        "line": 40, 
+        "range": [
+            2098, 
+            2171
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2098, 
+                    2115
+                ], 
+                "name": "Brunei Darussalam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2162, 
+                    2169
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu harus transit dulu di Kuala Lumpur baru melanjutkan penerbangan ke Bandar Seri Begawan menggunakan maskapai AirAsia atau Royal Brunei.", 
+        "line": 42, 
+        "range": [
+            2173, 
+            2311
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2173, 
+                    2190
+                ], 
+                "name": "Brunei Darussalam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2220, 
+                    2232
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2265, 
+                    2284
+                ], 
+                "name": "Bandar Seri Begawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau pakai AirAsia dari Jakarta ke Brunei dengan transit Kuala Lumpur, harga sekali jalan berkisar di Rp 1juta. Kalau promo mungkin bisa lebih murah.", 
+        "line": 44, 
+        "range": [
+            2313, 
+            2462
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2319, 
+                    2331
+                ], 
+                "name": "Royal Brunei"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2346, 
+                    2353
+                ], 
+                "name": "AirAsia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2359, 
+                    2366
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2370, 
+                    2376
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2392, 
+                    2404
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena posisi saya memang sudah di Kota Kinabalu, maka cara paling gampang untuk ke Brunei Darussalam dari Kota Kinabalu adalah menggunakan kapal ferry.", 
+        "line": 46, 
+        "range": [
+            2464, 
+            2615
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2521, 
+                    2534
+                ], 
+                "name": "Kota Kinabalu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2570, 
+                    2587
+                ], 
+                "name": "Brunei Darussalam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2593, 
+                    2606
+                ], 
+                "name": "Kota Kinabalu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebaiknya ambil kapal dengan jadwal keberangkatan pagi karena kapal ferry tidak langsung menuju Brunei, melainkan transit terlebih dahulu di Labuan. Kalau ambil yang siang, kamu harus bermalam di Labuan.", 
+        "line": 48, 
+        "range": [
+            2617, 
+            2819
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2626, 
+                    2637
+                ], 
+                "name": "kapal ferry"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2656, 
+                    2661
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2702, 
+                    2713
+                ], 
+                "name": "kapal ferry"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2736, 
+                    2742
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2781, 
+                    2787
+                ], 
+                "name": "Labuan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk keberangkatan pagi kamu bisa beli tiket two passes jadi untuk kapal dari KK (Kota Kinabalu) ke Labuan dengan lama perjalanan 3 jam, kemudian dari Labuan ke Muara (Brunei) dengan lama perjalanan 1 jam.", 
+        "line": 50, 
+        "range": [
+            2821, 
+            3026
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2836, 
+                    2842
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2928, 
+                    2941
+                ], 
+                "name": "Kota Kinabalu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2997, 
+                    3003
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3007, 
+                    3012
+                ], 
+                "name": "Muara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3014, 
+                    3020
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket keseluruhan Kota Kinabalu \u2013 Labuan \u2013 Muara (Brunei) adalah RM 63.30 atau sekitar Rp 226,000.", 
+        "line": 52, 
+        "range": [
+            3028, 
+            3135
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3077, 
+                    3090
+                ], 
+                "name": "Kota Kinabalu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3093, 
+                    3099
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3102, 
+                    3107
+                ], 
+                "name": "Muara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3109, 
+                    3115
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sampai di Labuan akan dikenakan pajak sebesar RM 5. Di Labuan harus melewati imigrasi untuk cap keluar dari Malaysia.", 
+        "line": 54, 
+        "range": [
+            3137, 
+            3253
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3169, 
+                    3175
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3214, 
+                    3220
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3236, 
+                    3244
+                ], 
+                "name": "imigrasi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadwal kapal ferry dari Jesselton Port (Kota Kinabalu) \u2013 Muara (Brunei):", 
+        "line": 56, 
+        "range": [
+            3255, 
+            3328
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3267, 
+                    3275
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3285, 
+                    3296
+                ], 
+                "name": "kapal ferry"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3302, 
+                    3316
+                ], 
+                "name": "Jesselton Port"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jesselton Port (Kota Kinabalu) \u2013 Labuan : 8.00, 13.30", 
+        "line": 58, 
+        "range": [
+            3330, 
+            3384
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3335, 
+                    3340
+                ], 
+                "name": "Muara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3342, 
+                    3348
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3352, 
+                    3366
+                ], 
+                "name": "Jesselton Port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3368, 
+                    3381
+                ], 
+                "name": "Kota Kinabalu"
+            }
+        ]
+    }, 
+    {
+        "text": "Labuan \u2013 Muara (Brunei) : 9.00, 13.30, 15.30, 16.00", 
+        "line": 59, 
+        "range": [
+            3385, 
+            3437
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3385, 
+                    3391
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3406, 
+                    3412
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3415, 
+                    3420
+                ], 
+                "name": "Muara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3422, 
+                    3428
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 60, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadwal kembali kapal ferry dari Muara (Brunei) \u2013 Jesselton Port (Kota Kinabalu):", 
+        "line": 61, 
+        "range": [
+            3439, 
+            3520
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3474, 
+                    3485
+                ], 
+                "name": "kapal ferry"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3491, 
+                    3496
+                ], 
+                "name": "Muara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3498, 
+                    3504
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 62, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Muara (Brunei) \u2013 Labuan : 8.30, 9.00, 14.00, 16.30", 
+        "line": 63, 
+        "range": [
+            3522, 
+            3573
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3524, 
+                    3537
+                ], 
+                "name": "Kota Kinabalu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3541, 
+                    3546
+                ], 
+                "name": "Muara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3548, 
+                    3554
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3558, 
+                    3564
+                ], 
+                "name": "Labuan"
+            }
+        ]
+    }, 
+    {
+        "text": "Labuan \u2013 Jesselton Port (Kota Kinabalu) : 8.00, 13.00", 
+        "line": 64, 
+        "range": [
+            3574, 
+            3628
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3592, 
+                    3598
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3601, 
+                    3615
+                ], 
+                "name": "Jesselton Port"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya rangkum lagi biar lebih jelas. Untuk arah sebaliknya kurang lebih sama.", 
+        "line": 66, 
+        "range": [
+            3630, 
+            3705
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara ke Brunei Darussalam dari Kota Kinabalu menggunakan ferry adalah sebagai berikut:", 
+        "line": 68, 
+        "range": [
+            3707, 
+            3792
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3733, 
+                    3750
+                ], 
+                "name": "Brunei Darussalam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3756, 
+                    3769
+                ], 
+                "name": "Kota Kinabalu"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3782, 
+                    3787
+                ], 
+                "name": "ferry"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Datang ke Jesselton Port (Kota Kinabalu) sebelum jam 8", 
+        "line": 70, 
+        "range": [
+            3794, 
+            3847
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3823, 
+                    3837
+                ], 
+                "name": "Jesselton Port"
+            }
+        ]
+    }, 
+    {
+        "text": "Beli tiket two pass (RM 63.30) untuk rute KK \u2013 Labuan \u2013 Muara (Brunei)", 
+        "line": 71, 
+        "range": [
+            3848, 
+            3921
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3910, 
+                    3912
+                ], 
+                "name": "KK"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3915, 
+                    3921
+                ], 
+                "name": "Labuan"
+            }
+        ]
+    }, 
+    {
+        "text": "Kapal berangkat dari KK ke Labuan (3 jam)", 
+        "line": 72, 
+        "range": [
+            3922, 
+            3962
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3924, 
+                    3929
+                ], 
+                "name": "Muara"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3939, 
+                    3944
+                ], 
+                "name": "Kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3960, 
+                    3962
+                ], 
+                "name": "KK"
+            }
+        ]
+    }, 
+    {
+        "text": "Sampai di Labuan, cap keluar imigrasi", 
+        "line": 73, 
+        "range": [
+            3963, 
+            3999
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3966, 
+                    3972
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3991, 
+                    3997
+                ], 
+                "name": "Labuan"
+            }
+        ]
+    }, 
+    {
+        "text": "Pindah kapal dari Labuan ke Muara (Brunei) perjalanan 1 jam", 
+        "line": 74, 
+        "range": [
+            4000, 
+            4058
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4010, 
+                    4018
+                ], 
+                "name": "imigrasi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4026, 
+                    4031
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4037, 
+                    4043
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4047, 
+                    4052
+                ], 
+                "name": "Muara"
+            }
+        ]
+    }, 
+    {
+        "text": "Sampai di Serasa Port di Muara (Brunei), cap masuk imigrasi", 
+        "line": 75, 
+        "range": [
+            4059, 
+            4117
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4089, 
+                    4100
+                ], 
+                "name": "Serasa Port"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4104, 
+                    4109
+                ], 
+                "name": "Muara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4111, 
+                    4117
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "Naik bus dari pelabuhan \u2013 pusat kota (1 jam)", 
+        "line": 76, 
+        "range": [
+            4118, 
+            4163
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4130, 
+                    4138
+                ], 
+                "name": "imigrasi"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4144, 
+                    4147
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4153, 
+                    4162
+                ], 
+                "name": "pelabuhan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain kedua cara diatas, kamu juga bisa naik bus dari Pontianak ke Brunei Darussalam.", 
+        "line": 78, 
+        "range": [
+            4165, 
+            4250
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4165, 
+                    4175
+                ], 
+                "name": "pusat kota"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4231, 
+                    4234
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4240, 
+                    4249
+                ], 
+                "name": "Pontianak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hanya saja memakan waktu yang cukup lama kurang lebih 24 jam. Bus biasanya berangkat pagi dengan harga tiket sekitar Rp 500,000.", 
+        "line": 80, 
+        "range": [
+            4252, 
+            4379
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4253, 
+                    4270
+                ], 
+                "name": "Brunei Darussalam"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4335, 
+                    4338
+                ], 
+                "name": "Bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa PO bus yang melayani rute Pontianak \u2013 Bandar Seri Begawan (Brunei) adalah PO ADBS, Damri, PO Murni Hj Saban.", 
+        "line": 82, 
+        "range": [
+            4381, 
+            4499
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4415, 
+                    4418
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4438, 
+                    4447
+                ], 
+                "name": "Pontianak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4450, 
+                    4469
+                ], 
+                "name": "Bandar Seri Begawan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4471, 
+                    4477
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4486, 
+                    4493
+                ], 
+                "name": "PO ADBS"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4495, 
+                    4500
+                ], 
+                "name": "Damri"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman saya liburan ke Brunei Darussalam", 
+        "line": 84, 
+        "range": [
+            4501, 
+            4544
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    4502, 
+                    4519
+                ], 
+                "name": "PO Murni Hj Saban"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jujur traveling ke Brunei Darussalam tidak pernah terbesit di pikiran saya.", 
+        "line": 86, 
+        "range": [
+            4546, 
+            4620
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4549, 
+                    4566
+                ], 
+                "name": "Brunei Darussalam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4587, 
+                    4604
+                ], 
+                "name": "Brunei Darussalam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di antara negara Asia Tenggara, Brunei Darussalam adalah negara yang tidak terlalu menarik bagi saya.", 
+        "line": 88, 
+        "range": [
+            4622, 
+            4722
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4662, 
+                    4675
+                ], 
+                "name": "Asia Tenggara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4677, 
+                    4694
+                ], 
+                "name": "Brunei Darussalam"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4702, 
+                    4708
+                ], 
+                "name": "negara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya juga tidak tahu kenapa saya tidak tertarik dan bahkan tidak pernah mencari informasi tentang Brunei.", 
+        "line": 90, 
+        "range": [
+            4724, 
+            4828
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya kira Brunei hanyalah sebuah negara kecil yang tidak ada tempat wisata menarik.", 
+        "line": 92, 
+        "range": [
+            4830, 
+            4912
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4846, 
+                    4852
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4865, 
+                    4871
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4888, 
+                    4894
+                ], 
+                "name": "negara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terus, kenapa saya bisa sampai di Brunei Darussalam? Ceritanya saya mau mendaki Gunung Kinabalu yang terletak di Kota Kinabalu, Sabah.", 
+        "line": 94, 
+        "range": [
+            4914, 
+            5047
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4916, 
+                    4929
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4974, 
+                    4991
+                ], 
+                "name": "Brunei Darussalam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5020, 
+                    5035
+                ], 
+                "name": "Gunung Kinabalu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, ternyata Kota Kinabalu bertetanggaan dengan Brunei Darussalam.", 
+        "line": 96, 
+        "range": [
+            5049, 
+            5115
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5053, 
+                    5066
+                ], 
+                "name": "Kota Kinabalu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5068, 
+                    5073
+                ], 
+                "name": "Sabah"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5090, 
+                    5103
+                ], 
+                "name": "Kota Kinabalu"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ya udah, sekalian aja. Kebetulan saat itu saya harus melakukan visa-run karena saat itu saya sedang volunteer di Kuala Lumpur.", 
+        "line": 98, 
+        "range": [
+            5117, 
+            5242
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5125, 
+                    5142
+                ], 
+                "name": "Brunei Darussalam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "\u201cJika kamu bertemu dengan orang yang tepat, kamu akan menikmati Brunei.\u201d ", 
+        "line": 100, 
+        "range": [
+            5244, 
+            5320
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5258, 
+                    5270
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya tidak akan melupakan kata-kata tersebut yang diucapkan oleh seorang traveler yang berasal dari Serbia.", 
+        "line": 102, 
+        "range": [
+            5322, 
+            5428
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5337, 
+                    5343
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika masih di Kota Kinabalu, saya dan beberapa traveler lain yang kebetulan nginap di hostel yang sama duduk-duduk sambil ngobrol di sebuah cafe.", 
+        "line": 104, 
+        "range": [
+            5430, 
+            5576
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5448, 
+                    5454
+                ], 
+                "name": "Serbia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5473, 
+                    5486
+                ], 
+                "name": "Kota Kinabalu"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5545, 
+                    5551
+                ], 
+                "name": "hostel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Entah darimana mulailah percakapan tentang negara Brunei Darussalam.", 
+        "line": 106, 
+        "range": [
+            5578, 
+            5645
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    5599, 
+                    5603
+                ], 
+                "name": "cafe"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 107, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa bilang kalau di Brunei tidak banyak hal yang bisa dilakukan.", 
+        "line": 108, 
+        "range": [
+            5647, 
+            5715
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5649, 
+                    5673
+                ], 
+                "name": "negara Brunei Darussalam"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5701, 
+                    5707
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 109, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Begitu juga dengan saya yang tidak berekpektasi banyak terhadap negara yang akan saya datangi keesokan harinya untuk melakukan visa run.", 
+        "line": 110, 
+        "range": [
+            5717, 
+            5852
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5811, 
+                    5817
+                ], 
+                "name": "negara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 111, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "\u201cSaya jalan-jalan ke Brunei Darussalam seminggu, seru banget!\u201d, kata traveler Serbia ini.", 
+        "line": 112, 
+        "range": [
+            5854, 
+            5946
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5906, 
+                    5923
+                ], 
+                "name": "Brunei Darussalam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 113, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "\u201cDi Brunei ngapain aja? Saya yang di sana 10 hari aja hampir mati kebosanan. Terlalu sepi, tidak ada alkohol.\u201d, kata si traveler India.", 
+        "line": 114, 
+        "range": [
+            5948, 
+            6086
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5963, 
+                    5969
+                ], 
+                "name": "Serbia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5980, 
+                    5986
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 115, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "\u201cOrang-orangnya. Semua yang saya temui baik sekali. Kalau bisa pengen tinggal lebih lama di Brunei.\u201d, jawab traveler Serbia.", 
+        "line": 116, 
+        "range": [
+            6088, 
+            6215
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6105, 
+                    6110
+                ], 
+                "name": "India"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6205, 
+                    6211
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 117, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di percakapan ini saya lebih pro ke traveler India ini sih. Menurut saya satu dua hari juga cukup keliling Brunei.", 
+        "line": 118, 
+        "range": [
+            6217, 
+            6330
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6230, 
+                    6236
+                ], 
+                "name": "Serbia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6284, 
+                    6289
+                ], 
+                "name": "India"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 119, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Keesokan harinya saya berangkat menggunakan kapal feri dari Kota Kinabalu, transit di Labuan, dan menginjakkan kaki di Brunei. Saya tidak ada plan apa-apa, bahkan belum booking penginapan.", 
+        "line": 120, 
+        "range": [
+            6332, 
+            6519
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6346, 
+                    6352
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6399, 
+                    6409
+                ], 
+                "name": "kapal feri"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6415, 
+                    6428
+                ], 
+                "name": "Kota Kinabalu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6441, 
+                    6447
+                ], 
+                "name": "Labuan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6474, 
+                    6480
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 121, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika naik bus dari pelabuhan ke pusat kota Bandar Seri Begawan, saya berjumpa dengan seorang traveler asal Indonesia.", 
+        "line": 122, 
+        "range": [
+            6521, 
+            6639
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6532, 
+                    6542
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    6557, 
+                    6560
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6566, 
+                    6575
+                ], 
+                "name": "pelabuhan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6579, 
+                    6609
+                ], 
+                "name": "pusat kota Bandar Seri Begawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 123, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami ngobrol seru, dia bilang kalau dia adalah seorang couchsurfer juga, di Brunei udah ada host.", 
+        "line": 124, 
+        "range": [
+            6641, 
+            6737
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6654, 
+                    6663
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 125, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, saya minta tolong ke dia coba tanya si host, apakah bisa nge-host saya juga dan nginep di tempatnya. Jawabannya boleh.", 
+        "line": 126, 
+        "range": [
+            6739, 
+            6861
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6742, 
+                    6748
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 127, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ternyata di hari yang sama ada 7 orang couchsurfer yang tinggal di rumah host yaitu orang lokal Brunei yang sangat keren!", 
+        "line": 128, 
+        "range": [
+            6863, 
+            6983
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 129, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Merasakan langsung kebudayaan Brunei", 
+        "line": 130, 
+        "range": [
+            6985, 
+            7020
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6986, 
+                    6992
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 131, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari pertama ketika baru sampai, host kami yang bernama Waida mengundang kami untuk merayakan pesta pernikahan sepupunya.", 
+        "line": 132, 
+        "range": [
+            7022, 
+            7142
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7043, 
+                    7049
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 133, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Awalnya saya merasa sungkan karena baru kenal tapi udah diajak ke acara spesial keluarga.", 
+        "line": 134, 
+        "range": [
+            7144, 
+            7232
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 135, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ditambah lagi saya tidak punya baju formal untuk datang ke pesta.", 
+        "line": 136, 
+        "range": [
+            7234, 
+            7298
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 137, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Waida dan saudara perempuannya meminjamkan baju kurung dan mendandani saya.", 
+        "line": 138, 
+        "range": [
+            7300, 
+            7374
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 139, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya pun menghadari pesta pernikahan dan merasakan langsung kebudayaan lokal di Brunei.", 
+        "line": 140, 
+        "range": [
+            7376, 
+            7462
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 141, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di hari kedua, lagi-lagi Waida mengajak kami untuk bertamu, istilahnya open house.", 
+        "line": 142, 
+        "range": [
+            7464, 
+            7545
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7489, 
+                    7495
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 143, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Open house adalah tradisi merayakan Ramadhan dengan mengundang keluarga dan juga teman.", 
+        "line": 144, 
+        "range": [
+            7547, 
+            7633
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 145, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tujuannya adalah untuk mempererat hubungan dengan teman dan keluarga, saling silaturahmi.", 
+        "line": 146, 
+        "range": [
+            7635, 
+            7723
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 147, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Acara open house di Brunei sedikit berbeda dengan Indonesia atau Malaysia.", 
+        "line": 148, 
+        "range": [
+            7725, 
+            7798
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7782, 
+                    7788
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 149, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Biasanya ketika Hari Raya di Indonesia open house cuma diadakan 3 hari maksimal seminggu. Di Brunei bisa sampai akhir bulan.", 
+        "line": 150, 
+        "range": [
+            7800, 
+            7923
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7812, 
+                    7821
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7827, 
+                    7835
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7867, 
+                    7876
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 151, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pokoknya seru deh diajak jalan sama Waida. Saya belajar banyak tentang negara Brunei Darussalam, kebudayaannya, dan juga keseharian penduduk lokal di sana.", 
+        "line": 152, 
+        "range": [
+            7925, 
+            8079
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7931, 
+                    7937
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8035, 
+                    8059
+                ], 
+                "name": "negara Brunei Darussalam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 153, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Benar juga kata si traveler dari Serbia. Saya ngerasain sendiri, bertemu dengan orang yang tepat dan bisa menikmati liburan di Brunei juga.", 
+        "line": 154, 
+        "range": [
+            8081, 
+            8219
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8154, 
+                    8160
+                ], 
+                "name": "Serbia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 155, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5 tempat wisata di Bandar Seri Begawan", 
+        "line": 156, 
+        "range": [
+            8221, 
+            8258
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8248, 
+                    8254
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 157, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebagai negara dengan mayoritas penduduk beragama Islam, Brunei memiliki banyak masjid yang indah hampir di semua daerah.", 
+        "line": 158, 
+        "range": [
+            8260, 
+            8380
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8264, 
+                    8277
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8281, 
+                    8300
+                ], 
+                "name": "Bandar Seri Begawan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8310, 
+                    8316
+                ], 
+                "name": "negara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8359, 
+                    8365
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 159, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Interior masjid didesain dengan material atau bahan terbaik.", 
+        "line": 160, 
+        "range": [
+            8382, 
+            8441
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8382, 
+                    8388
+                ], 
+                "name": "masjid"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8434, 
+                    8440
+                ], 
+                "name": "masjid"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 161, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hampir sebagian wilayah di bagian utara Borneo adalah hutan. Salah satu wisata alam yang terkenal di Brunei Darussalam adalah Taman Nasional Ulu Temburong.", 
+        "line": 162, 
+        "range": [
+            8443, 
+            8597
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8527, 
+                    8533
+                ], 
+                "name": "Borneo"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8541, 
+                    8546
+                ], 
+                "name": "hutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 163, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sayangnya saya tidak sempat ke sana. Selama di Brunei Darussalam saya berkunjung ke beberapa tempat wisata di Bandar Seri Begawan, yaitu:", 
+        "line": 164, 
+        "range": [
+            8599, 
+            8735
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8613, 
+                    8641
+                ], 
+                "name": "Taman Nasional Ulu Temburong"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8691, 
+                    8708
+                ], 
+                "name": "Brunei Darussalam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 165, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Masjid Sultan Omar Ali Saifuddien", 
+        "line": 166, 
+        "range": [
+            8737, 
+            8772
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8737, 
+                    8750
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8754, 
+                    8773
+                ], 
+                "name": "Bandar Seri Begawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 167, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Masjid yang dinamakan berdasarkan Sultan Brunei yang ke-28 menggambarkan seni Islam dan identitas negara Brunei Darussalam.", 
+        "line": 168, 
+        "range": [
+            8774, 
+            8896
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8786, 
+                    8819
+                ], 
+                "name": "Masjid Sultan Omar Ali Saifuddien"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    8821, 
+                    8827
+                ], 
+                "name": "Masjid"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8862, 
+                    8868
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 169, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dibangun pada tahun 1958, Masjid Sultan Omar Ali Saifuddien menjadi tempat wisata yang populer di negeri ini. ", 
+        "line": 170, 
+        "range": [
+            8898, 
+            9007
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8919, 
+                    8943
+                ], 
+                "name": "negara Brunei Darussalam"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    8972, 
+                    9005
+                ], 
+                "name": "Masjid Sultan Omar Ali Saifuddien"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 171, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kubah masjid dilapisi emas asli. Di langit-langit ruang doa terlihat gantungan lampu yang besar.", 
+        "line": 172, 
+        "range": [
+            9009, 
+            9104
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9014, 
+                    9027
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9064, 
+                    9070
+                ], 
+                "name": "masjid"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 173, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Area wudu untuk membersihkan diri sebelum doa atau sholat tersusun rapi di antara tiang penyangga putih. Untuk masuk ke masjid ini, kamu harus memakai jubah warna hitam yang dipinjamkan oleh masjid.", 
+        "line": 174, 
+        "range": [
+            9106, 
+            9303
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9276, 
+                    9282
+                ], 
+                "name": "masjid"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 175, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Masjid Hassanal Bolkiah", 
+        "line": 176, 
+        "range": [
+            9305, 
+            9330
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 177, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jame\u2019 Asr Hassanil Bolkiah adalah masjid terbesar di Brunei Darussalam.", 
+        "line": 178, 
+        "range": [
+            9332, 
+            9404
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9347, 
+                    9353
+                ], 
+                "name": "masjid"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9359, 
+                    9382
+                ], 
+                "name": "Masjid Hassanal Bolkiah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 179, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di lantai dasar gerbang masuk ada anak tangga yang terbuat dari marmer putih sebanyak 29 buah dan melambangkan Sultan ke-29.", 
+        "line": 180, 
+        "range": [
+            9406, 
+            9529
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9418, 
+                    9424
+                ], 
+                "name": "masjid"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9437, 
+                    9454
+                ], 
+                "name": "Brunei Darussalam"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 181, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kubah masjid juga berjumlah 29 buah yang juga dilapisi dengan emas.", 
+        "line": 182, 
+        "range": [
+            9531, 
+            9597
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9589, 
+                    9595
+                ], 
+                "name": "masjid"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 183, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Museum Royal Regalia", 
+        "line": 184, 
+        "range": [
+            9599, 
+            9621
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 185, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tempat wisata selanjutnya adalah Museum Royal Regalia. Kelihatannya kecil dari luar tapi pas masuk ternyata museum ini sangat luas.", 
+        "line": 186, 
+        "range": [
+            9623, 
+            9753
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9655, 
+                    9675
+                ], 
+                "name": "Museum Royal Regalia"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9677, 
+                    9690
+                ], 
+                "name": "Tempat wisata"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9710, 
+                    9730
+                ], 
+                "name": "Museum Royal Regalia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 187, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Royal Regalia Museum ada segala informasi yang berkaitan dengan pemimpin negara yaitu Sultan, koleksi barang berharga Sultan, dan sejarah negara Brunei Darussalam.", 
+        "line": 188, 
+        "range": [
+            9755, 
+            9920
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9785, 
+                    9791
+                ], 
+                "name": "museum"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    9813, 
+                    9833
+                ], 
+                "name": "Royal Regalia Museum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 189, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Museum ini ditata dengan rapi sehingga memberikan kenyamanan bagi pengunjung untuk mengenal lebih lanjut tentang negara kaya ini dan juga tradisi maupun kebudayaan lokal.", 
+        "line": 190, 
+        "range": [
+            9922, 
+            10091
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    9951, 
+                    9975
+                ], 
+                "name": "negara Brunei Darussalam"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    9978, 
+                    9984
+                ], 
+                "name": "Museum"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 191, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "4. Kampung Ayer", 
+        "line": 192, 
+        "range": [
+            10093, 
+            10107
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 193, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu tradisi dari masyrakat Brunei adalah tinggal di sepanjang sungai. 10% dari jumlah populasi tinggal di rumah panggung di dekat sungai.", 
+        "line": 194, 
+        "range": [
+            10109, 
+            10252
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10153, 
+                    10165
+                ], 
+                "name": "Kampung Ayer"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10201, 
+                    10207
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10236, 
+                    10242
+                ], 
+                "name": "sungai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 195, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika saya melihat rumah panggungnya, saya cukup kaget karena ternyata bentuknya sudah modern. Masih ada juga rumah panggung kayu yang terjaga dengan baik.", 
+        "line": 196, 
+        "range": [
+            10254, 
+            10409
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    10304, 
+                    10310
+                ], 
+                "name": "sungai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 197, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk berkunjung ke Kampung Ayer, kamu bisa naik kapal kecil yang akan mengantarkan kamu dengan harga 1 Brunei Dollar sekali jalannya.", 
+        "line": 198, 
+        "range": [
+            10411, 
+            10544
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10491, 
+                    10503
+                ], 
+                "name": "Kampung Ayer"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    10520, 
+                    10525
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 199, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "5. Tasik Lama", 
+        "line": 200, 
+        "range": [
+            10546, 
+            10558
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 201, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tasik Lama, sebuah taman di kota Bandar Seri Begawan adalah tempat di mana penduduk bisa meluangkan waktu untuk olahraga pagi, khususnya pada akhir pekan.", 
+        "line": 202, 
+        "range": [
+            10560, 
+            10713
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    10610, 
+                    10620
+                ], 
+                "name": "Tasik Lama"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    10622, 
+                    10632
+                ], 
+                "name": "Tasik Lama"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    10641, 
+                    10646
+                ], 
+                "name": "taman"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    10650, 
+                    10674
+                ], 
+                "name": "kota Bandar Seri Begawan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 203, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada yang jogging, nari, tai chi, senam, ya kegiatan-kegiatan yang menyehatkan badan.", 
+        "line": 204, 
+        "range": [
+            10715, 
+            10798
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 205, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Udara di pagi hari segar karena pepohonan yang rindang.", 
+        "line": 206, 
+        "range": [
+            10800, 
+            10854
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 207, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Tasik Lama juga ada air terjun kecil yang melengkapi suasana tenang dan nyaman di taman ini.", 
+        "line": 208, 
+        "range": [
+            10856, 
+            10950
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    10924, 
+                    10934
+                ], 
+                "name": "Tasik Lama"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 209, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tips liburan ke Brunei", 
+        "line": 210, 
+        "range": [
+            10952, 
+            10973
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 211, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sisihkan waktu setidaknya 4 hari. Saya kira 2 hari cukup tapi ternyata tidak sempat mengunjungi Taman Nasional Ulu Temburong.", 
+        "line": 212, 
+        "range": [
+            10975, 
+            11099
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11034, 
+                    11040
+                ], 
+                "name": "Brunei"
+            }
+        ]
+    }, 
+    {
+        "text": "Berpakaianlah yang sopan. Harusnya kita udah paham karena kita tinggal di Indonesia penduduk mayoritas juga muslim. Jadi hormati dengan cara berpakaian yang sopan. Bagi perempuan pakai kaos lengan pendek tidak masalah, yang penting masih wajar dan tidak terlalu terbuka.", 
+        "line": 213, 
+        "range": [
+            11100, 
+            11369
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    11138, 
+                    11166
+                ], 
+                "name": "Taman Nasional Ulu Temburong"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    11242, 
+                    11251
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "Berkunjung tanggal 15 Juli, ulang tahun Sultan. Kesempatan sekali setahun di mana kamu bisa masuk ke istana Sultan. Berpakaianlah serba tertutup, bisa pakai baju kurung dan wanita harus memakai hijab. Kabarnya di tanggal ini kamu bisa melihat koleksi mobil mewah Sultan.", 
+        "line": 214, 
+        "range": [
+            11370, 
+            11639
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    11540, 
+                    11546
+                ], 
+                "name": "istana"
+            }
+        ]
+    }, 
+    {
+        "text": "Berkunjung di saat Idul Fitri. Laki-laki bisa bertemu langsung dengan Sultan sedangkan para wanita bisa bertemu dengan istrinya.", 
+        "line": 215, 
+        "range": [
+            11640, 
+            11767
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Download aplikasi \u201cDart\u201d. Transportasi umum tidak bisa diandalkan, jadi kemana-mana harus naik taksi. Kamu bisa coba download aplikasi Dart yang mirip seperti Grab/Gojek.", 
+        "line": 216, 
+        "range": [
+            11768, 
+            11941
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11865, 
+                    11882
+                ], 
+                "name": "Transportasi umum"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    11934, 
+                    11939
+                ], 
+                "name": "taksi"
+            }
+        ]
+    }, 
+    {
+        "text": "Rekomendasi hotel di Brunei. Kisaran harga termurah untuk hotel atau penginapan di Brunei adalah Rp 300,000 per malam. Miniinn Guest House, Poni Homestay, Kunyit 7 Lodge. Bisa langsung cek aja di aplikasi pesan hotel.", 
+        "line": 217, 
+        "range": [
+            11942, 
+            12158
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    12022, 
+                    12027
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12031, 
+                    12037
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    12068, 
+                    12073
+                ], 
+                "name": "hotel"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    12079, 
+                    12089
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    12093, 
+                    12099
+                ], 
+                "name": "Brunei"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    12129, 
+                    12149
+                ], 
+                "name": "Miniinn Guest House,"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 218, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Begitulah pengalaman saya berkunjung ke negara Brunei Darussalam.", 
+        "line": 219, 
+        "range": [
+            12160, 
+            12224
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    12165, 
+                    12179
+                ], 
+                "name": "Kunyit 7 Lodge"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 220, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tidak disangka banyak cerita asik yang melekat di ingatan saya.", 
+        "line": 221, 
+        "range": [
+            12226, 
+            12288
+        ], 
+        "entities": []
+    }
+]

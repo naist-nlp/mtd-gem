@@ -1,0 +1,1553 @@
+[
+    {
+        "text": "April 7, 2021   Gunung Papandayan: Jalur Pendakian, Biaya Dan Cara Ke Sana", 
+        "line": 0, 
+        "range": [
+            1, 
+            74
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    16, 
+                    33
+                ], 
+                "name": "Gunung Papandayan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Papandayan adalah salah satu gunung terfavorit saya. Gunung yang terletak di Garut, Jawa Barat ini memiliki akses yang sangat gampang. Jalurnya pun tidak sulit sehingga cocok bagi pendaki pemula.", 
+        "line": 2, 
+        "range": [
+            76, 
+            277
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    76, 
+                    93
+                ], 
+                "name": "Gunung Papandayan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    112, 
+                    118
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    136, 
+                    142
+                ], 
+                "name": "Gunung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    160, 
+                    165
+                ], 
+                "name": "Garut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    167, 
+                    177
+                ], 
+                "name": "Jawa Barat"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    218, 
+                    223
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Papandayan memiliki ketinggian 2,665 mdpl. Gunung ini menawarkan pemandangan yang sangat menarik. Mulai dari hutan mati, kawah yang masih aktif.", 
+        "line": 4, 
+        "range": [
+            279, 
+            429
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    280, 
+                    297
+                ], 
+                "name": "Gunung Papandayan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    330, 
+                    336
+                ], 
+                "name": "Gunung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    396, 
+                    406
+                ], 
+                "name": "hutan mati"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    408, 
+                    413
+                ], 
+                "name": "kawah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mau sekedar hiking atau camping santai untuk melewati weekend, saya sarankan sih ke Gunung Papandayan saja. Jaraknya juga tidak terlalu jauh dari Jakarta maupun Bandung.", 
+        "line": 6, 
+        "range": [
+            431, 
+            605
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    523, 
+                    540
+                ], 
+                "name": "Gunung Papandayan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    585, 
+                    592
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, di artikel ini saya akan membagikan informasi jalur pendakian Gunung Papandayan, cara ke Gunung Papandayan dari Jakarta, dan berapa harga tiket masuknya.", 
+        "line": 8, 
+        "range": [
+            607, 
+            764
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    661, 
+                    666
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    677, 
+                    694
+                ], 
+                "name": "Gunung Papandayan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    704, 
+                    721
+                ], 
+                "name": "Gunung Papandayan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    727, 
+                    734
+                ], 
+                "name": "Jakarta"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara ke Gunung Papandayan", 
+        "line": 10, 
+        "range": [
+            766, 
+            790
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perjalanan dapat dimulai dari Jakarta atau Bandung dengan rute sebagai berikut:", 
+        "line": 12, 
+        "range": [
+            792, 
+            870
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    827, 
+                    834
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    840, 
+                    847
+                ], 
+                "name": "Bandung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bus Jakarta/Bandung \u2013 Garut. Dari Jakarta kamu bisa naik Bus Primajasa dengan tujuan Garut. Bus berangkat dari Terminal Cililitan, Pasar Rebo, atau Kampung Rambutan. Lama perjalanan sekitar 5 jam dengan harga tiket bus Rp 52,000. Bus Primajasa berangkat setiap 45 menit dengan jadwal diantara jam 3.30 pagi sampai 10 malam. Dari Bandung lebih dekat lagi, bisa naik minibus dari Terminal Leuwipanjang dengan tujuan Garut namun bisa minta diberhentikan di pertigaan Pasar Cisurupan. Lama perjalanan sekitar 2 jam dengan harga tiket Rp 20,000.", 
+        "line": 14, 
+        "range": [
+            872, 
+            1413
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    878, 
+                    905
+                ], 
+                "name": "Bus Jakarta/Bandung \u2013 Garut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    912, 
+                    919
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    935, 
+                    948
+                ], 
+                "name": "Bus Primajasa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    963, 
+                    968
+                ], 
+                "name": "Garut"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    970, 
+                    973
+                ], 
+                "name": "Bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    989, 
+                    1007
+                ], 
+                "name": "Terminal Cililitan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1009, 
+                    1019
+                ], 
+                "name": "Pasar Rebo"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1026, 
+                    1042
+                ], 
+                "name": "Kampung Rambutan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1093, 
+                    1096
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1108, 
+                    1121
+                ], 
+                "name": "Bus Primajasa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1207, 
+                    1214
+                ], 
+                "name": "Bandung"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1243, 
+                    1250
+                ], 
+                "name": "minibus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1256, 
+                    1277
+                ], 
+                "name": "Terminal Leuwipanjang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1292, 
+                    1297
+                ], 
+                "name": "Garut"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1332, 
+                    1341
+                ], 
+                "name": "pertigaan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1342, 
+                    1357
+                ], 
+                "name": "Pasar Cisurupan"
+            }
+        ]
+    }, 
+    {
+        "text": "Minibus Garut \u2013 Pertigaan Pasar Cisurupan.  Setelah sampai di Terminal Guntur, Garut, kamu harus naik minibus lagi sampai pertigaaan Pasar Cisurupan. Perjalanan menggunakan minibus kurang lebih 1 jam lagi dengan harga tiket Rp 13,000. Jadwal terakhir minibus ini sampai jam 6 sore.", 
+        "line": 15, 
+        "range": [
+            1414, 
+            1696
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1419, 
+                    1426
+                ], 
+                "name": "Minibus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1427, 
+                    1432
+                ], 
+                "name": "Garut"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1435, 
+                    1460
+                ], 
+                "name": "Pertigaan Pasar Cisurupan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1481, 
+                    1496
+                ], 
+                "name": "Terminal Guntur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1498, 
+                    1503
+                ], 
+                "name": "Garut"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1521, 
+                    1528
+                ], 
+                "name": "minibus"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1541, 
+                    1567
+                ], 
+                "name": "pertigaaan Pasar Cisurupan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1592, 
+                    1599
+                ], 
+                "name": "minibus"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1670, 
+                    1677
+                ], 
+                "name": "minibus"
+            }
+        ]
+    }, 
+    {
+        "text": "Ojek/Pickup Pertigaan Pasar Cisurupan \u2013 Camp David. Nah, dari pertigaan harus naik ojek lagi atau mobil pick up. Kurang lebih sekitar 30 menit. Tarif ojek sekitar Rp 15,000 \u2013 25,000. Sedangkan pick up satu mobilnya Rp 200,000 bisa muat 10 \u2013 15 orang.", 
+        "line": 16, 
+        "range": [
+            1697, 
+            1952
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1701, 
+                    1712
+                ], 
+                "name": "Ojek/Pickup"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    1713, 
+                    1738
+                ], 
+                "name": "Pertigaan Pasar Cisurupan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1741, 
+                    1751
+                ], 
+                "name": "Camp David"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1763, 
+                    1772
+                ], 
+                "name": "pertigaan"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1784, 
+                    1788
+                ], 
+                "name": "ojek"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1799, 
+                    1812
+                ], 
+                "name": "mobil pick up"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1851, 
+                    1855
+                ], 
+                "name": "ojek"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1894, 
+                    1901
+                ], 
+                "name": "pick up"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1907, 
+                    1912
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Gunung Papandayan", 
+        "line": 18, 
+        "range": [
+            1954, 
+            1988
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1971, 
+                    1988
+                ], 
+                "name": "Gunung Papandayan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Gunung Papandayan adalah Rp 20,000 (hari biasa) dan Rp 30,000 (hari libur) untuk turis domestik, Rp 200,000 (hari biasa) dan Rp 300,000 (hari libur) untuk turis mancanegara.", 
+        "line": 20, 
+        "range": [
+            1990, 
+            2180
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2008, 
+                    2025
+                ], 
+                "name": "Gunung Papandayan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain itu, tarif untuk berkemah camping Rp 35,000 untuk turis domestik dan Rp 105,000 untuk turis mancanegara.", 
+        "line": 22, 
+        "range": [
+            2182, 
+            2292
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur Pendakian Gunung Papandayan", 
+        "line": 24, 
+        "range": [
+            2294, 
+            2326
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2296, 
+                    2301
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendakian Gunung Papandayan bisa dilakukan dalam 2 hari 1 malam saja. Jalurnya cukup landai. Tetap pastikan membawa peralatan hiking yang diperlukan.", 
+        "line": 26, 
+        "range": [
+            2328, 
+            2476
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2341, 
+                    2358
+                ], 
+                "name": "Gunung Papandayan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2401, 
+                    2406
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut adalah itinerary, jalur pendakian, dan estimasi lama waktu pendakian Gunung Papandayan:", 
+        "line": 28, 
+        "range": [
+            2478, 
+            2572
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2508, 
+                    2513
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Camp David \u2013 Kawah Mas (20 menit)", 
+        "line": 30, 
+        "range": [
+            2574, 
+            2608
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2579, 
+                    2589
+                ], 
+                "name": "Camp David"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2592, 
+                    2601
+                ], 
+                "name": "Kawah Mas"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Oke, mari kita mulai pendakian. Setelah meninggalkan Camp David, kamu akan melewati kawah yang masih mengeluarkan uap.", 
+        "line": 32, 
+        "range": [
+            2610, 
+            2727
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2667, 
+                    2677
+                ], 
+                "name": "Camp David"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2698, 
+                    2703
+                ], 
+                "name": "kawah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Papandayan ini cukup unik, karena biasanya kalau mendaki gunung pasti baru bisa melihat kawah dari puncaknya.", 
+        "line": 34, 
+        "range": [
+            2729, 
+            2844
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2734, 
+                    2751
+                ], 
+                "name": "Gunung Papandayan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2798, 
+                    2804
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2829, 
+                    2834
+                ], 
+                "name": "kawah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Artinya basecamp pendakian biasanya dibangun di sisi lain dari gunung.", 
+        "line": 36, 
+        "range": [
+            2846, 
+            2915
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2860, 
+                    2868
+                ], 
+                "name": "basecamp"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi Gunung Papandayan berbeda. Posisi basecamp-nya malah terletak di bawah kawah langsung.", 
+        "line": 38, 
+        "range": [
+            2917, 
+            3007
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2929, 
+                    2946
+                ], 
+                "name": "Gunung Papandayan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2963, 
+                    2971
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3000, 
+                    3005
+                ], 
+                "name": "kawah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terlihat uap yang melambung keluar, sesekali kamu bisa mendengar suara sulfur yang mendidih dari lubang kawah.", 
+        "line": 40, 
+        "range": [
+            3009, 
+            3118
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemandangan batu vulkanis putih dipadu dengan uap sana sini sangatlah luar biasa indahnya.", 
+        "line": 42, 
+        "range": [
+            3120, 
+            3209
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3121, 
+                    3126
+                ], 
+                "name": "kawah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekitar 20 \u2013 30 menit berjalan melewati kawah, sebuah jalan setapak kecil akan membawa kamu ke punggung bukit.", 
+        "line": 44, 
+        "range": [
+            3211, 
+            3322
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3261, 
+                    3266
+                ], 
+                "name": "kawah"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3275, 
+                    3288
+                ], 
+                "name": "jalan setapak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kawah Mas \u2013 Pondok Salada (1 \u2013 2 jam)", 
+        "line": 46, 
+        "range": [
+            3324, 
+            3364
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3325, 
+                    3330
+                ], 
+                "name": "bukit"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3333, 
+                    3342
+                ], 
+                "name": "Kawah Mas"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3345, 
+                    3358
+                ], 
+                "name": "Pondok Salada"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di sebelah kanan terlihat sebuah danau kecil yang berwarna hijau tosca yang terbentuk pada saat erupsi di tahun 2002.", 
+        "line": 48, 
+        "range": [
+            3366, 
+            3482
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3405, 
+                    3410
+                ], 
+                "name": "danau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ikuti terus jalan turunan sampai ketemu aliran sungai kecil. Nah, kumpulin energi kamu untuk mendaki jalur yang cukup terjal.", 
+        "line": 50, 
+        "range": [
+            3484, 
+            3608
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3503, 
+                    3508
+                ], 
+                "name": "jalan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3538, 
+                    3544
+                ], 
+                "name": "sungai"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3592, 
+                    3597
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada percabangan, sebelah kiri jalurnya landai tapi lebih jauh. Sebelah kanan jalur singkat tapi ya lebih capek.", 
+        "line": 52, 
+        "range": [
+            3610, 
+            3720
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3622, 
+                    3633
+                ], 
+                "name": "percabangan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3648, 
+                    3653
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3695, 
+                    3700
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah 1 \u2013 2 jam pendakian (tergantung kecepatan dan stamina), sampailah di Pondok Salada.", 
+        "line": 54, 
+        "range": [
+            3722, 
+            3814
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamu boleh nge-camp di sini, ada air bersihnya juga, atau melanjutkan pendakian sampai Tegal Alun.", 
+        "line": 56, 
+        "range": [
+            3816, 
+            3913
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pondok Salada \u2013 Hutan Mati \u2013 Tegal Alun (1 jam)", 
+        "line": 58, 
+        "range": [
+            3915, 
+            3965
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3924, 
+                    3937
+                ], 
+                "name": "Pondok Salada"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3940, 
+                    3950
+                ], 
+                "name": "Hutan Mati"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3953, 
+                    3963
+                ], 
+                "name": "Tegal Alun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada 3 jalur untuk menuju Tegal Alun. Yang paling cepat adalah jalur sisi kanan, tinggal motong bagian tengah hutan di sisi punggung bukit satunya.", 
+        "line": 60, 
+        "range": [
+            3967, 
+            4112
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3979, 
+                    3984
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3998, 
+                    4008
+                ], 
+                "name": "Tegal Alun"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4035, 
+                    4040
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4082, 
+                    4087
+                ], 
+                "name": "hutan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4105, 
+                    4110
+                ], 
+                "name": "bukit"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalurnya sangat terjal, tapi 30 \u2013 45 menit saja sudah sampai ke Tegal Alun.", 
+        "line": 62, 
+        "range": [
+            4114, 
+            4190
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4121, 
+                    4126
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur di sisi kiri lebih gampang, kamu akan melewati hutan mati yang terkenal di Gunung Papandayan. Terserah kamu mau milih jalur yang mana. Kalau saya waku itu naiknya lewat jalur sisi kanan, turunnya baru melewati hutan mati.", 
+        "line": 64, 
+        "range": [
+            4192, 
+            4418
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4198, 
+                    4203
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4251, 
+                    4261
+                ], 
+                "name": "hutan mati"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4279, 
+                    4296
+                ], 
+                "name": "Gunung Papandayan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4373, 
+                    4378
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sampai deh di Tegal Alun. Area ini dipenuhi dengan hamparan bunga edelweiss yang indah. Dari Tegal Alun sudah dekat sampai ke puncak.", 
+        "line": 66, 
+        "range": [
+            4420, 
+            4552
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4441, 
+                    4451
+                ], 
+                "name": "Tegal Alun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4520, 
+                    4530
+                ], 
+                "name": "Tegal Alun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tegal Alun \u2013 Puncak Gunung (1 jam)", 
+        "line": 68, 
+        "range": [
+            4554, 
+            4589
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4562, 
+                    4572
+                ], 
+                "name": "Tegal Alun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4582, 
+                    4588
+                ], 
+                "name": "Gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Menurut saya sih, tidak perlu sampai puncak. Dari Tegal Alun masih harus jalan sekitar 1 jam.", 
+        "line": 70, 
+        "range": [
+            4591, 
+            4683
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4648, 
+                    4658
+                ], 
+                "name": "Tegal Alun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sampai puncak juga tidak ada view yang bagus, sekelilingnya cuma pohon-pohon saja seperti di tengah hutan.", 
+        "line": 72, 
+        "range": [
+            4685, 
+            4790
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Seingat saya setelah Tegal Alun ada sebuah lembah dengan aliran sungai yang mengalir. Spot di sini cukup bagus dan berkesan bagi saya.", 
+        "line": 74, 
+        "range": [
+            4792, 
+            4925
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4793, 
+                    4798
+                ], 
+                "name": "hutan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4822, 
+                    4832
+                ], 
+                "name": "Tegal Alun"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4865, 
+                    4871
+                ], 
+                "name": "sungai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penutup", 
+        "line": 76, 
+        "range": [
+            4927, 
+            4933
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekarang kamu mengertikan kenapa Gunung Papandayan adalah gunung favorit saya? Lokasinya tidak jauh dari Jakarta atau Bandung. Pemandangannya juga bervariasi, ada kawah, hutan mati, dan juga hamparan bunga edelweiss.", 
+        "line": 78, 
+        "range": [
+            4935, 
+            5150
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4979, 
+                    4996
+                ], 
+                "name": "Gunung Papandayan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5004, 
+                    5010
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5051, 
+                    5058
+                ], 
+                "name": "Jakarta"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5064, 
+                    5071
+                ], 
+                "name": "Bandung"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5109, 
+                    5114
+                ], 
+                "name": "kawah"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5116, 
+                    5126
+                ], 
+                "name": "hutan mati"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itulah catatan pendakian Gunung Papandayan lengkap dengan jalur pendakian dan itinerary selama 2 hari 1 malam. Pernahkah kamu mendaki Gunung Papandayan? Bagaimana pengalamanmu? Share di kolom komentar ya!", 
+        "line": 80, 
+        "range": [
+            5152, 
+            5355
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5189, 
+                    5206
+                ], 
+                "name": "Gunung Papandayan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5222, 
+                    5227
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5298, 
+                    5315
+                ], 
+                "name": "Gunung Papandayan"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2616 @@
+[
+    {
+        "text": "April 20, 2021  Catatan Pendakian Gunung Rinjani Via Sembalun Turun Senaru", 
+        "line": 0, 
+        "range": [
+            1, 
+            74
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    34, 
+                    48
+                ], 
+                "name": "Gunung Rinjani"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    53, 
+                    74
+                ], 
+                "name": "Sembalun Turun Senaru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sudah lama saya memiliki keinginan untuk mendaki Gunung Rinjani. Akhirnya kesempatan tersebut datang juga. Baac pengalaman saya menelusuri jalur pendakian Gunung Rinjani via Sembalun dan turun lewat Senaru.", 
+        "line": 2, 
+        "range": [
+            76, 
+            281
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    125, 
+                    139
+                ], 
+                "name": "Gunung Rinjani"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    215, 
+                    220
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    231, 
+                    245
+                ], 
+                "name": "Gunung Rinjani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    250, 
+                    258
+                ], 
+                "name": "Sembalun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    275, 
+                    281
+                ], 
+                "name": "Senaru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekilas tentang Gunung Rinjani", 
+        "line": 4, 
+        "range": [
+            283, 
+            312
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Rinjani adalah salah satu gunung tertinggi di Indonesia setelah Gunung Jayawijaya dan Gunung Kerinci.", 
+        "line": 6, 
+        "range": [
+            314, 
+            421
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    316, 
+                    330
+                ], 
+                "name": "Gunung Rinjani"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    349, 
+                    355
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    369, 
+                    378
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    387, 
+                    404
+                ], 
+                "name": "Gunung Jayawijaya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Rinjani memiliki ketinggian 3,726 meter di atas permukaan laut.", 
+        "line": 8, 
+        "range": [
+            423, 
+            492
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    426, 
+                    440
+                ], 
+                "name": "Gunung Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung ini sangat terkenal karena pemandangannya yang luar biasa indah. Terutama Danau Segara Anak dan juga Gunung Batu Jari yang lebih sering disebut sebagai Gunung Anak Rinjani.", 
+        "line": 10, 
+        "range": [
+            494, 
+            672
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    498, 
+                    504
+                ], 
+                "name": "Gunung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    579, 
+                    596
+                ], 
+                "name": "Danau Segara Anak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    606, 
+                    622
+                ], 
+                "name": "Gunung Batu Jari"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, dalam trip ini saya merencanakan liburan hemat selama sebulan start dari Surabaya \u2013 Bali \u2013 Lombok.", 
+        "line": 12, 
+        "range": [
+            674, 
+            780
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    757, 
+                    765
+                ], 
+                "name": "Surabaya"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    768, 
+                    772
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    775, 
+                    781
+                ], 
+                "name": "Lombok"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Karena saya orangnya memang senang naik gunung, sekalian saja naik Gunung Batur, Gunung Agung, dan Gunung Rinjani.", 
+        "line": 14, 
+        "range": [
+            782, 
+            895
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    824, 
+                    830
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    851, 
+                    863
+                ], 
+                "name": "Gunung Batur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    865, 
+                    877
+                ], 
+                "name": "Gunung Agung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Update April 2021: Pendakian Gunung Rinjani telah dibuka kembali. Untuk melakukan pendakian lakukan dulu pendaftaran secara online melalui situs resmi taman nasional atau melalui aplikasi eRinjani.", 
+        "line": 16, 
+        "range": [
+            897, 
+            1093
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    929, 
+                    943
+                ], 
+                "name": "Gunung Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara Menuju basecamp Gunung Rinjani via Sembalun", 
+        "line": 18, 
+        "range": [
+            1095, 
+            1142
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1111, 
+                    1119
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1120, 
+                    1134
+                ], 
+                "name": "Gunung Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Rinjani terletak di Lombok, jadi kalau kamu berangkat dari kota lain bisa naik pesawat langsung ke Mataram.", 
+        "line": 20, 
+        "range": [
+            1144, 
+            1257
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1149, 
+                    1163
+                ], 
+                "name": "Gunung Rinjani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1176, 
+                    1182
+                ], 
+                "name": "Lombok"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1215, 
+                    1219
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1235, 
+                    1242
+                ], 
+                "name": "pesawat"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di bandara, bisa naik bus Damri ke Terminal Mandalika (1 jam), kemudian dilanjutkan dengan elf ke Sembalun (1 jam).", 
+        "line": 22, 
+        "range": [
+            1259, 
+            1388
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1283, 
+                    1290
+                ], 
+                "name": "bandara"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1302, 
+                    1311
+                ], 
+                "name": "bus Damri"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1315, 
+                    1333
+                ], 
+                "name": "Terminal Mandalika"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1371, 
+                    1374
+                ], 
+                "name": "elf"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1378, 
+                    1386
+                ], 
+                "name": "Sembalun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kebetulan saya berangkatnya dari Bali menggunakan motor. Saya dan beberapa teman naik motor sampai ke Pelabuhan Padang Bai dan membeli tiket untuk menyebrang ke Pelabuhan Lembar di Mataram menggunakan kapal feri.", 
+        "line": 24, 
+        "range": [
+            1390, 
+            1601
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1430, 
+                    1434
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1447, 
+                    1452
+                ], 
+                "name": "motor"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1483, 
+                    1488
+                ], 
+                "name": "motor"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1499, 
+                    1519
+                ], 
+                "name": "Pelabuhan Padang Bai"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1558, 
+                    1574
+                ], 
+                "name": "Pelabuhan Lembar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1578, 
+                    1585
+                ], 
+                "name": "Mataram"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket kapal feri terbaru untuk menyebrang dari Pelabuhan Padang Bai menuju Pelabuhan Lembar adalah Rp 57,000 (ekonomi dewasa), Rp 146,000 (sepeda motor), dan Rp 917,000 (mobil sedan).", 
+        "line": 26, 
+        "range": [
+            1603, 
+            1791
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1623, 
+                    1633
+                ], 
+                "name": "kapal feri"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1664, 
+                    1684
+                ], 
+                "name": "Pelabuhan Padang Bai"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1692, 
+                    1708
+                ], 
+                "name": "Pelabuhan Lembar"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1756, 
+                    1768
+                ], 
+                "name": "sepeda motor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 10 pagi kami naik kapal dari Pelabuhan Padang Bai, sekitar jam 3 sore baru sampai di Pelabuhan Lembar, kemudian lanjut lagi motoran sekitar sejam sampai kota Mataram.", 
+        "line": 28, 
+        "range": [
+            1793, 
+            1962
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1824, 
+                    1829
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1835, 
+                    1855
+                ], 
+                "name": "Pelabuhan Padang Bai"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1891, 
+                    1907
+                ], 
+                "name": "Pelabuhan Lembar"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1930, 
+                    1935
+                ], 
+                "name": "motor"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Mataram kami sudah janjian sama teman Mapala Handayani. Pas datangnya lagi bulan puasa, jadi teman-teman mapala mengundang kamu untuk berbuka bersama.", 
+        "line": 30, 
+        "range": [
+            1964, 
+            2116
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1977, 
+                    1984
+                ], 
+                "name": "Mataram"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya juga janjian sama seorang pendaki asal Amerika yang akan mendaki Gunung Rinjani juga. Namanya Micah, badannnya tinggi besar dan kuat. Dia lagi traveling di Indonesia juga dan hobi naik gunung di Indonesia.", 
+        "line": 32, 
+        "range": [
+            2118, 
+            2327
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2173, 
+                    2180
+                ], 
+                "name": "Amerika"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2199, 
+                    2213
+                ], 
+                "name": "Gunung Rinjani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2290, 
+                    2299
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2319, 
+                    2325
+                ], 
+                "name": "gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Keesokan harinya, setelah membeli ransum makanan dan packing carrier, kami menggunakan angkot menuju ke Terminal Mandalika dan naik elf sampai ke pintu masuk Sembalun.", 
+        "line": 34, 
+        "range": [
+            2329, 
+            2495
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2329, 
+                    2338
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2428, 
+                    2434
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2445, 
+                    2463
+                ], 
+                "name": "Terminal Mandalika"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2473, 
+                    2476
+                ], 
+                "name": "elf"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur pendakian Gunung Rinjani via Sembalun", 
+        "line": 36, 
+        "range": [
+            2497, 
+            2539
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2499, 
+                    2507
+                ], 
+                "name": "Sembalun"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2510, 
+                    2515
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2526, 
+                    2540
+                ], 
+                "name": "Gunung Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada dua jalur yang biasanya dilalui oleh pendaki, yaitu Sembalun dan Senaru.", 
+        "line": 38, 
+        "range": [
+            2541, 
+            2616
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2545, 
+                    2553
+                ], 
+                "name": "Sembalun"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2563, 
+                    2568
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendakian Gunung Rinjani melewati jalur Sembalun lebih ke perbukitan dengan hamparan ilalang yang luas sedangkan Senaru lebih ke hutan.", 
+        "line": 40, 
+        "range": [
+            2618, 
+            2752
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2624, 
+                    2630
+                ], 
+                "name": "Senaru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2643, 
+                    2657
+                ], 
+                "name": "Gunung Rinjani"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2667, 
+                    2672
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2673, 
+                    2681
+                ], 
+                "name": "Sembalun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2691, 
+                    2701
+                ], 
+                "name": "perbukitan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2746, 
+                    2752
+                ], 
+                "name": "Senaru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saran saya sih kalau mau puas lebih baik naik lewat jalur Sembalun dan turun lewat Senaru.", 
+        "line": 42, 
+        "range": [
+            2754, 
+            2843
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2762, 
+                    2767
+                ], 
+                "name": "hutan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2822, 
+                    2827
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2828, 
+                    2836
+                ], 
+                "name": "Sembalun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Alasannya, karena lewat Sembalun berarti kamu naik ke puncak dulu baru turun ke Danau Segara Anak dan turun lewat jalur lain yaitu Senaru.", 
+        "line": 44, 
+        "range": [
+            2845, 
+            2982
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2853, 
+                    2859
+                ], 
+                "name": "Senaru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2886, 
+                    2894
+                ], 
+                "name": "Sembalun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2916, 
+                    2922
+                ], 
+                "name": "puncak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2942, 
+                    2959
+                ], 
+                "name": "Danau Segara Anak"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    2976, 
+                    2981
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, ibaratnya susah-susah dahulu sampai puncak baru deh bisa istirahat di Danau Segara Anak.", 
+        "line": 46, 
+        "range": [
+            2984, 
+            3076
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2993, 
+                    2999
+                ], 
+                "name": "Senaru"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3043, 
+                    3049
+                ], 
+                "name": "puncak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebaliknya kalau kamu naik lewat Senaru, kamu harus turun ke Danau Segara Anak dulu, kemudian harus naik lagi ke Plawangan Sembalun dan ini jalurnya terjal, sulit, dan berbatu.", 
+        "line": 48, 
+        "range": [
+            3078, 
+            3253
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3130, 
+                    3136
+                ], 
+                "name": "Senaru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3158, 
+                    3175
+                ], 
+                "name": "Danau Segara Anak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3210, 
+                    3228
+                ], 
+                "name": "Plawangan Sembalun"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3237, 
+                    3245
+                ], 
+                "name": "jalurnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai Plawangan Sembalun harus naik lagi ke puncak. Bakalan lebih capek sih kalau lewat Senaru. Energi kamu akan terkuras sebelum naik ke puncak.", 
+        "line": 50, 
+        "range": [
+            3255, 
+            3408
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3290, 
+                    3308
+                ], 
+                "name": "Plawangan Sembalun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3328, 
+                    3334
+                ], 
+                "name": "puncak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3372, 
+                    3378
+                ], 
+                "name": "Senaru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Estimasi pendakian Gunung Rinjani via Sembalun", 
+        "line": 52, 
+        "range": [
+            3410, 
+            3455
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3422, 
+                    3428
+                ], 
+                "name": "puncak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, sekarang kita masuk ke itinerary pendakian Gunung Rinjani lewat jalur Sembalun turun Senaru. Rombongan saya berjumlah 6 orang.", 
+        "line": 54, 
+        "range": [
+            3457, 
+            3587
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3469, 
+                    3477
+                ], 
+                "name": "Sembalun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3527, 
+                    3541
+                ], 
+                "name": "Gunung Rinjani"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3548, 
+                    3553
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3554, 
+                    3562
+                ], 
+                "name": "Sembalun"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3569, 
+                    3575
+                ], 
+                "name": "Senaru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Total pendakian 5 hari 4 malam, sama seperti ketika saya naik Gunung Argopuro. Sebenarnya bisa lebih singkat tapi kami lebih santai juga jalannya.", 
+        "line": 56, 
+        "range": [
+            3589, 
+            3734
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3674, 
+                    3689
+                ], 
+                "name": "Gunung Argopuro"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut adalah estimasi pendakian Gunung Rinjani via Sembalun dan turun Senaru:", 
+        "line": 58, 
+        "range": [
+            3736, 
+            3814
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3794, 
+                    3808
+                ], 
+                "name": "Gunung Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: Basecamp Sembalun \u2013 Pos 3", 
+        "line": 60, 
+        "range": [
+            3816, 
+            3849
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3832, 
+                    3838
+                ], 
+                "name": "Senaru"
+            }
+        ]
+    }, 
+    {
+        "text": "12.00 \u2013 13.30 (1.5 jam) : Sembalun \u2013 Pos 1", 
+        "line": 61, 
+        "range": [
+            3850, 
+            3895
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3868, 
+                    3873
+                ], 
+                "name": "Pos 3"
+            }
+        ]
+    }, 
+    {
+        "text": "13.30 \u2013 14.15 (45 menit): Pos 1 \u2013 Pos 2", 
+        "line": 62, 
+        "range": [
+            3896, 
+            3938
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3900, 
+                    3908
+                ], 
+                "name": "Sembalun"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3911, 
+                    3916
+                ], 
+                "name": "Pos 1"
+            }
+        ]
+    }, 
+    {
+        "text": "14.15 \u2013 15.30 (75 menit): Pos 2 \u2013 Pos 3", 
+        "line": 63, 
+        "range": [
+            3939, 
+            3981
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3943, 
+                    3948
+                ], 
+                "name": "Pos 1"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3951, 
+                    3956
+                ], 
+                "name": "Pos 2"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 64, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tepat jam 12 siang kami sampai di Desa Sembalun. Saya kurang tau mulainya darimana tapi kata teman yang juga nemeni jadi guide kami bilang kalau kami motong jalur biar lebih singkat.", 
+        "line": 65, 
+        "range": [
+            3983, 
+            4164
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3983, 
+                    3988
+                ], 
+                "name": "Pos 2"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3991, 
+                    3996
+                ], 
+                "name": "Pos 3"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4032, 
+                    4045
+                ], 
+                "name": "Desa Sembalun"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4155, 
+                    4160
+                ], 
+                "name": "jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 66, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur dari Sembalun cukup landai dengan hamparan rumput di perbukitan yang luas. Spot mata air cukup banyak, hampir semua pos ada tapi yang bersih ada di pos 3. Sampai di pos 3 kami nge-camp semalam.", 
+        "line": 67, 
+        "range": [
+            4166, 
+            4364
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4182, 
+                    4187
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4193, 
+                    4201
+                ], 
+                "name": "Sembalun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4241, 
+                    4251
+                ], 
+                "name": "perbukitan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4268, 
+                    4276
+                ], 
+                "name": "mata air"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4304, 
+                    4307
+                ], 
+                "name": "pos"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4336, 
+                    4341
+                ], 
+                "name": "pos 3"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4353, 
+                    4358
+                ], 
+                "name": "pos 3"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 68, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: Pos 3 \u2013 Plawangan Sembalun", 
+        "line": 69, 
+        "range": [
+            4366, 
+            4400
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4390, 
+                    4395
+                ], 
+                "name": "Pos 3"
+            }
+        ]
+    }, 
+    {
+        "text": "9.00 \u2013 13.00 (4 jam): Pos 3 \u2013 Plawangan Sembalun", 
+        "line": 70, 
+        "range": [
+            4401, 
+            4452
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4439, 
+                    4444
+                ], 
+                "name": "Pos 3"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 9 pagi kami melanjutkan perjalanan melewati Bukit Penyesalan. Jalurnya juga makin terjal. Dari namanya sudah bisa kebayang kan ya kenapa namanya disebut dengan Bukit Penyesalan.", 
+        "line": 72, 
+        "range": [
+            4454, 
+            4634
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4515, 
+                    4531
+                ], 
+                "name": "Bukit Penyesalan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4533, 
+                    4541
+                ], 
+                "name": "Jalurnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Katanya kalau sudah sampai disini bakalan menyesal karena rasanya kok gak habis ya tanjakannya, haha. Jam 1 siang kami sampai di Plawangan Sembalun.", 
+        "line": 74, 
+        "range": [
+            4636, 
+            4783
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Plawangan Sembalun adalah tempat dimana para pendaki nge-camp dan mempersiapkan diri sebelum naik ke puncak keesokan harinya. Kami beristirahat sambil menikmati pemandangan sunset dan Danau Segara Anak yang indah.", 
+        "line": 76, 
+        "range": [
+            4785, 
+            4997
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4800, 
+                    4818
+                ], 
+                "name": "Plawangan Sembalun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4901, 
+                    4907
+                ], 
+                "name": "puncak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3: Summit attack \u2013 Danau Segara Anak", 
+        "line": 78, 
+        "range": [
+            4999, 
+            5040
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "2.00 \u2013 6.30 (4.5 jam) : Plawangan Sembalun \u2013 Puncak", 
+        "line": 79, 
+        "range": [
+            5041, 
+            5095
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "8.00 \u2013 10.00 (2 Jam) : Puncak \u2013 Plawangan Sembalun", 
+        "line": 80, 
+        "range": [
+            5096, 
+            5149
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5101, 
+                    5107
+                ], 
+                "name": "Puncak"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5131, 
+                    5137
+                ], 
+                "name": "Puncak"
+            }
+        ]
+    }, 
+    {
+        "text": "13.00 \u2013 16.00 (3 jam) : Plawangan Sembalun \u2013 Danau Segara Anak", 
+        "line": 81, 
+        "range": [
+            5150, 
+            5215
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5183, 
+                    5201
+                ], 
+                "name": "Plawangan Sembalun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 82, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tibalah saatnya untuk naik ke puncak. Beruntung sekali pada malam itu bulan purnama bersinar terang. Cahayanya memantul ke air danau dan danaunya terlihat bersinar. Luar biasa indah!", 
+        "line": 83, 
+        "range": [
+            5217, 
+            5398
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5253, 
+                    5259
+                ], 
+                "name": "puncak"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5350, 
+                    5355
+                ], 
+                "name": "danau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5360, 
+                    5368
+                ], 
+                "name": "danaunya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 2 pagi kami memulai pendakian ke puncak. Saya tetap semangat berjalan selangkah demi selangkah walaupun rasanya capek.", 
+        "line": 85, 
+        "range": [
+            5400, 
+            5521
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5444, 
+                    5450
+                ], 
+                "name": "puncak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalurnya berpasir sehingga tiap melangkah pasti merosot agak turun, tapi tidak separah Gunung Semeru.", 
+        "line": 87, 
+        "range": [
+            5523, 
+            5623
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    5531, 
+                    5539
+                ], 
+                "name": "Jalurnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 88, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya jam 6.30 pagi saya sampai ke puncak Gunung Rinjani. Pas banget mataharinya mulai terbit. Rasa haru, bangga, dan kagum ketika sampai puncak memenuhi hati saya.", 
+        "line": 89, 
+        "range": [
+            5625, 
+            5791
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5672, 
+                    5678
+                ], 
+                "name": "puncak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5679, 
+                    5693
+                ], 
+                "name": "Gunung Rinjani"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5775, 
+                    5781
+                ], 
+                "name": "puncak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 90, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya berterima kasih kepada Tuhan karena diberi kekuatan untuk sampai ke puncak.", 
+        "line": 91, 
+        "range": [
+            5793, 
+            5872
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 92, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Si Micah, si teman saya dari Amrik lebih gila lagi, hanya 2.5 jam sudah sampai puncak. Di puncak gunung yang ada cuma turis luar negeri aja.", 
+        "line": 93, 
+        "range": [
+            5874, 
+            6013
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5876, 
+                    5882
+                ], 
+                "name": "puncak"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5964, 
+                    5970
+                ], 
+                "name": "puncak"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5975, 
+                    5981
+                ], 
+                "name": "puncak"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5982, 
+                    5988
+                ], 
+                "name": "gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 94, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mungkin karena bulan puasa jadi tidak banyak orang Indonesia yang melakukan pendakian Gunung Rinjani.", 
+        "line": 95, 
+        "range": [
+            6015, 
+            6115
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6078, 
+                    6087
+                ], 
+                "name": "Indonesia"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 96, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sampai puncak tentunya harus foto-foto walaupun harus menahan dingin. Kelihatan kawah Gunung Rinjani dan juga Danau Segara Anak.", 
+        "line": 97, 
+        "range": [
+            6117, 
+            6244
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6137, 
+                    6143
+                ], 
+                "name": "puncak"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6210, 
+                    6215
+                ], 
+                "name": "kawah"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6216, 
+                    6230
+                ], 
+                "name": "Gunung Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 98, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Menurut saya kurang cakep sih sunrise-nya. Soalnya cahaya matahari menyinari puncak sehingga ada bayangan di danau.", 
+        "line": 99, 
+        "range": [
+            6246, 
+            6360
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6337, 
+                    6343
+                ], 
+                "name": "puncak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 100, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami kembali turun ke Plawangan Sembalun, makan siang, beres-beres dan jam 1 siang turun langsung ke Danau Segara Anak.", 
+        "line": 101, 
+        "range": [
+            6362, 
+            6480
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6369, 
+                    6374
+                ], 
+                "name": "danau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6399, 
+                    6417
+                ], 
+                "name": "Plawangan Sembalun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 102, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Turunannya terjal dan berpasir, jadi harus ekstra hati-hati, apalagi ada beberapa pendaki yang sedang naik juga.", 
+        "line": 103, 
+        "range": [
+            6482, 
+            6593
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 104, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 4 sore kami sampai di Danau Segara Anak. Di dekat danau ada sumber air panas, jadi bisa mandi di sana. Rasanya segar banget mandi air panas apalagi setelah trekking seharian dengan view sekeliling yang indah.", 
+        "line": 105, 
+        "range": [
+            6595, 
+            6806
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6638, 
+                    6655
+                ], 
+                "name": "Danau Segara Anak"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6666, 
+                    6671
+                ], 
+                "name": "danau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6676, 
+                    6692
+                ], 
+                "name": "sumber air panas"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 106, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami nge-camp di pinggir danau sambil masak ikan segar langsung dari danau, ngobrol-ngobrol, dan beristirahat.", 
+        "line": 107, 
+        "range": [
+            6808, 
+            6917
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6851, 
+                    6856
+                ], 
+                "name": "danau"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6895, 
+                    6900
+                ], 
+                "name": "danau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 108, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 4: Danau Segara Anak \u2013 Senaru", 
+        "line": 109, 
+        "range": [
+            6919, 
+            6953
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "10.00 \u2013 11.00 (1 jam): Danau Segara Anak \u2013 Plawangan Senaru", 
+        "line": 110, 
+        "range": [
+            6954, 
+            7016
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6965, 
+                    6971
+                ], 
+                "name": "Senaru"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6995, 
+                    7012
+                ], 
+                "name": "Danau Segara Anak"
+            }
+        ]
+    }, 
+    {
+        "text": "11.00 \u2013 17.30 (6.5 jam): Plawangan Senaru \u2013 Basecamp Senaru", 
+        "line": 111, 
+        "range": [
+            7017, 
+            7079
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7057, 
+                    7073
+                ], 
+                "name": "Plawangan Senaru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 112, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pagi hari ketika saya keluar tenda, tidak habisnya saya terkagum-kagum dengan keindahan Danau Segara Anak di pagi hari.", 
+        "line": 113, 
+        "range": [
+            7081, 
+            7199
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7181, 
+                    7198
+                ], 
+                "name": "Danau Segara Anak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 114, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau ke Rinjani tapi enggak nge-camp di danau sih benar-benar sayang. Wajib harus nge-camp di Danau Segara Anak!", 
+        "line": 115, 
+        "range": [
+            7201, 
+            7313
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7223, 
+                    7230
+                ], 
+                "name": "Rinjani"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7255, 
+                    7260
+                ], 
+                "name": "danau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 116, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sayangnya kami tidak punya banyak waktu, jadi jam 10 pagi udah mulai harus melanjutkan perjalanan.", 
+        "line": 117, 
+        "range": [
+            7315, 
+            7412
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 118, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya pikir tinggal turunan eh tapi harus nanjak lagi sampai ke Plawangan Senaru. Bagian ini sih menurut saya paling capek.", 
+        "line": 119, 
+        "range": [
+            7414, 
+            7535
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7492, 
+                    7508
+                ], 
+                "name": "Plawangan Senaru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 120, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di Plawangan Senaru jalurnya tinggal turunan, lewat bagian berpasir kemudian masuk ke hutan. Jam 5.30 sore kami sampai di basecamp Jebah Gawa.", 
+        "line": 121, 
+        "range": [
+            7537, 
+            7693
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7571, 
+                    7587
+                ], 
+                "name": "Plawangan Senaru"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    7588, 
+                    7596
+                ], 
+                "name": "jalurnya"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    7654, 
+                    7659
+                ], 
+                "name": "hutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 122, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hanya ada sebuah warung milik sepasang kakek nenek. Karena tidak dapat mobil kembali ke Mataram, kami memutuskan untuk tidur di sini semalam.", 
+        "line": 123, 
+        "range": [
+            7695, 
+            7835
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7729, 
+                    7735
+                ], 
+                "name": "warung"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7783, 
+                    7788
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7800, 
+                    7807
+                ], 
+                "name": "Mataram"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 124, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 5: Basecamp Senaru \u2013 Mataram", 
+        "line": 125, 
+        "range": [
+            7837, 
+            7870
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 126, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Awalnya kami berencana untuk mengunjungi Air Terjun Sendang Gile dan Tiu Kelep tapi karena waktunya tidak cukup kami pun naik ojek dan kembali ke Mataram menggunakan elf.", 
+        "line": 127, 
+        "range": [
+            7872, 
+            8041
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7880, 
+                    7887
+                ], 
+                "name": "Mataram"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7930, 
+                    7953
+                ], 
+                "name": "Air Terjun Sendang Gile"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7958, 
+                    7967
+                ], 
+                "name": "Tiu Kelep"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8015, 
+                    8019
+                ], 
+                "name": "ojek"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8035, 
+                    8042
+                ], 
+                "name": "Mataram"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 128, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di Mataram, saya berbuka puasa lagi bersama teman-teman. Saya ditawari brem, sejenis minuman yang terbuat dari tapai.", 
+        "line": 129, 
+        "range": [
+            8043, 
+            8174
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8055, 
+                    8058
+                ], 
+                "name": "elf"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8079, 
+                    8086
+                ], 
+                "name": "Mataram"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 130, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penutup", 
+        "line": 131, 
+        "range": [
+            8176, 
+            8182
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 132, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Info tambahan tentang biaya:", 
+        "line": 133, 
+        "range": [
+            8184, 
+            8211
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 134, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Guide di Rp 270,000/hari", 
+        "line": 135, 
+        "range": [
+            8213, 
+            8236
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Porter Rp 250,000/hari.", 
+        "line": 136, 
+        "range": [
+            8237, 
+            8259
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket masuk Rp 5,000.", 
+        "line": 137, 
+        "range": [
+            8260, 
+            8286
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Transportasi naik angkot sampai Sembalun: Rp 100,000.", 
+        "line": 138, 
+        "range": [
+            8287, 
+            8339
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8329, 
+                    8335
+                ], 
+                "name": "angkot"
+            }
+        ]
+    }, 
+    {
+        "text": "Charter mobil: Rp 500,000.", 
+        "line": 139, 
+        "range": [
+            8340, 
+            8365
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8343, 
+                    8351
+                ], 
+                "name": "Sembalun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 140, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itulah sepenggal cerita pengalaman saya mendaki Gunung Rinjani di Lombok.", 
+        "line": 141, 
+        "range": [
+            8367, 
+            8439
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    8373, 
+                    8378
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 142, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Rinjani merupakan salah satu gunung terindah di Indonesia yang pernah saya daki.", 
+        "line": 143, 
+        "range": [
+            8441, 
+            8527
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8441, 
+                    8455
+                ], 
+                "name": "Gunung Rinjani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8459, 
+                    8465
+                ], 
+                "name": "Lombok"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8468, 
+                    8482
+                ], 
+                "name": "Gunung Rinjani"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    8504, 
+                    8510
+                ], 
+                "name": "gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 144, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mudah-mudahan teman-teman juga bisa melakukan pendakian Gunung Rinjani, jangan lupa mampir ke Danau Segara Anak yaa!", 
+        "line": 145, 
+        "range": [
+            8529, 
+            8644
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8613, 
+                    8627
+                ], 
+                "name": "Gunung Rinjani"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 146, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau mendaki Gunung Rinjani terlalu berat buat kamu, kamu bisa juga mendaki Gunung Papandayan yang juga cakep tapi jalurnya lebih cocok untuk pendaki pemula.", 
+        "line": 147, 
+        "range": [
+            8646, 
+            8803
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8651, 
+                    8668
+                ], 
+                "name": "Danau Segara Anak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8689, 
+                    8703
+                ], 
+                "name": "Gunung Rinjani"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8752, 
+                    8769
+                ], 
+                "name": "Gunung Papandayan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    8791, 
+                    8799
+                ], 
+                "name": "jalurnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 148, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah gimana? Menurut kamu mending mendaki Gunung Rinjani via Sembalun atau Senaru? Comment ya!", 
+        "line": 149, 
+        "range": [
+            8805, 
+            8897
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    8876, 
+                    8890
+                ], 
+                "name": "Gunung Rinjani"
+            }
+        ]
+    }
+]

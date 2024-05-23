@@ -1,0 +1,1609 @@
+[
+    {
+        "text": "April 28, 2022  Jalan Jalan Ke Cameron Highland Melihat Kebun Teh", 
+        "line": 0, 
+        "range": [
+            1, 
+            65
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    31, 
+                    47
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    56, 
+                    65
+                ], 
+                "name": "Kebun Teh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cameron Highland adalah sebuah destinasi wisata yang cukup populer di Malaysia, baik untuk turis lokal maupun mancanegara. Letaknya tidak terlalu jauh dari Kuala Lumpur. Hanya butuh 1 atau 2 hari untuk jalan-jalan ke Cameron Highland.", 
+        "line": 2, 
+        "range": [
+            67, 
+            300
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    67, 
+                    83
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    137, 
+                    145
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    223, 
+                    235
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    284, 
+                    300
+                ], 
+                "name": "Cameron Highland"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Udara yang sejuk dan kebun teh yang luas merupakan daya tarik utama dari dataran tinggi ini. Kalau kamu suka wisata alam, di area Cameron Highland banyak juga jungle trail yang bisa dicoba.", 
+        "line": 4, 
+        "range": [
+            302, 
+            490
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    324, 
+                    333
+                ], 
+                "name": "kebun teh"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    376, 
+                    390
+                ], 
+                "name": "dataran tinggi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    433, 
+                    449
+                ], 
+                "name": "Cameron Highland"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, jadi ceritanya saya jalan-jalan ke Cameron Highland karena kebetulan saya sempat tinggal di Kuala Lumpur. Demi menghemat biaya traveling, saya volunteer di sebuah hostel, tepatnya di area Bukit Bintang.", 
+        "line": 6, 
+        "range": [
+            492, 
+            698
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    534, 
+                    550
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    591, 
+                    603
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    662, 
+                    668
+                ], 
+                "name": "hostel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah meng-eksplor tempat wisata di Kuala Lumpur, akhirnya saya memutuskan untuk mengunjungi Cameron Highland. Saya juga banyak dengar dari tamu hostel yang bercerita tentang serunya jalan-jalan ke Cameron Highland.", 
+        "line": 8, 
+        "range": [
+            700, 
+            916
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    724, 
+                    737
+                ], 
+                "name": "tempat wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    741, 
+                    753
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    798, 
+                    814
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    850, 
+                    856
+                ], 
+                "name": "hostel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara menuju Cameron Highland dari Kuala Lumpur", 
+        "line": 10, 
+        "range": [
+            918, 
+            963
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    934, 
+                    950
+                ], 
+                "name": "Cameron Highland"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari Kuala Lumpur, kamu bisa naik bus dari Terminal Bersepadu Selatan (TBS) dengan tujuan Tanah Rata, Cameron Highland. Lama perjalanan sekitar 3.5 jam.", 
+        "line": 12, 
+        "range": [
+            965, 
+            1116
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    975, 
+                    987
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1004, 
+                    1007
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1013, 
+                    1045
+                ], 
+                "name": "Terminal Bersepadu Selatan (TBS)"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1060, 
+                    1070
+                ], 
+                "name": "Tanah Rata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1072, 
+                    1088
+                ], 
+                "name": "Cameron Highland"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadwal keberangkatan bus ada yang jam 9 pagi, 12 siang, 2 siang, dan 5 sore. Kamu bisa cek di sini untuk info jadwal bus yang terbaru.", 
+        "line": 14, 
+        "range": [
+            1118, 
+            1251
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1145, 
+                    1148
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1241, 
+                    1244
+                ], 
+                "name": "bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga tiket bus sekali jalan adalah RM 35. Sampai di sana, bisa juga ikutan half day tour Cameron Highland seharga RM 60. Untuk keluarga atau rombongan kecil berjumlah 4 orang bisa sewa taksi dengan harga RM 25/jam, minimal sewa 3 jam.", 
+        "line": 16, 
+        "range": [
+            1253, 
+            1487
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1272, 
+                    1275
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1350, 
+                    1366
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1446, 
+                    1451
+                ], 
+                "name": "taksi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rekomendasi penginapan di Cameron Highland", 
+        "line": 18, 
+        "range": [
+            1489, 
+            1530
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1509, 
+                    1519
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya menginap di Father\u2019s Guesthouse, sebuah penginapan yang nyaman, bersih, harganya pun tidak mahal. Karena seorang diri, saya memilih kamar dorm.", 
+        "line": 20, 
+        "range": [
+            1532, 
+            1681
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1558, 
+                    1577
+                ], 
+                "name": "Father\u2019s Guesthouse"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1586, 
+                    1596
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harganya cuma RM 25. Ada juga pilihan kamar privat untuk 2 orang seharga RM 120 per malam.", 
+        "line": 22, 
+        "range": [
+            1683, 
+            1772
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa rekomendasi penginapan lain di Cameron Highland adalah:", 
+        "line": 24, 
+        "range": [
+            1774, 
+            1837
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1804, 
+                    1814
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Traveller Bunker Hostel (start dari RM 50/malam untuk kamar dorm)", 
+        "line": 26, 
+        "range": [
+            1839, 
+            1903
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1849, 
+                    1872
+                ], 
+                "name": "Traveller Bunker Hostel"
+            }
+        ]
+    }, 
+    {
+        "text": "Heahtitude (start dari RM 128/malam untuk kamar pribadi)", 
+        "line": 27, 
+        "range": [
+            1904, 
+            1959
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1915, 
+                    1925
+                ], 
+                "name": "Heahtitude"
+            }
+        ]
+    }, 
+    {
+        "text": "Wogoxette Upstairs (start dari RM 220/malam untuk kamar pribadi)", 
+        "line": 28, 
+        "range": [
+            1960, 
+            2023
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1972, 
+                    1990
+                ], 
+                "name": "Wogoxette Upstairs"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman saya jalan-jalan ke Cameron Highland", 
+        "line": 30, 
+        "range": [
+            2025, 
+            2071
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Salah satu alasan saya pengen liburan ke Cameron Highland adalah untuk kabur dari rutinitas sehari-hari. Sudah hampir 2 bulan lamanya saya kerja di hostel, rasanya butuh istirahat sejenak.", 
+        "line": 32, 
+        "range": [
+            2073, 
+            2260
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2128, 
+                    2144
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2235, 
+                    2241
+                ], 
+                "name": "hostel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya juga bosan setiap day off cuma jalan-jalan di kota saja, makanya saya memutuskan untuk jalan-jalan ke Cameron Highland. Ya, hitung-hitung bisa menghirup udara segar.", 
+        "line": 34, 
+        "range": [
+            2262, 
+            2431
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2328, 
+                    2332
+                ], 
+                "name": "kota"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2384, 
+                    2400
+                ], 
+                "name": "Cameron Highland"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya cuma dapat day off 1 hari dalam seminggu. Setelah selesai shift jam 4 sore, saya langsung buru-buru ke Terminal Bersepadu Selatan untuk mengejar bus ke Tanah Rata.", 
+        "line": 36, 
+        "range": [
+            2433, 
+            2600
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2557, 
+                    2583
+                ], 
+                "name": "Terminal Bersepadu Selatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekitar jam 8 malam, saya sampai di Tanah Rata dan langsung menuju penginapan yang telah saya pesan sebelumnya lewat aplikasi booking hotel. Waktunya beristirahat.", 
+        "line": 38, 
+        "range": [
+            2602, 
+            2764
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2606, 
+                    2616
+                ], 
+                "name": "Tanah Rata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2655, 
+                    2665
+                ], 
+                "name": "Tanah Rata"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2686, 
+                    2696
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2753, 
+                    2758
+                ], 
+                "name": "hotel"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Keesokan harinya, saya bangun pagi dari tidur nyenyak dan bersiap-siap untuk menjelajahi Cameron Highland. Beruntung langitnya cerah, udaranya juga sejuk dan segar.", 
+        "line": 40, 
+        "range": [
+            2766, 
+            2929
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2873, 
+                    2889
+                ], 
+                "name": "Cameron Highland"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berkunjung ke BOH Tea Plantation", 
+        "line": 42, 
+        "range": [
+            2931, 
+            2962
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hari ini saya cuma mau bersantai saja di kebun teh, walaupun saya orangnya suka trekking tapi ya sekali-kali pengen duduk santai saja menikmati keindahan alam.", 
+        "line": 44, 
+        "range": [
+            2964, 
+            3122
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2964, 
+                    2982
+                ], 
+                "name": "BOH Tea Plantation"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3025, 
+                    3034
+                ], 
+                "name": "kebun teh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari penginapan, saya menuju terminal bus untuk naik bus ke BOH Tea Plantation yang merupakan kebuh teh terbesar di Cameron Highland.", 
+        "line": 46, 
+        "range": [
+            3124, 
+            3256
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3150, 
+                    3160
+                ], 
+                "name": "penginapan"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3174, 
+                    3186
+                ], 
+                "name": "terminal bus"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3198, 
+                    3201
+                ], 
+                "name": "bus"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3205, 
+                    3223
+                ], 
+                "name": "BOH Tea Plantation"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3239, 
+                    3248
+                ], 
+                "name": "kebuh teh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bus berhenti di sebuah pertigaan. Saya harus jalan masuk lagi sekitar 4 km atau sejam sampai ke BOH Tea Plantation. Sampai di sana, saya memesan cheesecake dan teh untuk menemani saya menikmati pemandangan kebun teh yang hijau.", 
+        "line": 48, 
+        "range": [
+            3258, 
+            3484
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3261, 
+                    3277
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3280, 
+                    3283
+                ], 
+                "name": "Bus"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3303, 
+                    3312
+                ], 
+                "name": "pertigaan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3376, 
+                    3394
+                ], 
+                "name": "BOH Tea Plantation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cameron Highland terletak di ketinggian 1,500 meter di atas permukaan laut sehingga cocok untuk area perkebunan. BOH Plantation (kebun teh terbesar dan tertua di Malaysia) ditemukan oleh seorang pebisnis dari Inggris yang bernama J.A Russel.", 
+        "line": 50, 
+        "range": [
+            3486, 
+            3726
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3486, 
+                    3495
+                ], 
+                "name": "kebun teh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3509, 
+                    3525
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3579, 
+                    3583
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3610, 
+                    3620
+                ], 
+                "name": "perkebunan"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3622, 
+                    3636
+                ], 
+                "name": "BOH Plantation"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3638, 
+                    3647
+                ], 
+                "name": "kebun teh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3671, 
+                    3679
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3718, 
+                    3725
+                ], 
+                "name": "Inggris"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saat ini BOH Plantation memiliki 2 area perkebunan teh, satu di Sungei Palas, yang satunya lagi di Fairlie. Perusahaan ini juga membangun pabrik pengemasan di dekat kebun untuk menjaga kesegaran dan kualitas teh.", 
+        "line": 52, 
+        "range": [
+            3728, 
+            3939
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3761, 
+                    3775
+                ], 
+                "name": "BOH Plantation"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3792, 
+                    3806
+                ], 
+                "name": "perkebunan teh"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3816, 
+                    3828
+                ], 
+                "name": "Sungei Palas"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3851, 
+                    3858
+                ], 
+                "name": "Fairlie"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3917, 
+                    3922
+                ], 
+                "name": "kebun"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pertama kali hitchhiking", 
+        "line": 54, 
+        "range": [
+            3941, 
+            3964
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiba-tiba muncul ide gila saya. Bagaimana kalau pulangnya saya hitchhike alias nebeng mobil orang lain saja. Karena sebenarnya balik ke terminal bus cukup sederhana, hanya ada satu jalan lurus saja.", 
+        "line": 56, 
+        "range": [
+            3966, 
+            4163
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4078, 
+                    4083
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4128, 
+                    4140
+                ], 
+                "name": "terminal bus"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya saya memberanikan diri, sebelumnya saya belum pernah sama sekali hitchhike jadinya grogi dan cemas. Saya menunggu di tepi jalan, mencoba memberhentikan mobil yang lewat.", 
+        "line": 58, 
+        "range": [
+            4165, 
+            4342
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4173, 
+                    4178
+                ], 
+                "name": "jalan"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4323, 
+                    4328
+                ], 
+                "name": "jalan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 59, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah 20 menit, akhirnya sebuah mobil berhenti menawarkan tebengan sampai ke jalan besar. Karena arah berbeda, si bapak yang baik hati cuma memberhentikan saya di spot yang pas.", 
+        "line": 60, 
+        "range": [
+            4344, 
+            4522
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4353, 
+                    4358
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4406, 
+                    4411
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4451, 
+                    4456
+                ], 
+                "name": "jalan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 61, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya lanjut hitchhike lagi, yang kedua cuma butuh 5 menit saja sampai dapat mobil lain. Di dalam mobil saya ngobrol sama tante yang kebetulan punya bisnis juga di area sekitar.", 
+        "line": 62, 
+        "range": [
+            4524, 
+            4699
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4629, 
+                    4634
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    4650, 
+                    4655
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ternyata bikin ketagihan juga. Totalnya saya hitchhike sebanyak 6 kali untuk sampai ke tujuan akhir saya yaitu terminal bus di Tanah Rata. Pengalaman saya jalan-jalan ke Cameron Highland makin seru dengan hitchhiking, hehe.", 
+        "line": 64, 
+        "range": [
+            4701, 
+            4923
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4842, 
+                    4854
+                ], 
+                "name": "terminal bus"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4858, 
+                    4868
+                ], 
+                "name": "Tanah Rata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4901, 
+                    4917
+                ], 
+                "name": "Cameron Highland"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kegiatan lain yang bisa kamu lakukan di Cameron Highland", 
+        "line": 66, 
+        "range": [
+            4925, 
+            4980
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya banyak aktifitas lain yang bisa dilakukan di Cameron Highland. Karena tujuan saya cuma bersantai saja, saya hanya berkunjung ke BOH Tea Plantation. Kalau punya waktu lebih, kamu bisa coba beberapa kegiatan seru di Cameron Highland, yaitu:", 
+        "line": 68, 
+        "range": [
+            4982, 
+            5230
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4996, 
+                    5012
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5070, 
+                    5086
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5153, 
+                    5171
+                ], 
+                "name": "BOH Tea Plantation"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "1. Jungle trekking di Mossy Forest", 
+        "line": 70, 
+        "range": [
+            5232, 
+            5265
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5239, 
+                    5255
+                ], 
+                "name": "Cameron Highland"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Seperti yang saya sebutkan sebelumnya, di Cameron Highland banyak kegiatan jungle trekking yang bisa kamu lakukan. Salah satunya adalah Mossy Forest.", 
+        "line": 72, 
+        "range": [
+            5267, 
+            5415
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5287, 
+                    5299
+                ], 
+                "name": "Mossy Forest"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5343, 
+                    5359
+                ], 
+                "name": "Cameron Highland"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Katanya Mossy Forest adalah salah satu hutan paling tua yang masih ada di Malaysia. Kalau beruntung, kamu bisa melihat tanaman maupun hewan liar ketika trekking di hutan ini. Klik di sini untuk paket tour Mossy Forest.", 
+        "line": 74, 
+        "range": [
+            5417, 
+            5634
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5437, 
+                    5449
+                ], 
+                "name": "Mossy Forest"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5460, 
+                    5472
+                ], 
+                "name": "Mossy Forest"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5491, 
+                    5496
+                ], 
+                "name": "hutan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5526, 
+                    5534
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5616, 
+                    5621
+                ], 
+                "name": "hutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "2. Mendaki Gunung Brinchang", 
+        "line": 76, 
+        "range": [
+            5636, 
+            5662
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk mendaki Gunung Brinchang, kamu harus menuju Kota Brinchang terlebih dahulu. Lama pendakian sampai ke puncak sekitar 3-4 jam (satu arah).", 
+        "line": 78, 
+        "range": [
+            5664, 
+            5805
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5683, 
+                    5699
+                ], 
+                "name": "Gunung Brinchang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5715, 
+                    5731
+                ], 
+                "name": "Gunung Brinchang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5751, 
+                    5765
+                ], 
+                "name": "Kota Brinchang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa juga naik taksi sampai atas kalau memang tidak kuat mendaki. Gunung ini memiliki ketinggian 2,032 mdpl. Sebaiknya menyewa pemandu untuk melalukan pendakian.", 
+        "line": 80, 
+        "range": [
+            5807, 
+            5967
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    5860, 
+                    5865
+                ], 
+                "name": "taksi"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5911, 
+                    5917
+                ], 
+                "name": "Gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3. Trekking di sekitar kebun teh", 
+        "line": 82, 
+        "range": [
+            5969, 
+            6000
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, di sekitar Cameron Highland banyak jalur yang bisa kamu lewati untuk jalan-jalan atau trekking di sekitar kebun teh. Biasanya jalurnya ditandai dengan nomor tertentu.", 
+        "line": 84, 
+        "range": [
+            6002, 
+            6172
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6031, 
+                    6040
+                ], 
+                "name": "kebun teh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6058, 
+                    6074
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6082, 
+                    6087
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6153, 
+                    6162
+                ], 
+                "name": "kebun teh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa jalur bahkan memiliki spot yang asik untuk bersantai di air terjun. Tanyakan saja kepada staff penginapan untuk informasi tentang jalur di sekitar kebun teh.", 
+        "line": 86, 
+        "range": [
+            6174, 
+            6339
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6224, 
+                    6229
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6280, 
+                    6290
+                ], 
+                "name": "air terjun"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6319, 
+                    6329
+                ], 
+                "name": "penginapan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itulah pengalaman saya jalan-jalan ke Cameron Highland, Malaysia. Boleh nih, untuk kamu yang berencana liburan ke Malaysia dan mau coba wisata alam yang tidak jauh di Kuala Lumpur. Bisa masukin ke dalam itinerary saat traveling ke Kuala Lumpur juga.", 
+        "line": 88, 
+        "range": [
+            6341, 
+            6589
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    6371, 
+                    6380
+                ], 
+                "name": "kebun teh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6421, 
+                    6437
+                ], 
+                "name": "Cameron Highland"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6439, 
+                    6447
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6497, 
+                    6505
+                ], 
+                "name": "Malaysia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6550, 
+                    6562
+                ], 
+                "name": "Kuala Lumpur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pernah liburan ke Cameron Highland? Ceritakan pengalaman kamu di kolom komentar ya!", 
+        "line": 90, 
+        "range": [
+            6591, 
+            6673
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6614, 
+                    6626
+                ], 
+                "name": "Kuala Lumpur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6652, 
+                    6668
+                ], 
+                "name": "Cameron Highland"
+            }
+        ]
+    }
+]

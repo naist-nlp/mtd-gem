@@ -1,0 +1,1558 @@
+[
+    {
+        "text": "February 27, 2021   Catatan Pendakian Gunung Kerinci: Atap Sumatera", 
+        "line": 0, 
+        "range": [
+            1, 
+            67
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    38, 
+                    52
+                ], 
+                "name": "Gunung Kerinci"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    54, 
+                    67
+                ], 
+                "name": "Atap Sumatera"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Kerinci atau sering disebut dengan atap sumatera adalah gunung berapi tertinggi di Indonesia. Gunung Kerinci memiliki ketinggian 3,805 mdpl dengan jalur pendakian yang cukup menantang. Berikut catatan pendakian Gunung Kerinci saya, semoga bermanfaat!", 
+        "line": 2, 
+        "range": [
+            69, 
+            325
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    69, 
+                    83
+                ], 
+                "name": "Gunung Kerinci"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    111, 
+                    124
+                ], 
+                "name": "atap sumatera"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    132, 
+                    145
+                ], 
+                "name": "gunung berapi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    159, 
+                    168
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    170, 
+                    184
+                ], 
+                "name": "Gunung Kerinci"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    287, 
+                    301
+                ], 
+                "name": "Gunung Kerinci"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebenarnya ide untuk mendaki Gunung Kerinci spontan aja terbesit di pikiran saya. Kebetulan lagi dapat tiket pesawat promo ke Padang, jadi sekalian aja kali ya main ke Gunung Kerinci.", 
+        "line": 4, 
+        "range": [
+            327, 
+            509
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    357, 
+                    371
+                ], 
+                "name": "Gunung Kerinci"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    437, 
+                    444
+                ], 
+                "name": "pesawat"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    454, 
+                    460
+                ], 
+                "name": "Padang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    496, 
+                    510
+                ], 
+                "name": "Gunung Kerinci"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya harus cari teman karena saya cuma sendirian. Bagi saya traveling sendiri sih oke-oke aja, tapi kalau hiking sebaiknya ada yang nemanin.", 
+        "line": 6, 
+        "range": [
+            511, 
+            650
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya coba cari-cari informasi dan kebetulan ketemu dengan komunitas backpacker Padang di facebook. Saya coba bertanya apakah ada yang mau naik Gunung Kerinci. Ketemulah dengan Bang Jamie yang juga tinggal di Sungai Penuh.", 
+        "line": 8, 
+        "range": [
+            652, 
+            872
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    734, 
+                    740
+                ], 
+                "name": "Padang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    798, 
+                    812
+                ], 
+                "name": "Gunung Kerinci"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara menuju basecamp Gunung Kerinci dari Padang", 
+        "line": 10, 
+        "range": [
+            874, 
+            920
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    890, 
+                    898
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    899, 
+                    913
+                ], 
+                "name": "Gunung Kerinci"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk menuju ke basecamp Gunung Kerinci terlebih dahulu bisa ke Sungai Penuh. Ada dua cara bisa lewat Jambi atau Padang. Saya memilih untuk lewat Padang, yep karena tiket promo.", 
+        "line": 12, 
+        "range": [
+            922, 
+            1098
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    943, 
+                    951
+                ], 
+                "name": "basecamp"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    952, 
+                    966
+                ], 
+                "name": "Gunung Kerinci"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    991, 
+                    1003
+                ], 
+                "name": "Sungai Penuh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1029, 
+                    1034
+                ], 
+                "name": "Jambi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1040, 
+                    1046
+                ], 
+                "name": "Padang"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1073, 
+                    1079
+                ], 
+                "name": "Padang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah mendarat di Bandara Minangkabau, saya dijemput oleh teman langsung ke agen travel di Ulak Karang untuk membeli tiket mobil ke Sungai Penuh.", 
+        "line": 14, 
+        "range": [
+            1100, 
+            1246
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1126, 
+                    1145
+                ], 
+                "name": "Bandara Minangkabau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1199, 
+                    1210
+                ], 
+                "name": "Ulak Karang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1231, 
+                    1236
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ada dua jadwal keberangkatan jam 9 pagi dan 7 malam. Harga untuk seorangnya RP 100,000 dengan waktu temput kurang lebih 7 jam.", 
+        "line": 16, 
+        "range": [
+            1248, 
+            1373
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pemandangan di perjalanan sampai Sungai Penuh wah, enggak bakal saya lupakan. Perbukitan hijau apalagi view Gunung Kerinci, perkebunan teh yang luas, benar-benar cakep.", 
+        "line": 18, 
+        "range": [
+            1375, 
+            1542
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1416, 
+                    1428
+                ], 
+                "name": "Sungai Penuh"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1461, 
+                    1471
+                ], 
+                "name": "Perbukitan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1491, 
+                    1505
+                ], 
+                "name": "Gunung Kerinci"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1507, 
+                    1517
+                ], 
+                "name": "perkebunan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sampai di Sungai Penuh saya langsung dijemput Bang Jamie dan menginap semalam di rumah Mbak Sandra, temannya Bang Jamie.", 
+        "line": 20, 
+        "range": [
+            1544, 
+            1663
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1563, 
+                    1575
+                ], 
+                "name": "Sungai Penuh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itinerary Pendakian Gunung Kerinci", 
+        "line": 22, 
+        "range": [
+            1665, 
+            1698
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pendakian Gunung Kerinci memakan waktu kurang lebih memakan waktu selama 3 hari atau 4 hari. Berikut kira-kira itinerary pendakian saya:", 
+        "line": 24, 
+        "range": [
+            1700, 
+            1835
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1721, 
+                    1735
+                ], 
+                "name": "Gunung Kerinci"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: Memulai pendakian dari Kersik Tuo", 
+        "line": 26, 
+        "range": [
+            1837, 
+            1876
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Oke, tim kami beranggotan 4 orang yaitu saya, Bang Jamie, Bento, dan Ucok. Dari Sungai Penuh kami naik \u201coto\u201d (bahasanya orang mereka untuk angkot).", 
+        "line": 28, 
+        "range": [
+            1878, 
+            2028
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1879, 
+                    1889
+                ], 
+                "name": "Kersik Tuo"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1971, 
+                    1983
+                ], 
+                "name": "Sungai Penuh"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    1995, 
+                    1998
+                ], 
+                "name": "oto"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dengan harga Rp 10,000 per orangnya. Kurang lebih sejam sampai ke gerbang pendakian.", 
+        "line": 30, 
+        "range": [
+            2030, 
+            2113
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    2030, 
+                    2036
+                ], 
+                "name": "angkot"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami memulai pendakian di malam hari. Saya kurang tau juga kenapa memilih untuk memulai pendakian di malam hari.", 
+        "line": 32, 
+        "range": [
+            2115, 
+            2226
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Apalagi, kalau baca blog orang lain tentang pendakian Gunung Kerinci, banyak yang bilang sebaiknya melewati pos ketiga sebelum malam. Karena kabarnya harimau sumatera masih berkeliaran.", 
+        "line": 34, 
+        "range": [
+            2228, 
+            2412
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2294, 
+                    2308
+                ], 
+                "name": "Gunung Kerinci"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2348, 
+                    2358
+                ], 
+                "name": "pos ketiga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rencana Bang Jamie bakal nge-camp di pos 2. Setau saya sih lebih aman untuk nge-camp di shelter 1. Tapi kata Bang Jamie lebih gampang ngisi air.", 
+        "line": 36, 
+        "range": [
+            2414, 
+            2557
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2464, 
+                    2469
+                ], 
+                "name": "pos 2"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2515, 
+                    2524
+                ], 
+                "name": "shelter 1"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah mengecek perlengkapan berdoa, kami berempat pun siap untuk mendaki di tengah kegelapan. Jujur saya cukup was-was, kalau beneran ada harimau gimana. Kalau diterkam kan tinggal nama donk.", 
+        "line": 38, 
+        "range": [
+            2559, 
+            2751
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pohon menyeramkan di jalur pendakian", 
+        "line": 40, 
+        "range": [
+            2753, 
+            2788
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya coba melihat sekeliling bisa gak ya manjat pohon. Tapi saya enggak pernah manjat pohon sebelumnya jadi khawatir juga. Di dalam hati saya cuma berdoa.", 
+        "line": 42, 
+        "range": [
+            2790, 
+            2943
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beberapa menit kemudian saya mendengar suara aneh yang seperti nafas binatang. Duh, saya takut setengah mati. Saya langsung bertanya ke Bang Jamie, suara apa itu? Dia cuma membalas, \u201cPura-pura aja enggak dengar\u201d.", 
+        "line": 44, 
+        "range": [
+            2945, 
+            3160
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 45, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Wah, dalam hati saya udah ngucapin kalimat doa menurut agama saya. Yang seharusnya cuma 15 menit ke pos 1 berasa sejam. Bang Jamie mengingatkan lagi, \u201cApapun yang kamu dengar atau lihat, tetap diam aja.\u201d", 
+        "line": 46, 
+        "range": [
+            3162, 
+            3368
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3276, 
+                    3281
+                ], 
+                "name": "pos 1"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 47, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lagi-lagi saya mendengar suara aneh lagi di pos 1. Yang lain tetap santai merokok. Saya cuma terdiam dan berdoa dalam hati.", 
+        "line": 48, 
+        "range": [
+            3370, 
+            3492
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3425, 
+                    3430
+                ], 
+                "name": "pos 1"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 49, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "15 menit lagi kami sampai di pos 2. Waktu menunjukkan pukul 8 malam. Akhirnya saya mulai tenang karena ngecamp. Setelah membangun tenda, masak, kami pun ngobrol santai aja.", 
+        "line": 50, 
+        "range": [
+            3494, 
+            3665
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3535, 
+                    3540
+                ], 
+                "name": "pos 2"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 51, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bang Jamie tidak mau ngasih tau saya. Dia cuma bilang harimau punya jalurnya sendiri. Mereka tidak akan datang dekat manusia. Jadi suara apa donk yang saya dengar?", 
+        "line": 52, 
+        "range": [
+            3667, 
+            3829
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3748, 
+                    3756
+                ], 
+                "name": "jalurnya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 53, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: Pos 2 \u2013 Shelter 3", 
+        "line": 54, 
+        "range": [
+            3831, 
+            3856
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3852, 
+                    3857
+                ], 
+                "name": "Pos 2"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 55, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Rencananya kami akan melanjutkan perjalanan jam 8 pagi. Biasalah, pastinya ngaret-ngaret. Timeline pendakian Gunung Kerinci di hari kedua:", 
+        "line": 56, 
+        "range": [
+            3858, 
+            3995
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3860, 
+                    3869
+                ], 
+                "name": "Shelter 3"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3980, 
+                    3994
+                ], 
+                "name": "Gunung Kerinci"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 57, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "10.30 \u2013 10.55 : pos 2 \u2013 pos 3", 
+        "line": 58, 
+        "range": [
+            3997, 
+            4029
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "11.15 \u2013 12.17 : pos 3 \u2013 shelter 1", 
+        "line": 59, 
+        "range": [
+            4030, 
+            4066
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4035, 
+                    4040
+                ], 
+                "name": "pos 3"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4057, 
+                    4062
+                ], 
+                "name": "pos 3"
+            }
+        ]
+    }, 
+    {
+        "text": "12.17 \u2013 13.15 : istirahat makan siang", 
+        "line": 60, 
+        "range": [
+            4067, 
+            4105
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "13.15 \u2013 16.30 : shelter 1 \u2013 shelter 2", 
+        "line": 61, 
+        "range": [
+            4106, 
+            4146
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4129, 
+                    4138
+                ], 
+                "name": "shelter 1"
+            }
+        ]
+    }, 
+    {
+        "text": "17.00 \u2013 18.30 : shelter 2 \u2013 shelter 3", 
+        "line": 62, 
+        "range": [
+            4147, 
+            4187
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4167, 
+                    4176
+                ], 
+                "name": "shelter 2"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4179, 
+                    4188
+                ], 
+                "name": "shelter 3"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 63, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur yang paling menantang dimulai dari shelter 1. Benar-benar harus manjat karena jalurnya yang sangat terjal. Dari shelter 2 ke 3 bahkan lebih parah lagi. Tanjakkan yang harus kami panjat setinggi dagu. Cuacanya sedikit berawan, terkadang hujan.", 
+        "line": 64, 
+        "range": [
+            4189, 
+            4436
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4190, 
+                    4195
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4231, 
+                    4240
+                ], 
+                "name": "shelter 1"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    4274, 
+                    4282
+                ], 
+                "name": "jalurnya"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4308, 
+                    4317
+                ], 
+                "name": "shelter 2"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 65, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mendaki bersama mereka teman baru dari Sungai Penuh benar-benar menyenangkan. Kami bercanda ria penuh tawa disepanjang pendakian.", 
+        "line": 66, 
+        "range": [
+            4438, 
+            4566
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4479, 
+                    4491
+                ], 
+                "name": "Sungai Penuh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 67, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sesampainya di shelter 3 anginnya makin kuat. Cuma ada satu tenda pendaki lain selain tenda kami. Saatnya beristirahat. Malamnya hujan deras disertai angin kencang. Untungnya keesokan harinya lumayan reda.", 
+        "line": 68, 
+        "range": [
+            4568, 
+            4772
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    4586, 
+                    4595
+                ], 
+                "name": "shelter 3"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 69, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3: Menuju puncak Gunung Kerinci", 
+        "line": 70, 
+        "range": [
+            4774, 
+            4808
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4792, 
+                    4798
+                ], 
+                "name": "puncak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 71, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cerita lama lagi, rencananya mau summit attack jam 4 pagi tapi karena ngaret kami memulai pendakian ke puncak jam 6.15. Matahari sudah kelihatan. Pemandangan Sungai Penuh dan Laut Cina Selatan terlihat dari kejauhan.", 
+        "line": 72, 
+        "range": [
+            4810, 
+            5025
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4918, 
+                    4924
+                ], 
+                "name": "puncak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4973, 
+                    4985
+                ], 
+                "name": "Sungai Penuh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4990, 
+                    5007
+                ], 
+                "name": "Laut Cina Selatan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 73, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya sempat khawatir karena melihat kabut yang tebal di puncak. Mudah-mudahan pas sampai atas cuacanya membaik.", 
+        "line": 74, 
+        "range": [
+            5027, 
+            5137
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5089, 
+                    5095
+                ], 
+                "name": "puncak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 75, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur pendakian menuju puncak Gunung Kerinci dipenuhi bebatuan tapi tidak telalu berpasir seperti Gunung Semeru ataupun Gunung Rinjani.", 
+        "line": 76, 
+        "range": [
+            5139, 
+            5273
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5169, 
+                    5175
+                ], 
+                "name": "puncak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5176, 
+                    5190
+                ], 
+                "name": "Gunung Kerinci"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5244, 
+                    5257
+                ], 
+                "name": "Gunung Semeru"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 77, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 7.45 kami sampai di Tugu Yuda dan berpapasan dengan pendaki lainnya yang baru turun dari puncak. Kata mereka di puncak cuma abu-abu aja yang kelihatan karena kabut tebal.", 
+        "line": 78, 
+        "range": [
+            5275, 
+            5448
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    5307, 
+                    5316
+                ], 
+                "name": "Tugu Yuda"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5376, 
+                    5382
+                ], 
+                "name": "puncak"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5399, 
+                    5405
+                ], 
+                "name": "puncak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 79, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mendengar itupun saya makin sedih. Ya sudahlah, gimanapun kondisi di puncak, yang penting saya sudah menginjak tanah tertinggi di Sumatera.", 
+        "line": 80, 
+        "range": [
+            5450, 
+            5588
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5528, 
+                    5534
+                ], 
+                "name": "puncak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 81, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tuhan memang memberkati saya! Jam 8.30 kami sampai ke puncak dan cuacanya cerah! Beruntungnya lagi anginnya bertiup ke arah lain sehingga belerangnya juga berpindah tidak mengarah ke kami.", 
+        "line": 82, 
+        "range": [
+            5590, 
+            5777
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5654, 
+                    5660
+                ], 
+                "name": "puncak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 83, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bang Jamie bilang kalau anginnya pindah ke arah kami, mungkin 5 menit aja bakal keracunan.", 
+        "line": 84, 
+        "range": [
+            5779, 
+            5868
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 85, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya kegirangan dan bersyukur bisa sampai di puncak gunung berapi tertinggi di Indonesia dengan selamat. Saatnya foto-foto. Kami juga sempat ngambil video sambil nari gangnam style. Dari puncak Gunung Kerinci terlihat jelas Danau Gunung Tujuh. Tidak hentinya saya berterima kasih kepada Tuhan karena diberikan kesempatan yang luar biasa ini.", 
+        "line": 86, 
+        "range": [
+            5870, 
+            6210
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5927, 
+                    5933
+                ], 
+                "name": "puncak"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    5934, 
+                    5947
+                ], 
+                "name": "gunung berapi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    5961, 
+                    5970
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6069, 
+                    6075
+                ], 
+                "name": "puncak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6076, 
+                    6089
+                ], 
+                "name": "Gunung Kerinc"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    6106, 
+                    6124
+                ], 
+                "name": "Danau Gunung Tujuh"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 87, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Akhirnya jam 2 siang kami turun dari shelter 3. Kaki Bang Ucok cedera saat penurunan sehingga kami harus berjalan dengan pelan.", 
+        "line": 88, 
+        "range": [
+            6212, 
+            6338
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6262, 
+                    6271
+                ], 
+                "name": "shelter 3"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 89, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jam 9 malam, kami memutuskan untuk camp lagi semalam di pos 3. Bang Jamie dan saya pergi untuk mengisi air tapi Bang Jamie kurang ingat dimana mata airnya.", 
+        "line": 90, 
+        "range": [
+            6340, 
+            6494
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    6410, 
+                    6415
+                ], 
+                "name": "pos 3"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 91, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kami masuk lumayan dalam ke hutan, jalurnya tertutup batang pohon lapuk. Karena jalurnya yang tidak terlalu jelas membuat kami kebingungan. Bang Jamie menyuruh saya untuk menunggu di satu spot, biar dia aja yang coba nyari jalan.", 
+        "line": 92, 
+        "range": [
+            6496, 
+            6724
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    6539, 
+                    6544
+                ], 
+                "name": "hutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 93, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lagi-lagi saya sendiri ditengah kegelapan. Pikiran saya sudah lari kemana-mana. Gimana kalau ada harimau, kalau ada hantu?", 
+        "line": 94, 
+        "range": [
+            6726, 
+            6847
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 95, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya mulai memanggil Bang Jamie dan setelah beberapa menit kemudian terdengar sahutan Bang Jamie. Ternyata mata airnya adalah sebuah sungai kecil. Kalau ada harimau sedang minum di sungai, gimana?", 
+        "line": 96, 
+        "range": [
+            6849, 
+            7044
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    6999, 
+                    7005
+                ], 
+                "name": "sungai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 97, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 4: Kembali ke gerbang pendakian", 
+        "line": 98, 
+        "range": [
+            7046, 
+            7080
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    7047, 
+                    7053
+                ], 
+                "name": "sungai"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 99, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lanjut perjalanan turun sampai gerbang dan pendakian pun berakhir. Kami nebeng mobil para petani dan kembali dan melanjutkan perjalanan ke Danau Gunung Tujuh.", 
+        "line": 100, 
+        "range": [
+            7082, 
+            7239
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7082, 
+                    7099
+                ], 
+                "name": "gerbang pendakian"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    7132, 
+                    7139
+                ], 
+                "name": "gerbang"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    7180, 
+                    7185
+                ], 
+                "name": "mobil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 101, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Danau Gunung Tujuh kami ngecamp lagi semalam sebelum kembali ke Sungai Penuh. Perjalanan belum berakhir, saya diajak mengunjungi Danau Kaco kemudian melanjutkan perjalanan saya keliling Sumatera Barat.", 
+        "line": 102, 
+        "range": [
+            7241, 
+            7444
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7264, 
+                    7282
+                ], 
+                "name": "Danau Gunung Tujuh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7328, 
+                    7340
+                ], 
+                "name": "Sungai Penuh"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7393, 
+                    7403
+                ], 
+                "name": "Danau Kaco"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 103, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penutup", 
+        "line": 104, 
+        "range": [
+            7446, 
+            7452
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 105, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itulah pengalaman dan catatan pendakian Gunung Kerinci saya. Terima kasih Bang Jamie, Ucok, dan Bento yang telah menemani pendakian ini. Terima kasih juga Mbak Sandra dan keluarga yang telah menyediakan tempat untuk bermalam.", 
+        "line": 106, 
+        "range": [
+            7454, 
+            7678
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    7516, 
+                    7530
+                ], 
+                "name": "Gunung Kerinci"
+            }
+        ]
+    }
+]

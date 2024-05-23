@@ -1,0 +1,1140 @@
+[
+    {
+        "text": "March 29, 2021  Pulau Cangke: Cinta Sejati Itu Nyata! (Tips Dan Biaya)", 
+        "line": 0, 
+        "range": [
+            1, 
+            70
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    16, 
+                    28
+                ], 
+                "name": "Pulau Cangke"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di  artikel ini saya akan membagikan pengalaman saya mengunjungi Pulau Cangke, cara dan biaya ke Pulau Cangke dari Makassar, dan kisah cinta di antara dua penghuni pulau ini.", 
+        "line": 2, 
+        "range": [
+            72, 
+            245
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    137, 
+                    149
+                ], 
+                "name": "Pulau Cangke"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    169, 
+                    181
+                ], 
+                "name": "Pulau Cangke"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    187, 
+                    195
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    236, 
+                    241
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekilas tentang Pulau Cangke", 
+        "line": 4, 
+        "range": [
+            247, 
+            274
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Indonesia memang dikenal sebagai negara kepulauan besar dengan keberagaman hayati laut. Beribu-ribu pulau dengan harta yang tersimpan.", 
+        "line": 5, 
+        "range": [
+            275, 
+            408
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    277, 
+                    286
+                ], 
+                "name": "Indonesia"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    317, 
+                    326
+                ], 
+                "name": "kepulauan"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    359, 
+                    363
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    377, 
+                    382
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 6, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jangankan emas, permata, atau mineral berharga lainnya. Harta sebenarnya ada di bawah laut yang harus dilindungi untuk generasi masa depan.", 
+        "line": 7, 
+        "range": [
+            410, 
+            548
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    499, 
+                    503
+                ], 
+                "name": "laut"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 8, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pulau Cangke adalah sebuah pulau yang terletak di Kepulauan Spermonde, di bagian barat kota Makassar. Di pulau ini saya mendapat pengalaman berharga yang tak terlupakan.", 
+        "line": 9, 
+        "range": [
+            550, 
+            718
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    554, 
+                    566
+                ], 
+                "name": "Pulau Cangke"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    581, 
+                    586
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    604, 
+                    623
+                ], 
+                "name": "Kepulauan Spermonde"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    641, 
+                    654
+                ], 
+                "name": "kota Makassar"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    659, 
+                    664
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 10, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kisah Cinta Daeng Abu dan Ibu Maidah", 
+        "line": 11, 
+        "range": [
+            720, 
+            755
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 12, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Lima puluh tahun yang lalu, Pulau Cangke hanyalah sebuah pulau kecil yang tak berpenghuni.", 
+        "line": 13, 
+        "range": [
+            757, 
+            846
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    791, 
+                    803
+                ], 
+                "name": "Pulau Cangke"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    820, 
+                    825
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 14, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hingga suatu saat seorang pria bernama Daeng Abu menemukan pulau ini untuk mengasingkan dirinya", 
+        "line": 15, 
+        "range": [
+            848, 
+            942
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    914, 
+                    919
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 16, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Daeng Abu menderita sebuah penyakit kusta yang bisa menular.", 
+        "line": 17, 
+        "range": [
+            944, 
+            1003
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 18, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dia tidak diterima oleh masyarakat setempat, sehingga harus meninggalkan pulau asalnya.", 
+        "line": 19, 
+        "range": [
+            1005, 
+            1091
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1087, 
+                    1092
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 20, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hanya ada satu orang yang setia mendampingi Daeng Abu tidak peduli bagaimana kondisinya.", 
+        "line": 21, 
+        "range": [
+            1093, 
+            1180
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 22, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ibu Maidah, istri Daeng Abu tinggal bersama di pulau terpencil ini dan menjaga Daeng Abu.", 
+        "line": 23, 
+        "range": [
+            1182, 
+            1270
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1240, 
+                    1245
+                ], 
+                "name": "pulau"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 24, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perlahan, Daeng Abu membangun segala sesuatu dari nol.", 
+        "line": 25, 
+        "range": [
+            1272, 
+            1325
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 26, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Beliau menanam pohon, membangun dermaga, dan juga pondok-pondok kecil.", 
+        "line": 27, 
+        "range": [
+            1327, 
+            1396
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1372, 
+                    1379
+                ], 
+                "name": "dermaga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 28, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sulit rasanya untuk percaya dengan yang namanya keajaiban ataupun cinta sejati.", 
+        "line": 29, 
+        "range": [
+            1398, 
+            1476
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 30, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagaimana Daeng Abu, seorang penderita kusta masih bisa menjalani hidupnya sampai sekarang apalagi di pulau terpencil.", 
+        "line": 31, 
+        "range": [
+            1478, 
+            1595
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 32, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kisah hidup Daeng Abu dan Ibu Maidah menjadi inspirasi banyak orang.", 
+        "line": 33, 
+        "range": [
+            1597, 
+            1664
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 34, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekarang makin ramai pengunjung yang datang untuk bertemu dengan suami-istri yang rendah hati ini.", 
+        "line": 35, 
+        "range": [
+            1666, 
+            1763
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 36, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Daeng Abu juga dapat penghargaan karena telah melindungi kelestarian Pulau Cangke.", 
+        "line": 37, 
+        "range": [
+            1765, 
+            1846
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 38, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Keindahan Terumbu Karang di Pulau Cangke", 
+        "line": 39, 
+        "range": [
+            1848, 
+            1887
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1852, 
+                    1864
+                ], 
+                "name": "Pulau Cangke"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 40, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Aktifitas yang wajib dilakukan ketika mengunjungi Pulau Cangke tentunya adalah snorkeling.", 
+        "line": 41, 
+        "range": [
+            1889, 
+            1978
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1895, 
+                    1907
+                ], 
+                "name": "Pulau Cangke"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1959, 
+                    1971
+                ], 
+                "name": "Pulau Cangke"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 42, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mirip seperti pulau kecil lainnya di Kepulauan Spermonde, Pulau Cangke memiliki pantai pasir putih.", 
+        "line": 43, 
+        "range": [
+            1980, 
+            2078
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2015, 
+                    2020
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2038, 
+                    2057
+                ], 
+                "name": "Kepulauan Spermonde"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2059, 
+                    2071
+                ], 
+                "name": "Pulau Cangke"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 44, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya memang pada dasarnya senang melihat terumbu karang dan keindahan bawah laut.", 
+        "line": 45, 
+        "range": [
+            2080, 
+            2160
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2081, 
+                    2099
+                ], 
+                "name": "pantai pasir putih"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Alasan kenapa saya ingin sekali ke Pulau Cangke adalah karena teman-teman freediver saya bilang kalau Pulau Cangke adalah spot paling bagus di Kepulauan Spermonde ini.", 
+        "line": 47, 
+        "range": [
+            2162, 
+            2328
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2178, 
+                    2182
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2220, 
+                    2232
+                ], 
+                "name": "Pulau Cangke"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2287, 
+                    2299
+                ], 
+                "name": "Pulau Cangke"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sesampainya di sana, saya langsung memasang snorkeling mask dan kaki katak mempersiapkan diri untuk eksplor. Teman saya tidak berbohong.", 
+        "line": 49, 
+        "range": [
+            2330, 
+            2465
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bagian paling bagus adalah di sisi kiri demaga ke arah timur. Di sisi kanan dermaga banyak karang meja atau table coral dimana-mana.", 
+        "line": 51, 
+        "range": [
+            2467, 
+            2598
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2532, 
+                    2538
+                ], 
+                "name": "demaga"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2568, 
+                    2575
+                ], 
+                "name": "dermaga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Visibility-nya juga bagus. Kebanyakan hard coral, tetapi di beberapa area juga ada soft coral juga.", 
+        "line": 53, 
+        "range": [
+            2600, 
+            2698
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 54, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Arusnya cukup normal, tidak terlalu kuat. Di bagian tertentu saya merasakan arus dingin bertemu dengan arus hangat.", 
+        "line": 55, 
+        "range": [
+            2700, 
+            2814
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 56, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jarak antara permukaan dan terumbu karang ketika lagi pasang sekitar 2 meter.", 
+        "line": 57, 
+        "range": [
+            2816, 
+            2892
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 58, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi kalau lagi surut jaraknya lumayan dekat. Pas snorkeling jangan kena karang ya, hati-hati juga dengan landak laut.", 
+        "line": 59, 
+        "range": [
+            2894, 
+            3011
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 60, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pengalaman saya pribadi snorkeling di pulau ini sangatlah luar biasa.", 
+        "line": 61, 
+        "range": [
+            3013, 
+            3081
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 62, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain melihat berbagai terumbu karang yang indah, saya juga melihat pelangi paling indah yang pernah saya lihat seumur hidup.", 
+        "line": 63, 
+        "range": [
+            3083, 
+            3208
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 64, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pelanginya besar sekali, bahkan tidak bisa tertangkap dengan kamera saking besarnnya.", 
+        "line": 65, 
+        "range": [
+            3210, 
+            3294
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 66, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sunsetnya juga bagus, walaupun agak berawan tetapi warna keemasannya jelas.", 
+        "line": 67, 
+        "range": [
+            3296, 
+            3370
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 68, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di malam hari saya dan teman-teman menghabiskan waktu di dermaga.", 
+        "line": 69, 
+        "range": [
+            3372, 
+            3436
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 70, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bulan purnama yang bersinar terang dan bintang kelap kelip. Angin sepoi-sepoi, suara laut yang tenang, dan ditemani lagu dan bernyanyi bersama.", 
+        "line": 71, 
+        "range": [
+            3438, 
+            3580
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3463, 
+                    3470
+                ], 
+                "name": "dermaga"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 72, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya benar-benar bersyukur bisa menikmati hidup yang tenang dan dikelilingi indahnya alam.", 
+        "line": 73, 
+        "range": [
+            3582, 
+            3671
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 74, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara ke Pulau Cangke dari Makassar", 
+        "line": 75, 
+        "range": [
+            3673, 
+            3706
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 76, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Untuk menuju Pulau Cangke, kamu bisa menyewa kapal dari Pelabuhan Paotere atau Pelabuhan Kayu Bangkoa di Makassar. Lama perjalanan ke Pulau Cangke sekitar 2.5 jam.", 
+        "line": 77, 
+        "range": [
+            3708, 
+            3870
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3718, 
+                    3730
+                ], 
+                "name": "Pulau Cangke"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3736, 
+                    3744
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3759, 
+                    3771
+                ], 
+                "name": "Pulau Cangke"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3791, 
+                    3796
+                ], 
+                "name": "kapal"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3802, 
+                    3819
+                ], 
+                "name": "Pelabuhan Paotere"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3825, 
+                    3847
+                ], 
+                "name": "Pelabuhan Kayu Bangkoa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3851, 
+                    3859
+                ], 
+                "name": "Makassar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 78, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Harga kapalnya Rp 1,000,000 pulang pergi termasuk menginap semalam.", 
+        "line": 79, 
+        "range": [
+            3872, 
+            3938
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3880, 
+                    3892
+                ], 
+                "name": "Pulau Cangke"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3917, 
+                    3922
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 80, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kapal nelayan ini muat sampai 30 orang. Sebaiknya cari teman-teman atau rombongan kalau biar harganya lebih murah juga.", 
+        "line": 81, 
+        "range": [
+            3940, 
+            4058
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    3980, 
+                    3993
+                ], 
+                "name": "Kapal nelayan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 82, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadi kalau kamu perginya rame-rame, maka biaya ke Pulau Cangke cuma Rp 50,000- Rp 100,000 per orang.", 
+        "line": 83, 
+        "range": [
+            4060, 
+            4159
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 84, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tapi ya itu, harus bawa makanan sendiri lagi ke Pulau Cangke.", 
+        "line": 85, 
+        "range": [
+            4161, 
+            4221
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 86, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di pulau ini tersedia beberapa pondok kecil untuk tidur. Bisa bawa tenda atau sleeping bag juga.", 
+        "line": 87, 
+        "range": [
+            4223, 
+            4318
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4251, 
+                    4263
+                ], 
+                "name": "Pulau Cangke"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4269, 
+                    4274
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    4297, 
+                    4309
+                ], 
+                "name": "pondok kecil"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 88, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Penutup", 
+        "line": 89, 
+        "range": [
+            4320, 
+            4326
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 90, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mengunjungi Pulau Cangke merupakan pengalaman yang sangat mengesankan bagi saya pribadi. Apalagi bisa snorkeling melihat terumbu karang yang indah.", 
+        "line": 91, 
+        "range": [
+            4328, 
+            4474
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4385, 
+                    4397
+                ], 
+                "name": "Pulau Cangke"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 92, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara untuk menuju Pulau Cangke juga tidak sulit, biaya-nya juga murah, bisa bertemu langsung dengan Daeng Abu dan Ibu Maidah.", 
+        "line": 93, 
+        "range": [
+            4476, 
+            4600
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4540, 
+                    4552
+                ], 
+                "name": "Pulau Cangke"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 94, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, jadi kapan nih kamu ke Pulau Cangke juga?", 
+        "line": 95, 
+        "range": [
+            4602, 
+            4647
+        ], 
+        "entities": []
+    }
+]

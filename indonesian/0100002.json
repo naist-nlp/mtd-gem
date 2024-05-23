@@ -1,0 +1,1421 @@
+[
+    {
+        "text": "February 18, 2021   Catatan Pendakian Gunung Bawakaraeng", 
+        "line": 0, 
+        "range": [
+            1, 
+            56
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    38, 
+                    56
+                ], 
+                "name": "Gunung Bawakaraeng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Bawakaraeng adalah sebuah gunung di Sulawesi Selatan, tepatnya terletak di wilayah Kabupaten Gowa. Gunung Bawakaraeng memiliki ketinggian 2,833  mdpl dan juga merupakan area hutan yang dilindungi bagian dari kawasan Lompobatang.", 
+        "line": 2, 
+        "range": [
+            58, 
+            292
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    58, 
+                    76
+                ], 
+                "name": "Gunung Bawakaraeng"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    91, 
+                    97
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    101, 
+                    117
+                ], 
+                "name": "Sulawesi Selatan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    148, 
+                    162
+                ], 
+                "name": "Kabupaten Gowa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    164, 
+                    182
+                ], 
+                "name": "Gunung Bawakaraeng"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    239, 
+                    244
+                ], 
+                "name": "hutan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    281, 
+                    292
+                ], 
+                "name": "Lompobatang"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Gunung Bawakaraeng sangat populer bagi para pendaki khususnya di daerah Sulawesi karena aksesnya yang mudah. Tidak jauh dari kota Makassar dan juga dekat dengan objek wisata Dataran Tinggi Malino.", 
+        "line": 4, 
+        "range": [
+            294, 
+            489
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    295, 
+                    313
+                ], 
+                "name": "Gunung Bawakaraeng"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    367, 
+                    375
+                ], 
+                "name": "Sulawesi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    420, 
+                    433
+                ], 
+                "name": "kota Makassar"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    456, 
+                    468
+                ], 
+                "name": "objek wisata"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    469, 
+                    490
+                ], 
+                "name": "Dataran Tinggi Malino"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara Menuju Gunung Bawakaraeng dari Makassar", 
+        "line": 6, 
+        "range": [
+            491, 
+            534
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    505, 
+                    523
+                ], 
+                "name": "Gunung Bawakaraeng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari kota Makassar bisa menggunakan mobil atau sepeda motor dengan tujuan Malino terus sampai Desa Lembana. Jarak dari kota Makassar ke Desa Lembana sekitar 75 km. Waktu temput sekitar 3-4 jam.", 
+        "line": 8, 
+        "range": [
+            536, 
+            728
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    544, 
+                    557
+                ], 
+                "name": "kota Makassar"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    575, 
+                    580
+                ], 
+                "name": "mobil"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    586, 
+                    598
+                ], 
+                "name": "sepeda motor"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    613, 
+                    619
+                ], 
+                "name": "Malino"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    633, 
+                    645
+                ], 
+                "name": "Desa Lembana"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    658, 
+                    671
+                ], 
+                "name": "kota Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    675, 
+                    687
+                ], 
+                "name": "Desa Lembana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau kamu mau menggunakan transpotasi umum, bisa naik pete-pete atau angkot ke stasiun Gowa. Kemudian, lanjutkan dengan kendaraan umum sampai Malino. Bilang saja sama supirnya untuk menurunkan kamu di Desa Lembana.", 
+        "line": 10, 
+        "range": [
+            730, 
+            944
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    761, 
+                    777
+                ], 
+                "name": "transpotasi umum"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    789, 
+                    798
+                ], 
+                "name": "pete-pete"
+            }, 
+            {
+                "type": "TRANS_NAME", 
+                "span": [
+                    804, 
+                    810
+                ], 
+                "name": "angkot"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    814, 
+                    826
+                ], 
+                "name": "stasiun Gowa"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    855, 
+                    869
+                ], 
+                "name": "kendaraan umum"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    877, 
+                    883
+                ], 
+                "name": "Malino"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau beruntung, kamu bisa tinggal di rumah penduduk sekitar dan memulai pendakian keesokan harinya.", 
+        "line": 12, 
+        "range": [
+            946, 
+            1045
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalur Pendakian Gunung Bawakaraeng", 
+        "line": 14, 
+        "range": [
+            1047, 
+            1080
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Waktu paling baik untuk mendaki Gunung Bawakaraeng adalah antara bulan Mei sampai September. Jalur yang paling populer dimulau dari Desa Lembana (ketinggian 1,400 mdpl).", 
+        "line": 16, 
+        "range": [
+            1082, 
+            1250
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1121, 
+                    1139
+                ], 
+                "name": "Gunung Bawakaraeng"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1182, 
+                    1187
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1221, 
+                    1233
+                ], 
+                "name": "Desa Lembana"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di jalur ini ada 10 pos pemberhentian, melewati pepohonan cemara yang indah sebelum memasuki hutan dengan vegetasi yang unik.", 
+        "line": 18, 
+        "range": [
+            1252, 
+            1376
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1263, 
+                    1268
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1280, 
+                    1297
+                ], 
+                "name": "pos pemberhentian"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1353, 
+                    1358
+                ], 
+                "name": "hutan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalurnya cukup landai, terkadang melintasi pohon yang jatuh sehingga harus sedikit merangkak maupun melompat untuk melewatinya.", 
+        "line": 20, 
+        "range": [
+            1378, 
+            1504
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1387, 
+                    1392
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Dari pos 6 ke 7 jalurnya didominasi dengan hutan lumut. Jalur paling panjang terletak diantara pos 7 dan 8. Jalurnya menurun dan banyak serangga berterbangan dengan bunyi berdengung.", 
+        "line": 22, 
+        "range": [
+            1506, 
+            1687
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1521, 
+                    1526
+                ], 
+                "name": "pos 6"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1532, 
+                    1537
+                ], 
+                "name": "jalur"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1559, 
+                    1570
+                ], 
+                "name": "hutan lumut"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1572, 
+                    1577
+                ], 
+                "name": "Jalur"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1611, 
+                    1616
+                ], 
+                "name": "pos 7"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1624, 
+                    1629
+                ], 
+                "name": "Jalur"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Setelah sampai di pos 8, sampailah di air terjun. Saat kabun turun, pemandangannya di air terjun kelihatan lebih indah. Di jalur pendakian Gunung Bawakaraeng, mata air cukup banyak.", 
+        "line": 24, 
+        "range": [
+            1689, 
+            1869
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1718, 
+                    1723
+                ], 
+                "name": "pos 8"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1738, 
+                    1748
+                ], 
+                "name": "air terjun"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1786, 
+                    1796
+                ], 
+                "name": "air terjun"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1823, 
+                    1838
+                ], 
+                "name": "jalur pendakian"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1839, 
+                    1857
+                ], 
+                "name": "Gunung Bawakaraeng"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1859, 
+                    1867
+                ], 
+                "name": "mata air"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mata air dapat ditemukan di pos 1, 3 , 5, 8, dan 10. Sesampainya di puncak, pemandangan indah pegunungan di Sulawesi akan menyambut kamu.", 
+        "line": 26, 
+        "range": [
+            1871, 
+            2007
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1883, 
+                    1891
+                ], 
+                "name": "Mata air"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1911, 
+                    1916
+                ], 
+                "name": "pos 1"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1951, 
+                    1957
+                ], 
+                "name": "puncak"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1977, 
+                    1987
+                ], 
+                "name": "pegunungan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1991, 
+                    1999
+                ], 
+                "name": "Sulawesi"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itinerary Pendakian Gunung Bawakaraeng", 
+        "line": 28, 
+        "range": [
+            2009, 
+            2046
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berikut itinerary pribadi saya ketika melakukan pendakian ke Gunung Bawakaraeng:", 
+        "line": 30, 
+        "range": [
+            2048, 
+            2127
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 1: Desa Lembana \u2013 Pos 5", 
+        "line": 32, 
+        "range": [
+            2129, 
+            2157
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Desa Lembana \u2013 Pos 1: 8.30 \u2013 9.30 (1 jam)", 
+        "line": 33, 
+        "range": [
+            2158, 
+            2202
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2166, 
+                    2171
+                ], 
+                "name": "Pos 5"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2172, 
+                    2184
+                ], 
+                "name": "Desa Lembana"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2187, 
+                    2192
+                ], 
+                "name": "Pos 1"
+            }
+        ]
+    }, 
+    {
+        "text": "Pos 1 \u2013 Pos 2: 9.45 \u2013 10.30 (45 menit)", 
+        "line": 34, 
+        "range": [
+            2203, 
+            2244
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2214, 
+                    2219
+                ], 
+                "name": "Pos 1"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2222, 
+                    2227
+                ], 
+                "name": "Pos 2"
+            }
+        ]
+    }, 
+    {
+        "text": "Pos 2 \u2013 Pos 3: 10.45 \u2013 11.00 (15 menit)", 
+        "line": 35, 
+        "range": [
+            2245, 
+            2287
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2253, 
+                    2258
+                ], 
+                "name": "Pos 2"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2261, 
+                    2266
+                ], 
+                "name": "Pos 3"
+            }
+        ]
+    }, 
+    {
+        "text": "Pos 3 \u2013 Pos 4: 11.10 \u2013 11.45 ( 35 menit)", 
+        "line": 36, 
+        "range": [
+            2288, 
+            2331
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2293, 
+                    2298
+                ], 
+                "name": "Pos 3"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2301, 
+                    2306
+                ], 
+                "name": "Pos 4"
+            }
+        ]
+    }, 
+    {
+        "text": "Pos 4 \u2013 Pos 5: 12.00 \u2013 13.00 (1 jam)", 
+        "line": 37, 
+        "range": [
+            2332, 
+            2371
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2334, 
+                    2339
+                ], 
+                "name": "Pos 4"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2342, 
+                    2347
+                ], 
+                "name": "Pos 5"
+            }
+        ]
+    }, 
+    {
+        "text": "Camping di Pos 5", 
+        "line": 38, 
+        "range": [
+            2372, 
+            2387
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2382, 
+                    2387
+                ], 
+                "name": "Pos 5"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 2: Pos 5 \u2013 Pos 10", 
+        "line": 40, 
+        "range": [
+            2389, 
+            2411
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2396, 
+                    2401
+                ], 
+                "name": "Pos 5"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2404, 
+                    2410
+                ], 
+                "name": "Pos 10"
+            }
+        ]
+    }, 
+    {
+        "text": "Pos 5 \u2013 Pos 6: 9.30 \u2013 10.30 (1 jam)", 
+        "line": 41, 
+        "range": [
+            2412, 
+            2450
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2419, 
+                    2424
+                ], 
+                "name": "Pos 6"
+            }
+        ]
+    }, 
+    {
+        "text": "Pos 6 \u2013 Pos 7: 10.45 \u2013 11.55 (70 menit)", 
+        "line": 42, 
+        "range": [
+            2451, 
+            2493
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2455, 
+                    2460
+                ], 
+                "name": "Pos 7"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2487, 
+                    2492
+                ], 
+                "name": "Pos 7"
+            }
+        ]
+    }, 
+    {
+        "text": "Pos 7 \u2013 Pos 8: 12.23 \u2013 14.10 (1.5 jam)", 
+        "line": 43, 
+        "range": [
+            2494, 
+            2535
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2495, 
+                    2500
+                ], 
+                "name": "Pos 8"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2526, 
+                    2531
+                ], 
+                "name": "Pos 8"
+            }
+        ]
+    }, 
+    {
+        "text": "Pos 8 \u2013 Pos 10: 15.37 \u2013 18.09 (2.5 jam)", 
+        "line": 44, 
+        "range": [
+            2536, 
+            2578
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Camping di pos 10", 
+        "line": 45, 
+        "range": [
+            2579, 
+            2595
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 46, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Day 3: Summit Attack \u2013 Kembali ke Basecamp", 
+        "line": 47, 
+        "range": [
+            2597, 
+            2640
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2619, 
+                    2627
+                ], 
+                "name": "Basecamp"
+            }
+        ]
+    }, 
+    {
+        "text": "Summit attack. Puncak terletak sekitar 15 menit dari pos 10", 
+        "line": 48, 
+        "range": [
+            2641, 
+            2699
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    2643, 
+                    2649
+                ], 
+                "name": "Puncak"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2681, 
+                    2687
+                ], 
+                "name": "pos 10"
+            }
+        ]
+    }, 
+    {
+        "text": "Turun dan kembali ke base camp", 
+        "line": 49, 
+        "range": [
+            2700, 
+            2729
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    2709, 
+                    2718
+                ], 
+                "name": "base camp"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 50, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ritual Haji di Gunung Bawakaraeng", 
+        "line": 51, 
+        "range": [
+            2731, 
+            2763
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2735, 
+                    2753
+                ], 
+                "name": "Gunung Bawakaraeng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nama Gunung Bawakaraeng memiliki arti yaitu Bawa yang berarti mulut dan Karaeng yang berarti Tuhan sehingga dijuluki sebagain \u201cSi Mulut Tuhan\u201d.", 
+        "line": 53, 
+        "range": [
+            2765, 
+            2911
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 54, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Masyarakat Sulawesi Selatan masih percaya dengan legenda yang berhubungan dengan cerita mistis yang diturunkan dari nenek moyang.", 
+        "line": 55, 
+        "range": [
+            2913, 
+            3041
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 56, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pada bulan-bulan haji, banyak orang yang akan mendaki Gunung Bawakaraeng. Mereka percaya jika mendaki gunung tersebut di saat-saat tertentu, sama denganpergi ke tanah suci di Mekkah.", 
+        "line": 57, 
+        "range": [
+            3043, 
+            3224
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3085, 
+                    3103
+                ], 
+                "name": "Gunung Bawakaraeng"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3133, 
+                    3139
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3192, 
+                    3202
+                ], 
+                "name": "tanah suci"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3206, 
+                    3212
+                ], 
+                "name": "Mekkah"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 58, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tradisi mendaki gunung dan juga melakukan ritual di puncak gunung saat Idul Adha atau sebelum puasa telah menjadi hal yang cukup fenomenal walaupun juga kontroversial bagi beberapa pihak.", 
+        "line": 59, 
+        "range": [
+            3226, 
+            3412
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3231, 
+                    3237
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3267, 
+                    3280
+                ], 
+                "name": "puncak gunung"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 60, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Mengunjungi Lembah Ramma", 
+        "line": 61, 
+        "range": [
+            3414, 
+            3437
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3416, 
+                    3428
+                ], 
+                "name": "Lembah Ramma"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 62, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di kaki Gunung Bawakaraeng terdapat sebuah lembah yang dikenal dengan nama Ramma. Lembah Ramma cocok bagi yang ingin menikmati kesunyian dan menghirup udara segar jauh dari kota.", 
+        "line": 63, 
+        "range": [
+            3439, 
+            3616
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3473, 
+                    3479
+                ], 
+                "name": "lembah"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3505, 
+                    3510
+                ], 
+                "name": "Ramma"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3512, 
+                    3524
+                ], 
+                "name": "Lembah Ramma"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3603, 
+                    3607
+                ], 
+                "name": "kota"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 64, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tentunya kamu harus ngecamp, tapi percayalah kalau kamu lebih suka trekking yang santai dan camping, harus datang ke Lembah Ramma.", 
+        "line": 65, 
+        "range": [
+            3618, 
+            3747
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3727, 
+                    3739
+                ], 
+                "name": "Lembah Ramma"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 66, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Cara menuju Lembah Ramma kurang lebih sama dengan rute menuju Gunung Bawakaraeng. Bedanya, setelah sampai di pos 1, ada pertigaan yang menuju ke Lembah Ramma.", 
+        "line": 67, 
+        "range": [
+            3749, 
+            3906
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3754, 
+                    3766
+                ], 
+                "name": "Lembah Ramma"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3804, 
+                    3822
+                ], 
+                "name": "Gunung Bawakaraeng"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3851, 
+                    3856
+                ], 
+                "name": "pos 1"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    3862, 
+                    3871
+                ], 
+                "name": "pertigaan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3887, 
+                    3899
+                ], 
+                "name": "Lembah Ramma"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 68, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ingat, safety first bukan puncak. Persiapkan peralatan hiking dan bawa pulang sampah sendiri.", 
+        "line": 69, 
+        "range": [
+            3908, 
+            4000
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3928, 
+                    3934
+                ], 
+                "name": "puncak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 70, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selain mendaki gunung ini, kamu bisa main juga ke beberapa pulau di sekitar Makassar seperti Pulau Samalona dan Kodingareng Keke, atau juga Pulau Cangke.", 
+        "line": 71, 
+        "range": [
+            4002, 
+            4154
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4012, 
+                    4018
+                ], 
+                "name": "gunung"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4056, 
+                    4061
+                ], 
+                "name": "pulau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4073, 
+                    4081
+                ], 
+                "name": "Makassar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4090, 
+                    4104
+                ], 
+                "name": "Pulau Samalona"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4109, 
+                    4125
+                ], 
+                "name": "Kodingareng Keke"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4137, 
+                    4149
+                ], 
+                "name": "Pulau Cangke"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 72, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Itulah beberapa tips dan juga informasi tentang pendakian Gunung Bawakaraeng yang bisa jadi patokan ketika ingin mendaki gunung tersebut.", 
+        "line": 73, 
+        "range": [
+            4156, 
+            4292
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    4210, 
+                    4228
+                ], 
+                "name": "Gunung Bawakaraeng"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    4273, 
+                    4279
+                ], 
+                "name": "gunung"
+            }
+        ]
+    }
+]

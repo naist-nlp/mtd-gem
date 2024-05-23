@@ -1,0 +1,581 @@
+[
+    {
+        "text": "June 4, 2021    Hasil Jepretan Foto Jalan-Jalan Ke Myanmar", 
+        "line": 0, 
+        "range": [
+            1, 
+            58
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    51, 
+                    58
+                ], 
+                "name": "Myanmar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebelumnya saya memang sudah sering mendengar banyak sekali traveler lain yang selalu menyebutkan kalau Myanmar itu asik untuk dijelajahi. Banyak yang bilang kalau sebaiknya cepat pergi ke Myanmar sebelum berubah menjadi moderen atau dikerubuni turis.", 
+        "line": 2, 
+        "range": [
+            60, 
+            310
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    164, 
+                    171
+                ], 
+                "name": "Myanmar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    249, 
+                    256
+                ], 
+                "name": "Myanmar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Bisa dibilang Myanmar adalah negara yang cukup baru membukakan diri pada wisatawan asing. Sehingga banyak yang penasaran dan ingin berkunjung ke negeri ini. Beruntungnya saya pernah traveling kesini jadi bisa share foto jalan-jalan ke Myanmar.", 
+        "line": 4, 
+        "range": [
+            312, 
+            554
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    327, 
+                    334
+                ], 
+                "name": "Myanmar"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    342, 
+                    348
+                ], 
+                "name": "negara"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    458, 
+                    464
+                ], 
+                "name": "negeri"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    548, 
+                    555
+                ], 
+                "name": "Myanmar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Foto ini diambil di dalam kendaraan umum ketika saya sedang dalam perjalanan menuju Golden Rock di Kyaikto. Saking penuhnya saya harus duduk bersempitan dengan penumpang lainnya. Jalanannya sempit dan tidak rata. Anehnya saya merasa happy seperti anak kecil yang naik wahana hiburan.", 
+        "line": 6, 
+        "range": [
+            556, 
+            838
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    584, 
+                    598
+                ], 
+                "name": "kendaraan umum"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    642, 
+                    653
+                ], 
+                "name": "Golden Rock"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    657, 
+                    664
+                ], 
+                "name": "Kyaikto"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    737, 
+                    747
+                ], 
+                "name": "Jalanannya"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Inilah suasana pagi hari di Bagan. Kereta kuda, sepeda motor, dan pejalan kaki melalui jalan untuk memulai hari yang baru.", 
+        "line": 8, 
+        "range": [
+            840, 
+            961
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    871, 
+                    876
+                ], 
+                "name": "Bagan"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    878, 
+                    889
+                ], 
+                "name": "Kereta kuda"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    891, 
+                    903
+                ], 
+                "name": "sepeda motor"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    930, 
+                    935
+                ], 
+                "name": "jalan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekelompok calon biarawan yang berjalan pulang ke biara setelah menerima makanan dari sedekah pagi. Setiap keluarga mengharapkan anak laki-lakinya untuk masuk ke biara dan belajar tentang agama Buddha.", 
+        "line": 10, 
+        "range": [
+            963, 
+            1163
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1017, 
+                    1022
+                ], 
+                "name": "biara"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1129, 
+                    1134
+                ], 
+                "name": "biara"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika mereka beranjak dewasa, mereka bisa memilih untuk meneruskan menjadi biarawan atau kembali menjadi orang biasa.", 
+        "line": 12, 
+        "range": [
+            1165, 
+            1282
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pas sedang terburu-buru mengendari e-bike ke candi untuk mengejar sunset, eh tiba-tiba segerombolan kerbau memperlambat saya. Wah, di Bagan bisa macet juga ya.", 
+        "line": 14, 
+        "range": [
+            1284, 
+            1442
+        ], 
+        "entities": [
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    1325, 
+                    1331
+                ], 
+                "name": "e-bike"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1335, 
+                    1340
+                ], 
+                "name": "candi"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1424, 
+                    1429
+                ], 
+                "name": "Bagan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tiga orang pengembala juga kewalahan menertipkan kerbau-kerbau ini. Mereka berteriak, mengejar kerbau sampai semak-semak. Saya tidak membantu malah foto-foto.", 
+        "line": 16, 
+        "range": [
+            1444, 
+            1601
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ketika sedang berjalan-jalan di Mandalay, kebetulan saya ketemu jalan dimana banyak banget yang jualan patung-patung. Adik kecil yang satu ini mengerjakan patung Buddha layaknya seorang profesional walaupun usianya yang sangat muda. Seluruh badannya ditutupi bubuk putih.", 
+        "line": 18, 
+        "range": [
+            1603, 
+            1873
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1643, 
+                    1651
+                ], 
+                "name": "Mandalay"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    1675, 
+                    1680
+                ], 
+                "name": "jalan"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di sebuah danau terkenal di Myanmar yang bernama Inle Lake ini terkenal dengan teknik memancingnya yang unik. Mereka menggunakan kaki untuk mendayuh kapal dan melempar jaring utuk menangkap ikan. Saya tidak expect bisa melihat ini.", 
+        "line": 20, 
+        "range": [
+            1875, 
+            2105
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    1894, 
+                    1899
+                ], 
+                "name": "danau"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1912, 
+                    1919
+                ], 
+                "name": "Myanmar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1933, 
+                    1942
+                ], 
+                "name": "Inle Lake"
+            }, 
+            {
+                "type": "TRANS_NOM", 
+                "span": [
+                    2033, 
+                    2038
+                ], 
+                "name": "kapal"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di waktu-waktu tertentu memang ada pertunjukan untuk turis jadi saya pikir harus ikutan show aja baru bisa lihat. Ternyata mereka tetap masih menggunakan tradisi atau teknik memancing ini di kehidupan sehari-hari mereka.", 
+        "line": 22, 
+        "range": [
+            2107, 
+            2326
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di Myanmar saya ikutan trekking selama tiga malam dari Kalaw menuju Danau Inle. Saya dapat kesempatan untuk tinggal di rumah lokal kampung pedalaman. Ketika sedang menunggu makan malam, saya menyempatkan diri untuk jalan-jalan.", 
+        "line": 24, 
+        "range": [
+            2328, 
+            2554
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2342, 
+                    2349
+                ], 
+                "name": "Myanmar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2394, 
+                    2399
+                ], 
+                "name": "Kalaw"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    2407, 
+                    2417
+                ], 
+                "name": "Danau Inle"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya bertemu dengan seorang bocah kecil, namanya Pa-Oh. Dia berlari-lari di halaman depan rumah. Ikatan kepalanya lucu. Pertama dianya malu-malu tapi akhirnya senyum juga ke saya.", 
+        "line": 26, 
+        "range": [
+            2556, 
+            2734
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Foto ini adalah foto favorit saya. Pemandanganya sangat berbeda dan kalau kamu melihat foto ini lebih dekat, pak petani lagi menggendong anaknya. Dari kejauhan saya mendengar tawa canda mereka. Kedengarannya mereka sangat senang. Life is beautful indeed.", 
+        "line": 28, 
+        "range": [
+            2736, 
+            2989
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Boneka yang bergantungan ini menarik perhatian saya. Menurut saya sangat kreatif menggantungkan boneka ini di cabang pohon. Pas angin bertiup, bonekanya bergerak sehingga kelihatan lebih menarik, apalagi dengan cahaya matahari seperti ini.", 
+        "line": 30, 
+        "range": [
+            2991, 
+            3229
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Saya tidak pernah melihat sunrise atau sunset yang tidak cakep di Myanmar, sekalipun tidak pernah. Mataharinya selalu bulat penuh dan berwarna merah.", 
+        "line": 32, 
+        "range": [
+            3231, 
+            3379
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3312, 
+                    3319
+                ], 
+                "name": "Myanmar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Disini kelihatannya rada-rada berkabut. Saya pun heran kenapa pas sunset ada kabut. Ternyata bukan kabut tapi pasir debu, hehe. Foto ini diambil dari Jembatan U Bein di Mandalay.", 
+        "line": 34, 
+        "range": [
+            3381, 
+            3558
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Selfie bersama gadis-gadis imut! Sayangnya saya tidak memakai thanaka seperti yang terlihat di muka mereka. Coba kalau pakai, pasti dikira orang Myanmar juga. Bener gak?", 
+        "line": 36, 
+        "range": [
+            3560, 
+            3728
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3566, 
+                    3574
+                ], 
+                "name": "Mandalay"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3722, 
+                    3729
+                ], 
+                "name": "Myanmar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sekian foto jalan-jalan saya ke Myanmar. Pernahkah kamu ke Myanmar sebelumnya? Share foto-fotonya juga donk.", 
+        "line": 38, 
+        "range": [
+            3730, 
+            3837
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3780, 
+                    3787
+                ], 
+                "name": "Myanmar"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3807, 
+                    3814
+                ], 
+                "name": "Myanmar"
+            }
+        ]
+    }
+]

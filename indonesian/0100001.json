@@ -1,0 +1,892 @@
+[
+    {
+        "text": "October 29, 2020    Review Villa Dekat Canggu: Villa Ipanema", 
+        "line": 0, 
+        "range": [
+            1, 
+            60
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    27, 
+                    32
+                ], 
+                "name": "Villa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    39, 
+                    45
+                ], 
+                "name": "Canggu"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    47, 
+                    60
+                ], 
+                "name": "Villa Ipanema"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 1, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kalau pengen liburan pasti teringat akan Bali. Yep. Bali adalah destinasi paling top untuk berlibur. Nah, kali ini saya akan nge-review salah satu villa dekat Canggu yang bernama Villa Ipanema.", 
+        "line": 2, 
+        "range": [
+            62, 
+            254
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    103, 
+                    107
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    114, 
+                    118
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    209, 
+                    214
+                ], 
+                "name": "villa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    221, 
+                    227
+                ], 
+                "name": "Canggu"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    241, 
+                    254
+                ], 
+                "name": "Villa Ipanema"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 3, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Tentunya banyak hal yang bisa kamu lakukan di Bali. Baik menghabiskan quality time bersama keluarga, ataupun melepas stres bersama teman atau pasangan.", 
+        "line": 4, 
+        "range": [
+            256, 
+            406
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    303, 
+                    307
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 5, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Berjemur di bawah langit biru dengan pemandangan laut yang indah, nonton sunset sambil minum \u201cBintang\u201d. Serunya liburan ke Bali.", 
+        "line": 6, 
+        "range": [
+            408, 
+            539
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    459, 
+                    463
+                ], 
+                "name": "laut"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    533, 
+                    537
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 7, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Nah, untuk melengkapi keseruan liburan di Bali bisa tinggal di Villa Ipanema, sebuah villa dengan 5 kamar yang berlokasi di Batu Belig. Berikut review villa dekat Canggu yang bernama Villa Ipanema.", 
+        "line": 8, 
+        "range": [
+            541, 
+            737
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    582, 
+                    586
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    603, 
+                    616
+                ], 
+                "name": "Villa Ipanema"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    625, 
+                    630
+                ], 
+                "name": "villa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    664, 
+                    674
+                ], 
+                "name": "Batu Belig"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    691, 
+                    696
+                ], 
+                "name": "villa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    703, 
+                    709
+                ], 
+                "name": "Canggu"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    723, 
+                    736
+                ], 
+                "name": "Villa Ipanema"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 9, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Villa pribadi besar di antara Canggu dan Seminyak", 
+        "line": 10, 
+        "range": [
+            739, 
+            787
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    739, 
+                    744
+                ], 
+                "name": "Villa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    769, 
+                    775
+                ], 
+                "name": "Canggu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    780, 
+                    788
+                ], 
+                "name": "Seminyak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 11, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Terkadang tidaklah gampang untuk menyari villa atau tempat tinggal yang bisa menampung banyak orang. Villa Ipanema sendiri dibangun di sebuah jalan tersembunyi tepatnya di Batu Belig yang menghubungkan dua area favorit turis yaitu Canggu dan Seminyak.", 
+        "line": 12, 
+        "range": [
+            789, 
+            1039
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    831, 
+                    836
+                ], 
+                "name": "villa"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    891, 
+                    904
+                ], 
+                "name": "Villa Ipanema"
+            }, 
+            {
+                "type": "LINE_NOM", 
+                "span": [
+                    932, 
+                    937
+                ], 
+                "name": "jalan"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    962, 
+                    972
+                ], 
+                "name": "Batu Belig"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1021, 
+                    1027
+                ], 
+                "name": "Canggu"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    1032, 
+                    1040
+                ], 
+                "name": "Seminyak"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 13, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Villa yang bernuansa zen ini cocok untuk kamu yang membutuhkan privacy dan quality time bersama keluarga namun tidak begitu jauh dari spot wisata terkenal di Bali.", 
+        "line": 14, 
+        "range": [
+            1041, 
+            1203
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1043, 
+                    1048
+                ], 
+                "name": "Villa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 15, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Villa pribadi dengan jumlah 5 kamar ini didesain dengan warna-warna alami. Keseimbangan antara hijaunya tanaman di sekitar berpadu dengan warna monokrom bawaan villa.", 
+        "line": 16, 
+        "range": [
+            1205, 
+            1370
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1208, 
+                    1213
+                ], 
+                "name": "Villa"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 17, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di lantai dasar, sebuah kolam renang dengan panjang 17 meter beserta kursi santai dan sebuah bale tersedia untuk bersantai.", 
+        "line": 18, 
+        "range": [
+            1372, 
+            1494
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1400, 
+                    1412
+                ], 
+                "name": "kolam renang"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    1469, 
+                    1473
+                ], 
+                "name": "bale"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 19, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ruang tamunya terbuka sehingga cahaya matahari bisa masuk dan kamu bisa merasakan angin sepoi-sepoi. Selain itu, ruang tamu juga cukup luas untuk siapapun yang ingin ngobrol.", 
+        "line": 20, 
+        "range": [
+            1496, 
+            1669
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 21, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Furnitur di Villa Ipanema dipilih secara hati-hati agar cocok dengan konsep zen, dari keranjang kayu, sarung bantal berpola, dan juga gong kecil untuk menghasi dinding.", 
+        "line": 22, 
+        "range": [
+            1671, 
+            1838
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    1689, 
+                    1702
+                ], 
+                "name": "Villa Ipanema"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 23, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Di belakang ruang tamu ada dapur dan juga area makan. Dapurnya dilengkapi dengan kulkas, oven, kompor, pemanas air dan peralatan masak lainnya.", 
+        "line": 24, 
+        "range": [
+            1840, 
+            1982
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 25, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Sebuah meja makan yang terbuat dari kayu dikelilingi kursi nyaman cukup untuk para tamu yang ingin menyantap sarapan yang disediakan oleh staff.", 
+        "line": 26, 
+        "range": [
+            1984, 
+            2127
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 27, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hiasan anggrek sangat indah, bagian dari seni lain yang melengkapi tampilan keseluruhan. Dengan mudah kamu bisa menghabiskan waktu di sekitar area ini.", 
+        "line": 28, 
+        "range": [
+            2129, 
+            2279
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 29, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamar di Villa Ipanema", 
+        "line": 30, 
+        "range": [
+            2281, 
+            2302
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 31, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Villa Ipanema memiliki 4 kamar dengan tempat tidur berukuran king-size dan 1 kamar dengan tempat tidur berukuran queen-size.", 
+        "line": 32, 
+        "range": [
+            2304, 
+            2427
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    2315, 
+                    2328
+                ], 
+                "name": "Villa Ipanema"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 33, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "3 kamar terletak di lantai bawah dan 2 kamarnya di lantai kedua. Semua kamar memiliki gaya yang hampir sama, mencakup gaya kontemporer dan dilengkapi dengan sentuhan eksotis dari seni maupun kerajinan lokal.", 
+        "line": 34, 
+        "range": [
+            2429, 
+            2635
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 35, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Ubin berwarna abu-abu terlihat harmonis dengan bongkahan kayu di dinding di atas tempat tidur.  Tempat duduk di samping tempat tidur sangatlah menawan, apalagi bantal empuk di tempat tidur.", 
+        "line": 36, 
+        "range": [
+            2637, 
+            2825
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 37, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Kamar mandinya diperindah dengan tanaman tropis. Manjakan dirimu dengan berendam di bathtub berisi air panas, atau sekedar mandi untuk menyejukkan diri dari panasnya Bali.", 
+        "line": 38, 
+        "range": [
+            2827, 
+            2997
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 39, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Perlengkapan mandi dan juga handuk disediakan di kamar mandi yang luas ini. Temukan spot tersembunyi di lantai dua.", 
+        "line": 40, 
+        "range": [
+            2999, 
+            3113
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3007, 
+                    3011
+                ], 
+                "name": "Bali"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 41, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Hal lain yang bisa dilakukan di sekitar Villa Ipanema", 
+        "line": 42, 
+        "range": [
+            3115, 
+            3167
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "", 
+        "line": 43, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Pantai Batu Belig: Pantai untuk melihat sunset, pergilah ke 707 bar untuk minum dan mendengarkan musik.", 
+        "line": 44, 
+        "range": [
+            3169, 
+            3271
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3171, 
+                    3184
+                ], 
+                "name": "Villa Ipanema"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3186, 
+                    3203
+                ], 
+                "name": "Pantai Batu Belig"
+            }, 
+            {
+                "type": "LOC_NOM", 
+                "span": [
+                    3205, 
+                    3211
+                ], 
+                "name": "Pantai"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3246, 
+                    3253
+                ], 
+                "name": "707 bar"
+            }
+        ]
+    }, 
+    {
+        "text": "La Laguna: Beach club yang terinspirasi gaya gypsy, terletak di antara Batu Belig dan Berawa.", 
+        "line": 45, 
+        "range": [
+            3272, 
+            3364
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3290, 
+                    3299
+                ], 
+                "name": "La Laguna"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3301, 
+                    3311
+                ], 
+                "name": "Beach club"
+            }
+        ]
+    }, 
+    {
+        "text": "Finns Recreation Club: Area rekreasi dengan waterpark dan juga tempat untuk berolahraga.", 
+        "line": 46, 
+        "range": [
+            3365, 
+            3452
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3376, 
+                    3382
+                ], 
+                "name": "Berawa"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3384, 
+                    3405
+                ], 
+                "name": "Finns Recreation Club"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3407, 
+                    3420
+                ], 
+                "name": "Area rekreasi"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3428, 
+                    3437
+                ], 
+                "name": "waterpark"
+            }
+        ]
+    }, 
+    {
+        "text": "Jalan Petitenget: Lanjutan jalan Seminyak dimana banyak butik, bar, dan restoran berjejeran.", 
+        "line": 47, 
+        "range": [
+            3453, 
+            3544
+        ], 
+        "entities": [
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    3473, 
+                    3489
+                ], 
+                "name": "Jalan Petitenget"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    3500, 
+                    3514
+                ], 
+                "name": "jalan Seminyak"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3529, 
+                    3534
+                ], 
+                "name": "butik"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3536, 
+                    3539
+                ], 
+                "name": "bar"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 48, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Alamat Villa Ipanema:", 
+        "line": 49, 
+        "range": [
+            3546, 
+            3566
+        ], 
+        "entities": []
+    }, 
+    {
+        "text": "Jalan Kayu Putih, Tibubeneng, Kuta Utara", 
+        "line": 50, 
+        "range": [
+            3567, 
+            3606
+        ], 
+        "entities": [
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3574, 
+                    3587
+                ], 
+                "name": "Villa Ipanema"
+            }, 
+            {
+                "type": "LINE_NAME", 
+                "span": [
+                    3589, 
+                    3605
+                ], 
+                "name": "Jalan Kayu Putih"
+            }
+        ]
+    }, 
+    {
+        "text": "Bali, 8035", 
+        "line": 51, 
+        "range": [
+            3607, 
+            3616
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3607, 
+                    3617
+                ], 
+                "name": "Tibubeneng"
+            }
+        ]
+    }, 
+    {
+        "text": "", 
+        "line": 52, 
+        "range": [], 
+        "entities": []
+    }, 
+    {
+        "text": "Jadi kalau kamu mau cari villa yang cocok untuk keluarga dan lokasinya di sekitar Seminyak dan Canggu, boleh nih cek Villa Ipanema. Jangan lupa main ke pantai-pantai di Bali juga ya!", 
+        "line": 53, 
+        "range": [
+            3618, 
+            3799
+        ], 
+        "entities": [
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3619, 
+                    3629
+                ], 
+                "name": "Kuta Utara"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3630, 
+                    3634
+                ], 
+                "name": "Bali"
+            }, 
+            {
+                "type": "FAC_NOM", 
+                "span": [
+                    3667, 
+                    3672
+                ], 
+                "name": "villa"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3724, 
+                    3732
+                ], 
+                "name": "Seminyak"
+            }, 
+            {
+                "type": "LOC_NAME", 
+                "span": [
+                    3737, 
+                    3743
+                ], 
+                "name": "Canggu"
+            }, 
+            {
+                "type": "FAC_NAME", 
+                "span": [
+                    3759, 
+                    3772
+                ], 
+                "name": "Villa Ipanema"
+            }
+        ]
+    }
+]
